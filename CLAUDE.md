@@ -27,7 +27,9 @@ newer doc in record) · snippet. Then read the hit pages (and the page image whe
 - Words match without prefix letters (ו ה ב כ ל מ ש) and with final letters folded.
 
 ## The map (no Google Sheet any more)
-The Google Sheet Transport_Planning_Records_Index was retired on 16.11.2026 (Guy). The repo is the only source of truth.
+The Google Sheet Transport_Planning_Records_Index and the guide doc Transport_Planning_Knowledge_Index were retired on 16.11.2026 (Guy).
+This file is the only guide; the repo is the only source of truth. The project spec (Google Doc 1sLjsTAN_ESW3tVmxxfpehCXMSwnOcADuAySq8wXlW4Q,
+sections 1 and 8) points here. When repo logic changes, update this file in the same commit.
 - `sheet/records.jsonl` — 223 records: id ("שורה N" / "מקור נוסף NNN"), title, section, status.
 - `sheet/links.jsonl` — every link of every record (record, desc, url; `replaced` = old URL + decision). Edit THIS file to add/fix links.
 - `sheet/replacements.jsonl` — log of Guy's replacement decisions (old → new, kind, who/when).
