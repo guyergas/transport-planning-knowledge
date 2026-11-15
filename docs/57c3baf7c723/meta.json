@@ -56,5 +56,8 @@
  ],
  "text_pages": 409,
  "ocr_pages": 48,
- "layer": "mixed"
+ "layer": "mixed",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/policy/guidelines_operational_geometric_planning_integrated_transportation_centers/he/CombinedTrafficCentersPlanning.pdf"
+ ]
 }
