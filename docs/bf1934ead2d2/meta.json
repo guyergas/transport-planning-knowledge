@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/99/view",
+ "checked": "2026-11-15T14:35:49Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/99/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40871,
+ "secs": 0.573955,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "bf1934ead2d2",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/99/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/reports/public_transport_in_traffic_circles/he/Principles-for-integrating-preferred-public-transportation-into-traffic-circles.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/99/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/99/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}

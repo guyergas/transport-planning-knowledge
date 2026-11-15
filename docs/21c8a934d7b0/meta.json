@@ -1,0 +1,34 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/239/view",
+ "checked": "2026-11-15T14:36:43Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/239/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40131,
+ "secs": 0.566623,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "21c8a934d7b0",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/239/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/239/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/239/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}
