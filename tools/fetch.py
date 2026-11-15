@@ -8,7 +8,7 @@ Outputs:
   docs/<docid>/text.md         text with '=== PAGE N ===' markers and per-page method
   index.jsonl                  one line per document (rebuilt)
 """
-import hashlib, html, json, os, re, subprocess, sys, tempfile, time, glob, urllib.parse
+import hashlib, html, json, os, re, shutil, subprocess, sys, tempfile, time, glob, urllib.parse
 from html.parser import HTMLParser
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sections
@@ -251,7 +251,7 @@ def process_pdf(rec, path, pages_spec, did):
     uni_no = sum(1 for l in fonts.splitlines()[2:] if re.search(r'\s(yes|no)\s+(yes|no)\s+(yes|no)\s+\d+\s+\d+\s*$', l) and l.split()[-3] == 'no')
     rec.update(pages=n, pdf_meta=meta, fonts_uni_no=uni_no, sha256=hashlib.sha256(open(path, 'rb').read()).hexdigest())
     # Release asset (originals; repo itself keeps only text)
-    host = re.sub(r'[^a-z0-9]+', '-', urllib.parse.urlsplit(rec['url']).netloc.lower()).strip('-')
+    host = re.sub(r'[^a-z0-9]+', '-', urllib.parse.urlsplit(rec['url']).netloc.lower()).strip('-') or 'inbox'
     tag = f'src-{host}'
     ensure_release(tag)
     named = os.path.join(os.path.dirname(path), did + '.pdf')
@@ -335,10 +335,32 @@ def weekly():
         for l in open(req, encoding='utf-8'):
             if l.strip() and not l.startswith('#'):
                 urls.append(l.split()[0])
-    urls = list(dict.fromkeys(urls))
+    rm = removed_set()
+    urls = [u for u in dict.fromkeys(urls) if u.split('#')[0] not in rm and docid(u) not in rm]
     name = time.strftime('weekly-%Y-%m-%d', time.gmtime())
     open(os.path.join(ROOT, 'requests', name + '.txt'), 'w').write('# shards=20\n' + '\n'.join(urls) + '\n')
     print(name)
+
+
+def removed_set():
+    """removed.txt: one URL or doc id per line (# comments ok). Those docs are deleted and never fetched again."""
+    f = os.path.join(ROOT, 'removed.txt')
+    if not os.path.exists(f):
+        return set()
+    return {l.split('#')[0].strip() for l in open(f, encoding='utf-8') if l.split('#')[0].strip()}
+
+
+def apply_removed():
+    rm = removed_set()
+    n = 0
+    for m in glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json')):
+        r = json.load(open(m)); did = os.path.basename(os.path.dirname(m))
+        if did in rm or r['url'].split('#')[0] in rm:
+            if r.get('asset') and REPO and not r.get('duplicate_of'):
+                tag = r['asset'].split('/download/')[1].split('/')[0]
+                sh(['gh', 'release', 'delete-asset', tag, did + '.pdf', '-y', '-R', REPO])
+            shutil.rmtree(os.path.dirname(m)); n += 1
+    print(f'removed: {n} docs', file=sys.stderr)
 
 
 def dedupe():
@@ -452,6 +474,37 @@ def known_urls():
 KNOWN = set()
 
 
+def process_inbox():
+    """Manual uploads: inbox/<name>.pdf (+ optional inbox/<name>.url = original URL / source note).
+    Processed like a download (same OCR, sections, Release asset), then removed from inbox/."""
+    out = []
+    for pdf in sorted(glob.glob(os.path.join(ROOT, 'inbox', '*.pdf'))):
+        base = os.path.splitext(pdf)[0]
+        src = open(base + '.url', encoding='utf-8').read().strip() if os.path.exists(base + '.url') else ''
+        url = src.split()[0] if src.startswith('http') else 'inbox:' + os.path.basename(pdf)
+        did = docid(url)
+        rec = {'url': url, 'id': did, 'source': 'manual upload', 'note': src, 'status': 200, 'kind': 'pdf', 'result': 'ok',
+               'checked': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())}
+        with tempfile.TemporaryDirectory() as td:
+            path = os.path.join(td, 'f'); shutil.copy(pdf, path)
+            d = os.path.join(ROOT, 'docs', did); os.makedirs(d, exist_ok=True)
+            try:
+                text = process_pdf(rec, path, None, did)
+                open(os.path.join(d, 'text.md'), 'w', encoding='utf-8').write(text)
+                sections.build(d)
+            except Exception as e:
+                rec['process_error'] = repr(e)[:300]
+            json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)
+        if 'asset' in rec:  # stored in Releases -> drop the repo copy
+            os.remove(pdf)
+            if os.path.exists(base + '.url'): os.remove(base + '.url')
+        out.append(rec)
+        print(f"inbox {rec.get('result')} {url}", flush=True)
+    if out:
+        with open(os.path.join(ROOT, 'results', time.strftime('inbox-%Y%m%d-%H%M%S.jsonl', time.gmtime())), 'w', encoding='utf-8') as f:
+            for r in out: f.write(json.dumps(r, ensure_ascii=False) + '\n')
+
+
 def main():
     global KNOWN
     os.makedirs(os.path.join(ROOT, 'results'), exist_ok=True)
@@ -464,18 +517,22 @@ def main():
         weekly()
         return
     if sys.argv[1:2] == ['index']:
+        apply_removed()
         dedupe()
         build_index()
         return
     shard = int(os.environ.get('SHARD', '0'))
+    if shard == 0:
+        process_inbox()
     for name, req, nshard in pending():
         if shard >= nshard:
             continue
         res = os.path.join(ROOT, 'results', f'{name}.{shard}.jsonl' if nshard > 1 else f'{name}.jsonl')
         recs = []
         lines = [l.strip() for l in open(req, encoding='utf-8') if l.strip() and not l.startswith('#')]
+        rm = removed_set()
         for i, line in enumerate(lines):
-            if i % nshard != shard:
+            if i % nshard != shard or line.split()[0].split('#')[0] in rm or docid(line.split()[0]) in rm:
                 continue
             parts = line.split()
             url, opts = parts[0], dict(p.split('=', 1) for p in parts[1:] if '=' in p)

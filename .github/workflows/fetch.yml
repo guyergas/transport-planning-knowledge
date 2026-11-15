@@ -7,7 +7,7 @@ name: fetch
 on:
   push:
     branches: [main]
-    paths: ['requests/**']
+    paths: ['requests/**', 'inbox/**', 'removed.txt', 'sheet/**']
   schedule:
     - cron: '17 1 * * 0'   # Sunday 01:17 UTC
   workflow_dispatch:
@@ -75,7 +75,7 @@ jobs:
         run: |
           git config user.name "fetch-bot"
           git config user.email "fetch-bot@users.noreply.github.com"
-          git add -A results docs
+          git add -A results docs inbox
           git diff --cached --quiet && exit 0
           git commit -qm "fetch results shard $SHARD $(date -u +%F_%H%M)"
           for i in 1 2 3 4 5 6; do git pull --rebase -q -X theirs && git push -q && break; sleep $((RANDOM % 20 + 5)); done
@@ -102,7 +102,7 @@ jobs:
           gh release upload search-index /tmp/search.db --clobber -R "$GITHUB_REPOSITORY"
           git config user.name "fetch-bot"
           git config user.email "fetch-bot@users.noreply.github.com"
-          git add index.jsonl sections.jsonl search.json docs
+          git add -A index.jsonl sections.jsonl search.json docs
           git diff --cached --quiet && exit 0
           git commit -qm "index + sections + search $(date -u +%F_%H%M)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

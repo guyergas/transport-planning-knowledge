@@ -54,15 +54,22 @@ document · front (edition/date/publisher candidates) · chapter · section (map
 - `docs/<id>/sections.json`: section map (heuristic; `coverage: page-only` when no reliable numbering). `sections.jsonl`: all docs.
 - Edition/date from text are candidates: confirm on the cover page image before stating them. Read the heading on the page itself when map and nearest heading disagree.
 
-## Request new / partial downloads (needs push: add_repo access=push)
-1. Write `requests/<name>.txt`, one line per URL: `URL [pages=1-5,9 | pages=toc]`.
-   `pages=toc` = index only (first 15 + last 3 pages). Omit = all pages. Optional first line `# shards=N` (≤20).
-2. Commit + push to main → workflow `fetch` runs (plan → N shards → index).
-3. Poll `https://api.github.com/repos/guyergas/transport-planning-knowledge/actions/runs?per_page=1`, then `git pull`.
-   Results: `results/<name>[.<shard>].jsonl` (status, result: ok / redirect / error <code> / login / blocked, via=browser if Chromium fallback was needed).
-A request name is processed once; to re-run, use a new name.
-Unchanged files (same sha256) are not re-OCRed; header line `# force` re-processes everything.
-Weekly (Sunday 01:17 UTC): `weekly-YYYY-MM-DD` re-checks every URL ever requested; `change: changed|unchanged` in results.
+## Maintain the repo (needs push: add_repo owner=guyergas repo=transport-planning-knowledge access=push)
+Every push below triggers workflow `fetch`; it ends with the `index` job (dedupe, sheet join, sections, search, Issue).
+Poll `https://api.github.com/repos/guyergas/transport-planning-knowledge/actions/runs?per_page=1`, then `git pull`.
+
+| Task | What to push |
+|---|---|
+| Add documents by URL | `requests/<new-name>.txt`, one line per URL: `URL [pages=1-5,9 \| pages=toc]` (toc = index only: first 15 + last 3 pages; omit = all). Header lines: `# shards=N` (≤20), `# force`, `# report`. |
+| Add a file you have (blocked site, login, attachment) | `inbox/<name>.pdf` + optional `inbox/<name>.url` (original URL or source note). Guy can drag it in on github.com (≤25MB). Stored in Release `src-inbox`, removed from inbox/. |
+| Update / re-read a document | `requests/<new-name>.txt` with its URL and `# force` (otherwise unchanged bytes are skipped). Changed bytes are re-OCRed automatically, also weekly. |
+| Replace a broken URL with a new one | add the new URL (request), add the old URL to `removed.txt`, update the sheet, then refresh `sheet/` (below). |
+| Remove a document | add its URL or id to `removed.txt` (one per line, `#` comments). Docs + Release asset are deleted; never fetched again. |
+| Refresh the sheet link | `tools/sheet_import.py` (steps inside) → commit `sheet/`. |
+| Re-check everything | automatic weekly (Sunday 01:17 UTC) → `weekly-YYYY-MM-DD` + GitHub Issue report. |
+
+Results: `results/<name>[.<shard>].jsonl` (status; result ok / redirect / error <code> / login / blocked; via=browser; change).
+A request name is processed once; to re-run, use a new name. Never edit derived files (index.jsonl, sections, search.json).
 
 ## Pipeline (tools/fetch.py)
 curl (browser UA) → on 403/challenge: headless Chromium (Playwright) → PDF: pdffonts + per-page text-layer check
