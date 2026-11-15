@@ -460,7 +460,7 @@ def build_status():
             row = {'url': u, 'id': r.get('id'), 'result': r.get('result'), 'status': r.get('status'), 'via': r.get('via'),
                    'server': r.get('server'), 'browser': (r.get('browser') or {}).get('status') if isinstance(r.get('browser'), dict) else None,
                    'archive': r.get('wayback') or r.get('archive_snapshot'), 'checked': r.get('checked'),
-                   'sheet': sorted({x['record'] for x in by_url.get(u, [])}), 'sheet_rows': sorted({x['row'] for x in by_url.get(u, [])})}
+                   'sheet': sorted({x['record'] for x in by_url.get(u, [])}), 'sheet_rows': sorted({x['row'] for x in by_url.get(u, []) if x.get('row') is not None})}
             fs.write(json.dumps(row, ensure_ascii=False) + '\n')
             if not str(row['result'] or '').startswith(('ok', 'redirect')):
                 fi.write(json.dumps(row, ensure_ascii=False) + '\n')
@@ -552,7 +552,7 @@ def build_index():
         front = json.load(open(sj)).get('front', {}) if os.path.exists(sj) else {}
         years = sorted({int(y) for t in [x['desc'] for x in links] + front.get('dates', []) for y in YEAR.findall(t)})
         r['_sheet'] = {'records': [{k: recs.get(i, {}).get(k) for k in ('id', 'title', 'section', 'status')} for i in ids],
-                       'desc': sorted({x['desc'] for x in links}), 'rows': sorted({x['row'] for x in links})}
+                       'desc': sorted({x['desc'] for x in links}), 'rows': sorted({x['row'] for x in links if x.get('row') is not None})}
         r['_year'] = years[-1] if years else None
         rows.append(r)
     # edition status: only what the sheet text says explicitly (no guessing across different documents of one record)
