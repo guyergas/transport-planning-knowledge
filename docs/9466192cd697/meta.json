@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/25/view",
+ "checked": "2026-11-15T14:35:35Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/25/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40802,
+ "secs": 0.675246,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "9466192cd697",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/25/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/policy/planning_traffic_arrangements_near_educational_institutions/he/TRAFFIC_PLANNING_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%94%D7%A1%D7%93%D7%A8%D7%99_%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%91%D7%A7%D7%A8%D7%91%D7%AA_%D7%9E%D7%95%D7%A1%D7%93%D7%95%D7%AA_%D7%97%D7%99%D7%A0%D7%95%D7%9A.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/25/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/25/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/policy/planning_traffic_arrangements_near_educational_institutions/he/TRAFFIC_PLANNING_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%94%D7%A1%D7%93%D7%A8%D7%99_%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%91%D7%A7%D7%A8%D7%91%D7%AA_%D7%9E%D7%95%D7%A1%D7%93%D7%95%D7%AA_%D7%97%D7%99%D7%A0%D7%95%D7%9A.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}
