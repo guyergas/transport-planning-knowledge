@@ -578,7 +578,26 @@ def try_alternates(rec, url, path):
         return text or True
     rec['wayback'] = wb.get('error') or wb.get('status')
     rec['alternates_tried'] = alternates(url)
+    rec['candidates'] = parent_candidates(url)
     return None
+
+
+def parent_candidates(url):
+    """gov.il BlobFolder/<type>/<slug>/<lang>/file -> the publication page gov.il/he/pages/<slug> lists the files
+    published now. Return them (text + url) as replacement candidates for a human / session to confirm."""
+    m = re.match(r'https?://www\.gov\.il/BlobFolder/[^/]+/([^/]+)/', url)
+    if not m:
+        return []
+    page = f'https://www.gov.il/he/pages/{m.group(1)}'
+    with tempfile.TemporaryDirectory() as td:
+        f = os.path.join(td, 'p')
+        time.sleep(PACE['www.gov.il'])
+        b = browser_fetch(page, f)
+        if b.get('status') != 200 or not os.path.exists(f):
+            return [{'page': page, 'error': b.get('status')}]
+        r = {'url': page, 'status': 200, 'final_url': b.get('final_url', page)}
+        classify(r, f)
+        return [{'page': page, 'text': x['text'], 'url': x['url']} for x in r.get('file_links', []) if 'BlobFolder' in x['url']][:40]
 
 
 TRANSIENT = (403, 429, 503, 0)

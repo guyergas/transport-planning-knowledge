@@ -45,6 +45,8 @@ index.jsonl per doc: `sheet_records` (id, title, section, status), `sheet_desc`,
   cite it as an archive copy and prefer an official URL when one is found).
 - 404/410 → gov.il language mirrors (`/he/`↔`/ar/`↔`/en/`↔`/ru/` in BlobFolder paths; result `ok (alternate /ar/)`, `alt_url`)
   → Internet Archive. 403 after Chromium → same mirrors → archive.
+  Still nothing → `candidates`: files currently listed on the publication page gov.il/he/pages/<slug> (text + url);
+  a session matches them to the sheet title and proposes the replacement to Guy (never auto-replaced).
 - Sheet links split at "(" by the export (`name_\(part\` + rest in the next cell) are rejoined by `tools/sheet_import.py`.
 - Still blocked → in a session: WebSearch the document title for another official/mirror copy → add it as a request;
   else ask Guy for the file → `inbox/`.

@@ -27,7 +27,7 @@ def main(name):
            f'- from Internet Archive copy (official site blocked): {len(arch)}', f'- changed documents: {len(changed)}', f'- new files found on pages: {len(new)}', '']
     if bad:
         out += ['## Not accessible', '', '| id | url | reason |', '|---|---|---|']
-        out += [f"| {r.get('id')} | {r['url']} | {r.get('result')} {r.get('server', '')}; browser: {(r.get('browser') or {}).get('status', '-')}; archive: {r.get('wayback', '-')} |" for r in bad]
+        out += [f"| {r.get('id')} | {r['url']} | {r.get('result')} {r.get('server', '')}; browser: {(r.get('browser') or {}).get('status', '-') if isinstance(r.get('browser'), dict) else '-'}; archive: {r.get('wayback', '-')}; candidates on page: {len(r.get('candidates') or [])} |" for r in bad]
         out.append('')
     if arch:
         out += ['## Read from Internet Archive (official URL blocked from GitHub)', '']
