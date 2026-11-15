@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tnuat_ofnaim.pdf",
+ "checked": "2026-11-15T14:52:40Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tnuat_ofnaim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 20892568,
+ "secs": 32.03743,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "0f184443ca74",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 195,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 15.0",
+  "Creator": "Adobe InDesign 14.0 (Macintosh)",
+  "CreationDate": "Sun Feb  7 09:54:40 2021 UTC",
+  "ModDate": "Tue Mar 23 15:52:16 2021 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "76872580aef4a34f5042da6ca17cc2f4cae88c1c136b9c0c4d322d775055737f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0f184443ca74.pdf",
+ "fix_log": [
+  "words=6115 unknown=251 fixed=3"
+ ],
+ "image_pages": 90,
+ "table_pages": 5,
+ "figure_ocr_pages": 89,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 56,
+ "lowconf_pages": [
+  195
+ ],
+ "text_pages": 195,
+ "ocr_pages": 10,
+ "layer": "mixed"
+}

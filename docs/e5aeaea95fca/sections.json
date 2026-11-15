@@ -1,0 +1,48 @@
+{
+ "front": {
+  "dates": [
+   "מרץ 2023",
+   "2023",
+   "1981"
+  ],
+  "publisher": [
+   "משרד התחבורה נמצא בימים אלה בשלבי עריכת המסמך המעודכן ל",
+   "משרד התחבורה פרסומים שונים לגבי תכנון הרמזורים, לרבות ב",
+   "מנהל אגף הנדסת תנועה באגף בכיר תכנון תחבורתי, אני",
+   "משרד התחבורה."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1",
+  "2": "2"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "2.1",
+   "title": "מעבר חצייה מרומזר לאופניים",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "2.2",
+   "title": "שביל או נתיב לאופניים",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "5",
+   "title": "נקודת ניגוד",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 5
+  }
+ ],
+ "coverage": "sections"
+}

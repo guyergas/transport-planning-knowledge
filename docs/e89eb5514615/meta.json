@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/calculation_quantitative_program_bus_terminal/he/PublicTrusnportPrograma.pdf",
- "checked": "2026-11-15T13:29:36Z",
+ "checked": "2026-11-15T14:58:31Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/calculation_quantitative_program_bus_terminal/he/PublicTrusnportPrograma.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 162174,
- "secs": 0.340458,
+ "secs": 0.704789,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "e89eb5514615",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 24,
  "pdf_meta": {
   "Title": "äâãøú äîèøåú åäéòãéí äúçáåøúééí ðáòä îúåê äúî÷ãåú áúåùá òöîå åìà áàîöòéí äîùîùéí àåúå",
@@ -23,8 +27,14 @@
  "sha256": "c77eba8e349d64e94772280b1d457ede28b73a7759d6530cd497728401e55036",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/e89eb5514615.pdf",
  "fix_log": [
-  "words=1283 unknown=72 fixed=23"
+  "words=1362 unknown=119 fixed=27"
  ],
+ "image_pages": 0,
+ "table_pages": 6,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 6,
+ "ocr_conf_mean": 88,
+ "lowconf_pages": [],
  "text_pages": 24,
  "ocr_pages": 23,
  "layer": "mixed"

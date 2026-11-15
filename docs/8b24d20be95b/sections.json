@@ -1,0 +1,113 @@
+{
+ "front": {
+  "edition": [
+   "3.0",
+   "הבאה",
+   "2025"
+  ],
+  "dates": [
+   "מאי 2025",
+   "2025"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה",
+   "נתיבי העדפה       5.8"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "3.0",
+   "title": "מהדורה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "5.7",
+   "title": "שימוש בשילוט עילי בצמתים",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "5.8",
+   "title": "שילוט בצמתים עם נתיבי העדפה",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "5.9",
+   "title": "פניה בלתי ישירה שמאלה",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "5.10",
+   "title": "הנחיות למעבר דרך בין עירונית בשטח עירוני",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "5.10.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "5.10.2",
+   "title": "צרכי הכוונה בקטע העירוני",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "5.10.3",
+   "title": "הנחיות לתכנון שילוט בין עירוני בתחום העירוני",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "5.10.4",
+   "title": "צורכי תיאום",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 11
+  },
+  {
+   "num": "5.10.5",
+   "title": "תכנון שלט שער",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 11
+  },
+  {
+   "num": "4",
+   "title": "צורכי תיאום",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 17
+  }
+ ],
+ "coverage": "sections"
+}

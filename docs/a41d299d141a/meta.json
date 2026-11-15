@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/1694327856_%D7%9C%D7%95%D7%AA_%D7%9D_%D7%9E%D7%A9%D7%95%D7%9C%D7%91_0922.pdf",
+ "checked": "2026-11-15T14:57:25Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/1694327856_%D7%9C%D7%95%D7%AA_%D7%9D_%D7%9E%D7%A9%D7%95%D7%9C%D7%91_0922.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 6205667,
+ "secs": 12.725004,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "a41d299d141a",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 94,
+ "pdf_meta": {
+  "Title": "לוח התמרורים",
+  "Producer": "Adobe PDF Library 23.6.136",
+  "Creator": "Acrobat PDFMaker 23 for Word",
+  "CreationDate": "Wed Nov 15 10:56:09 2023 UTC",
+  "ModDate": "Wed Nov 15 10:57:28 2023 UTC"
+ },
+ "fonts_uni_no": 1,
+ "sha256": "7cdd8369ce73cf638bf0c2964c1bc3a3efeb729a07e8c9223b9c86dcc28235f0",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a41d299d141a.pdf",
+ "image_pages": 43,
+ "table_pages": 3,
+ "figure_ocr_pages": 43,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 94,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

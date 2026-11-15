@@ -1,0 +1,351 @@
+{
+ "front": {
+  "edition": [
+   "ראשונה"
+  ],
+  "dates": [
+   "דצמבר 2017"
+  ],
+  "publisher": [
+   "אגף תכנון",
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  2,
+  3
+ ],
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "1.2",
+   "title": "רקע",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "1.3",
+   "title": "מטרות נספח התחבורה",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.4",
+   "title": "מטרת העקרונות להכנת נספח התחבורה",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.5",
+   "title": "סוגי תכניות",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "2.1",
+   "title": "מערך התחבורה",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "2.1.1",
+   "title": "עקרונות התווית מערך הדרכים",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.1.2",
+   "title": "צירי תח\"צ",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.1.3",
+   "title": "משתמשים לא ממונעים",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.2",
+   "title": "רמת שירות למשתמשי תחבורה ציבורית",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "2.2.1",
+   "title": "תחנות וממשקים",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.2.2",
+   "title": "כיסוי שירות",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.3",
+   "title": "תשתיות לתחבורה ציבורית",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2.3.1",
+   "title": "מתקנים תפעוליים",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.3.2",
+   "title": "הסדרי העדפה",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.4",
+   "title": "תשתית לתחבורה לא ממונעת",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "2.4.1",
+   "title": "שבילי הליכה",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "2.4.2",
+   "title": "שבילי אופניים",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "2.5",
+   "title": "תכנון תנועתי",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "2.5.2",
+   "title": "חניה",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "2.6",
+   "title": "תכנון הנדסי",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "3.1",
+   "title": "תיאור הפרויקט ומאפייניו",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "3.1.1",
+   "title": "פרטים טכניים בתשריט התחבורה",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "3.1.2",
+   "title": "תקציר מילולי של תיאור הפרויקט וסביבתו",
+   "chapter": null,
+   "start": 13,
+   "level": 3,
+   "end": 13
+  },
+  {
+   "num": "3.2",
+   "title": "היצע תחבורתי",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "3.3",
+   "title": "רמת שירות למשתמשי תחבורה ציבורית",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "3.3.1",
+   "title": "נגישות למשתמשי תחבורה ציבורית",
+   "chapter": null,
+   "start": 14,
+   "level": 3,
+   "end": 14
+  },
+  {
+   "num": "3.3.2",
+   "title": "כיסוי שירות בתחבורה ציבורית",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "3.4",
+   "title": "תשתיות לתחבורה ציבורית",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "3.4.1",
+   "title": "מתקנים תפעוליים",
+   "chapter": null,
+   "start": 16,
+   "level": 3,
+   "end": 16
+  },
+  {
+   "num": "3.4.2",
+   "title": "תשתיות דרך עם העדפה לתחבורה ציבורית",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 17
+  },
+  {
+   "num": "3.5",
+   "title": "תשתית לתחבורה לא ממונעת",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "3.5.1",
+   "title": "שבילי הליכה",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 17
+  },
+  {
+   "num": "2",
+   "title": "תשתיות דרך עם העדפה לתחבורה ציבורית",
+   "chapter": null,
+   "start": 17,
+   "level": 1,
+   "end": 31
+  },
+  {
+   "num": "3.5.2",
+   "title": "שבילי אופניים",
+   "chapter": null,
+   "start": 18,
+   "level": 3,
+   "end": 18
+  },
+  {
+   "num": "3.6",
+   "title": "ניתוח תנועתי",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "3.6.2",
+   "title": "חניה",
+   "chapter": null,
+   "start": 19,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "3.7",
+   "title": "ניתוח הנדסי",
+   "chapter": null,
+   "start": 20,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "3.1.2",
+   "title": "+                שנות ההתייחסות                     אזור התייחסות",
+   "chapter": null,
+   "start": 21,
+   "level": 3,
+   "end": 22
+  },
+  {
+   "num": "3.4",
+   "title": "+                   +         +                        חנה וסע",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 31
+  },
+  {
+   "num": "3.6.1",
+   "title": "חתכי רחוב רוחב ודרך",
+   "chapter": null,
+   "start": 23,
+   "level": 3,
+   "end": 31
+  }
+ ],
+ "coverage": "sections"
+}

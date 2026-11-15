@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D.pdf",
+ "checked": "2026-11-15T15:02:28Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 15227396,
+ "secs": 25.259552,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "4bb9c8289270",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 345,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "PDFill PDF Editor 15.0",
+  "Creator": "",
+  "CreationDate": "Wed Jun 25 09:05:31 2025 UTC",
+  "ModDate": "Wed Jun 25 09:05:31 2025 UTC"
+ },
+ "fonts_uni_no": 96,
+ "sha256": "dd3062c8a2f01a0b279ec7367bb9180a34037c1a01d01a3771ba3ed21da4ad76",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/4bb9c8289270.pdf",
+ "fix_log": [
+  "words=8138 unknown=356 fixed=9"
+ ],
+ "image_pages": 114,
+ "table_pages": 9,
+ "figure_ocr_pages": 113,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 89,
+ "lowconf_pages": [
+  305
+ ],
+ "text_pages": 345,
+ "ocr_pages": 7,
+ "layer": "mixed"
+}

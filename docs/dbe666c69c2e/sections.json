@@ -1,0 +1,56 @@
+{
+ "front": {
+  "publisher": [
+   "הרשות\nהמעוניינת ביישום מדיניות ריסון תנועה בתחומה, תפעל",
+   "הרשות המקומית למתחמים, לקביעת -",
+   "הרשות המקומית אינה חייבת להיות על כל שטחה (במקרים רבים =",
+   "הרשות המקומית נתונה האפשרות -"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מהבוא והצגת המתודולוגיה",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "2",
+   "title": "גבולות מתחם ההתייחסות",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "3",
+   "title": "מימדי מתחם ההתייחסות",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "4",
+   "title": "סוג השימושים וצפיפותם 2",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "5",
+   "title": "דוגמאות",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 11
+  }
+ ],
+ "coverage": "sections"
+}

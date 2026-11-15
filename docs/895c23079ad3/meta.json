@@ -1,17 +1,22 @@
 {
  "url": "https://www.ceci.org.il/ezgov/%D7%AA%D7%9E%D7%90-23-%D7%90-4-1-%D7%AA%D7%9B%D7%A0%D7%99%D7%AA-%D7%9E%D7%AA%D7%90%D7%A8-%D7%90%D7%A8%D7%A6%D7%99%D7%AA-%D7%9C%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%AA%D7%97%D7%91%D7%95%D7%A8/",
- "checked": "2026-11-15T13:24:03Z",
+ "checked": "2026-11-15T14:52:03Z",
  "status": 200,
  "final_url": "https://ai.ceci.org.il/decisions",
  "content_type": "text/html; charset=utf-8",
  "redirects": 1,
  "bytes": 2638,
- "secs": 0.614995,
+ "secs": 0.252458,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "895c23079ad3",
  "kind": "html",
  "result": "redirect",
  "title": "CECI.AI - מערכת מעקב החלטות ממשלה",
  "file_links": [],
- "all_links": 0
+ "all_links": 0,
+ "new_file_links": [],
+ "unknown_file_links": []
 }

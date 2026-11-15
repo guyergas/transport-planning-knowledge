@@ -1,14 +1,19 @@
 {
  "url": "https://www.gov.il/he/departments/policies/guidelines_for_preparing_programs_for_infrastructure_facilities_for_operating_public_transportation_on_buses",
- "checked": "2026-11-15T13:28:27Z",
+ "checked": "2026-11-15T15:05:20Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/guidelines_for_preparing_programs_for_infrastructure_facilities_for_operating_public_transportation_on_buses",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5186,
- "secs": 0.032435,
+ "bytes": 5188,
+ "secs": 0.059692,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
  "id": "347cf885712e",
  "kind": "html",
  "result": "redirect",
@@ -25,5 +30,12 @@
    "text": "הנחיות להכנת פרוגרמות למתקני תשתית לתפעול תחבורה ציבורית באוטובוסים"
   }
  ],
- "all_links": 45
+ "all_links": 45,
+ "new_file_links": [],
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_for_preparing_programs_for_infrastructure_facilities_for_operating_public_transportation_on_buses/he/הנחיות להכנת פרוגרמות למתקני תשתית לתפעול תחבורה ציבורית באוטובוסים 2022.pdf",
+   "text": "הנחיות להכנת פרוגרמות למתקני תשתית לתפעול תחבורה ציבורית באוטובוסים"
+  }
+ ]
 }
