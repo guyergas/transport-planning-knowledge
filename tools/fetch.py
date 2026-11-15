@@ -49,6 +49,8 @@ def fetch(url, dest):
     rec.update(status=int(code), final_url=final, content_type=ctype, redirects=int(nred), bytes=int(float(size)), secs=float(t))
     if r.returncode:
         rec['error'] = r.stderr.strip()[-300:]
+    if rec['status'] >= 400 and os.path.exists(dest):
+        rec['body_head'] = re.sub(r'\s+', ' ', open(dest, 'rb').read(3000).decode('utf-8', 'replace'))[:400]
     try:
         h = open(hdr, encoding='latin-1').read().lower()
         rec['server'] = (re.findall(r'^server:\s*(.+)$', h, re.M) or [''])[-1].strip()
@@ -109,9 +111,10 @@ def classify(rec, path):
         seen, links = set(), []
         for h, txt in p.links:
             u = urllib.parse.urljoin(base, h.strip())
-            if u.startswith('http') and u not in seen and re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download', u, re.I):
+            if u.startswith('http') and u not in seen and re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download|/media/', u, re.I):
                 seen.add(u); links.append({'url': u, 'text': re.sub(r'\s+', ' ', txt).strip()[:150]})
         rec['file_links'] = links
+        rec['all_links'] = len(p.links)
         return re.sub(r'\n\s*\n+', '\n\n', ''.join(p.out)).strip()
     return None
 
