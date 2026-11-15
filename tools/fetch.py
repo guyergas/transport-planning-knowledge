@@ -138,6 +138,22 @@ def check_layer(txt):
     return 'ok'
 
 
+def fix_bidi(t):
+    """Repair visual-order artifacts in Hebrew text layers: '.word' -> '. word', ')abc(' -> '(abc)', '80שניות' -> '80 שניות'."""
+    out = []
+    for l in t.splitlines():
+        if re.search(r'[א-ת]', l):
+            m = re.match(r'^(\s*)([.,;:])(?=[א-ת"])', l)
+            if m and out:
+                out[-1] = out[-1].rstrip() + m.group(2)
+                l = m.group(1) + l[m.end():]
+            l = re.sub(r'\s([.,;:!?])(?=[א-ת"(])', r'\1 ', l)
+            l = re.sub(r'\)([א-ת"\'׳״/\- ]{1,60})\(', r'(\1)', l)
+            l = re.sub(r'(\d)([א-ת][א-ת"]{2,})', r'\1 \2', l)
+        out.append(l)
+    return '\n'.join(out)
+
+
 def ocr_pages(pdf, pages, work):
     os.makedirs(work, exist_ok=True)
     jobs = os.path.join(work, 'jobs.sh')
@@ -149,6 +165,16 @@ def ocr_pages(pdf, pages, work):
                     f'TDB={TDB} python3 -I {TOOLS}/refine.py {b}.png {b}.txt 4 {b}.tsv 2>/dev/null; rm -f {b}.png)\n')
     subprocess.run(f'xargs -P {os.cpu_count() or 2} -I CMD sh -c CMD < {jobs}', shell=True)
     return {p: open(os.path.join(work, f'p{p}.txt'), encoding='utf-8').read() if os.path.exists(os.path.join(work, f'p{p}.txt')) else '' for p in pages}
+
+
+def ocr_conf(work, p):
+    """Mean tesseract word confidence (0-100) for an OCR page, from its TSV; None if missing."""
+    f = os.path.join(work, f'p{p}.tsv')
+    if not os.path.exists(f):
+        return None
+    c = [float(r[10]) for r in (l.split('\t') for l in open(f, encoding='utf-8').read().splitlines()[1:])
+         if len(r) > 11 and r[0] == '5' and r[11].strip() and float(r[10]) >= 0]
+    return round(sum(c) / len(c)) if c else None
 
 
 def ocr_extra(pdf, pages, work, psm, tag):
@@ -253,14 +279,18 @@ def process_pdf(rec, path, pages_spec, did):
     tables = {p for p in pages if table_like(ocr.get(p) or layer[p][1])}
     fig = ocr_extra(path, sorted(p for p in imgs if p not in ocr), work, 11, 'fig')  # labels inside pictures on text-layer pages
     tab = ocr_extra(path, sorted(p for p in tables if p in ocr), work, 6, 'tab')     # scanned tables: row-preserving pass
-    out = []
+    out, confs = [], {}
     for p in pages:
         st, t = layer[p]
         flags = ''.join(f'; {f}' for f, on in (('image', p in imgs), ('table', p in tables)) if on)
         if p in ocr:
+            cf = ocr_conf(work, p)
+            confs[p] = cf
+            if cf is not None:
+                flags += f'; conf={cf}' + ('; lowconf' if cf < 75 else '')
             body = f'=== PAGE {p} === [ocr; layer={st}{flags}]\n{ocr[p].strip()}\n'
         else:
-            body = f'=== PAGE {p} === [text-layer{flags}]\n{t.strip()}\n'
+            body = f'=== PAGE {p} === [text-layer{flags}]\n{fix_bidi(t).strip()}\n'
         fw = new_words(fig.get(p, ''), t) if p in fig else ''
         if fw:
             body += f'--- figure-ocr (text inside images; verify on page image) ---\n{fw}\n'
@@ -276,6 +306,8 @@ def process_pdf(rec, path, pages_spec, did):
             raw = open(tmp_out, encoding='utf-8').read()
         rec['fix_log'] = r.stderr.splitlines()[:1]
     rec.update(image_pages=len(imgs), table_pages=len(tables), figure_ocr_pages=len(fig), table_ocr_pages=len(tab))
+    cv = [c for c in confs.values() if c is not None]
+    rec.update(ocr_conf_mean=round(sum(cv) / len(cv)) if cv else None, lowconf_pages=sorted(p for p, c in confs.items() if c is not None and c < 75))
     rec.update(text_pages=len(pages), ocr_pages=len(ocr), layer=('broken' if len(need) == len(pages) else 'mixed') if need else 'ok')
     return raw
 
@@ -347,17 +379,83 @@ def dedupe():
     print(f'dedupe: {n} duplicate ids folded', file=sys.stderr)
 
 
+def sheet_maps():
+    """sheet/links.jsonl + sheet/records.jsonl (exported from the Google Sheet by a session) -> url -> rows."""
+    recs, by_url = {}, {}
+    rf, lf = os.path.join(ROOT, 'sheet', 'records.jsonl'), os.path.join(ROOT, 'sheet', 'links.jsonl')
+    if os.path.exists(rf):
+        for l in open(rf, encoding='utf-8'):
+            r = json.loads(l); recs[r['id']] = r
+    if os.path.exists(lf):
+        for l in open(lf, encoding='utf-8'):
+            r = json.loads(l)
+            by_url.setdefault(r['url'].split('#')[0], []).append(r)
+    return recs, by_url
+
+
+YEAR = re.compile(r'(?<!\d)(19[5-9]\d|20[0-4]\d)(?!\d)')
+
+
 def build_index():
+    recs, by_url = sheet_maps()
+    rows = []
+    for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
+        r = json.load(open(m))
+        if r.get('duplicate_of'):
+            continue
+        urls = {u.split('#')[0] for u in [r['url'], r.get('final_url') or ''] + r.get('aliases', []) if u}
+        links = [x for u in urls for x in by_url.get(u, [])]
+        ids = sorted({x['record'] for x in links}, key=lambda i: (len(i), i))
+        sj = os.path.join(os.path.dirname(m), 'sections.json')
+        front = json.load(open(sj)).get('front', {}) if os.path.exists(sj) else {}
+        years = sorted({int(y) for t in [x['desc'] for x in links] + front.get('dates', []) for y in YEAR.findall(t)})
+        r['_sheet'] = {'records': [{k: recs.get(i, {}).get(k) for k in ('id', 'title', 'section', 'status')} for i in ids],
+                       'desc': sorted({x['desc'] for x in links}), 'rows': sorted({x['row'] for x in links})}
+        r['_year'] = years[-1] if years else None
+        rows.append(r)
+    # edition status: only what the sheet text says explicitly (no guessing across different documents of one record)
+    NEWER = re.compile(r'מהדורה (רשמית )?מאוחרת|מהדורה עדכנית|מחליפ|עדכון (מס[\'׳]?\s*)?\d|מהדורה אחרונה')
+    OLDER = re.compile(r'(עותק|נוסח|מקור|כרך) היסטורי|מהדורה קודמת|הוחלפ|בוטל')
+    newest = {}
+    for r in rows:
+        if any(NEWER.search(d) for d in r['_sheet']['desc']):
+            for rec in r['_sheet']['records']:
+                newest.setdefault(rec['id'], []).append(r['id'])
     with open(os.path.join(ROOT, 'index.jsonl'), 'w', encoding='utf-8') as f:
-        for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
-            r = json.load(open(m))
+        for r in rows:
             keep = {k: r.get(k) for k in ('id', 'url', 'final_url', 'kind', 'title', 'pages', 'layer', 'text_pages', 'ocr_pages', 'image_pages', 'table_pages', 'asset', 'sha256', 'checked')}
             keep['pdf_title'] = (r.get('pdf_meta') or {}).get('Title')
+            sheet = r['_sheet']
+            keep.update(sheet_records=sheet['records'], sheet_desc=sheet['desc'], sheet_rows=sheet['rows'], year=r['_year'])
+            if sheet['records'] and not keep.get('title'):
+                keep['title'] = sheet['records'][0]['title']
+            if r.get('kind') == 'pdf':
+                desc = sheet['desc']
+                keep['edition_status'] = ('newer' if any(NEWER.search(d) for d in desc) else
+                                          'older' if any(OLDER.search(d) for d in desc) else None)
+                keep['newer_in_record'] = sorted({i for rec in sheet['records'] for i in newest.get(rec['id'], []) if i != r['id']})
+                keep['edition_check'] = 'from sheet wording only; null = not stated. Confirm edition/date on the cover image'
             f.write(json.dumps(keep, ensure_ascii=False) + '\n')
 
 
+def known_urls():
+    """Every URL already in a request file or in the sheet export."""
+    k = set()
+    for req in glob.glob(os.path.join(ROOT, 'requests', '*.txt')):
+        k |= {l.split()[0].split('#')[0] for l in open(req, encoding='utf-8') if l.strip() and not l.startswith('#')}
+    lf = os.path.join(ROOT, 'sheet', 'links.jsonl')
+    if os.path.exists(lf):
+        k |= {json.loads(l)['url'].split('#')[0] for l in open(lf, encoding='utf-8')}
+    return k
+
+
+KNOWN = set()
+
+
 def main():
+    global KNOWN
     os.makedirs(os.path.join(ROOT, 'results'), exist_ok=True)
+    KNOWN = known_urls()
     if sys.argv[1:2] == ['matrix']:  # used by the workflow to size the job matrix
         n = max([s for _, _, s in pending()] or [1])
         print(json.dumps({'shard': list(range(n))}))
@@ -415,6 +513,12 @@ def main():
                         sections.build(d)
                     except Exception as e:
                         rec['sections_error'] = repr(e)[:200]
+                if rec.get('file_links') is not None:  # discovery: files on the page that we did not know before
+                    old = os.path.join(d, 'meta.json')
+                    prev = {x['url'] for x in json.load(open(old)).get('file_links', [])} if os.path.exists(old) else None
+                    if prev is not None:
+                        rec['new_file_links'] = [x for x in rec['file_links'] if x['url'] not in prev]
+                    rec['unknown_file_links'] = [x for x in rec['file_links'] if x['url'].split('#')[0] not in KNOWN]
                 if rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
                     os.makedirs(d, exist_ok=True)
                     json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)

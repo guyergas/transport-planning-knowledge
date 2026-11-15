@@ -1,0 +1,203 @@
+{
+ "front": {
+  "edition": [
+   "שניה",
+   "השנייה",
+   "הראשונה"
+  ],
+  "dates": [
+   "אפריל 2026",
+   "2006"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "משרד התחבורה. אגף בכיר תכנון תחבורתל",
+   "משרד התחבורה",
+   "משרד הביטחון"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "55": "6",
+  "56": "47",
+  "60": "51",
+  "61": "2"
+ },
+ "toc_pages": [
+  6,
+  7,
+  8,
+  9
+ ],
+ "sections": [
+  {
+   "num": "2.1",
+   "title": "1עדכון טבלה  :2.1סיפי גובה מומלצים לתכנון              סעיף",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "2.1",
+   "title": "2הוספת פסקה על צמחיה אחרי טבלה",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "2.2",
+   "title": "1עדכון תקנה לגובה הרכב                  סעיף",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "5.3.3",
+   "title": "עדכון הצדקים להצבת מתריע גובה ומגביל גובה              סעיף",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "5.3.4",
+   "title": "1הוספת מרחק מינימום להצבת מגביל מקובע                סעיף",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "5.6",
+   "title": "תרשימי זרימה חדשים והחלפת כל התרשימים                   סעיף",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "5.00",
+   "title": "דרכים עירוניות – ללא מעבר חלופי",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "4.75",
+   "title": "אוטובוס קומתיים",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "3.80",
+   "title": "דרכים עם מעבר חלופי בסמוך למכשול )2",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "5.60",
+   "title": "מעל מסילת רכבת מקומית (רק\"ל) )6",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "6.00",
+   "title": "מעל מסילת רכבת ארצית שאינה מיועדת לחישמול",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "2.50",
+   "title": "שביל אופניים",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "4.00",
+   "title": "מונחת ומחוברת המכולה לא יעלה על  1.56מטרים",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 35
+  },
+  {
+   "num": "5.2",
+   "title": "סעיף",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "5.3",
+   "title": "תהליכי מדידה                 סעיף",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "5.4",
+   "title": "סעיף",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "5.5",
+   "title": "סעיף",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "5.6",
+   "title": "סעיף",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "5.4.3",
+   "title": "תמרור וסימון מגביל ומתריע הגובה",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.4.4",
+   "title": "תמרור וסימון מכשול הגובה",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 54
+  },
+  {
+   "num": "7",
+   "title": "דוגמאות להסדרי תנועה בסביבת מכשול גובה",
+   "chapter": null,
+   "start": 55,
+   "level": 1,
+   "end": 63
+  }
+ ],
+ "coverage": "sections"
+}

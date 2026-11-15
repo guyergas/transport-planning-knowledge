@@ -1,0 +1,33 @@
+{
+ "front": {
+  "dates": [
+   "1965",
+   "1985",
+   "מאי 2019",
+   "1995"
+  ],
+  "publisher": [
+   "מינהל התכנון",
+   "המועצה הארצית לתכנון ולבניה",
+   "המועצה האראית‎",
+   "המועצה הָארצית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "4",
+  "4": "5"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "6",
+   "title": "שינוי בסעיף7",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 5
+  }
+ ],
+ "coverage": "page-only"
+}

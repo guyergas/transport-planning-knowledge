@@ -1,0 +1,162 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 2014"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "אגף בכיר תכנון תחבורתי",
+   "אגף תכנון תחבורתי                                   וה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "22": "1",
+  "24": "1",
+  "52": "3",
+  "106": "c",
+  "112": "5",
+  "136": "6",
+  "160": "7",
+  "166": "8",
+  "180": "8",
+  "182": "8"
+ },
+ "toc_pages": [
+  10,
+  14,
+  15,
+  66
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "פרק :1",
+   "chapter": null,
+   "start": 20,
+   "level": 1,
+   "end": 21
+  },
+  {
+   "num": "1.1",
+   "title": "מטרת ההנחיות",
+   "chapter": null,
+   "start": 21,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "1.2",
+   "title": "מב נה ההנחיות",
+   "chapter": null,
+   "start": 21,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "7",
+   "title": "",
+   "chapter": "פרק 7",
+   "start": 22,
+   "level": 0,
+   "end": 160
+  },
+  {
+   "num": "3",
+   "title": "ד                                   ג",
+   "chapter": "פרק 7",
+   "start": 38,
+   "level": 1,
+   "end": 57
+  },
+  {
+   "num": "4",
+   "title": "סה”כ       מרחב פעילות",
+   "chapter": "פרק 7",
+   "start": 58,
+   "level": 1,
+   "end": 95
+  },
+  {
+   "num": "5",
+   "title": "טבלה  .13רוחב מפרדה",
+   "chapter": "פרק 7",
+   "start": 96,
+   "level": 1,
+   "end": 117
+  },
+  {
+   "num": "6",
+   "title": "תרשים  .32המדרכה",
+   "chapter": "פרק 7",
+   "start": 118,
+   "level": 1,
+   "end": 160
+  },
+  {
+   "num": "7.1",
+   "title": "מבוא",
+   "chapter": "פרק 7",
+   "start": 154,
+   "level": 2,
+   "end": 154
+  },
+  {
+   "num": "7.2",
+   "title": "מרווחים",
+   "chapter": "פרק 7",
+   "start": 155,
+   "level": 2,
+   "end": 155
+  },
+  {
+   "num": "7.3",
+   "title": "תכנון רצועת אופניים בקטע רחוב",
+   "chapter": "פרק 7",
+   "start": 156,
+   "level": 2,
+   "end": 158
+  },
+  {
+   "num": "7.3.1",
+   "title": "שביל אופניים מופרד במפלס המיסעה",
+   "chapter": "פרק 7",
+   "start": 158,
+   "level": 3,
+   "end": 158
+  },
+  {
+   "num": "7.3.2",
+   "title": "שביל אופניים במפלס המדרכה",
+   "chapter": "פרק 7",
+   "start": 158,
+   "level": 3,
+   "end": 158
+  },
+  {
+   "num": "7.4",
+   "title": "ת נועת אופניים בצמתים",
+   "chapter": "פרק 7",
+   "start": 159,
+   "level": 2,
+   "end": 160
+  },
+  {
+   "num": "6",
+   "title": "",
+   "chapter": "פרק 6",
+   "start": 161,
+   "level": 0,
+   "end": 192
+  },
+  {
+   "num": "8",
+   "title": "מיסעה   אבן שפה            עמודון וחבק   המשך רצועת העזר",
+   "chapter": "פרק 6",
+   "start": 174,
+   "level": 1,
+   "end": 192
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,32 @@
+{
+ "front": {
+  "edition": [
+   "שניה"
+  ],
+  "dates": [
+   "1961",
+   "יולי 2023",
+   "2023"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל תכנון"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "2",
+  "5": "5",
+  "6": "6",
+  "7": "7",
+  "8": "8",
+  "9": "9",
+  "10": "10",
+  "11": "11"
+ },
+ "toc_pages": [
+  4
+ ],
+ "sections": [],
+ "coverage": "page-only"
+}

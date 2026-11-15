@@ -1,0 +1,34 @@
+{
+ "front": {
+  "dates": [
+   "1983",
+   "1991"
+  ],
+  "publisher": [
+   "משרד התחבורה הנחיות להצבת",
+   "רשות תימרור מקומית הורשתה להתקין פסי האטה בתחום"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "רקע כללי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "2",
+   "title": "נוהל ליישום פסי האטה",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 6
+  }
+ ],
+ "coverage": "page-only"
+}

@@ -1,0 +1,172 @@
+{
+ "front": {
+  "edition": [
+   "שנייה",
+   "ראשונה"
+  ],
+  "dates": [
+   "2024",
+   "2016"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מנהל אגף תכנון תחבורה ציבורית,                     צוות",
+   "הרשות הארצית לתחבורה ציבורית  -משרד התחבורה והבטיחות בדר",
+   "משרד התחבורה והבטיחות בדרכים                  נוספים"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  6,
+  7,
+  8
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "",
+   "chapter": "פרק 1",
+   "start": 9,
+   "level": 0,
+   "end": 9
+  },
+  {
+   "num": "2",
+   "title": "",
+   "chapter": "פרק 2",
+   "start": 10,
+   "level": 0,
+   "end": 11
+  },
+  {
+   "num": "3",
+   "title": "",
+   "chapter": "פרק 3",
+   "start": 12,
+   "level": 0,
+   "end": 12
+  },
+  {
+   "num": "4",
+   "title": "",
+   "chapter": "פרק 4",
+   "start": 13,
+   "level": 0,
+   "end": 13
+  },
+  {
+   "num": "5",
+   "title": "",
+   "chapter": "פרק 5",
+   "start": 14,
+   "level": 0,
+   "end": 23
+  },
+  {
+   "num": "5.1",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "5.2",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "12",
+   "title": "לא קיים הצדק",
+   "chapter": "פרק 5",
+   "start": 17,
+   "level": 1,
+   "end": 23
+  },
+  {
+   "num": "5.3",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "5.4",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "5.5",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "5.1",
+   "title": "טבלה",
+   "chapter": "פרק 5",
+   "start": 19,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "5.7",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 21,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "5.9",
+   "title": "איור",
+   "chapter": "פרק 5",
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "6",
+   "title": "",
+   "chapter": "פרק 6",
+   "start": 24,
+   "level": 0,
+   "end": 27
+  },
+  {
+   "num": "6.1",
+   "title": "טבלה",
+   "chapter": "פרק 6",
+   "start": 24,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "6.1",
+   "title": "איור",
+   "chapter": "פרק 6",
+   "start": 26,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "7",
+   "title": "פרק",
+   "chapter": "פרק 6",
+   "start": 27,
+   "level": 1,
+   "end": 27
+  }
+ ],
+ "coverage": "sections"
+}

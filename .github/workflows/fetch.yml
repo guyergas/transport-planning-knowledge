@@ -13,6 +13,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  issues: write
 concurrency:
   group: fetch
   cancel-in-progress: false
@@ -105,3 +106,14 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -qm "index + sections + search $(date -u +%F_%H%M)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+      - name: Report as Issue (weekly, or request with '# report')
+        run: |
+          for f in requests/*.txt; do
+            n=$(basename "$f" .txt)
+            case "$n" in weekly-*) ;; *) grep -q '^# *report' "$f" || continue ;; esac
+            ls results/$n*.jsonl >/dev/null 2>&1 || continue
+            git log --format=%s | grep -q "^report $n$" && continue
+            python3 tools/report.py "$n" > /tmp/report.md
+            gh issue create -R "$GITHUB_REPOSITORY" -t "Knowledge-map check: $n" -F /tmp/report.md
+            git commit -q --allow-empty -m "report $n" && git push -q || true
+          done

@@ -1,0 +1,88 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2003"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה  /אג -תחבורה ציבורית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "ii",
+  "21": "2",
+  "22": "19",
+  "23": "20"
+ },
+ "toc_pages": [
+  2
+ ],
+ "sections": [
+  {
+   "num": "2",
+   "title": "בדיקת רשת התחבורה הציבורית והשלמתה",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "3",
+   "title": "קווים בינעירוניים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "4",
+   "title": "חניה מנהלתית",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "5",
+   "title": "קווים עוברים",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "6",
+   "title": "מעבר מתוזמן",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 7
+  },
+  {
+   "num": "7",
+   "title": "הפסקות מנוחה",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 15
+  },
+  {
+   "num": "8",
+   "title": "סיכום פרוגרמה כמותית",
+   "chapter": null,
+   "start": 16,
+   "level": 1,
+   "end": 23
+  },
+  {
+   "num": "9",
+   "title": "סיכום",
+   "chapter": null,
+   "start": 24,
+   "level": 1,
+   "end": 24
+  }
+ ],
+ "coverage": "sections"
+}

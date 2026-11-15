@@ -1,0 +1,28 @@
+{
+ "front": {
+  "edition": [
+   "מעודכנת",
+   "הראשונה"
+  ],
+  "dates": [
+   "דצמבר 2002",
+   "1983",
+   "2003",
+   "2004",
+   "1993"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מנהל הכללי",
+   "משרד התחבורה - \"הסדרה הירוקה\"."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  6,
+  7
+ ],
+ "sections": [],
+ "coverage": "page-only"
+}

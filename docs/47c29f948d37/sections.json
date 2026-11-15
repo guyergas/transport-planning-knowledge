@@ -1,0 +1,66 @@
+{
+ "front": {
+  "dates": [
+   "1983",
+   "1917"
+  ],
+  "publisher": [
+   "משרד הבינוי והשיכון ומשרד",
+   "משרד\nהתחבורה."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "הכרת מערכת הרחובות - מידרג וסיווג",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "3",
+   "title": "בדיקת נפחי התנועה במתחם קיים ובמתחם חדש",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "4",
+   "title": "הכרת הסדרי חד-סיטריות במתחם קיים",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "5",
+   "title": "הכרת נתוני התחבורה הציבורית והסעת ההמונים ומרכיביהן",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "6",
+   "title": "הכרת נתוני תאונות הדרכים במתחם קיים",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 14
+  }
+ ],
+ "coverage": "sections"
+}

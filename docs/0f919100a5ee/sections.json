@@ -1,0 +1,124 @@
+{
+ "front": {
+  "edition": [
+   "שנייה",
+   "זו"
+  ],
+  "dates": [
+   "אוקטובר 2020",
+   "2020",
+   "יולי 2014",
+   "נובמבר 2014"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "אגף הנדסת תנועה ,מ\"מ יו\"ר",
+   "הרשות הלאומית                             -אינג' מאריה כ",
+   "נתיבי ישראל             -אינג' שמעון נסיכי ,אינג' גליה א"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "2.1.1",
+   "title": "נראות יום",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 11
+  },
+  {
+   "num": "2.1.2",
+   "title": "נראות לילה",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 14
+  },
+  {
+   "num": "3.3.1",
+   "title": "חומרי סימון תרמופלסטיים",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "3.3.2",
+   "title": "חומרי סימון פלסטיים קרים",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "3.3.3",
+   "title": "יריעות סימון",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "3.4.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 16,
+   "level": 3,
+   "end": 16
+  },
+  {
+   "num": "3.4.2",
+   "title": "כדוריות זכוכית",
+   "chapter": null,
+   "start": 16,
+   "level": 3,
+   "end": 16
+  },
+  {
+   "num": "3.4.3",
+   "title": "חומרים המשפרים התנגדות להחלקה",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 33
+  },
+  {
+   "num": "6.2.1",
+   "title": "חידוש הסימון",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 35
+  },
+  {
+   "num": "6.2.2",
+   "title": "שטיפת הסימון",
+   "chapter": null,
+   "start": 36,
+   "level": 3,
+   "end": 36
+  },
+  {
+   "num": "7.2.1",
+   "title": "הסרת סימון קיים",
+   "chapter": null,
+   "start": 37,
+   "level": 3,
+   "end": 37
+  },
+  {
+   "num": "7.2.2",
+   "title": "הסתרת הסימון",
+   "chapter": null,
+   "start": 38,
+   "level": 3,
+   "end": 61
+  }
+ ],
+ "coverage": "sections"
+}

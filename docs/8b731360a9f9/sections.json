@@ -1,0 +1,25 @@
+{
+ "front": {
+  "edition": [
+   "עדכנית."
+  ],
+  "dates": [
+   "ינואר 2026",
+   "2026",
+   "ינואר 2076"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה קובעת העדפה לתחבורה הציבורית כמרכיב מרכזי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [],
+ "coverage": "page-only"
+}

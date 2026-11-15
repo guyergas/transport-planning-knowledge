@@ -1,0 +1,29 @@
+{
+ "front": {
+  "dates": [
+   "1900"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "תפקיד/יעוד אמצעי ניהול התנועה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "אמצעי ניהול תנועה אופייניים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 12
+  }
+ ],
+ "coverage": "page-only"
+}

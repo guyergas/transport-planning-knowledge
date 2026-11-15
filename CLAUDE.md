@@ -21,6 +21,18 @@ github.com is open. So GitHub Actions downloads, the session reads results from 
   A hit there is marked "figure/table: read the page image" — values/labels must be confirmed on the image.
 - Words match without prefix letters (ו ה ב כ ל מ ש) and with final letters folded.
 
+## Link to the Google Sheet (Transport_Planning_Records_Index)
+`sheet/records.jsonl` + `sheet/links.jsonl` = export of tabs רשומות / קישורים (refresh: `tools/sheet_import.py`, steps inside).
+index.jsonl per doc: `sheet_records` (id, title, section, status), `sheet_desc`, `sheet_rows` (row numbers in קישורים), `year`,
+`edition_status` (newer/older ONLY when the sheet text says so; null = not stated), `newer_in_record`. Titles fall back to the sheet title.
+
+## Quality flags
+- OCR pages: `conf=NN` in the page header (mean tesseract word confidence); `lowconf` if <75 → read from the page image.
+  meta.json: `ocr_conf_mean`, `lowconf_pages`.
+- Text-layer pages are bidi-repaired (`. word`, `(abc)`, `80 שניות`).
+- HTML pages: `new_file_links` (vs last check) and `unknown_file_links` (not in sheet/requests) = possible new editions.
+- Weekly run (and any request with `# report`) opens a GitHub Issue: not accessible / changed / new files / low confidence.
+
 ## No duplicates
 One document = one id. The index job folds ids with the same sha256 (or, for HTML, the same final URL) into the
 smallest id: the others keep only meta.json with `duplicate_of`, their URLs go to the canonical `aliases`,

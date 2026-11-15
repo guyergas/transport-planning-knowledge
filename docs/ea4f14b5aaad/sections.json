@@ -1,0 +1,21 @@
+{
+ "front": {
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל יבשה /אגף תכנון תחבורתי       ה",
+   "נתיבי פנייה מתחלפים בצמתים מרומזרים  ..................."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "25": "6"
+ },
+ "toc_pages": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "sections": [],
+ "coverage": "page-only"
+}

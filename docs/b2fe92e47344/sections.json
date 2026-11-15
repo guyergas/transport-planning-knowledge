@@ -1,0 +1,283 @@
+{
+ "front": {
+  "dates": [
+   "אוגוסט 2001"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה  /אגף תכנון תחבורתי",
+   "משרד פרלשטין-גלית",
+   "משרד התחבורה                                      פרלשט"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "141": "4",
+  "144": "5"
+ },
+ "toc_pages": [
+  7,
+  8,
+  9,
+  10,
+  12,
+  13,
+  30,
+  31,
+  64,
+  65,
+  66,
+  113
+ ],
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 32,
+   "level": 2,
+   "end": 32
+  },
+  {
+   "num": "1.2",
+   "title": "הגדרת אזור התכנון לפרויקט השילוט",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "1.3",
+   "title": "עקרונות בסיסיים לתכנון מערכת השילוט העירוני",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "1.4",
+   "title": "היבט ניהול התנועה",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 38
+  },
+  {
+   "num": "1.5",
+   "title": "שפות",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "1.6",
+   "title": "מספר היעדים המרבי בשלט יחיד",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 40
+  },
+  {
+   "num": "1.7",
+   "title": "יעדים",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 43
+  },
+  {
+   "num": "1.8",
+   "title": "מסלולי נסיעה",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 45
+  },
+  {
+   "num": "1.9",
+   "title": "שילוט שערים",
+   "chapter": null,
+   "start": 46,
+   "level": 2,
+   "end": 48
+  },
+  {
+   "num": "2.1",
+   "title": "שלב א' :קביעת גבולות אזור התכנון",
+   "chapter": null,
+   "start": 49,
+   "level": 2,
+   "end": 49
+  },
+  {
+   "num": "2.2",
+   "title": "שלב ב' :סיווג מערכת הדרכים וקביעת השערים",
+   "chapter": null,
+   "start": 49,
+   "level": 2,
+   "end": 50
+  },
+  {
+   "num": "2.3",
+   "title": "שלב ג' :בחירת יעדים ודירוגם וקביעת השפות בשילוט",
+   "chapter": null,
+   "start": 51,
+   "level": 2,
+   "end": 51
+  },
+  {
+   "num": "2.4",
+   "title": "שלב ד' :הכנת רשת הכוונה ראשית",
+   "chapter": null,
+   "start": 51,
+   "level": 2,
+   "end": 57
+  },
+  {
+   "num": "2.5",
+   "title": "שלב ה' :הוספת יעדים ומסלולים משניים",
+   "chapter": null,
+   "start": 58,
+   "level": 2,
+   "end": 61
+  },
+  {
+   "num": "2.6",
+   "title": "שלב ו' :השלמת מערכת השילוט העירונית",
+   "chapter": null,
+   "start": 62,
+   "level": 2,
+   "end": 67
+  },
+  {
+   "num": "1.1",
+   "title": "תהליך קריאת השלט וביצוע תמרון",
+   "chapter": null,
+   "start": 68,
+   "level": 2,
+   "end": 68
+  },
+  {
+   "num": "1.2",
+   "title": "קריאות הכיתוב",
+   "chapter": null,
+   "start": 69,
+   "level": 2,
+   "end": 69
+  },
+  {
+   "num": "1.3",
+   "title": "קריאות הסמלים",
+   "chapter": null,
+   "start": 70,
+   "level": 2,
+   "end": 70
+  },
+  {
+   "num": "1.4",
+   "title": "חצים",
+   "chapter": null,
+   "start": 71,
+   "level": 2,
+   "end": 71
+  },
+  {
+   "num": "1.5",
+   "title": "הזמן הנדרש לקריאת השלט",
+   "chapter": null,
+   "start": 71,
+   "level": 2,
+   "end": 71
+  },
+  {
+   "num": "1.6",
+   "title": "חישוב גובה האות ומיקום השלט",
+   "chapter": null,
+   "start": 72,
+   "level": 2,
+   "end": 72
+  },
+  {
+   "num": "1.7",
+   "title": "סדר הופעת היעדים בשלט",
+   "chapter": null,
+   "start": 72,
+   "level": 2,
+   "end": 72
+  },
+  {
+   "num": "1.8",
+   "title": "סידור מרכיבי השלט",
+   "chapter": null,
+   "start": 72,
+   "level": 2,
+   "end": 72
+  },
+  {
+   "num": "1.9",
+   "title": "צבעים",
+   "chapter": null,
+   "start": 73,
+   "level": 2,
+   "end": 74
+  },
+  {
+   "num": "2.1",
+   "title": "שמות היעדים וצבע הרקע לכל יעד",
+   "chapter": null,
+   "start": 75,
+   "level": 2,
+   "end": 75
+  },
+  {
+   "num": "3",
+   "title": "",
+   "chapter": "פרק 3",
+   "start": 76,
+   "level": 0,
+   "end": 161
+  },
+  {
+   "num": "40",
+   "title": "מאסף",
+   "chapter": "פרק 3",
+   "start": 79,
+   "level": 1,
+   "end": 161
+  },
+  {
+   "num": "3.1",
+   "title": "מרכיבי השלט",
+   "chapter": "פרק 3",
+   "start": 87,
+   "level": 2,
+   "end": 91
+  },
+  {
+   "num": "3.2",
+   "title": "המרווחים בין מרכיבי השלט",
+   "chapter": "פרק 3",
+   "start": 92,
+   "level": 2,
+   "end": 92
+  },
+  {
+   "num": "3.3",
+   "title": "סידור מרכיבי השלט",
+   "chapter": "פרק 3",
+   "start": 93,
+   "level": 2,
+   "end": 94
+  },
+  {
+   "num": "3.4",
+   "title": "דוגמאות לתכנון מפורט של שלטים מקדימים",
+   "chapter": "פרק 3",
+   "start": 95,
+   "level": 2,
+   "end": 161
+  }
+ ],
+ "coverage": "sections"
+}

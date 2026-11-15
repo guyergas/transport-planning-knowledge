@@ -1,0 +1,33 @@
+{
+ "front": {
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "45",
+  "3": "46",
+  "4": "47",
+  "5": "48",
+  "6": "49",
+  "7": "50"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "6",
+   "title": "ביצוע פסי האטה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 7
+  },
+  {
+   "num": "6.1",
+   "title": "בטון אספלט (איור",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 7
+  }
+ ],
+ "coverage": "page-only"
+}

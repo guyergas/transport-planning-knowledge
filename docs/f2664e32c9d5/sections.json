@@ -1,0 +1,137 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 2001",
+   "יולי 2016"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה /אגף תכנון תחבורתי",
+   "נתיבי איילון",
+   "מנהל אגף בכיר תכנון תחבורתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1",
+  "2": "2",
+  "3": "3",
+  "4": "4",
+  "5": "5",
+  "6": "6",
+  "7": "7",
+  "8": "8",
+  "9": "9",
+  "10": "10",
+  "11": "11",
+  "12": "12",
+  "13": "13",
+  "14": "14",
+  "15": "15",
+  "16": "16",
+  "17": "17",
+  "18": "18",
+  "19": "19",
+  "20": "20"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "7",
+   "title": "רקע:       .1",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 20
+  },
+  {
+   "num": "2.2",
+   "title": "מיקום הלולאות בהתייחס לקו העצירה",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.1",
+   "title": "מצב קיים",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.2",
+   "title": "הופעת רכב דל – מתכת",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.3",
+   "title": "המשמעויות",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.4",
+   "title": "גיבוש ואימות תצורות מתאימות",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2.1",
+   "title": "הנחיות כלליות",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "2.3",
+   "title": "מיקום הלולאות בהתייחס אל הנתיבים ורוחבם",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "2.4",
+   "title": "התכנון המשולב",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "3.1",
+   "title": "כרטיסי הגלאי",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "3.2",
+   "title": "מספר הליפופים של הלולאה?",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "3.3",
+   "title": "חיבור הלולאות בטור או במקביל?",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 20
+  }
+ ],
+ "coverage": "sections"
+}

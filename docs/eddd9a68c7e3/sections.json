@@ -1,0 +1,804 @@
+{
+ "front": {
+  "edition": [
+   "שניה",
+   "מעודכנת",
+   "החדשה\""
+  ],
+  "dates": [
+   "אוקטובר 2020",
+   "אוקטובר 2009",
+   "2020"
+  ],
+  "publisher": [
+   "משרד הבינוי והשיכון                               משרד",
+   "אגף האדריכל הראשי",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד הבינוי והשיכון               משרד התחבורה והבטיחות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "24": "1",
+  "26": "1",
+  "28": "1",
+  "30": "1",
+  "32": "1",
+  "54": "3",
+  "56": "3",
+  "79": "290-420",
+  "118": "6",
+  "120": "6",
+  "126": "6",
+  "134": "6",
+  "136": "6",
+  "140": "7"
+ },
+ "toc_pages": [
+  12,
+  15
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "פרק \u001a1",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 159
+  },
+  {
+   "num": "1.1",
+   "title": "התפישה שבבסיס ההנחיות",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "1.2",
+   "title": "מטרת ההנחיות",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "1.3",
+   "title": "ההנחיות לתנועת הולכי-רגל כחלק מההנחיות לתכנון",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "1.4",
+   "title": "נמעני ההנחיות לתכנון תנועת הולכי הרגל",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "1.5",
+   "title": "מרחב הגמישות ביישום ההנחיות לתכנון תנועת הולכי-רגל",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "1.6",
+   "title": "מבנה ההנחיות לתכנון תנועת הולכי-רגל",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "1.7",
+   "title": "תחולת ההנחיות ותקפותן",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "1.8",
+   "title": "הגדרות ומושגים",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "2.2",
+   "title": "העיר והולך הרגל",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 38
+  },
+  {
+   "num": "2.3",
+   "title": "למה הולך הרגל לא הולך ברגל",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.4",
+   "title": "למה כדאי לעיר להשקיע בהולכי הרגל",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 41
+  },
+  {
+   "num": "3.5",
+   "title": "אנשים ברצועה ברוחב",
+   "chapter": null,
+   "start": 42,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "2.5",
+   "title": "טיפוח ההליכה כמדיניות",
+   "chapter": null,
+   "start": 42,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "2.6",
+   "title": "המדיניות בישראל",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 47
+  },
+  {
+   "num": "3.1",
+   "title": "משתני התכנון עבור הולך הרגל",
+   "chapter": null,
+   "start": 48,
+   "level": 2,
+   "end": 49
+  },
+  {
+   "num": "3.2",
+   "title": "הגברת הבטיחות של הולכי-רגל",
+   "chapter": null,
+   "start": 50,
+   "level": 2,
+   "end": 51
+  },
+  {
+   "num": "3.3",
+   "title": "רשת הולכי הרגל ומאפייניה",
+   "chapter": null,
+   "start": 52,
+   "level": 2,
+   "end": 59
+  },
+  {
+   "num": "4.1",
+   "title": "תפקידי המדרכה",
+   "chapter": null,
+   "start": 60,
+   "level": 2,
+   "end": 60
+  },
+  {
+   "num": "4.2",
+   "title": "חלוקת המדרכה",
+   "chapter": null,
+   "start": 61,
+   "level": 2,
+   "end": 62
+  },
+  {
+   "num": "4.2.1",
+   "title": "מרחבי המדרכה",
+   "chapter": null,
+   "start": 61,
+   "level": 3,
+   "end": 62
+  },
+  {
+   "num": "4.3",
+   "title": "רצועת ההליכה",
+   "chapter": null,
+   "start": 63,
+   "level": 2,
+   "end": 68
+  },
+  {
+   "num": "4.3.1",
+   "title": "עקרונות התכנון",
+   "chapter": null,
+   "start": 63,
+   "level": 3,
+   "end": 65
+  },
+  {
+   "num": "4.3.2",
+   "title": "עצמת תנועת הולכי הרגל",
+   "chapter": null,
+   "start": 66,
+   "level": 3,
+   "end": 66
+  },
+  {
+   "num": "4.3.3",
+   "title": "מימדי רצועת ההליכה",
+   "chapter": null,
+   "start": 66,
+   "level": 3,
+   "end": 66
+  },
+  {
+   "num": "4.3.4",
+   "title": "שיפועי רצועת ההליכה",
+   "chapter": null,
+   "start": 67,
+   "level": 3,
+   "end": 67
+  },
+  {
+   "num": "4.3.5",
+   "title": "עקומות ומשתנים גיאומטריים",
+   "chapter": null,
+   "start": 68,
+   "level": 3,
+   "end": 68
+  },
+  {
+   "num": "4.4",
+   "title": "רצועת העזר",
+   "chapter": null,
+   "start": 69,
+   "level": 2,
+   "end": 72
+  },
+  {
+   "num": "4.4.1",
+   "title": "תפקידי רצועת העזר",
+   "chapter": null,
+   "start": 69,
+   "level": 3,
+   "end": 69
+  },
+  {
+   "num": "4.4.2",
+   "title": "מימדי רצועת העזר",
+   "chapter": null,
+   "start": 69,
+   "level": 3,
+   "end": 69
+  },
+  {
+   "num": "4.4.3",
+   "title": "מיקום מרכיבים נייחים ברצועת העזר",
+   "chapter": null,
+   "start": 69,
+   "level": 3,
+   "end": 71
+  },
+  {
+   "num": "4.4.4",
+   "title": "רצועת עזר משותפת עם רצועת חנייה",
+   "chapter": null,
+   "start": 72,
+   "level": 3,
+   "end": 72
+  },
+  {
+   "num": "4.5",
+   "title": "רצועת הדופן",
+   "chapter": null,
+   "start": 73,
+   "level": 2,
+   "end": 74
+  },
+  {
+   "num": "4.5.1",
+   "title": "תפקידי רצועת הדופן",
+   "chapter": null,
+   "start": 73,
+   "level": 3,
+   "end": 73
+  },
+  {
+   "num": "4.5.2",
+   "title": "מימדי רצועת הדופן",
+   "chapter": null,
+   "start": 74,
+   "level": 3,
+   "end": 74
+  },
+  {
+   "num": "4.6",
+   "title": "מרחב הפעילות",
+   "chapter": null,
+   "start": 75,
+   "level": 2,
+   "end": 75
+  },
+  {
+   "num": "4.7",
+   "title": "קולונדות לאורך הרחוב",
+   "chapter": null,
+   "start": 76,
+   "level": 2,
+   "end": 76
+  },
+  {
+   "num": "4.8",
+   "title": "שימוש סחיר בשטח המדרכה",
+   "chapter": null,
+   "start": 77,
+   "level": 2,
+   "end": 77
+  },
+  {
+   "num": "4.9",
+   "title": "שבילי הולכי-רגל מחוץ לרחוב",
+   "chapter": null,
+   "start": 78,
+   "level": 2,
+   "end": 78
+  },
+  {
+   "num": "4.9.1",
+   "title": "שביל בשטח פתוח",
+   "chapter": null,
+   "start": 78,
+   "level": 3,
+   "end": 78
+  },
+  {
+   "num": "4.9.2",
+   "title": "שביל מעבר",
+   "chapter": null,
+   "start": 78,
+   "level": 3,
+   "end": 78
+  },
+  {
+   "num": "4.10",
+   "title": "דוגמאות למימדי מדרכות מומלצים",
+   "chapter": null,
+   "start": 79,
+   "level": 2,
+   "end": 81
+  },
+  {
+   "num": "4.11",
+   "title": "שילוב תחנות תח\"צ במדרכה",
+   "chapter": null,
+   "start": 82,
+   "level": 2,
+   "end": 89
+  },
+  {
+   "num": "4.11.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 82,
+   "level": 3,
+   "end": 82
+  },
+  {
+   "num": "4.11.2",
+   "title": "מרכיבי התחנה",
+   "chapter": null,
+   "start": 82,
+   "level": 3,
+   "end": 83
+  },
+  {
+   "num": "4.11.3",
+   "title": "א .מיקום עצירת האוטובוס בתחנה",
+   "chapter": null,
+   "start": 84,
+   "level": 3,
+   "end": 85
+  },
+  {
+   "num": "4.11.4",
+   "title": "עקרונות לתכנון תפקוד התחנה ושילובה במדרכה",
+   "chapter": null,
+   "start": 86,
+   "level": 3,
+   "end": 86
+  },
+  {
+   "num": "4.11.5",
+   "title": "חלופות למיקום סככת ההמתנה במדרכה",
+   "chapter": null,
+   "start": 87,
+   "level": 3,
+   "end": 89
+  },
+  {
+   "num": "4.12",
+   "title": "תפקידי אבן השפה במדרכה ובמפרדה",
+   "chapter": null,
+   "start": 90,
+   "level": 2,
+   "end": 90
+  },
+  {
+   "num": "4.25",
+   "title": "()1   15                10                 שביל אופניים",
+   "chapter": null,
+   "start": 91,
+   "level": 2,
+   "end": 91
+  },
+  {
+   "num": "4.27",
+   "title": "()2                  2-0                  כניסה לחנייה",
+   "chapter": null,
+   "start": 91,
+   "level": 2,
+   "end": 94
+  },
+  {
+   "num": "4.29",
+   "title": "א.ש .אנכית            0             10            רחוב",
+   "chapter": null,
+   "start": 95,
+   "level": 2,
+   "end": 99
+  },
+  {
+   "num": "5.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 100,
+   "level": 2,
+   "end": 100
+  },
+  {
+   "num": "5.2",
+   "title": "צומת רחובות וצומת דרכים",
+   "chapter": null,
+   "start": 101,
+   "level": 2,
+   "end": 101
+  },
+  {
+   "num": "5.3",
+   "title": "מרחבי קרן הרחוב",
+   "chapter": null,
+   "start": 101,
+   "level": 2,
+   "end": 104
+  },
+  {
+   "num": "5.3.1",
+   "title": "תפקידי קרן הרחוב",
+   "chapter": null,
+   "start": 101,
+   "level": 3,
+   "end": 101
+  },
+  {
+   "num": "5.3.2",
+   "title": "פינת הרחוב (השטח הצבוע בירוק בתרשים )5.2",
+   "chapter": null,
+   "start": 102,
+   "level": 3,
+   "end": 102
+  },
+  {
+   "num": "5.3.3",
+   "title": "מרחב הראות (השטח הצבוע בכחול בתרשים )5.3",
+   "chapter": null,
+   "start": 102,
+   "level": 3,
+   "end": 102
+  },
+  {
+   "num": "5.3.4",
+   "title": "מרחב עזר ופעילות (השטח הצבוע בכתום בתרשים )5.4",
+   "chapter": null,
+   "start": 103,
+   "level": 3,
+   "end": 103
+  },
+  {
+   "num": "5.3.5",
+   "title": "צומת עם הגבלות מרחביות חמורות",
+   "chapter": null,
+   "start": 104,
+   "level": 3,
+   "end": 104
+  },
+  {
+   "num": "5.4",
+   "title": "הנחיות להרחבה מרבית של קרן הרחוב",
+   "chapter": null,
+   "start": 105,
+   "level": 2,
+   "end": 109
+  },
+  {
+   "num": "5.4.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 105,
+   "level": 3,
+   "end": 105
+  },
+  {
+   "num": "5.4.3",
+   "title": "רדיוס אבן השפה בקרן הרחוב",
+   "chapter": null,
+   "start": 106,
+   "level": 3,
+   "end": 106
+  },
+  {
+   "num": "5.4.4",
+   "title": "הרחבת הרחוב בצומת (הרחבת זכות הדרך)",
+   "chapter": null,
+   "start": 106,
+   "level": 3,
+   "end": 107
+  },
+  {
+   "num": "5.4.5",
+   "title": "מידות עזר לקרן רחוב מזערית",
+   "chapter": null,
+   "start": 108,
+   "level": 3,
+   "end": 109
+  },
+  {
+   "num": "5.5",
+   "title": "שיפועי מישור קרן הרחוב",
+   "chapter": null,
+   "start": 110,
+   "level": 2,
+   "end": 113
+  },
+  {
+   "num": "6.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 114,
+   "level": 2,
+   "end": 114
+  },
+  {
+   "num": "6.2",
+   "title": "השיקולים לקביעת מקום החצייה בתחום העירוני",
+   "chapter": null,
+   "start": 114,
+   "level": 2,
+   "end": 124
+  },
+  {
+   "num": "6.2.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 114,
+   "level": 3,
+   "end": 114
+  },
+  {
+   "num": "6.2.2",
+   "title": "מיקום מקומות החצייה",
+   "chapter": null,
+   "start": 115,
+   "level": 3,
+   "end": 116
+  },
+  {
+   "num": "6.2.3",
+   "title": "מקום חצייה לא מתומרר",
+   "chapter": null,
+   "start": 117,
+   "level": 3,
+   "end": 118
+  },
+  {
+   "num": "6.2.4",
+   "title": "מקום חצייה מתומרר (מעבר חצייה)",
+   "chapter": null,
+   "start": 119,
+   "level": 3,
+   "end": 121
+  },
+  {
+   "num": "6.2.5",
+   "title": "א .תיאור כללי",
+   "chapter": null,
+   "start": 122,
+   "level": 3,
+   "end": 122
+  },
+  {
+   "num": "6.2.6",
+   "title": "מקום חצייה בהפרדה מפלסית",
+   "chapter": null,
+   "start": 123,
+   "level": 3,
+   "end": 124
+  },
+  {
+   "num": "6.3",
+   "title": "מאפיינים תכנוניים למקומות חצייה",
+   "chapter": null,
+   "start": 125,
+   "level": 2,
+   "end": 134
+  },
+  {
+   "num": "6.3.1",
+   "title": "ראות ונראות במקומות החצייה",
+   "chapter": null,
+   "start": 126,
+   "level": 3,
+   "end": 126
+  },
+  {
+   "num": "6.3.2",
+   "title": "מיקום מקומות חצייה בתחומי צומת",
+   "chapter": null,
+   "start": 127,
+   "level": 3,
+   "end": 129
+  },
+  {
+   "num": "6.3.3",
+   "title": "אורך החצייה (מרחק החצייה/משך החצייה)",
+   "chapter": null,
+   "start": 130,
+   "level": 3,
+   "end": 130
+  },
+  {
+   "num": "6.3.4",
+   "title": "רוחב מקום החצייה",
+   "chapter": null,
+   "start": 131,
+   "level": 3,
+   "end": 131
+  },
+  {
+   "num": "6.3.5",
+   "title": "מרחק בין מעברי חצייה",
+   "chapter": null,
+   "start": 132,
+   "level": 3,
+   "end": 132
+  },
+  {
+   "num": "6.3.6",
+   "title": "ריכוז הצדקים לביצוע מקומות חצייה",
+   "chapter": null,
+   "start": 133,
+   "level": 3,
+   "end": 133
+  },
+  {
+   "num": "6.3.7",
+   "title": "נתוני איי תנועה ואיים משולשים",
+   "chapter": null,
+   "start": 134,
+   "level": 3,
+   "end": 134
+  },
+  {
+   "num": "6.4",
+   "title": "חציית הולכי-רגל בדרכים בין עירוניות",
+   "chapter": null,
+   "start": 135,
+   "level": 2,
+   "end": 139
+  },
+  {
+   "num": "7.1",
+   "title": "מבוא ומסגרת חוקית",
+   "chapter": null,
+   "start": 140,
+   "level": 2,
+   "end": 140
+  },
+  {
+   "num": "7.2",
+   "title": "תימרור וסימון להסדרים השונים הנוגעים להולכי-רגל",
+   "chapter": null,
+   "start": 141,
+   "level": 2,
+   "end": 145
+  },
+  {
+   "num": "7.2.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 141,
+   "level": 3,
+   "end": 141
+  },
+  {
+   "num": "7.2.2",
+   "title": "מקום חצייה",
+   "chapter": null,
+   "start": 141,
+   "level": 3,
+   "end": 141
+  },
+  {
+   "num": "7.2.3",
+   "title": "פירוט התמרורים בלוח ובהנחיות",
+   "chapter": null,
+   "start": 142,
+   "level": 3,
+   "end": 143
+  },
+  {
+   "num": "7.2.4",
+   "title": "אופן סימון מעבר חצייה",
+   "chapter": null,
+   "start": 144,
+   "level": 3,
+   "end": 145
+  },
+  {
+   "num": "7.2.5",
+   "title": "תמרורי אזהרה המצביעים על תנועת הולכי הרגל",
+   "chapter": null,
+   "start": 146,
+   "level": 3,
+   "end": 146
+  },
+  {
+   "num": "7.3",
+   "title": "תכנון עבור הולכי-רגל בצמתים מרומזרים",
+   "chapter": null,
+   "start": 146,
+   "level": 2,
+   "end": 146
+  },
+  {
+   "num": "7.4",
+   "title": "מעקות וגדרות בטיחות להולכי-רגל",
+   "chapter": null,
+   "start": 147,
+   "level": 2,
+   "end": 159
+  },
+  {
+   "num": "7.4.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 147,
+   "level": 3,
+   "end": 147
+  },
+  {
+   "num": "7.4.2",
+   "title": "קווים מנחים להתקנת מעקות וגדרות בטיחות להולכי-רגל",
+   "chapter": null,
+   "start": 147,
+   "level": 3,
+   "end": 147
+  },
+  {
+   "num": "7.4.3",
+   "title": "הנחיות להצבת מעקות וגדרות בטיחות להולכי-רגל",
+   "chapter": null,
+   "start": 148,
+   "level": 3,
+   "end": 159
+  }
+ ],
+ "coverage": "sections"
+}

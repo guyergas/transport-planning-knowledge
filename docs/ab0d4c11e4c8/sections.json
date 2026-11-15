@@ -1,0 +1,31 @@
+{
+ "front": {
+  "edition": [
+   "הראשונה"
+  ],
+  "dates": [
+   "2018",
+   "2012"
+  ],
+  "publisher": [
+   "נתיבי ישראל לתכנון גיאומטרי של דרכים בינעירוניות ,וההנחי",
+   "משרד התחבורה ,ומוצע כי כבר בשלב התכנון המוקדם של המנהרה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "7.6",
+   "title": "תוספת התייחסות לניקוז עילי במנהרה כולל",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 14
+  }
+ ],
+ "coverage": "page-only"
+}

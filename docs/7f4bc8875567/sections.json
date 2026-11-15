@@ -1,0 +1,137 @@
+{
+ "front": {
+  "dates": [
+   "2050",
+   "2030",
+   "מאי 2022",
+   "2012",
+   "2021"
+  ],
+  "publisher": [
+   "משרד התחבורה תכנון אסטרטגי לפיתוח תשתית תחבורתית יבשתית",
+   "משרד התחבורה את התכנית האסטרטגית לפיתוח רשת הדרכים הארצ",
+   "נתיבי איילון       משרד התחבורה",
+   "משרד האוצר"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "2.12",
+   "title": "למעט שלוחת מסילה אשר תיוותר בתוקפה                  צפון",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.54",
+   "title": "בתמ\"מ.            חיפה",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.65",
+   "title": "ירושלים",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "2.96",
+   "title": "תיקונים.          מרכז",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "1.00",
+   "title": "יחס         BUD             חריגה מיעד התקציב –  30שנה",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "1",
+   "title": "מספר מעברים ממוצע לנסיעה       12",
+   "chapter": null,
+   "start": 18,
+   "level": 1,
+   "end": 69
+  },
+  {
+   "num": "0.38",
+   "title": "השקעה",
+   "chapter": null,
+   "start": 50,
+   "level": 2,
+   "end": 56
+  },
+  {
+   "num": "12.7",
+   "title": "מרכז",
+   "chapter": null,
+   "start": 57,
+   "level": 2,
+   "end": 57
+  },
+  {
+   "num": "9.83",
+   "title": "וירושלים",
+   "chapter": null,
+   "start": 57,
+   "level": 2,
+   "end": 64
+  },
+  {
+   "num": "2.11",
+   "title": "מדיניות",
+   "chapter": null,
+   "start": 65,
+   "level": 2,
+   "end": 65
+  },
+  {
+   "num": "1.86",
+   "title": "מדיניות",
+   "chapter": null,
+   "start": 65,
+   "level": 2,
+   "end": 65
+  },
+  {
+   "num": "1.72",
+   "title": "טקטית",
+   "chapter": null,
+   "start": 65,
+   "level": 2,
+   "end": 65
+  },
+  {
+   "num": "1.64",
+   "title": "המשך מגמות",
+   "chapter": null,
+   "start": 65,
+   "level": 2,
+   "end": 65
+  },
+  {
+   "num": "1.65",
+   "title": "גיאוגרפית",
+   "chapter": null,
+   "start": 65,
+   "level": 2,
+   "end": 69
+  }
+ ],
+ "coverage": "sections"
+}

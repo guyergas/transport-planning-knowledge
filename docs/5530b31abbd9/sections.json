@@ -1,0 +1,26 @@
+{
+ "front": {
+  "dates": [
+   "2006"
+  ],
+  "publisher": [
+   "מנהל היבשה",
+   "אגף תחבורה ציבורית",
+   "משרד התחבורה וכל המפעילים יאמצו"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "30",
+   "title": "מ\"מ                           גובה אותיות שם תחנה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 5
+  }
+ ],
+ "coverage": "page-only"
+}

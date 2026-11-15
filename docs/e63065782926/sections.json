@@ -1,0 +1,27 @@
+{
+ "front": {
+  "dates": [
+   "מרץ 2005"
+  ],
+  "publisher": [
+   "משרד התחבורה SS:‏",
+   "אגף תכנון תחבורתי",
+   "משרד התחבורה",
+   "מנהל הכללי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "0",
+  "4": "4",
+  "5": "5",
+  "6": "1",
+  "7": "7",
+  "8": "8",
+  "9": "9",
+  "10": "10"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

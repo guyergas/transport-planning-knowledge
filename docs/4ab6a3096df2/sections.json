@@ -1,0 +1,668 @@
+{
+ "front": {
+  "dates": [
+   "אוגוסט 2009",
+   "2009"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה/אגף תכנון תחבורתי",
+   "מנהל הכללי",
+   "משרד התחבורה מייחס חשיבות רבה ביצירת בסיס תכנוני עדכני"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "2",
+  "3": "3"
+ },
+ "toc_pages": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "רקע",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "1.2",
+   "title": "מטרת ההנחיות",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "8",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "1.3",
+   "title": "מטרות השילוט המתחלף ויעדיו",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "1.4",
+   "title": "המאפיינים של מערכת שילוט מתחלף",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "9",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 9,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "10",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 10
+  },
+  {
+   "num": "2.1",
+   "title": "תבנית הפעלה למערכות שילוט מתחלף",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "2.2",
+   "title": "סיווג תפקודי של מערכות שילוט מתחלף",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "11",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "2.3",
+   "title": "טווח התייחסות המידע",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "12",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 12
+  },
+  {
+   "num": "2.4",
+   "title": "סוגי המסרים",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "13",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 13,
+   "level": 1,
+   "end": 13
+  },
+  {
+   "num": "14",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 14,
+   "level": 1,
+   "end": 14
+  },
+  {
+   "num": "15",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 15,
+   "level": 1,
+   "end": 15
+  },
+  {
+   "num": "16",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 16,
+   "level": 1,
+   "end": 16
+  },
+  {
+   "num": "17",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 17,
+   "level": 1,
+   "end": 17
+  },
+  {
+   "num": "2.5",
+   "title": "אפשרויות מבנה השלט ותצורת המסר",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "18",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 18,
+   "level": 1,
+   "end": 18
+  },
+  {
+   "num": "19",
+   "title": "רקע לתכנון מערכות שילוט מתחלף והפעלתן",
+   "chapter": null,
+   "start": 19,
+   "level": 1,
+   "end": 19
+  },
+  {
+   "num": "3.1",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 20,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "3.2",
+   "title": "עקרונות כלליים",
+   "chapter": null,
+   "start": 20,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "20",
+   "title": "עקרונות לתצוגת מסרים בשילוט המתחלף",
+   "chapter": null,
+   "start": 20,
+   "level": 1,
+   "end": 20
+  },
+  {
+   "num": "21",
+   "title": "עקרונות לתצוגת מסרים בשילוט המתחלף",
+   "chapter": null,
+   "start": 21,
+   "level": 1,
+   "end": 21
+  },
+  {
+   "num": "22",
+   "title": "עקרונות לתצוגת מסרים בשילוט המתחלף",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 22
+  },
+  {
+   "num": "3.3",
+   "title": "עקרונות למסרים בציר תנועה",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "3.4",
+   "title": "עקרונות למסרים בנקודת החלטה ברשת דרכים",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "23",
+   "title": "עקרונות לתצוגת מסרים בשילוט המתחלף",
+   "chapter": null,
+   "start": 23,
+   "level": 1,
+   "end": 23
+  },
+  {
+   "num": "3.5",
+   "title": "בחירת שמות יעד ומספרי דרכים לשילוט המתחלף",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "3.6",
+   "title": "שימוש בקיצורים",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "3.7",
+   "title": "תצורת השלטים",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "24",
+   "title": "עקרונות לתצוגת מסרים בשילוט המתחלף",
+   "chapter": null,
+   "start": 24,
+   "level": 1,
+   "end": 24
+  },
+  {
+   "num": "4.1",
+   "title": "רשת דרכים  -הגדרה",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "4.2",
+   "title": "יעדי השילוט המתחלף המוצב ברשת דרכים",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "25",
+   "title": "שילוט מתחלף ברשת דרכים",
+   "chapter": null,
+   "start": 25,
+   "level": 1,
+   "end": 25
+  },
+  {
+   "num": "26",
+   "title": "שילוט מתחלף ברשת דרכים",
+   "chapter": null,
+   "start": 26,
+   "level": 1,
+   "end": 26
+  },
+  {
+   "num": "27",
+   "title": "שילוט מתחלף ברשת דרכים",
+   "chapter": null,
+   "start": 27,
+   "level": 1,
+   "end": 27
+  },
+  {
+   "num": "28",
+   "title": "שילוט מתחלף ברשת דרכים",
+   "chapter": null,
+   "start": 28,
+   "level": 1,
+   "end": 28
+  },
+  {
+   "num": "29",
+   "title": "שילוט מתחלף ברשת דרכים",
+   "chapter": null,
+   "start": 29,
+   "level": 1,
+   "end": 29
+  },
+  {
+   "num": "5.1",
+   "title": "ציר תנועה  -הגדרה",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "5.2",
+   "title": "יעדי השילוט המתחלף המוצב בציר תנועה",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "5.3",
+   "title": "מתכונות הפעלה של שילוט מתחלף המוצב בציר תנועה",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "30",
+   "title": "שילוט מתחלף בציר תנועה",
+   "chapter": null,
+   "start": 30,
+   "level": 1,
+   "end": 30
+  },
+  {
+   "num": "31",
+   "title": "שילוט מתחלף בציר תנועה",
+   "chapter": null,
+   "start": 31,
+   "level": 1,
+   "end": 31
+  },
+  {
+   "num": "5.3.5",
+   "title": "סיכום תצורת מסרים לאורך ציר",
+   "chapter": null,
+   "start": 32,
+   "level": 3,
+   "end": 32
+  },
+  {
+   "num": "32",
+   "title": "שילוט מתחלף בציר תנועה",
+   "chapter": null,
+   "start": 32,
+   "level": 1,
+   "end": 32
+  },
+  {
+   "num": "33",
+   "title": "שילוט מתחלף בציר תנועה",
+   "chapter": null,
+   "start": 33,
+   "level": 1,
+   "end": 33
+  },
+  {
+   "num": "6.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
+   "end": 34
+  },
+  {
+   "num": "34",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 34,
+   "level": 1,
+   "end": 34
+  },
+  {
+   "num": "6.2",
+   "title": "שיקולים למיקום שילוט מתחלף",
+   "chapter": null,
+   "start": 35,
+   "level": 2,
+   "end": 35
+  },
+  {
+   "num": "35",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 35,
+   "level": 1,
+   "end": 35
+  },
+  {
+   "num": "36",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 36,
+   "level": 1,
+   "end": 36
+  },
+  {
+   "num": "37",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 37,
+   "level": 1,
+   "end": 37
+  },
+  {
+   "num": "38",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 38,
+   "level": 1,
+   "end": 38
+  },
+  {
+   "num": "6.3",
+   "title": "מיקום השילוט המתחלף",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "39",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 39,
+   "level": 1,
+   "end": 39
+  },
+  {
+   "num": "40",
+   "title": "הצבת שילוט מתחלף – הגדרות ועקרונות כלליים",
+   "chapter": null,
+   "start": 40,
+   "level": 1,
+   "end": 98
+  },
+  {
+   "num": "6.4",
+   "title": "אופן ההצבה של השילוט המתחלף",
+   "chapter": null,
+   "start": 46,
+   "level": 2,
+   "end": 47
+  },
+  {
+   "num": "7.1",
+   "title": "בחינת הצורך להתקנת מערכת שילוט מתחלף",
+   "chapter": null,
+   "start": 48,
+   "level": 2,
+   "end": 50
+  },
+  {
+   "num": "7.3",
+   "title": "תהליך התכנון של שילוט מתחלף לאורך ציר",
+   "chapter": null,
+   "start": 51,
+   "level": 2,
+   "end": 51
+  },
+  {
+   "num": "6.3",
+   "title": ")ע\"פ סעיף (",
+   "chapter": null,
+   "start": 52,
+   "level": 2,
+   "end": 53
+  },
+  {
+   "num": "8.2",
+   "title": "מדיניות סדר הקדימויות להצגת מסרים",
+   "chapter": null,
+   "start": 54,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "8.3",
+   "title": "מספר שפות",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 55
+  },
+  {
+   "num": "8.4",
+   "title": "הצגה מחזורית של מספר מסרים",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 55
+  },
+  {
+   "num": "9.1",
+   "title": "סוגי טכנולוגיות השילוט  -כללי",
+   "chapter": null,
+   "start": 56,
+   "level": 2,
+   "end": 56
+  },
+  {
+   "num": "9.2",
+   "title": "שילוט פולט אור  -פירוט סוגי המטריצות",
+   "chapter": null,
+   "start": 57,
+   "level": 2,
+   "end": 58
+  },
+  {
+   "num": "9.3",
+   "title": "שילוט פולט אור  -טכנולוגיית LED",
+   "chapter": null,
+   "start": 59,
+   "level": 2,
+   "end": 59
+  },
+  {
+   "num": "9.4",
+   "title": "טכנולוגיית הסיבים האופטיים",
+   "chapter": null,
+   "start": 60,
+   "level": 2,
+   "end": 60
+  },
+  {
+   "num": "9.5",
+   "title": "שילוט מחזיר אור  -טכנולוגיית השילוט המנסרתי",
+   "chapter": null,
+   "start": 61,
+   "level": 2,
+   "end": 61
+  },
+  {
+   "num": "9.6",
+   "title": "שילוט מעורב",
+   "chapter": null,
+   "start": 62,
+   "level": 2,
+   "end": 62
+  },
+  {
+   "num": "9.7",
+   "title": "שימוש במהבהבים",
+   "chapter": null,
+   "start": 62,
+   "level": 2,
+   "end": 62
+  },
+  {
+   "num": "10.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 63,
+   "level": 2,
+   "end": 63
+  },
+  {
+   "num": "10.3",
+   "title": "שימוש בסמלים בשילוט מתחלף",
+   "chapter": null,
+   "start": 64,
+   "level": 2,
+   "end": 65
+  },
+  {
+   "num": "10.5",
+   "title": "עיצוב הסמלים על גבי השלטים המתחלפים",
+   "chapter": null,
+   "start": 66,
+   "level": 2,
+   "end": 66
+  },
+  {
+   "num": "11.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 67,
+   "level": 2,
+   "end": 67
+  },
+  {
+   "num": "11.2",
+   "title": "צבע",
+   "chapter": null,
+   "start": 67,
+   "level": 2,
+   "end": 67
+  },
+  {
+   "num": "11.3",
+   "title": "בהיקות ויחס הבהיקות",
+   "chapter": null,
+   "start": 67,
+   "level": 2,
+   "end": 67
+  },
+  {
+   "num": "11.4",
+   "title": "רוחב אלומת האור",
+   "chapter": null,
+   "start": 68,
+   "level": 2,
+   "end": 68
+  },
+  {
+   "num": "11.5",
+   "title": "השפעת תאורת השמש על קריאות השלט המתחלף",
+   "chapter": null,
+   "start": 69,
+   "level": 2,
+   "end": 98
+  }
+ ],
+ "coverage": "sections"
+}

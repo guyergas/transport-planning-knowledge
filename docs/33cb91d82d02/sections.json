@@ -1,0 +1,28 @@
+{
+ "front": {
+  "edition": [
+   "פרסום"
+  ],
+  "dates": [
+   "יולי 2021",
+   "מרץ 2013"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "אגף בכיר תכנון תחבורתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "1",
+  "4": "2",
+  "5": "3",
+  "6": "4",
+  "7": "5"
+ },
+ "toc_pages": [
+  2
+ ],
+ "sections": [],
+ "coverage": "page-only"
+}

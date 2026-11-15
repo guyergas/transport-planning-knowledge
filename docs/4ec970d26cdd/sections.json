@@ -1,0 +1,36 @@
+{
+ "front": {
+  "edition": [
+   "1.0"
+  ],
+  "dates": [
+   "יולי 2026",
+   "2003",
+   "יולי 2076",
+   "2026"
+  ],
+  "publisher": [
+   "משרד התחבורה  -אינג' אלה פונאמרב ,אינג' ברק כראדי.",
+   "מנהל אגף תכנון תחבורתי ,משרד התחבורה              אינג'",
+   "משרד התחבורה            אינג' הראל דמתי",
+   "משרד התחבורה                אינג' יוסי אמגר"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  5,
+  7
+ ],
+ "sections": [
+  {
+   "num": "1.0",
+   "title": "מהדורה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 86
+  }
+ ],
+ "coverage": "page-only"
+}
