@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/ar/MOT_BPH_FORMAT_METUCHNAN_1.52-2.pdf",
+ "checked": "2026-11-15T14:52:57Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/ar/MOT_BPH_FORMAT_METUCHNAN_1.52-2.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2174194,
+ "secs": 4.977003,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f31deb3fe044",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 38,
+ "pdf_meta": {
+  "Title": "מיפוי תשתיות רכיבה",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Thu Feb 16 13:58:13 2023 UTC",
+  "ModDate": "Sun Feb 19 12:04:10 2023 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "428cd92d272b800b048141592839d07df4cb0c0e51e390690f821e638e3dccda",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f31deb3fe044.pdf",
+ "fix_log": [
+  "words=1331 unknown=89 fixed=8"
+ ],
+ "image_pages": 38,
+ "table_pages": 1,
+ "figure_ocr_pages": 37,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 88,
+ "lowconf_pages": [],
+ "text_pages": 38,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

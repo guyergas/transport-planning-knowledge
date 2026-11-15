@@ -1,0 +1,32 @@
+{
+ "front": {
+  "dates": [
+   "2009"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "4": "4",
+  "9": "9"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "7",
+   "title": "צירי תחבורה ציבורית J",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "8",
+   "title": "מצלמות NIT ללא תשתית",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 14
+  }
+ ],
+ "coverage": "page-only"
+}

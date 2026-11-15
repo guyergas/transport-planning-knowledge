@@ -1,0 +1,208 @@
+{
+ "front": {
+  "dates": [
+   "1964",
+   "1983",
+   "1994",
+   "1985"
+  ],
+  "publisher": [
+   "רשות כל נוסע. ערך מקסימלי אפשרי להגבלת מספר"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "55",
+  "3": "6",
+  "4": "47",
+  "5": "48",
+  "6": "2",
+  "7": "50",
+  "8": "1",
+  "9": "2",
+  "10": "53",
+  "11": "4",
+  "12": "55",
+  "13": "56",
+  "14": "57",
+  "15": "58",
+  "16": "59",
+  "17": "0",
+  "18": "61",
+  "19": "62",
+  "20": "63",
+  "21": "4",
+  "22": "65",
+  "23": "6",
+  "24": "67",
+  "25": "8",
+  "26": "9",
+  "27": "70",
+  "28": "71",
+  "29": "72",
+  "30": "73",
+  "31": "4",
+  "32": "75",
+  "33": "6",
+  "34": "7",
+  "35": "78",
+  "36": "79",
+  "37": "80"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "9.94",
+   "title": "= ()א Ed",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "2",
+   "title": "ו | Li ith + ו 5.45 ==",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 27
+  },
+  {
+   "num": "0.18",
+   "title": "אין תחנה באיזור",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "3",
+   "title": "מקום אחסון (op) 28.1",
+   "chapter": null,
+   "start": 28,
+   "level": 1,
+   "end": 28
+  },
+  {
+   "num": "4",
+   "title": "מלון 7.2",
+   "chapter": null,
+   "start": 28,
+   "level": 1,
+   "end": 28
+  },
+  {
+   "num": "5",
+   "title": "בית ספר To 6.7",
+   "chapter": null,
+   "start": 28,
+   "level": 1,
+   "end": 28
+  },
+  {
+   "num": "6",
+   "title": "מלון דרכים (מוטל) 6.4",
+   "chapter": null,
+   "start": 28,
+   "level": 1,
+   "end": 28
+  },
+  {
+   "num": "7",
+   "title": "מעון יום לילדי גן 42.7",
+   "chapter": null,
+   "start": 29,
+   "level": 1,
+   "end": 29
+  },
+  {
+   "num": "8",
+   "title": "בית קולנוע 41.9",
+   "chapter": null,
+   "start": 29,
+   "level": 1,
+   "end": 29
+  },
+  {
+   "num": "25.8",
+   "title": "non | .0 רכב חדש",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "9",
+   "title": "תעשיה op 28",
+   "chapter": null,
+   "start": 29,
+   "level": 1,
+   "end": 37
+  },
+  {
+   "num": "2.3",
+   "title": "nun | .4 רהיטים",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "16.0",
+   "title": "DW 2 סיטונאי",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "1.2",
+   "title": "שוק סיטונאי",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "6.1",
+   "title": "on | .2 רהיטים מועסק",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "27.6",
+   "title": "חנות צבע וכלי עבודה 5 מי",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "12.0",
+   "title": "ES מכירת רכב חדש מועסק",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "16.0",
+   "title": "שוק סיטונאי דונם",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "33.7",
+   "title": "a [37] מועסק",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  }
+ ],
+ "coverage": "sections"
+}

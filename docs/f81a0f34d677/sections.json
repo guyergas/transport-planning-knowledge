@@ -1,0 +1,33 @@
+{
+ "front": {
+  "dates": [
+   "יוני 2025",
+   "2017",
+   "2020",
+   "2023",
+   "2013"
+  ],
+  "publisher": [
+   "הרשות הלאומית לבטיחות בדרכים",
+   "הרשות הלאומית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "7": "7",
+  "8": "8",
+  "9": "9"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 9
+  }
+ ],
+ "coverage": "page-only"
+}

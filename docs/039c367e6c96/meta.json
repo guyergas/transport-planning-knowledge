@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/December%202023.pdf",
+ "checked": "2026-11-15T15:42:33Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/December%202023.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 848336,
+ "secs": 1.152736,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "039c367e6c96",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 43,
+ "pdf_meta": {
+  "Title": "3",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Thu Dec 21 07:08:02 2023 UTC",
+  "ModDate": "Mon Jan  8 12:58:57 2024 UTC"
+ },
+ "fonts_uni_no": 14,
+ "sha256": "e439e8f2618a0245790c09882494aaecff3f759d5ffd4eb20fada1f6df8b6b42",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/039c367e6c96.pdf",
+ "fix_log": [
+  "words=23 unknown=7 fixed=1"
+ ],
+ "image_pages": 7,
+ "table_pages": 7,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 7,
+ "ocr_conf_mean": 94,
+ "lowconf_pages": [],
+ "text_pages": 43,
+ "ocr_pages": 43,
+ "layer": "broken"
+}

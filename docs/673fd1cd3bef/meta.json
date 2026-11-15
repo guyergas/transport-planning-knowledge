@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/signage-committee/he/21-5.pdf",
+ "checked": "2026-11-15T15:04:00Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/signage-committee/he/21-5.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 541407,
+ "secs": 0.989307,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "673fd1cd3bef",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 9,
+ "pdf_meta": {
+  "Title": "נוהל ועדת שילוט לשמות צמתים ומחלפים וכיתוב השמות",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Fri Apr  7 08:59:30 2023 UTC",
+  "ModDate": "Sun May 21 08:01:42 2023 UTC"
+ },
+ "fonts_uni_no": 9,
+ "sha256": "02f99bd052e97f663425fcce941556c06574dd7450fdc0bf3be982524a96b14d",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/673fd1cd3bef.pdf",
+ "fix_log": [
+  "words=796 unknown=22 fixed=2"
+ ],
+ "image_pages": 2,
+ "table_pages": 0,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 86,
+ "lowconf_pages": [],
+ "text_pages": 9,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

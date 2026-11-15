@@ -1,0 +1,55 @@
+{
+ "url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf",
+ "checked": "2026-11-15T15:42:20Z",
+ "status": 200,
+ "final_url": "http://web.archive.org/web/20260302202940id_/https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 214618,
+ "secs": 0.072958,
+ "body_head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "ff92d0c44b5d",
+ "kind": "pdf",
+ "result": "ok (archive copy 20260302)",
+ "browser": {
+  "url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf",
+  "status": 403,
+  "final_url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf",
+  "content_type": "text/html; charset=UTF-8",
+  "redirects": 0
+ },
+ "archive_snapshot": "20260302202940",
+ "archive_url": "http://web.archive.org/web/20260302202940/https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf",
+ "via": "wayback",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "pages": 6,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 10.0.1",
+  "Creator": "Adobe InDesign CS6 (Windows)",
+  "CreationDate": "Thu Apr  3 12:40:42 2025 UTC",
+  "ModDate": "Thu Apr  3 12:41:03 2025 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "e6932167c66cc95d5d71ad5abf94d4918bbde37d2afffec67c0b732582da4065",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-hebrew-academy-org-il/ff92d0c44b5d.pdf",
+ "image_pages": 0,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 6,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

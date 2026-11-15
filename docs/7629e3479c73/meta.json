@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/speeding_up_road_network/he/hanhayot_mehirut.pdf",
+ "checked": "2026-11-15T14:52:07Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/speeding_up_road_network/he/hanhayot_mehirut.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1292631,
+ "secs": 2.562532,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "7629e3479c73",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 103,
+ "pdf_meta": {
+  "Title": "(Microsoft Word - \\361\\364\\355\\350\\356\\341\\370 - \\354\\344\\364\\367\\344.doc)",
+  "Producer": "GPL Ghostscript 8.56",
+  "Creator": "PScript5.dll Version 5.2.2",
+  "CreationDate": "Mon Oct 11 19:45:31 2010 UTC",
+  "ModDate": "Mon Oct 18 13:11:05 2010 UTC"
+ },
+ "fonts_uni_no": 12,
+ "sha256": "56b457a3a747d0dbcb503b7cba6619f8f4912e100f6716d4bee1bafb8903ca70",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/7629e3479c73.pdf",
+ "fix_log": [
+  "words=5014 unknown=192 fixed=4"
+ ],
+ "image_pages": 15,
+ "table_pages": 20,
+ "figure_ocr_pages": 14,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 93,
+ "lowconf_pages": [],
+ "text_pages": 103,
+ "ocr_pages": 10,
+ "layer": "mixed"
+}

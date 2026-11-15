@@ -1,0 +1,43 @@
+{
+ "url": "https://transportation.org.il/wp-content/uploads/2025/03/vrd_qryspyn_rmty-_yr_vvyr_nqy_tl_byb_ll_tmvnvt.pdf",
+ "checked": "2026-11-15T15:03:04Z",
+ "status": 200,
+ "final_url": "https://transportation.org.il/wp-content/uploads/2025/03/vrd_qryspyn_rmty-_yr_vvyr_nqy_tl_byb_ll_tmvnvt.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 935363,
+ "secs": 2.600099,
+ "server": "nginx",
+ "tries": [
+  200
+ ],
+ "id": "fa58401fbc23",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 14,
+ "pdf_meta": {
+  "Title": "PowerPoint Presentation",
+  "Producer": "LibreOffice 7.1",
+  "Creator": "Impress",
+  "CreationDate": "Sun Jul 11 12:25:10 2021 UTC",
+  "ModDate": ""
+ },
+ "fonts_uni_no": 0,
+ "sha256": "75b0b3afb1ec8e0f9e5d6ef2074ac496e304819d2ef6b13657c6e35a2561edc8",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-transportation-org-il/fa58401fbc23.pdf",
+ "fix_log": [
+  "words=347 unknown=30 fixed=1"
+ ],
+ "image_pages": 14,
+ "table_pages": 0,
+ "figure_ocr_pages": 6,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 78,
+ "lowconf_pages": [
+  1,
+  4
+ ],
+ "text_pages": 14,
+ "ocr_pages": 8,
+ "layer": "mixed"
+}

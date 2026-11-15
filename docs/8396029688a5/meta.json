@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_preparing_procedure_closing_tunnel/he/sgirat-minharot_0.pdf",
+ "checked": "2026-11-15T15:47:02Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_preparing_procedure_closing_tunnel/he/sgirat-minharot_0.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 440977,
+ "secs": 1.353546,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "8396029688a5",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 5,
+ "pdf_meta": {
+  "Title": "הנחיות לבחירה והשמה של חומרים תיקניים לסימון דרכים",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Tue Jun 23 17:23:59 2015 UTC",
+  "ModDate": "Tue Jun 23 17:23:59 2015 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "717a5355d1f2fed8506303b0de001e5f7a16511701734cbe93b071502addd09c",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8396029688a5.pdf",
+ "fix_log": [
+  "words=465 unknown=18 fixed=6"
+ ],
+ "image_pages": 2,
+ "table_pages": 0,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 87,
+ "lowconf_pages": [],
+ "text_pages": 5,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

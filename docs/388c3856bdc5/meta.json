@@ -1,0 +1,200 @@
+{
+ "url": "https://www.gov.il/he/Departments/General/road_tunnel_guidelines",
+ "checked": "2026-11-15T15:42:20Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/road_tunnel_guidelines",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5188,
+ "secs": 0.086878,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "388c3856bdc5",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון מנהרות בכבישים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_opening.pdf",
+   "text": "דפי פתיחה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_table_of_contents.pdf",
+   "text": "תוכן עניינים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_introduction.pdf",
+   "text": "מבוא"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_engineering_aspects.pdf",
+   "text": "היבטים הנדסיים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_geomatric_designer.pdf",
+   "text": "תכן גיאומטרי"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_ventilation_systems_in_tunnels.pdf",
+   "text": "מערכת אוורור במנהרות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_fire_saftey.pdf",
+   "text": "בטיחות באש"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_lights_electricity_communication.pdf",
+   "text": "תאורה, חשמל ותקשורת"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_integration_of_infrastructure_in_tunnels.pdf",
+   "text": "שילוב מערכות תשתית במנהרות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_environmental_aspects.pdf",
+   "text": "היבטים סביבתיים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_bibliography.pdf",
+   "text": "רשימת מקורות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_12-3.12.pdf",
+   "text": "תרשים 3_12-3.12"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_13-3.13.pdf",
+   "text": "תרשים 3_ 13-3.13"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 A-100.pdf",
+   "text": "תרשים 3_15 A-100"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 B-100.pdf",
+   "text": "תרשים 3_15 B-100"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 G-100.pdf",
+   "text": "תרשים 3_15 G-100"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16 A-3.16A.pdf",
+   "text": "תרשים 3_16 A-3.16A"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16 B-3.16B.pdf",
+   "text": "תרשים 3_B-3.16B"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_17-3.17-500.pdf",
+   "text": "תרשים 3_ 17-3.17-500"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_18-3.18.pdf",
+   "text": "תרשים 3_18-3.18"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_19-3.19.pdf",
+   "text": "תרשים 3_19-3.19"
+  }
+ ],
+ "all_links": 61,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_opening.pdf",
+   "text": "דפי פתיחה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_table_of_contents.pdf",
+   "text": "תוכן עניינים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_introduction.pdf",
+   "text": "מבוא"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_engineering_aspects.pdf",
+   "text": "היבטים הנדסיים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_geomatric_designer.pdf",
+   "text": "תכן גיאומטרי"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_ventilation_systems_in_tunnels.pdf",
+   "text": "מערכת אוורור במנהרות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_fire_saftey.pdf",
+   "text": "בטיחות באש"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_lights_electricity_communication.pdf",
+   "text": "תאורה, חשמל ותקשורת"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_integration_of_infrastructure_in_tunnels.pdf",
+   "text": "שילוב מערכות תשתית במנהרות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_environmental_aspects.pdf",
+   "text": "היבטים סביבתיים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_bibliography.pdf",
+   "text": "רשימת מקורות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_12-3.12.pdf",
+   "text": "תרשים 3_12-3.12"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_13-3.13.pdf",
+   "text": "תרשים 3_ 13-3.13"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 A-100.pdf",
+   "text": "תרשים 3_15 A-100"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 B-100.pdf",
+   "text": "תרשים 3_15 B-100"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 G-100.pdf",
+   "text": "תרשים 3_15 G-100"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16 A-3.16A.pdf",
+   "text": "תרשים 3_16 A-3.16A"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16 B-3.16B.pdf",
+   "text": "תרשים 3_B-3.16B"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_17-3.17-500.pdf",
+   "text": "תרשים 3_ 17-3.17-500"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_18-3.18.pdf",
+   "text": "תרשים 3_18-3.18"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_19-3.19.pdf",
+   "text": "תרשים 3_19-3.19"
+  }
+ ]
+}
