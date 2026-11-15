@@ -1,0 +1,46 @@
+{
+ "url": "https://nzc.org.il/uploads/n/1584259727.6546.pdf",
+ "checked": "2026-11-15T14:52:19Z",
+ "status": 200,
+ "final_url": "https://nzc.org.il/uploads/n/1584259727.6546.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 21037706,
+ "secs": 3.720943,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "ed95851591e1",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 193,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Sun Jan  8 13:18:07 2017 UTC",
+  "ModDate": "Sun Jan  8 13:18:07 2017 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "5ae0ff951a83d26c5c3d4da38458c95f3fa0e760c728aa884ff3b5bea825f47f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-nzc-org-il/ed95851591e1.pdf",
+ "fix_log": [
+  "words=8152 unknown=683 fixed=13"
+ ],
+ "image_pages": 82,
+ "table_pages": 10,
+ "figure_ocr_pages": 71,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 74,
+ "lowconf_pages": [
+  26,
+  43,
+  57,
+  61,
+  104
+ ],
+ "text_pages": 193,
+ "ocr_pages": 11,
+ "layer": "mixed"
+}

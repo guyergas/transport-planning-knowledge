@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/maor_badrahim/he/TRAFFIC_PLANNING_MaorBadrahim.pdf",
+ "checked": "2026-11-15T15:43:38Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/maor_badrahim/he/TRAFFIC_PLANNING_MaorBadrahim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 27569610,
+ "secs": 40.224025,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "53f10064d875",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 85,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe Photoshop for Macintosh",
+  "Creator": "Adobe Photoshop 6.0 ME",
+  "CreationDate": "Sun Jun 12 10:08:26 2005 UTC",
+  "ModDate": "Thu Jun 23 08:24:10 2005 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "53f5d5575dd058be40de7216a36f118871c99085ad8dba4c40ef72d5522e6249",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/53f10064d875.pdf",
+ "fix_log": [
+  "words=2980 unknown=311 fixed=41"
+ ],
+ "image_pages": 85,
+ "table_pages": 7,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 7,
+ "ocr_conf_mean": 87,
+ "lowconf_pages": [
+  16,
+  45
+ ],
+ "text_pages": 85,
+ "ocr_pages": 85,
+ "layer": "broken"
+}

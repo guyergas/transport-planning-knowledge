@@ -1,0 +1,1085 @@
+{
+ "front": {
+  "edition": [
+   "שניה",
+   "מעודכנת",
+   "החדשה\""
+  ],
+  "dates": [
+   "אוקטובר 2020",
+   "אוקטובר 2011",
+   "2020"
+  ],
+  "publisher": [
+   "משרד הבינוי והשיכון                               משרד",
+   "אגף האדריכל הראשי",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד הבינוי והשיכון                             משרד הת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "24": "1",
+  "26": "1",
+  "28": "1",
+  "30": "1",
+  "32": "1",
+  "140": "17",
+  "144": "6"
+ },
+ "toc_pages": [
+  12,
+  16
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "פרק \u001a1",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 156
+  },
+  {
+   "num": "1.1",
+   "title": "הצומת כמקום בעיר",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "1.2",
+   "title": "מטרת ההנחיות",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "1.3",
+   "title": "ההנחיות לתכנון צמתים עירוניים כחלק",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "1.4",
+   "title": "נמעני ההנחיות לתכנון הצומת",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "1.5",
+   "title": "מרחב הגמישות ביישום ההנחיות לתכנון רחובות",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "1.6",
+   "title": "מבנה ספר ההנחיות",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "1.7",
+   "title": "תחולת ההנחיות ותקפותן",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "1.8",
+   "title": "הגדרות ומושגים",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 35
+  },
+  {
+   "num": "2.1",
+   "title": "מאפייני הצומת",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.1.1",
+   "title": "הצומת כ״מקום״ עירוני",
+   "chapter": null,
+   "start": 36,
+   "level": 3,
+   "end": 36
+  },
+  {
+   "num": "2.1.2",
+   "title": "הצומת כמרחב לפעילות מוגברת ומורכבת",
+   "chapter": null,
+   "start": 37,
+   "level": 3,
+   "end": 37
+  },
+  {
+   "num": "2.1.3",
+   "title": "הצומת כמרחב תנועה משותף",
+   "chapter": null,
+   "start": 38,
+   "level": 3,
+   "end": 38
+  },
+  {
+   "num": "2.1.4",
+   "title": "הצומת כמקום מועד לתאונות",
+   "chapter": null,
+   "start": 39,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "2.2",
+   "title": "עקרונות לתכנון הצומת במרחב העירוני",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 40
+  },
+  {
+   "num": "2.2.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 40,
+   "level": 3,
+   "end": 40
+  },
+  {
+   "num": "2.2.2",
+   "title": "נראות מרבית של הצומת",
+   "chapter": null,
+   "start": 40,
+   "level": 3,
+   "end": 40
+  },
+  {
+   "num": "2.2.3",
+   "title": "שמירת מרחק נכון בין צמתים",
+   "chapter": null,
+   "start": 40,
+   "level": 3,
+   "end": 40
+  },
+  {
+   "num": "2.2.4",
+   "title": "עקביות ושיטתיות בתכנון הצמתים",
+   "chapter": null,
+   "start": 41,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "2.3",
+   "title": "עקרונות לתכנון מרחב הצומת",
+   "chapter": null,
+   "start": 41,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "2.3.1",
+   "title": "הקצאת מרחב מספק",
+   "chapter": null,
+   "start": 41,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "2.3.2",
+   "title": "ארגון מרחב הצומת",
+   "chapter": null,
+   "start": 41,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "2.3.3",
+   "title": "ייעול וצמצום מרחב הצומת",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "2.3.4",
+   "title": "איזון בין משתמשי המרחב",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "2.4",
+   "title": "שיקולים בטיחותיים בתכנון מרחב הצומת",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 44
+  },
+  {
+   "num": "2.4.1",
+   "title": "צמצום מרחבים משותפים",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "2.4.3",
+   "title": "הסדרת בהירות הצומת",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "2.5",
+   "title": "עקרונות לתכנון עבור התנועות הרכות",
+   "chapter": null,
+   "start": 45,
+   "level": 2,
+   "end": 49
+  },
+  {
+   "num": "2.5.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "2.5.2",
+   "title": "עקרונות תכנון לתנועת הולכי-הרגל בצומת",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "2.5.3",
+   "title": "עקרונות תכנון לתנועת אופניים בצומת",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 49
+  },
+  {
+   "num": "3.1",
+   "title": "מבוא  -דיוקן הצומת",
+   "chapter": null,
+   "start": 50,
+   "level": 2,
+   "end": 50
+  },
+  {
+   "num": "3.2",
+   "title": "איפיון אורבני",
+   "chapter": null,
+   "start": 50,
+   "level": 2,
+   "end": 51
+  },
+  {
+   "num": "3.3",
+   "title": "איפיון מבני",
+   "chapter": null,
+   "start": 52,
+   "level": 2,
+   "end": 52
+  },
+  {
+   "num": "3.4",
+   "title": "איפיון תנועתי",
+   "chapter": null,
+   "start": 53,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "3.4.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 53,
+   "level": 3,
+   "end": 53
+  },
+  {
+   "num": "3.4.2",
+   "title": "סוגי התנועות",
+   "chapter": null,
+   "start": 53,
+   "level": 3,
+   "end": 53
+  },
+  {
+   "num": "3.4.3",
+   "title": "מהירות הייעוד",
+   "chapter": null,
+   "start": 54,
+   "level": 3,
+   "end": 54
+  },
+  {
+   "num": "3.4.4",
+   "title": "נפחי התנועה",
+   "chapter": null,
+   "start": 55,
+   "level": 3,
+   "end": 55
+  },
+  {
+   "num": "3.5",
+   "title": "הפרדה מפלסית",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 55
+  },
+  {
+   "num": "3.6",
+   "title": "איפיון בקרת המפגשים",
+   "chapter": null,
+   "start": 56,
+   "level": 2,
+   "end": 59
+  },
+  {
+   "num": "3.7",
+   "title": "תרשים מרכיבי דיוקן הצומת",
+   "chapter": null,
+   "start": 60,
+   "level": 2,
+   "end": 61
+  },
+  {
+   "num": "3.8",
+   "title": "מדיוקן הצומת לתבנית הצומת",
+   "chapter": null,
+   "start": 62,
+   "level": 2,
+   "end": 63
+  },
+  {
+   "num": "3.8.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 62,
+   "level": 3,
+   "end": 62
+  },
+  {
+   "num": "3.8.2",
+   "title": "זכות הדרך בצומת",
+   "chapter": null,
+   "start": 62,
+   "level": 3,
+   "end": 62
+  },
+  {
+   "num": "3.8.3",
+   "title": "תכולת תבנית הצומת",
+   "chapter": null,
+   "start": 63,
+   "level": 3,
+   "end": 63
+  },
+  {
+   "num": "3.8.4",
+   "title": "תבנית כהליך מחזורי",
+   "chapter": null,
+   "start": 63,
+   "level": 3,
+   "end": 63
+  },
+  {
+   "num": "3.9",
+   "title": "יצירת תבנית צומת מאוזנת",
+   "chapter": null,
+   "start": 64,
+   "level": 2,
+   "end": 67
+  },
+  {
+   "num": "4.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 68,
+   "level": 2,
+   "end": 68
+  },
+  {
+   "num": "4.2",
+   "title": "תכנון הצומת משלב קביעת הרשת",
+   "chapter": null,
+   "start": 68,
+   "level": 2,
+   "end": 72
+  },
+  {
+   "num": "4.2.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 68,
+   "level": 3,
+   "end": 68
+  },
+  {
+   "num": "4.2.2",
+   "title": "תכנון הצומת בשלב תכנון הרשת העירונית",
+   "chapter": null,
+   "start": 69,
+   "level": 3,
+   "end": 69
+  },
+  {
+   "num": "4.2.3",
+   "title": "שלב הדיוקן בתכנון הצומת",
+   "chapter": null,
+   "start": 70,
+   "level": 3,
+   "end": 71
+  },
+  {
+   "num": "4.2.4",
+   "title": "הצומת בתכנון המפורט",
+   "chapter": null,
+   "start": 72,
+   "level": 3,
+   "end": 72
+  },
+  {
+   "num": "4.3",
+   "title": "נתוני הצומת הנדרשים לתכנון",
+   "chapter": null,
+   "start": 73,
+   "level": 2,
+   "end": 79
+  },
+  {
+   "num": "4.3.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 73,
+   "level": 3,
+   "end": 73
+  },
+  {
+   "num": "4.3.2",
+   "title": "תכנית מדידה",
+   "chapter": null,
+   "start": 74,
+   "level": 3,
+   "end": 75
+  },
+  {
+   "num": "4.3.3",
+   "title": "חומרי הגלם לתכנון הצומת",
+   "chapter": null,
+   "start": 76,
+   "level": 3,
+   "end": 79
+  },
+  {
+   "num": "5.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 80,
+   "level": 2,
+   "end": 80
+  },
+  {
+   "num": "5.2",
+   "title": "מספר נתיבי הצומת",
+   "chapter": null,
+   "start": 81,
+   "level": 2,
+   "end": 84
+  },
+  {
+   "num": "5.2.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 81,
+   "level": 3,
+   "end": 82
+  },
+  {
+   "num": "5.2.2",
+   "title": "נתיבים בצומת דרכים",
+   "chapter": null,
+   "start": 83,
+   "level": 3,
+   "end": 83
+  },
+  {
+   "num": "5.2.3",
+   "title": "נתיבים בצומת רחובות",
+   "chapter": null,
+   "start": 84,
+   "level": 3,
+   "end": 84
+  },
+  {
+   "num": "5.3",
+   "title": "רוחב נתיבים בצומת",
+   "chapter": null,
+   "start": 85,
+   "level": 2,
+   "end": 86
+  },
+  {
+   "num": "5.3.1",
+   "title": "רוחב נתיבים במבואות הצומת",
+   "chapter": null,
+   "start": 85,
+   "level": 3,
+   "end": 85
+  },
+  {
+   "num": "5.3.2",
+   "title": "רוחב נתיבים בתוך הצומת",
+   "chapter": null,
+   "start": 86,
+   "level": 3,
+   "end": 86
+  },
+  {
+   "num": "5.4",
+   "title": "פרישת הנתיבים במבואות הצומת",
+   "chapter": null,
+   "start": 87,
+   "level": 2,
+   "end": 91
+  },
+  {
+   "num": "5.4.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 87,
+   "level": 3,
+   "end": 87
+  },
+  {
+   "num": "5.4.2",
+   "title": "פרישת הנתיבים בגישה לצומת",
+   "chapter": null,
+   "start": 87,
+   "level": 3,
+   "end": 88
+  },
+  {
+   "num": "5.4.3",
+   "title": "פרישת הנתיבים לאחר הצומת",
+   "chapter": null,
+   "start": 89,
+   "level": 3,
+   "end": 91
+  },
+  {
+   "num": "5.5",
+   "title": "קביעת נתיבים מיוחדים במבואות הצומת",
+   "chapter": null,
+   "start": 92,
+   "level": 2,
+   "end": 96
+  },
+  {
+   "num": "5.5.1",
+   "title": "נתיבי האצה והאטה",
+   "chapter": null,
+   "start": 92,
+   "level": 3,
+   "end": 92
+  },
+  {
+   "num": "5.5.2",
+   "title": "פנייה חופשית ימינה",
+   "chapter": null,
+   "start": 93,
+   "level": 3,
+   "end": 94
+  },
+  {
+   "num": "5.5.3",
+   "title": "נתיבים מיוחדים לפנייה ימינה",
+   "chapter": null,
+   "start": 95,
+   "level": 3,
+   "end": 95
+  },
+  {
+   "num": "5.5.4",
+   "title": "נתיבים מיוחדים לפנייה שמאלה",
+   "chapter": null,
+   "start": 96,
+   "level": 3,
+   "end": 96
+  },
+  {
+   "num": "5.4",
+   "title": "נתוני היסט ראו טבלה",
+   "chapter": null,
+   "start": 97,
+   "level": 2,
+   "end": 97
+  },
+  {
+   "num": "5.50",
+   "title": "מינימום",
+   "chapter": null,
+   "start": 97,
+   "level": 2,
+   "end": 97
+  },
+  {
+   "num": "2.50",
+   "title": "מינימום",
+   "chapter": null,
+   "start": 97,
+   "level": 2,
+   "end": 97
+  },
+  {
+   "num": "5.5.4",
+   "title": "אורך אחסון ראו סעיף",
+   "chapter": null,
+   "start": 97,
+   "level": 3,
+   "end": 97
+  },
+  {
+   "num": "5.6",
+   "title": "מיקומו הטופוגרפי של הצומת",
+   "chapter": null,
+   "start": 97,
+   "level": 2,
+   "end": 99
+  },
+  {
+   "num": "5.6.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 97,
+   "level": 3,
+   "end": 97
+  },
+  {
+   "num": "5.6.2",
+   "title": "בדיקת חתך לאורך",
+   "chapter": null,
+   "start": 97,
+   "level": 3,
+   "end": 97
+  },
+  {
+   "num": "5.6.3",
+   "title": "עקומים אנכיים",
+   "chapter": null,
+   "start": 98,
+   "level": 3,
+   "end": 98
+  },
+  {
+   "num": "5.6.4",
+   "title": "השיפוע האורכי",
+   "chapter": null,
+   "start": 99,
+   "level": 3,
+   "end": 99
+  },
+  {
+   "num": "5.7",
+   "title": "העקום האופקי",
+   "chapter": null,
+   "start": 100,
+   "level": 2,
+   "end": 101
+  },
+  {
+   "num": "5.8",
+   "title": "תכן גיאומטרי של איי תנועה",
+   "chapter": null,
+   "start": 102,
+   "level": 2,
+   "end": 108
+  },
+  {
+   "num": "5.8.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 102,
+   "level": 3,
+   "end": 102
+  },
+  {
+   "num": "5.8.2",
+   "title": "מפרדה",
+   "chapter": null,
+   "start": 103,
+   "level": 3,
+   "end": 103
+  },
+  {
+   "num": "5.8.3",
+   "title": "אי תנועה (׳אי טיפה׳)",
+   "chapter": null,
+   "start": 104,
+   "level": 3,
+   "end": 107
+  },
+  {
+   "num": "5.8.4",
+   "title": "אי משולש",
+   "chapter": null,
+   "start": 108,
+   "level": 3,
+   "end": 108
+  },
+  {
+   "num": "5.5",
+   "title": "ראו תרשים",
+   "chapter": null,
+   "start": 109,
+   "level": 2,
+   "end": 110
+  },
+  {
+   "num": "5.9",
+   "title": "קווי הצומת",
+   "chapter": null,
+   "start": 111,
+   "level": 2,
+   "end": 111
+  },
+  {
+   "num": "5.9.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 111,
+   "level": 3,
+   "end": 111
+  },
+  {
+   "num": "5.9.2",
+   "title": "קווי זכות הדרך",
+   "chapter": null,
+   "start": 111,
+   "level": 3,
+   "end": 111
+  },
+  {
+   "num": "5.9.3",
+   "title": "רדיוסי שפה  -רדיוסים של קווי אבן השפה",
+   "chapter": null,
+   "start": 111,
+   "level": 3,
+   "end": 111
+  },
+  {
+   "num": "5.18",
+   "title": "ראו תרשים",
+   "chapter": null,
+   "start": 112,
+   "level": 2,
+   "end": 112
+  },
+  {
+   "num": "5.19",
+   "title": "ראו תרשים",
+   "chapter": null,
+   "start": 113,
+   "level": 2,
+   "end": 113
+  },
+  {
+   "num": "5.10",
+   "title": "רדיוס לפי טבלה 5.10                      רדיוס לפי טבלה",
+   "chapter": null,
+   "start": 113,
+   "level": 2,
+   "end": 115
+  },
+  {
+   "num": "5.10",
+   "title": "מרחב הראות בצומת",
+   "chapter": null,
+   "start": 116,
+   "level": 2,
+   "end": 116
+  },
+  {
+   "num": "5.10.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 116,
+   "level": 3,
+   "end": 116
+  },
+  {
+   "num": "5.28",
+   "title": "ראו תרשים",
+   "chapter": null,
+   "start": 116,
+   "level": 2,
+   "end": 117
+  },
+  {
+   "num": "5.10.5",
+   "title": "בסעיפים 5.10.11",
+   "chapter": null,
+   "start": 116,
+   "level": 3,
+   "end": 116
+  },
+  {
+   "num": "5.10.3",
+   "title": "בצומת. סעיפים",
+   "chapter": null,
+   "start": 116,
+   "level": 3,
+   "end": 116
+  },
+  {
+   "num": "5.10.3",
+   "title": "אזור קרן הרחוב",
+   "chapter": null,
+   "start": 117,
+   "level": 3,
+   "end": 117
+  },
+  {
+   "num": "5.10.4",
+   "title": "אזור הראות במפרדה (ברחוב מחולק)",
+   "chapter": null,
+   "start": 117,
+   "level": 3,
+   "end": 117
+  },
+  {
+   "num": "5.10.5",
+   "title": "המתודולוגיה לחישוב צלעות משולשי הראות למצבים השונים",
+   "chapter": null,
+   "start": 118,
+   "level": 3,
+   "end": 118
+  },
+  {
+   "num": "5.10.5.1",
+   "title": "מרכיבי משולש הראות",
+   "chapter": null,
+   "start": 118,
+   "level": 4,
+   "end": 118
+  },
+  {
+   "num": "5.23",
+   "title": "במשולש הראות שלוש צלעות (תרשימים \u001a)5.26",
+   "chapter": null,
+   "start": 118,
+   "level": 2,
+   "end": 121
+  },
+  {
+   "num": "5.10.5.3",
+   "title": "פירוט המצבים האפשריים",
+   "chapter": null,
+   "start": 122,
+   "level": 4,
+   "end": 122
+  },
+  {
+   "num": "5.10.6",
+   "title": "ראו סעיף",
+   "chapter": null,
+   "start": 122,
+   "level": 3,
+   "end": 122
+  },
+  {
+   "num": "5.13",
+   "title": "וטבלה",
+   "chapter": null,
+   "start": 122,
+   "level": 2,
+   "end": 122
+  },
+  {
+   "num": "5.10.7",
+   "title": "ראו סעיף",
+   "chapter": null,
+   "start": 122,
+   "level": 3,
+   "end": 122
+  },
+  {
+   "num": "5.14",
+   "title": "וטבלה",
+   "chapter": null,
+   "start": 122,
+   "level": 2,
+   "end": 135
+  },
+  {
+   "num": "5.10.8",
+   "title": "ראו סעיף",
+   "chapter": null,
+   "start": 122,
+   "level": 3,
+   "end": 122
+  },
+  {
+   "num": "5.10.5.4",
+   "title": "ערכי הפערים הקריטיים",
+   "chapter": null,
+   "start": 123,
+   "level": 4,
+   "end": 123
+  },
+  {
+   "num": "5.10.6",
+   "title": "משולשי ראות ללא חובת עצירה",
+   "chapter": null,
+   "start": 123,
+   "level": 3,
+   "end": 125
+  },
+  {
+   "num": "5.10.6.1",
+   "title": "המתודולוגיה לקביעת משולשי הראות ללא חובת עצירה",
+   "chapter": null,
+   "start": 123,
+   "level": 4,
+   "end": 123
+  },
+  {
+   "num": "5.10.6.2",
+   "title": "קביעת צלעות משולש הראות ללא חובת עצירה",
+   "chapter": null,
+   "start": 124,
+   "level": 4,
+   "end": 125
+  },
+  {
+   "num": "5.10.7",
+   "title": "משולשי ראות מעצירה",
+   "chapter": null,
+   "start": 126,
+   "level": 3,
+   "end": 126
+  },
+  {
+   "num": "5.10.8",
+   "title": "מרחק ראות לפנייה שמאלה מהציר הראשי",
+   "chapter": null,
+   "start": 127,
+   "level": 3,
+   "end": 128
+  },
+  {
+   "num": "5.10.9",
+   "title": "תיקונים לשיפוע ולזווית",
+   "chapter": null,
+   "start": 129,
+   "level": 3,
+   "end": 129
+  },
+  {
+   "num": "5.10.10",
+   "title": "הנחיות נוספות ליישום",
+   "chapter": null,
+   "start": 129,
+   "level": 3,
+   "end": 129
+  },
+  {
+   "num": "5.10.11",
+   "title": "מגבלות בתחום משולשי הראות",
+   "chapter": null,
+   "start": 130,
+   "level": 3,
+   "end": 131
+  },
+  {
+   "num": "6.2.6",
+   "title": "ראו גם סעיפים",
+   "chapter": null,
+   "start": 132,
+   "level": 3,
+   "end": 135
+  },
+  {
+   "num": "6.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 136,
+   "level": 2,
+   "end": 136
+  },
+  {
+   "num": "6.2",
+   "title": "תבניות צמתים אופייניות",
+   "chapter": null,
+   "start": 136,
+   "level": 2,
+   "end": 137
+  },
+  {
+   "num": "2.50",
+   "title": "רצועת הליכה",
+   "chapter": null,
+   "start": 138,
+   "level": 2,
+   "end": 138
+  },
+  {
+   "num": "1.20",
+   "title": "רצועת עזר",
+   "chapter": null,
+   "start": 138,
+   "level": 2,
+   "end": 138
+  },
+  {
+   "num": "2.00",
+   "title": "רצועת חניה",
+   "chapter": null,
+   "start": 138,
+   "level": 2,
+   "end": 138
+  },
+  {
+   "num": "2.50",
+   "title": "נתיב תנועה",
+   "chapter": null,
+   "start": 138,
+   "level": 2,
+   "end": 138
+  },
+  {
+   "num": "0.30",
+   "title": "רצועת דופן",
+   "chapter": null,
+   "start": 138,
+   "level": 2,
+   "end": 156
+  }
+ ],
+ "coverage": "sections"
+}

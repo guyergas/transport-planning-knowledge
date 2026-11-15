@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/procedure_approval_plans_preferential_arrangements_public_transportation/he/nohal-hesderey-haadafa.pdf",
+ "checked": "2026-11-15T15:52:24Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/procedure_approval_plans_preferential_arrangements_public_transportation/he/nohal-hesderey-haadafa.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 362731,
+ "secs": 1.165338,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "a0b2a05b9e55",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 6,
+ "pdf_meta": {
+  "Title": "שם הנוהל: אישור תכניות להסדרי העדפה עבור תחבורה ציבורית - מהדורה מס' 2, דצמבר 2015",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Tue Dec 15 15:44:48 2015 UTC",
+  "ModDate": "Wed May 18 12:00:39 2016 UTC"
+ },
+ "fonts_uni_no": 7,
+ "sha256": "735008a4325294613272b8e23263c9f09dd6d93ed1f1a880e5ba692da068e4eb",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a0b2a05b9e55.pdf",
+ "image_pages": 6,
+ "table_pages": 0,
+ "figure_ocr_pages": 6,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 6,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

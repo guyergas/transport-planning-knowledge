@@ -1,0 +1,51 @@
+{
+ "url": "https://eshed-mtl.co.il/documents/336/view",
+ "checked": "2026-11-15T15:52:22Z",
+ "status": 200,
+ "final_url": "https://eshed-mtl.co.il/documents/336/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 41954,
+ "secs": 2.761794,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "a817f9f9ee3c",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://eshed-mtl.co.il/documents/336/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://eshed-mtl.co.il/uploads/הנחיות/hanhayot letaskirey betihut 7 26.pdf",
+   "text": ""
+  },
+  {
+   "url": "https://eshedm-my.sharepoint.com/:b:/g/personal/yoramgr_eshed-m_co_il/IQA5kjvtS3wrQpB5lwPVYzQMAYBtjGSgrwVhBB1q9Ngrbdc?e=Srcg6b",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://eshed-mtl.co.il/documents/336/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://eshed-mtl.co.il/documents/336/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 45,
+ "unknown_file_links": [
+  {
+   "url": "https://eshed-mtl.co.il/uploads/הנחיות/hanhayot letaskirey betihut 7 26.pdf",
+   "text": ""
+  },
+  {
+   "url": "https://eshedm-my.sharepoint.com/:b:/g/personal/yoramgr_eshed-m_co_il/IQA5kjvtS3wrQpB5lwPVYzQMAYBtjGSgrwVhBB1q9Ngrbdc?e=Srcg6b",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}

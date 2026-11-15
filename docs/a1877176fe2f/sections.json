@@ -1,0 +1,118 @@
+{
+ "front": {
+  "dates": [
+   "יולי 2003",
+   "1900"
+  ],
+  "publisher": [
+   "נתיבי איילון בע'ימ",
+   "משרד התחבורה",
+   "משרד התחבורה ובהן פרק על תכנון"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "10",
+  "3": "13",
+  "10": "10",
+  "12": "12",
+  "13": "13",
+  "14": "14",
+  "15": "15",
+  "16": "6",
+  "17": "7",
+  "18": "8"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "קביעת קיבולת עמדה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "3",
+   "title": "תחנות באזור בנוי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "4",
+   "title": "קווים פועלים לא רצוף",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "5",
+   "title": "תהליך התכנון של מקבצי התחנות",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "6",
+   "title": "התיעצות by כלמפעילי הקווים של המקב*י",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 16
+  },
+  {
+   "num": "3.4",
+   "title": "סדר הקבצות קווים",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "7",
+   "title": "סמל נגישות לאוכלוסייה עם מוגבלויות",
+   "chapter": null,
+   "start": 17,
+   "level": 1,
+   "end": 17
+  },
+  {
+   "num": "8",
+   "title": "סמל קו לתחנת רכבת",
+   "chapter": null,
+   "start": 17,
+   "level": 1,
+   "end": 17
+  },
+  {
+   "num": "8.1",
+   "title": "MINN /שפות Nav",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "9",
+   "title": "אחידות הכנת תמרורי ב-56",
+   "chapter": null,
+   "start": 18,
+   "level": 1,
+   "end": 18
+  }
+ ],
+ "coverage": "sections"
+}

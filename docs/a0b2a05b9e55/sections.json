@@ -1,0 +1,55 @@
+{
+ "front": {
+  "edition": [
+   "'",
+   "2"
+  ],
+  "dates": [
+   "דצמבר 2015"
+  ],
+  "publisher": [
+   "אגף בכיר תכנון תחבורתי",
+   "רשות התמרור המרכזית לבדיקה ואישור של הסדרי התנועה הקבוע",
+   "משרד התחבורה \"תכנון עד לפתיחה – מסלולי תחבורה ציבורית\"",
+   "רשות התמרור המרכזית – רשות התמרור המרכזית שהתכנית בתחומ"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "בללי",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "2",
+   "title": "מטרה",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "3",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "4",
+   "title": "אישור התכניות והנחיות לביצוע =",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 6
+  }
+ ],
+ "coverage": "sections"
+}

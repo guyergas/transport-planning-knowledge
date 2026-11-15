@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/parking-plan/he/2412-23.pdf",
+ "checked": "2026-11-15T16:40:47Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/parking-plan/he/2412-23.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3319853,
+ "secs": 6.553725,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "db7081241678",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 148,
+ "pdf_meta": {
+  "Title": "תעב לוגו אורנה להמן",
+  "Producer": "Adobe PDF Library 20.9.95",
+  "Creator": "Acrobat PDFMaker 20 for Word",
+  "CreationDate": "Sun Dec 24 10:01:40 2023 UTC",
+  "ModDate": "Sun Dec 24 10:07:31 2023 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "92ecada7adf85250aa9b8a90934abb9fcbf0a7a6c7bdaed5491080cb00a903ae",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/db7081241678.pdf",
+ "image_pages": 22,
+ "table_pages": 10,
+ "figure_ocr_pages": 22,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 148,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

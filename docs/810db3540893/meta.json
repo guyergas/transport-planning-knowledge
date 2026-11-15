@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/legalinfo/israeli_accessibility_standards/he/sitedocs_tekenyisraeli5990helek1.pdf",
+ "checked": "2026-11-15T16:40:33Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/legalinfo/israeli_accessibility_standards/he/sitedocs_tekenyisraeli5990helek1.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 89315,
+ "secs": 0.271901,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "810db3540893",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 10,
+ "pdf_meta": {
+  "Title": "05990-01-00-0-w2003.doc",
+  "Producer": "pdfFactory 4.50 (Windows XP Professional x86 Hebrew)",
+  "Creator": "pdfFactory www.pdffactory.com",
+  "CreationDate": "Thu Jan 19 07:10:18 2012 UTC",
+  "ModDate": "Thu Jun 21 11:12:17 2012 UTC"
+ },
+ "fonts_uni_no": 9,
+ "sha256": "78589dedc997b8eaaef6d0f71e39de810f5613a02bda4a5cfde313bde6aaffa6",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/810db3540893.pdf",
+ "fix_log": [
+  "words=715 unknown=52 fixed=2"
+ ],
+ "image_pages": 0,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 92,
+ "lowconf_pages": [],
+ "text_pages": 10,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

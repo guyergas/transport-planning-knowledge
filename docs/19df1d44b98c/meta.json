@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/iplan_doc2/he/District_planning_institutions_examinees_for_plans_planning_institutions.pdf",
+ "checked": "2026-11-15T14:52:12Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/iplan_doc2/he/District_planning_institutions_examinees_for_plans_planning_institutions.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2369339,
+ "secs": 6.476516,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "19df1d44b98c",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 7,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 15.0",
+  "Creator": "Adobe InDesign 15.0 (Macintosh)",
+  "CreationDate": "Mon Jun 22 07:13:27 2020 UTC",
+  "ModDate": "Mon Jun 22 07:13:30 2020 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "8870882bc1154ea22bd97f2e97bbbfc4775de13c4167383b550a75f5dbeb8c4c",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/19df1d44b98c.pdf",
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 7,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

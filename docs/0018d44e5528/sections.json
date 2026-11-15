@@ -1,0 +1,141 @@
+{
+ "front": {
+  "dates": [
+   "מרץ 2019",
+   "מאי 2017"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "אגף תכנון תחבורתי",
+   "מינהל היבשה  /אגף תכנון תחבורתי",
+   "נתיבי העדפה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "i",
+  "5": "1",
+  "14": "10",
+  "15": "11",
+  "16": "50",
+  "17": "50",
+  "18": "20",
+  "20": "16",
+  "21": "17",
+  "22": "18",
+  "25": "21",
+  "28": "24",
+  "29": "25",
+  "33": "29"
+ },
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "2.1",
+   "title": "סוגי נתיבים לתחבורה ציבורית",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2.2",
+   "title": "כללים לתמרור נתיבי העדפה לתחבורה ציבורית",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2",
+   "title": "הנחיות כלליות",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 33
+  },
+  {
+   "num": "2.5",
+   "title": "סימון נתיבי העדפה",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "2.6",
+   "title": "תמרורים אחרים",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "2.7",
+   "title": "מידות התמרורים",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "4.1",
+   "title": "שות\"צ בדרכים ממוחלפות",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "4.2",
+   "title": "נת\"צ ימני בדרך מהירה",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "4.3",
+   "title": "נת\"צ שמאלי בדרך מהירה",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "4.4",
+   "title": "מת\"צ בדרך מהירה",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "4.5",
+   "title": "שות\"צ בדרכים ראשיות ואזוריות",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 31
+  },
+  {
+   "num": "4.1",
+   "title": "ובתרשים .17",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 31
+  },
+  {
+   "num": "4.6",
+   "title": "נת\"צ ימני בדרך ראשית/אזורית",
+   "chapter": null,
+   "start": 32,
+   "level": 2,
+   "end": 33
+  }
+ ],
+ "coverage": "sections"
+}
