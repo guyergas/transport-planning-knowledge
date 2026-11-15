@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/97/view",
+ "checked": "2026-11-15T14:36:06Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/97/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40789,
+ "secs": 0.669141,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "ca5581da85be",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/97/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/%D7%A9%D7%95%D7%9C%20%D7%9C%D7%AA%D7%97%D7%91%D7%A6%20-%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/97/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/97/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}

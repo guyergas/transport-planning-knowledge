@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/102/view",
+ "checked": "2026-11-15T14:36:07Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/102/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40655,
+ "secs": 0.686786,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "93e665b33124",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/102/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/road_engineering_guide.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/102/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/102/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/road_engineering_guide.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}

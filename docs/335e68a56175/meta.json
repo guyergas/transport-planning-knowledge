@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/42/view",
+ "checked": "2026-11-15T14:35:46Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/42/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40237,
+ "secs": 0.63767,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "335e68a56175",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/42/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_school/he/TRAFFIC_PLANNING_TihnunTahanotSchool.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/42/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/42/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}
