@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningChapterA.pdf",
+ "checked": "2026-11-15T15:28:45Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningChapterA.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3160509,
+ "secs": 4.013737,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "6e7d3c076733",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 52,
+ "pdf_meta": {
+  "Title": "<4D6963726F736F667420576F7264202D20FEFEE7ECF720E0202D20F0E5F1E720E4E4F0E7E9E5FA2E646F63>",
+  "Producer": "Acrobat Distiller 6.0 (Windows)",
+  "Creator": "PScript5.dll Version 5.2.2",
+  "CreationDate": "Thu Sep 22 07:00:05 2005 UTC",
+  "ModDate": "Thu Nov 10 09:16:04 2005 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "6a684401715a3dd8501929896f215c87bec986ba45d40fdc525c5a0e55737176",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/6e7d3c076733.pdf",
+ "image_pages": 10,
+ "table_pages": 3,
+ "figure_ocr_pages": 10,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 52,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

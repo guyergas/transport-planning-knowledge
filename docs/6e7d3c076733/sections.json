@@ -1,0 +1,460 @@
+{
+ "front": {
+  "dates": [
+   "2004"
+  ],
+  "publisher": [
+   "משרד התחבורה 2.1 ..........",
+   "משרד התחבורה לרימזור צמתים בינעירוניים )ראה גם סעיף מס'",
+   "נתיבי הנגדי של הדרך העיקרית. שתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1,
+  2,
+  3,
+  5,
+  9,
+  17,
+  27,
+  49,
+  50
+ ],
+ "sections": [
+  {
+   "num": "2.1",
+   "title": "התייחסות לנושא בהנחיות מע\"צ הקיימות",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2.2",
+   "title": "בדיקת נפחים והצדקים לרימזור",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2.2.1",
+   "title": "תחום הנפחים הנבדק",
+   "chapter": null,
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "2.2.2",
+   "title": "בדיקת ההצדק לרימזור",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "3.1",
+   "title": "פתרונות הנדסיים חלופיים",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "3.2",
+   "title": "מתודולוגיה להערכה כלכלית של הפתרונות השונים",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "3.2.1",
+   "title": "מרכיבי העלות",
+   "chapter": null,
+   "start": 14,
+   "level": 3,
+   "end": 14
+  },
+  {
+   "num": "3.2.2",
+   "title": "ריכוז מחוללי העלות",
+   "chapter": null,
+   "start": 14,
+   "level": 3,
+   "end": 14
+  },
+  {
+   "num": "3.2.3",
+   "title": "הנחות ביחס לנתוני התנועה והכלכלה",
+   "chapter": null,
+   "start": 14,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "3.3",
+   "title": "רגישות הפתרונות",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "3.4",
+   "title": "רשימת ציורי פרק 3",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "4.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "4.2",
+   "title": "הסתעפות מבודדת",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "4.3",
+   "title": "צמד צמתים",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "4.3.1",
+   "title": "הגדרת המצב",
+   "chapter": null,
+   "start": 19,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "4.3.2",
+   "title": "חיבור למפגש ממוסד מראש",
+   "chapter": null,
+   "start": 19,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "4.3.3",
+   "title": "שתי הסתעפויות במצבן הבסיסי",
+   "chapter": null,
+   "start": 20,
+   "level": 3,
+   "end": 21
+  },
+  {
+   "num": "4.4",
+   "title": "מקבץ צמתים",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "4.4.1",
+   "title": "הגדרת המצב ומתודולוגיה בסיסית",
+   "chapter": null,
+   "start": 22,
+   "level": 3,
+   "end": 22
+  },
+  {
+   "num": "4.4.2",
+   "title": "אחד הצמתים במקבץ כבר ממוסד",
+   "chapter": null,
+   "start": 22,
+   "level": 3,
+   "end": 22
+  },
+  {
+   "num": "4.5",
+   "title": "בחירה בין חלופות להן עלויות קרובות",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "4.6",
+   "title": "תוצאות מייצגות",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "4.6.1",
+   "title": "צמתים מבודדים",
+   "chapter": null,
+   "start": 25,
+   "level": 3,
+   "end": 25
+  },
+  {
+   "num": "4.6.2",
+   "title": "שני צמתים סמוכים",
+   "chapter": null,
+   "start": 25,
+   "level": 3,
+   "end": 25
+  },
+  {
+   "num": "2.0",
+   "title": "ק\"מ              1.0 ק\"מ             0.5 ק\"מ",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "4.6.3",
+   "title": "מקבץ צמתים ) 3 צמתים ומעלה(",
+   "chapter": null,
+   "start": 26,
+   "level": 3,
+   "end": 26
+  },
+  {
+   "num": "4.7",
+   "title": "רשימת ציורי פרק 4",
+   "chapter": null,
+   "start": 26,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "5.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "5.3",
+   "title": "שיקולים ועקרונות ביישום ההנחיות",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "5.3.1",
+   "title": "הצדקים למפרידן ותחולת ההנחיות",
+   "chapter": null,
+   "start": 29,
+   "level": 3,
+   "end": 29
+  },
+  {
+   "num": "5.3.2",
+   "title": "שיקולים מערכתיים ועקרונות תכן",
+   "chapter": null,
+   "start": 30,
+   "level": 3,
+   "end": 30
+  },
+  {
+   "num": "5.3.3",
+   "title": "מרחקים בין מחלפים/מפרידנים",
+   "chapter": null,
+   "start": 30,
+   "level": 3,
+   "end": 30
+  },
+  {
+   "num": "5.4",
+   "title": "סוגי מפרידנים",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "5.4.1",
+   "title": "סוגים עיקריים",
+   "chapter": null,
+   "start": 30,
+   "level": 3,
+   "end": 30
+  },
+  {
+   "num": "5.4.2",
+   "title": "תצורות אפשריות למפרידני עלה-תלתן",
+   "chapter": null,
+   "start": 31,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "5.5",
+   "title": "תכנון הרמפות",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 44
+  },
+  {
+   "num": "5.5.1",
+   "title": "צורות הרמפות וצמתי הרמפה",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "5.5.2",
+   "title": "מהירות התכן ברמפות",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.5.3",
+   "title": "רדיוסים והגבהות",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.5.4",
+   "title": "עקומי מעבר ומעברי שיפועים",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.5.5",
+   "title": "מרחקי ראות",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.5.6",
+   "title": "שיפועים לאורך הרמפות",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.5.7",
+   "title": "עקומים אנכיים",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.5.8",
+   "title": "מרווח הגובה החופשי בגבריט",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.5.9",
+   "title": "נתיבים לשינוי מהירות",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.6",
+   "title": "חתכי הרוחב ברמפות",
+   "chapter": null,
+   "start": 45,
+   "level": 2,
+   "end": 46
+  },
+  {
+   "num": "5.6.1",
+   "title": "רוחב בסיסי של המיסעה",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.6.2",
+   "title": "הרחבה ברמפות",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 46
+  },
+  {
+   "num": "5.6.3",
+   "title": "רוחב השוליים",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 46
+  },
+  {
+   "num": "5.6.4",
+   "title": "חתכים אופייניים",
+   "chapter": null,
+   "start": 47,
+   "level": 3,
+   "end": 47
+  },
+  {
+   "num": "5.7",
+   "title": "משתמשי דרך אחרים",
+   "chapter": null,
+   "start": 47,
+   "level": 2,
+   "end": 47
+  },
+  {
+   "num": "5.8",
+   "title": "תוכניות אופייניות",
+   "chapter": null,
+   "start": 48,
+   "level": 2,
+   "end": 50
+  },
+  {
+   "num": "6.1",
+   "title": "מקורות בעברית",
+   "chapter": null,
+   "start": 51,
+   "level": 2,
+   "end": 51
+  },
+  {
+   "num": "6.2",
+   "title": "מקורות לועזיים",
+   "chapter": null,
+   "start": 52,
+   "level": 2,
+   "end": 52
+  }
+ ],
+ "coverage": "sections"
+}

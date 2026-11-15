@@ -1,0 +1,45 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_4.pdf",
+ "checked": "2026-11-15T14:54:33Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_4.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 10973523,
+ "secs": 16.910256,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "9df671fa4316",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 61,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Acrobat Distiller 6.0 (Windows)",
+  "Creator": "InDesign 1.5.2 ME: AdobePS 8.7.2 (104)",
+  "CreationDate": "Mon Apr 11 11:53:41 2005 UTC",
+  "ModDate": "Tue Apr 12 10:40:17 2005 UTC"
+ },
+ "fonts_uni_no": 1,
+ "sha256": "d8cee1dd8c58fc26203ece1212f523b1077fca4c0e206391f7a128bf09ca3eb2",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9df671fa4316.pdf",
+ "fix_log": [
+  "words=919 unknown=113 fixed=9"
+ ],
+ "image_pages": 56,
+ "table_pages": 10,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 10,
+ "ocr_conf_mean": 80,
+ "lowconf_pages": [
+  7,
+  8,
+  32,
+  55
+ ],
+ "text_pages": 61,
+ "ocr_pages": 61,
+ "layer": "broken"
+}

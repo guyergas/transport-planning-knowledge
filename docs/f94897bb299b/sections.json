@@ -1,0 +1,31 @@
+{
+ "front": {
+  "dates": [
+   "2001",
+   "1994",
+   "1959",
+   "פברואר 2001",
+   "1965"
+  ],
+  "publisher": [
+   "רשות מוסמכת לפי פקודת היבוא והיצוא‎",
+   "משרד המשפטים.",
+   "המועצה הדתית כפר יונה",
+   "המועצה הדתית כפר יונה תהיה בת חמישה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "8",
+   "title": "© יוסף בוולון",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 5
+  }
+ ],
+ "coverage": "page-only"
+}

@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_capacity_12.pdf",
+ "checked": "2026-11-15T15:28:02Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_capacity_12.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1221779,
+ "secs": 1.865823,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "ea5806787d98",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 36,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Tue Jun 26 12:49:46 2018 UTC",
+  "ModDate": "Wed Oct 23 06:20:42 2019 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "e061b3382d46534591115716410e5babd519d4a9e812ad66cb87070a5ccbdd6e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ea5806787d98.pdf",
+ "image_pages": 36,
+ "table_pages": 14,
+ "figure_ocr_pages": 36,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 36,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

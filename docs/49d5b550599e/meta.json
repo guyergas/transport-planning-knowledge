@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/%D7%A0%D7%95%D7%94%D7%9C%20%D7%90%D7%99%D7%A9%D7%95%D7%A8%20%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D-%20%D7%A0%D7%A1%D7%A4%D7%97%202-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%203-%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%20%D7%9C%D7%94%D7%A4%D7%A6%D7%94.pdf",
+ "checked": "2026-11-15T15:30:22Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/%D7%A0%D7%95%D7%94%D7%9C%20%D7%90%D7%99%D7%A9%D7%95%D7%A8%20%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D-%20%D7%A0%D7%A1%D7%A4%D7%97%202-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%203-%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%20%D7%9C%D7%94%D7%A4%D7%A6%D7%94.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 495733,
+ "secs": 0.908753,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "49d5b550599e",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 9,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word עבור Microsoft 365",
+  "Creator": "Microsoft® Word עבור Microsoft 365",
+  "CreationDate": "Mon Feb  9 14:11:30 2026 UTC",
+  "ModDate": "Mon Feb  9 14:11:30 2026 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "c16c3ca70dd581976064c24b40c99d2acce5152ae56d3519975f09474758d711",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/49d5b550599e.pdf",
+ "image_pages": 1,
+ "table_pages": 0,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 9,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

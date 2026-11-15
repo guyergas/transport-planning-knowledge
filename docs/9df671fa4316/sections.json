@@ -1,0 +1,132 @@
+{
+ "front": {
+  "publisher": [
+   "משרד התחבורה. -"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "9": "1",
+  "22": "800",
+  "28": "x",
+  "34": "2",
+  "46": "3",
+  "58": "8"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "אופן בחירת זכות הדרך והחתך",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "שלבי התכנון",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "3",
+   "title": "א'",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 21
+  },
+  {
+   "num": "1.00",
+   "title": "מ\" חניה ניצבת 1g",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "4",
+   "title": "מרחק בין \"DMITIN'D 30.00 מי לכל היותר",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 25
+  },
+  {
+   "num": "5",
+   "title": "5 כאשר ליד ה'אוזניים* ממוקם קולטן: =",
+   "chapter": null,
+   "start": 26,
+   "level": 1,
+   "end": 27
+  },
+  {
+   "num": "6",
+   "title": "אורך ה'אוזניים* | מוגבל ל-3.00 מ' כדי",
+   "chapter": null,
+   "start": 28,
+   "level": 1,
+   "end": 37
+  },
+  {
+   "num": "7",
+   "title": "אין חשיבות להתאמה בין מיקום",
+   "chapter": null,
+   "start": 38,
+   "level": 1,
+   "end": 39
+  },
+  {
+   "num": "8",
+   "title": "אם היא נדרשות לתאורה",
+   "chapter": null,
+   "start": 40,
+   "level": 1,
+   "end": 40
+  },
+  {
+   "num": "9",
+   "title": "מפרץ החניה במפלס התנועה",
+   "chapter": null,
+   "start": 40,
+   "level": 1,
+   "end": 40
+  },
+  {
+   "num": "10",
+   "title": "הגיאומטריה של ה'אוזניים*",
+   "chapter": null,
+   "start": 40,
+   "level": 1,
+   "end": 61
+  },
+  {
+   "num": "13.00",
+   "title": "\"Wa הצדדים",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 44
+  },
+  {
+   "num": "18.00",
+   "title": "בצד האחר",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 58
+  },
+  {
+   "num": "16.60",
+   "title": "ויותך | בשי הצדדים 20 =",
+   "chapter": null,
+   "start": 59,
+   "level": 2,
+   "end": 61
+  }
+ ],
+ "coverage": "sections"
+}

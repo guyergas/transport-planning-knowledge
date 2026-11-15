@@ -1,0 +1,40 @@
+{
+ "url": "https://olaw.org.il/yalkut/yalkut-4968.pdf",
+ "checked": "2026-11-15T14:51:48Z",
+ "status": 200,
+ "final_url": "https://olaw.org.il/yalkut/yalkut-4968.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 220156,
+ "secs": 0.326344,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f94897bb299b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 5,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "",
+  "Creator": "",
+  "CreationDate": "",
+  "ModDate": ""
+ },
+ "fonts_uni_no": 1,
+ "sha256": "ab864c4d2d8e8c1cebf88dcd616f9a4a2c36b08fb8b27a8617ae6bb75dcbdbb0",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-olaw-org-il/f94897bb299b.pdf",
+ "fix_log": [
+  "words=617 unknown=138 fixed=10"
+ ],
+ "image_pages": 5,
+ "table_pages": 2,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 81,
+ "lowconf_pages": [],
+ "text_pages": 5,
+ "ocr_pages": 5,
+ "layer": "broken"
+}

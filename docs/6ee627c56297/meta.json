@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/%D7%A4%D7%95%D7%A8%D7%9E%D7%98%20%D7%90%D7%97%D7%95%D7%93%20%D7%A1%D7%A4%D7%99%D7%A8%D7%95%D7%AA%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%92%D7%A8%D7%A1%D7%94_3.1.pdf",
+ "checked": "2026-11-15T15:30:28Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/%D7%A4%D7%95%D7%A8%D7%9E%D7%98%20%D7%90%D7%97%D7%95%D7%93%20%D7%A1%D7%A4%D7%99%D7%A8%D7%95%D7%AA%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%92%D7%A8%D7%A1%D7%94_3.1.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3149704,
+ "secs": 1.703486,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "6ee627c56297",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 42,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Aspose.PDF for Java 25.2",
+  "Creator": "Aspose Pty Ltd.",
+  "CreationDate": "Fri Sep 25 10:19:11 2026 UTC",
+  "ModDate": "Tue Oct 13 11:07:42 2026 UTC"
+ },
+ "fonts_uni_no": 14,
+ "sha256": "1e6a729f388ecc0e5b110e965ba29018dae6d2dc00eeb5219ba187e6f63852b3",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/6ee627c56297.pdf",
+ "fix_log": [
+  "words=2332 unknown=170 fixed=26"
+ ],
+ "image_pages": 22,
+ "table_pages": 3,
+ "figure_ocr_pages": 19,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [],
+ "text_pages": 42,
+ "ocr_pages": 3,
+ "layer": "mixed"
+}

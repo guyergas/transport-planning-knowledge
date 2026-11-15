@@ -1,15 +1,22 @@
 {
  "url": "https://next.obudget.org/i/gov_decisions/0a7b2675-9c86-4e73-b799-7a58552a8265",
- "checked": "2026-11-15T12:39:54Z",
+ "checked": "2026-11-15T14:51:48Z",
  "status": 200,
  "final_url": "https://next.obudget.org/i/gov_decisions/0a7b2675-9c86-4e73-b799-7a58552a8265",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 39260,
- "secs": 0.267894,
+ "secs": 0.491072,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "e0b60c4fcab1",
  "kind": "html",
  "result": "ok",
- "title": "מפתח התקציב"
+ "title": "מפתח התקציב",
+ "file_links": [],
+ "all_links": 20,
+ "new_file_links": [],
+ "unknown_file_links": []
 }

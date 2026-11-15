@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/FlickeringMobileBoard.pdf",
+ "checked": "2026-11-15T15:30:02Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/FlickeringMobileBoard.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 938453,
+ "secs": 1.631271,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "a7a730a5df4e",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 39,
+ "pdf_meta": {
+  "Title": "<4D6963726F736F667420576F7264202D20EEF4F8E820ECECE5E720F0E9E9E320EEE4E1E4E120F1E5F4E92E646F63>",
+  "Producer": "GPL Ghostscript 8.56",
+  "Creator": "PScript5.dll Version 5.2.2",
+  "CreationDate": "Wed Jun 13 10:25:31 2012 UTC",
+  "ModDate": "Sun Jul  1 12:03:26 2012 UTC"
+ },
+ "fonts_uni_no": 14,
+ "sha256": "00d07f26ac9d09272aa3988883834fc65bca828f38000e6150af545833cf413c",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a7a730a5df4e.pdf",
+ "fix_log": [
+  "words=1938 unknown=98 fixed=6"
+ ],
+ "image_pages": 14,
+ "table_pages": 4,
+ "figure_ocr_pages": 12,
+ "table_ocr_pages": 3,
+ "ocr_conf_mean": 91,
+ "lowconf_pages": [],
+ "text_pages": 39,
+ "ocr_pages": 7,
+ "layer": "mixed"
+}
