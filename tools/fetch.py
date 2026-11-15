@@ -683,9 +683,10 @@ def finalize(rec, path, opts, did, req, text):
             rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer', 'image_pages', 'table_pages', 'figure_ocr_pages', 'table_ocr_pages', 'ocr_conf_mean', 'lowconf_pages')}, change='unchanged')
             text = None  # keep existing text.md / sections.json
         elif rec['kind'] == 'pdf' and rec.get('status') == 200:
-            if os.path.exists(os.path.join(d, 'meta.json')):
-                rec['change'] = 'changed'
+            prev = json.load(open(os.path.join(d, 'meta.json'))).get('sha256') if os.path.exists(os.path.join(d, 'meta.json')) else None
             text = process_pdf(rec, path, opts.get('pages'), did)
+            if prev:
+                rec['change'] = 'changed' if prev != rec.get('sha256') else 'reprocessed'
     except Exception as e:  # keep going on one bad file
         rec['process_error'] = repr(e)[:300]
     if text:
