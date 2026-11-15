@@ -404,6 +404,22 @@
 {"id": "0a58b50a2312", "num": "13.4.1", "title": "התחברות למתקן תשתית מקטע דרך מקומית חד-מסלולית", "chapter": null, "start": 4, "level": 3, "end": 4}
 {"id": "0a58b50a2312", "num": "4", "title": "פתרונות גיאומטריים של התחברות למתקן תשתית מקטע דרך", "chapter": null, "start": 4, "level": 1, "end": 18}
 {"id": "0a58b50a2312", "num": "13.5", "title": "מרחק התחברות למתקן תשתית מצומת בקטע פנוי", "chapter": null, "start": 17, "level": 2, "end": 18}
+{"id": "0abcda74836e", "num": "6", "title": "מינהל תכנון", "chapter": null, "start": 1, "level": 1, "end": 63}
+{"id": "0abcda74836e", "num": "16.05.22", "title": "גרסה", "chapter": null, "start": 1, "level": 3, "end": 11}
+{"id": "0abcda74836e", "num": "16.05", "title": "2 חידושים בגרסה", "chapter": null, "start": 12, "level": 2, "end": 54}
+{"id": "0abcda74836e", "num": "16.05.22", "title": "חידושים בגרסה", "chapter": null, "start": 13, "level": 3, "end": 54}
+{"id": "0abcda74836e", "num": "11.4", "title": "ם. הגדר את מאפייני התשדורת (ראה דוגמה באיור", "chapter": null, "start": 55, "level": 2, "end": 63}
+{"id": "0abcda74836e", "num": "7", "title": "מופעים מתחילים/מסיימים יחי", "chapter": null, "start": 64, "level": 1, "end": 308}
+{"id": "0abcda74836e", "num": "12.25", "title": "העצירה ופינוי בנסיעה(. איו )", "chapter": null, "start": 90, "level": 2, "end": 183}
+{"id": "0abcda74836e", "num": "13.6.7.2.1", "title": "(ראה סעיף )", "chapter": null, "start": 129, "level": 5, "end": 168}
+{"id": "0abcda74836e", "num": "14.2.3.2.3", "title": "משתנה גלובלי – משתנה לשימוש בכל הפונקציות/פרוצדורות", "chapter": null, "start": 169, "level": 5, "end": 169}
+{"id": "0abcda74836e", "num": "14.2.3.2.4", "title": "מערך גלובלי – מערך לשימוש בכל הפונקציות/פרוצדורות", "chapter": null, "start": 169, "level": 5, "end": 169}
+{"id": "0abcda74836e", "num": "14.2.3.6.2", "title": "המכיל    גיליון   בכל   חובה     התרשים.    התחלת     –   התחלה", "chapter": null, "start": 169, "level": 5, "end": 183}
+{"id": "0abcda74836e", "num": "2.3", "title": "'יציאה ללא שמירה יש ללחוץ על Lines", "chapter": null, "start": 184, "level": 2, "end": 212}
+{"id": "0abcda74836e", "num": "14.44", "title": "קיימות החריגות יסומנו כפי שזה מתואר באיור", "chapter": null, "start": 213, "level": 2, "end": 213}
+{"id": "0abcda74836e", "num": "14.44", "title": "כפי שזה מתואר באיור", "chapter": null, "start": 214, "level": 2, "end": 283}
+{"id": "0abcda74836e", "num": "20.5", "title": "הנ\"ל תוביל לפתיחת תרשים VISIO כדוגמת איור", "chapter": null, "start": 284, "level": 2, "end": 286}
+{"id": "0abcda74836e", "num": "20.11", "title": "(ראה איור (", "chapter": null, "start": 287, "level": 2, "end": 308}
 {"id": "0ca34dc80811", "num": "4", "title": "מנגנון ההשפעה של דרכים שמסבירות את עצמן", "chapter": null, "start": 6, "level": 1, "end": 23}
 {"id": "0d5e5dedb9c3", "num": "1", "title": "", "chapter": "פרק 1", "start": 8, "level": 0, "end": 25}
 {"id": "0d5e5dedb9c3", "num": "1.1", "title": "כללי", "chapter": "פרק 1", "start": 9, "level": 2, "end": 9}

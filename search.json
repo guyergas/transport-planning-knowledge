@@ -1,9 +1,9 @@
 {
- "built": "2026-11-15T17:05:09Z",
- "docs": 719,
- "pages": 20647,
- "source_commit": "8214e8e9acd256cfdd7348e0e558f95321f18364",
- "docs_hash": "d9aaeb9aad6c20902dba582de196023f27ede125930d05586bafc2057bc1424e",
- "bytes": 195932160,
- "sha256": "ea33e272356886b9f393777424fa641d17e8a048936c36b18d58da626bf53b35"
+ "built": "2026-11-15T17:56:16Z",
+ "docs": 721,
+ "pages": 20964,
+ "source_commit": "2ab156047c479955ce5aa27936f6c2d08a6aeb90",
+ "docs_hash": "1da263416713e2ca8d8a115e04adac4aa0cde8ab21c5bb8338117cb94984a1c9",
+ "bytes": 199229440,
+ "sha256": "31dcc3fc8907181e6af58b69ee13bdb55b4544bdeaf94cb1107def5a33071a17"
 }
