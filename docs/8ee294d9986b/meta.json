@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/206/view",
+ "checked": "2026-11-15T14:36:30Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/206/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40234,
+ "secs": 0.680736,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "8ee294d9986b",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/206/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HighwayCapacityManual.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/206/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/206/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}

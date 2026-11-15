@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/11/view",
+ "checked": "2026-11-15T14:35:15Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/11/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40470,
+ "secs": 0.68101,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "f0cff0fb65d9",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/11/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/11/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/11/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}

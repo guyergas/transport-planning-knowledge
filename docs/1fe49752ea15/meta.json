@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/46/view",
+ "checked": "2026-11-15T14:35:29Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/46/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 41285,
+ "secs": 0.833993,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "1fe49752ea15",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/46/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_(%D7%9B%D7%A8%D7%9A_1)_-_%D7%93%D7%A4%D7%99_%D7%A4%D7%AA%D7%99%D7%97%D7%94.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/46/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/46/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_(%D7%9B%D7%A8%D7%9A_1)_-_%D7%93%D7%A4%D7%99_%D7%A4%D7%AA%D7%99%D7%97%D7%94.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}

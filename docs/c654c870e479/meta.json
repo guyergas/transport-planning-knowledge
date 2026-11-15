@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/116/view",
+ "checked": "2026-11-15T14:35:55Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/116/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40462,
+ "secs": 0.671903,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "c654c870e479",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/116/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorim.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/116/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/116/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}
