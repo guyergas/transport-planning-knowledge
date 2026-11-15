@@ -1,0 +1,115 @@
+{
+ "front": {
+  "edition": [
+   "עשרים",
+   "ה"
+  ],
+  "dates": [
+   "ינואר 2026",
+   "2003",
+   "מרץ 2026",
+   "ינואר 2025",
+   "2024"
+  ],
+  "publisher": [
+   "מנהל הכללי של משרד התחבורה",
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "9",
+   "title": "על iy",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 291
+  },
+  {
+   "num": "0.75",
+   "title": "ראו גם H2",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 115
+  },
+  {
+   "num": "1.0",
+   "title": "H1מ' (.)W3",
+   "chapter": null,
+   "start": 116,
+   "level": 2,
+   "end": 119
+  },
+  {
+   "num": "2.0",
+   "title": "• דגם חדש שמחליף את .AG0.4",
+   "chapter": null,
+   "start": 120,
+   "level": 2,
+   "end": 121
+  },
+  {
+   "num": "1.33",
+   "title": "באורך  12מ' כ\"א. ההנמכות ממעקה .Easy Rail",
+   "chapter": null,
+   "start": 122,
+   "level": 2,
+   "end": 122
+  },
+  {
+   "num": "1.2",
+   "title": "H1מ' (.)W4",
+   "chapter": null,
+   "start": 123,
+   "level": 2,
+   "end": 160
+  },
+  {
+   "num": "1.0",
+   "title": "H2מ' (.)W3",
+   "chapter": null,
+   "start": 161,
+   "level": 2,
+   "end": 184
+  },
+  {
+   "num": "12.45",
+   "title": "וח Stahlanteil/ Part of steel",
+   "chapter": null,
+   "start": 185,
+   "level": 2,
+   "end": 185
+  },
+  {
+   "num": "2.66",
+   "title": "*הפנל האקוסטי עשוי מיחידות בגובה 50 ס\"מ ואורך",
+   "chapter": null,
+   "start": 186,
+   "level": 2,
+   "end": 194
+  },
+  {
+   "num": "0.8",
+   "title": "T3מ' (.(W2",
+   "chapter": null,
+   "start": 195,
+   "level": 2,
+   "end": 195
+  },
+  {
+   "num": "0.7",
+   "title": "T3מ' (.)W2",
+   "chapter": null,
+   "start": 196,
+   "level": 2,
+   "end": 291
+  }
+ ],
+ "coverage": "sections"
+}

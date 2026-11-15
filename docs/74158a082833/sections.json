@@ -1,0 +1,245 @@
+{
+ "front": {
+  "dates": [
+   "2025",
+   "2020"
+  ],
+  "publisher": [
+   "נתיבי תחבורה עירוניים להסעת המונים בע\"מ  -תנאים מיוחדים",
+   "נתיבי תחבורה עירוניים להסעת המונים בע\"מ (להלן –\"נת\"ע\" או"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1",
+  "86": "2",
+  "118": "ii",
+  "119": "1",
+  "120": "2",
+  "121": "3",
+  "123": "5",
+  "124": "6",
+  "125": "7",
+  "126": "8",
+  "129": "11",
+  "130": "12",
+  "131": "13",
+  "132": "14",
+  "142": "4",
+  "145": "27",
+  "146": "28",
+  "151": "33",
+  "152": "34",
+  "153": "35",
+  "154": "36"
+ },
+ "toc_pages": [
+  42,
+  49,
+  71,
+  117
+ ],
+ "sections": [
+  {
+   "num": "27",
+   "title": "צומת  3-4 זרועות  6 אמצעי נסיעה    .1",
+   "chapter": null,
+   "start": 37,
+   "level": 1,
+   "end": 154
+  },
+  {
+   "num": "2.3",
+   "title": "טבלה מספר 1",
+   "chapter": null,
+   "start": 88,
+   "level": 2,
+   "end": 88
+  },
+  {
+   "num": "3.2",
+   "title": "טבלה מספר 2",
+   "chapter": null,
+   "start": 88,
+   "level": 2,
+   "end": 90
+  },
+  {
+   "num": "4.8.2.1",
+   "title": "ניהול המערכת מטעם הספק",
+   "chapter": null,
+   "start": 89,
+   "level": 4,
+   "end": 89
+  },
+  {
+   "num": "4.8.2.2",
+   "title": "רישום הארגון במערכת",
+   "chapter": null,
+   "start": 89,
+   "level": 4,
+   "end": 89
+  },
+  {
+   "num": "4.8.2.3",
+   "title": "הוספת משתמשים חדשים וגריעת עובדים עוזבים",
+   "chapter": null,
+   "start": 89,
+   "level": 4,
+   "end": 89
+  },
+  {
+   "num": "4.8.2.5",
+   "title": "השתתפות בהדרכות מקצועיות על-פי דרישה",
+   "chapter": null,
+   "start": 90,
+   "level": 4,
+   "end": 90
+  },
+  {
+   "num": "4.8.2.6",
+   "title": "מעקב ובקרה אחר תיעוד התוצרים והתכתובות במערכת ניהול",
+   "chapter": null,
+   "start": 90,
+   "level": 4,
+   "end": 90
+  },
+  {
+   "num": "3.1",
+   "title": "דרישות כלליות",
+   "chapter": null,
+   "start": 91,
+   "level": 2,
+   "end": 91
+  },
+  {
+   "num": "3.2",
+   "title": "אבטחת מידע במשאבי אנוש",
+   "chapter": null,
+   "start": 92,
+   "level": 2,
+   "end": 92
+  },
+  {
+   "num": "3.3",
+   "title": "אבטחה פיזית",
+   "chapter": null,
+   "start": 93,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "3.4",
+   "title": "העברת מידע רגיש/חסוי בין הספק ונת\"ע",
+   "chapter": null,
+   "start": 93,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "3.5",
+   "title": "אחסון מידע",
+   "chapter": null,
+   "start": 93,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "3.6",
+   "title": "גיבוי והתאוששות",
+   "chapter": null,
+   "start": 93,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "3.7",
+   "title": "אבטחת הרשת",
+   "chapter": null,
+   "start": 93,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "3.7.2.2",
+   "title": "לא תתאפשר גישה לרשת האינטרנט מרשת ה .WIFI",
+   "chapter": null,
+   "start": 94,
+   "level": 4,
+   "end": 94
+  },
+  {
+   "num": "3.7.2.6",
+   "title": "יש להשתמש בפרוטוקולי אותנטיקציה והצפנה עדכניים בצירוף",
+   "chapter": null,
+   "start": 94,
+   "level": 4,
+   "end": 94
+  },
+  {
+   "num": "3.7.2.7",
+   "title": "יש לוודא שמירת לוגים וניטור רשת ה .Wifi",
+   "chapter": null,
+   "start": 94,
+   "level": 4,
+   "end": 94
+  },
+  {
+   "num": "3.7.4.1",
+   "title": "Network firewallתתאפשר תעבורה לפי צורך עסקי בלבד",
+   "chapter": null,
+   "start": 94,
+   "level": 4,
+   "end": 94
+  },
+  {
+   "num": "3.7.4.7",
+   "title": "( Application Firewallעבור אפליקציות החשופות לאינטרנט)",
+   "chapter": null,
+   "start": 94,
+   "level": 4,
+   "end": 94
+  },
+  {
+   "num": "3.8",
+   "title": "בקרת גישה",
+   "chapter": null,
+   "start": 94,
+   "level": 2,
+   "end": 94
+  },
+  {
+   "num": "3.8.6.1",
+   "title": "אורך סיסמה  8 תווים לפחות",
+   "chapter": null,
+   "start": 95,
+   "level": 4,
+   "end": 95
+  },
+  {
+   "num": "3.9",
+   "title": "אבטחת שרתים ותחנות קצה",
+   "chapter": null,
+   "start": 95,
+   "level": 2,
+   "end": 113
+  },
+  {
+   "num": "3.0",
+   "title": "גרסה",
+   "chapter": null,
+   "start": 114,
+   "level": 2,
+   "end": 129
+  },
+  {
+   "num": "3.3",
+   "title": "חלקית – partial        מקום הספירה – ראו סעיף",
+   "chapter": null,
+   "start": 130,
+   "level": 2,
+   "end": 154
+  }
+ ],
+ "coverage": "sections"
+}

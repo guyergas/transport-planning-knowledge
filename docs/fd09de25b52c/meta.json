@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic-safety-and-traffic-light-devices-approved-for-installation-on-the-road-january%20%E2%80%93%202026.pdf",
+ "checked": "2026-11-15T15:29:45Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic-safety-and-traffic-light-devices-approved-for-installation-on-the-road-january%20%E2%80%93%202026.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 8432979,
+ "secs": 12.320967,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "fd09de25b52c",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 291,
+ "pdf_meta": {
+  "Title": "Author:          user",
+  "Producer": "GPL Ghostscript 10.06.0",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Wed Apr  8 12:13:39 2026 UTC",
+  "ModDate": "Wed Apr  8 12:38:28 2026 UTC"
+ },
+ "fonts_uni_no": 14,
+ "sha256": "63d2e55e3f167df54938867a1e88e575355c6bdf7fd8656bca7fecc8652a154c",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/fd09de25b52c.pdf",
+ "fix_log": [
+  "words=3950 unknown=244 fixed=7"
+ ],
+ "image_pages": 160,
+ "table_pages": 71,
+ "figure_ocr_pages": 159,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 85,
+ "lowconf_pages": [],
+ "text_pages": 291,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

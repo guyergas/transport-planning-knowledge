@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/report71a_191020/he/files_71a191020.pdf",
+ "checked": "2026-11-15T14:54:18Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/report71a_191020/he/files_71a191020.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 5454637,
+ "secs": 7.739169,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "5931f10f4280",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 405,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Office Word 2007",
+  "Creator": "Microsoft® Office Word 2007",
+  "CreationDate": "Sun Oct 11 13:09:29 2020 UTC",
+  "ModDate": "Mon Oct 19 07:16:45 2020 UTC"
+ },
+ "fonts_uni_no": 9,
+ "sha256": "a48dcabc5bcd0156684ab3cb3412c1d6dc06216dd5ac30343b978ed238b89d51",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/5931f10f4280.pdf",
+ "fix_log": [
+  "words=17477 unknown=662 fixed=28"
+ ],
+ "image_pages": 3,
+ "table_pages": 2,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 92,
+ "lowconf_pages": [],
+ "text_pages": 405,
+ "ocr_pages": 35,
+ "layer": "mixed"
+}

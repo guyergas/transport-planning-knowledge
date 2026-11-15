@@ -1,0 +1,30 @@
+{
+ "url": "https://fliphtml5.com/mwkkt/dcrh/31/",
+ "checked": "2026-11-15T15:37:03Z",
+ "status": 200,
+ "final_url": "https://fliphtml5.com/mwkkt/dcrh/31/",
+ "content_type": "text/html",
+ "redirects": 0,
+ "bytes": 5648,
+ "secs": 0.096688,
+ "body_head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "e9e6ffa1223e",
+ "kind": "html",
+ "result": "ok",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "תנועה ותחבורה 157 | ספטמבר 26 (Page 31) - Flipbook by תירוש הוצאה לאור | עיתונות מקצועית | FlipHTML5",
+ "file_links": [],
+ "all_links": 397,
+ "unknown_file_links": []
+}

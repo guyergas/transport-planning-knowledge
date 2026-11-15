@@ -1,0 +1,34 @@
+{
+ "front": {
+  "edition": [
+   "שלישית.2022",
+   "שלישית",
+   "אוגוסט"
+  ],
+  "dates": [
+   "אוגוסט 2009",
+   "מאי 2022",
+   "2009",
+   "2013",
+   "2022"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה/אגף תכנון תחבורתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "11.2",
+   "title": "צבע – עמוד 67",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  }
+ ],
+ "coverage": "page-only"
+}

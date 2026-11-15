@@ -1,0 +1,133 @@
+{
+ "front": {
+  "dates": [
+   "2016"
+  ],
+  "publisher": [
+   "משרד האוצר",
+   "הרשות הארצי",
+   "נתיבי העדפה לתחבורה ציבורית",
+   "משרד האוצר                                  משרד התחבור"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "0",
+   "title": "תושב",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 46
+  },
+  {
+   "num": "3.1.1",
+   "title": "המע\"ר",
+   "chapter": null,
+   "start": 13,
+   "level": 3,
+   "end": 14
+  },
+  {
+   "num": "3.3.2",
+   "title": "מודל תל אביב",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 16
+  },
+  {
+   "num": "4.1.4",
+   "title": "נתיבי העדפה לתחבורה ציבורית",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "4.2.2",
+   "title": "פערי נגישות",
+   "chapter": null,
+   "start": 20,
+   "level": 3,
+   "end": 27
+  },
+  {
+   "num": "6.3.1",
+   "title": "פיתוח תפיסה רדיאלית מעגלית",
+   "chapter": null,
+   "start": 28,
+   "level": 3,
+   "end": 33
+  },
+  {
+   "num": "7.3.1",
+   "title": "חלופה רדיאלית מעגלית ()M5",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "7.3.3",
+   "title": "חלופות משולבות",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 36
+  },
+  {
+   "num": "8.2",
+   "title": "ניתוח תפקודי ועמידה ביעדים האסטרטגיים",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 43
+  },
+  {
+   "num": "8.3.4",
+   "title": "המודל התחבורתי",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "8.3.5",
+   "title": "המודל הכלכלי",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "1.3",
+   "title": "ביצוצי יחס B/C גבוהים מ",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 46
+  },
+  {
+   "num": "1",
+   "title": "מספרם עברים ממוצע ליפה",
+   "chapter": null,
+   "start": 47,
+   "level": 1,
+   "end": 51
+  },
+  {
+   "num": "8.5",
+   "title": "חוות דעת  EGISוחלופות נוספות",
+   "chapter": null,
+   "start": 49,
+   "level": 2,
+   "end": 51
+  }
+ ],
+ "coverage": "sections"
+}

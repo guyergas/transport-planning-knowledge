@@ -1,0 +1,32 @@
+{
+ "front": {
+  "dates": [
+   "אוגוסט 2005"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מנהל היבשה/אגף תכנון תחבורתי",
+   "רשות 12 ...............................................",
+   "נתיבי תנועה מיוחדים."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  2,
+  18,
+  19,
+  22
+ ],
+ "sections": [
+  {
+   "num": "3",
+   "title": "מאפייני איכות",
+   "chapter": null,
+   "start": 25,
+   "level": 1,
+   "end": 31
+  }
+ ],
+ "coverage": "page-only"
+}

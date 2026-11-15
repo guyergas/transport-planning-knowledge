@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%9F%20%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%20%D7%A9%D7%9C%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%95%D7%9E%D7%97%D7%9C%D7%A4%D7%99%D7%9D.pdf",
+ "checked": "2026-11-15T15:20:13Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%9F%20%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%20%D7%A9%D7%9C%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%95%D7%9E%D7%97%D7%9C%D7%A4%D7%99%D7%9D.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 31731258,
+ "secs": 23.017213,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "3e306ddd1502",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 525,
+ "pdf_meta": {
+  "Title": "Creator:         Adobe Acrobat Pro DC 20.9.20067",
+  "Producer": "Adobe Acrobat Pro DC 20.9.20067",
+  "Creator": "Adobe Acrobat Pro DC 20.9.20067",
+  "CreationDate": "Sun Dec 20 07:34:00 2020 UTC",
+  "ModDate": "Sun Dec 20 07:34:00 2020 UTC"
+ },
+ "fonts_uni_no": 66,
+ "sha256": "dfc3bba2d52a636a96ec42f1c389966f1eb3af929679e928576412f8a60bbcc7",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3e306ddd1502.pdf",
+ "fix_log": [
+  "words=8913 unknown=496 fixed=22"
+ ],
+ "image_pages": 501,
+ "table_pages": 33,
+ "figure_ocr_pages": 500,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 76,
+ "lowconf_pages": [],
+ "text_pages": 525,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

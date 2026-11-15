@@ -1,0 +1,164 @@
+{
+ "front": {
+  "edition": [
+   "העדכנית"
+  ],
+  "dates": [
+   "אפריל 2014",
+   "מאי 2014"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "הרשות הארצית לתחבורה ציבורית",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה והבטיחות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "34": "926"
+ },
+ "toc_pages": [
+  4,
+  5
+ ],
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.2",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.3",
+   "title": "יתרונות וחסרונות של סמנים",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.4",
+   "title": "סמנים פולטי אור (ספ\"א)",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.4.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "1.4.2",
+   "title": "יתרונות של ספ\"א",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "1.4.3",
+   "title": "חסרונות של ספ\"א",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "2.2",
+   "title": "סמנים מחזירי אור",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2.3",
+   "title": "סמנים פולטי אור",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2.3.2",
+   "title": "שינוי בחתך הטיפוסי של הדרך",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.3.3",
+   "title": "באזורי סכנה מובהקים",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.3.4",
+   "title": "באתרי עבודה ובהסדרי תנועה זמניים",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.4",
+   "title": "טבלת סיכום",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "3.1",
+   "title": "סמנים בעלי רגל נעיצה",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "3.2",
+   "title": "סמנים בהדבקה",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "2",
+   "title": "כתום דו צדדי",
+   "chapter": null,
+   "start": 17,
+   "level": 1,
+   "end": 35
+  }
+ ],
+ "coverage": "sections"
+}

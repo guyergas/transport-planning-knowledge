@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_visibility_distances_8.pdf",
+ "checked": "2026-11-15T15:19:30Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_visibility_distances_8.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 611530,
+ "secs": 0.726383,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "34fd04d3a2ac",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 17,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Tue Jun 26 12:47:40 2018 UTC",
+  "ModDate": "Wed Oct 23 06:20:18 2019 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "c867e49030e209c40e8b7e89f6857f74891a36572fbc6f55a1e84564b8874b95",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/34fd04d3a2ac.pdf",
+ "image_pages": 17,
+ "table_pages": 6,
+ "figure_ocr_pages": 17,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 17,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

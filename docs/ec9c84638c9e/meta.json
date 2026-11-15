@@ -1,0 +1,45 @@
+{
+ "url": "https://apps.land.gov.il/IturTabotData/tma/%D7%AA%D7%9E%D7%90%2023/%D7%AA%D7%9E%D7%90%2023.pdf",
+ "checked": "2026-11-15T14:54:48Z",
+ "status": 200,
+ "final_url": "https://apps.land.gov.il/IturTabotData/tma/%D7%AA%D7%9E%D7%90%2023/%D7%AA%D7%9E%D7%90%2023.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 149026,
+ "secs": 1.571026,
+ "server": "",
+ "tries": [
+  200
+ ],
+ "id": "ec9c84638c9e",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 5,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Acrobat 5.0 Image Conversion Plug-in for Windows",
+  "Creator": "Acrobat 5.0 Image Conversion Plug-in for Windows",
+  "CreationDate": "Sun May 19 13:10:37 2002 UTC",
+  "ModDate": "Wed May 22 16:35:10 2002 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "2d2eb4d06b17a74867e53a20c5e30ddf3b41cae5c464f330cfb1562c9de04523",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/ec9c84638c9e.pdf",
+ "fix_log": [
+  "words=515 unknown=201 fixed=12"
+ ],
+ "image_pages": 5,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 71,
+ "lowconf_pages": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "text_pages": 5,
+ "ocr_pages": 5,
+ "layer": "broken"
+}

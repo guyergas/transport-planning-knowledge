@@ -1,0 +1,17 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/Concentration_and_organization.xlsx",
+ "checked": "2026-11-15T15:29:21Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/Concentration_and_organization.xlsx",
+ "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+ "redirects": 0,
+ "bytes": 25699,
+ "secs": 0.197907,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "fa77b7aa4cd6",
+ "kind": "zip",
+ "result": "ok"
+}

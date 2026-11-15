@@ -1,0 +1,149 @@
+{
+ "front": {
+  "dates": [
+   "2018",
+   "2004"
+  ],
+  "publisher": [
+   "נתיבי\nהחברה הלאומית",
+   "נתיבי ישראל לגבי התערובות",
+   "נתיבי\nישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "4.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "4.2",
+   "title": "מרחק ראות מזערי לעצירה",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "4.2.1",
+   "title": "הגדרת מרחק הראות ומרכיביו",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "4.2.2",
+   "title": "חישוב מרחק הראות",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 3
+  },
+  {
+   "num": "4.2.3",
+   "title": "תכנון לרכב כבד",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "4",
+   "title": "מרחקי ראות",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 4,
+   "level": 0,
+   "end": 17
+  },
+  {
+   "num": "4.2.4",
+   "title": "השפעת השיפוע על מרחק הראות לעצירה",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "4.3",
+   "title": "מרחק ראות להחלטה",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "4.3.1",
+   "title": "הגדרת מרחק הראות להחלטה",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "4",
+   "title": "השפעת השיפוע על מרחק הראות לעצירה",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 6,
+   "level": 1,
+   "end": 17
+  },
+  {
+   "num": "4.3.2",
+   "title": "הנחות החישוב וערכי התכן",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "4.4",
+   "title": "מרחק ראות לעקיפה מלאה",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 10,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "4.5",
+   "title": "מרחק ראות לעקיפה דחוקה",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 14,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "4.6",
+   "title": "ערכי התכן של הגובה בקצוות קו הראות",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 15,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "4.7",
+   "title": "יישום ערכי התכן למרחקי הראות",
+   "chapter": "פרק 4 — מרחקי ראות",
+   "start": 16,
+   "level": 2,
+   "end": 17
+  }
+ ],
+ "coverage": "sections"
+}

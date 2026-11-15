@@ -1,0 +1,42 @@
+{
+ "front": {
+  "edition": [
+   "2.0"
+  ],
+  "dates": [
+   "1996",
+   "2000"
+  ],
+  "publisher": [
+   "רשות מקומית צורך בסינון בקשות התושבים להתקנת פסי האטה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "4",
+  "3": "55",
+  "4": "56",
+  "5": "7",
+  "6": "8"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מודל ההצדק הכמותי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "0.5",
+   "title": "כל אחת מיתר התאונות - משקל",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 6
+  }
+ ],
+ "coverage": "page-only"
+}

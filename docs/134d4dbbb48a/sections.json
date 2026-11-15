@@ -1,0 +1,47 @@
+{
+ "front": {
+  "dates": [
+   "מאי 2023",
+   "1998"
+  ],
+  "publisher": [
+   "הרשות הלאומית לבטיחות בדרכים",
+   "הרשות הלאומית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "21": "20",
+  "22": "21"
+ },
+ "toc_pages": [
+  2
+ ],
+ "sections": [
+  {
+   "num": "א'",
+   "title": "זיהוי הולכי רגל",
+   "chapter": "פרק א' — זיהוי הולכי רגל",
+   "start": 5,
+   "level": 0,
+   "end": 11
+  },
+  {
+   "num": "ב'",
+   "title": "חיווי להולכי רגל",
+   "chapter": "פרק ב' — חיווי להולכי רגל",
+   "start": 12,
+   "level": 0,
+   "end": 14
+  },
+  {
+   "num": "ג'",
+   "title": "חיווי אזהרה לנהגים",
+   "chapter": "פרק ג' — חיווי אזהרה לנהגים",
+   "start": 15,
+   "level": 0,
+   "end": 22
+  }
+ ],
+ "coverage": "sections"
+}
