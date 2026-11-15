@@ -59,15 +59,18 @@ def fetch(url, dest):
 
 class Text(HTMLParser):
     def __init__(self):
-        super().__init__(); self.out = []; self.skip = 0; self.title = ''; self._t = False
+        super().__init__(); self.out = []; self.skip = 0; self.title = ''; self._t = False; self.links = []; self._a = None
     def handle_starttag(self, tag, a):
+        if tag == 'a' and dict(a).get('href'): self._a = [dict(a)['href'], '']
         if tag in ('script', 'style', 'noscript'): self.skip += 1
         if tag == 'title': self._t = True
         if tag in ('p', 'br', 'div', 'li', 'h1', 'h2', 'h3', 'h4', 'tr'): self.out.append('\n')
     def handle_endtag(self, tag):
         if tag in ('script', 'style', 'noscript'): self.skip = max(0, self.skip - 1)
         if tag == 'title': self._t = False
+        if tag == 'a' and self._a: self.links.append(self._a); self._a = None
     def handle_data(self, d):
+        if self._a is not None: self._a[1] += d
         if self._t: self.title += d
         if not self.skip: self.out.append(d)
 
@@ -102,6 +105,13 @@ def classify(rec, path):
             rec['result'] = 'blocked (bot challenge)'
         p = Text(); p.feed(t)
         rec['title'] = re.sub(r'\s+', ' ', p.title).strip()[:200]
+        base = rec.get('final_url') or rec['url']
+        seen, links = set(), []
+        for h, txt in p.links:
+            u = urllib.parse.urljoin(base, h.strip())
+            if u.startswith('http') and u not in seen and re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download', u, re.I):
+                seen.add(u); links.append({'url': u, 'text': re.sub(r'\s+', ' ', txt).strip()[:150]})
+        rec['file_links'] = links
         return re.sub(r'\n\s*\n+', '\n\n', ''.join(p.out)).strip()
     return None
 
