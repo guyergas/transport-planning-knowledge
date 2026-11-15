@@ -1,13 +1,19 @@
 {
  "url": "https://www.gov.il/he/Departments/legalInfo/building_and_planning_parking_regulations",
- "checked": "2026-11-15T12:44:26Z",
+ "checked": "2026-11-15T15:05:28Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/building_and_planning_parking_regulations",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5187,
- "secs": 0.060773,
+ "secs": 0.15367,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
  "id": "af789b975c44",
  "kind": "html",
  "result": "redirect",
@@ -17,5 +23,9 @@
   "result": "error 403",
   "server": "cloudflare"
  },
- "title": "תקנות התכנון והבניה (התקנת מקומות חניה), תשמ\"ג-1983 מינהל התכנון"
+ "title": "תקנות התכנון והבניה (התקנת מקומות חניה), תשמ\"ג-1983 מינהל התכנון",
+ "file_links": [],
+ "all_links": 56,
+ "new_file_links": [],
+ "unknown_file_links": []
 }

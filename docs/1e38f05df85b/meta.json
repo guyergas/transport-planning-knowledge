@@ -1,13 +1,19 @@
 {
  "url": "https://www.gov.il/he/departments/policies/parking_planning_guidelines",
- "checked": "2026-11-15T12:44:34Z",
+ "checked": "2026-11-15T15:09:42Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/parking_planning_guidelines",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5187,
- "secs": 0.03512,
+ "secs": 0.089279,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
  "id": "1e38f05df85b",
  "kind": "html",
  "result": "redirect",
@@ -17,5 +23,96 @@
   "result": "error 403",
   "server": "cloudflare"
  },
- "title": "הנחיות לתכנון חניה משרד התחבורה והבטיחות בדרכים"
+ "title": "הנחיות לתכנון חניה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA01_07.pdf",
+   "text": "מדיניות החניה בישראל"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA08_16.pdf",
+   "text": "מערכות הסעת המונים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingAappendix01_05.pdf",
+   "text": "פרק א: נספחים א'-ה'"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingAappendix06_15.pdf",
+   "text": "פרק א:נספחים ו'-טו'"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingB.pdf",
+   "text": "תקני חניה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingC.pdf",
+   "text": "מקדמי משיכה ויצירה של נסיעות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parking.pdf",
+   "text": "הנחיות לתכנון חניה – פרק ד': תכנון חניונים, פברואר 2000"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/דפי עדכון הנחיות חניה פרק ד'- חניונים - עדכון מספר 2 - מונגש.pdf",
+   "text": "דפי עדכון הנחיות חניה פרק ד'- חניונים- עדכון מספר 2- מונגש"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingE.pdf",
+   "text": "תכנון חניונים - מתקני חניה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
+   "text": "בחינת ההשפעה של תקני חניה מופחתים על שימוש הקרקע במע\"ר המטרופוליני"
+  }
+ ],
+ "all_links": 54,
+ "new_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA01_07.pdf",
+   "text": "מדיניות החניה בישראל"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA08_16.pdf",
+   "text": "מערכות הסעת המונים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingAappendix01_05.pdf",
+   "text": "פרק א: נספחים א'-ה'"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingAappendix06_15.pdf",
+   "text": "פרק א:נספחים ו'-טו'"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingB.pdf",
+   "text": "תקני חניה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingC.pdf",
+   "text": "מקדמי משיכה ויצירה של נסיעות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parking.pdf",
+   "text": "הנחיות לתכנון חניה – פרק ד': תכנון חניונים, פברואר 2000"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/דפי עדכון הנחיות חניה פרק ד'- חניונים - עדכון מספר 2 - מונגש.pdf",
+   "text": "דפי עדכון הנחיות חניה פרק ד'- חניונים- עדכון מספר 2- מונגש"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingE.pdf",
+   "text": "תכנון חניונים - מתקני חניה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
+   "text": "בחינת ההשפעה של תקני חניה מופחתים על שימוש הקרקע במע\"ר המטרופוליני"
+  }
+ ],
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/דפי עדכון הנחיות חניה פרק ד'- חניונים - עדכון מספר 2 - מונגש.pdf",
+   "text": "דפי עדכון הנחיות חניה פרק ד'- חניונים- עדכון מספר 2- מונגש"
+  }
+ ]
 }

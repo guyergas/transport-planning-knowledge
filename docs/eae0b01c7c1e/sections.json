@@ -1,0 +1,54 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2014",
+   "מרץ 2014"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים mm‏",
+   "הרשות הארצית לתחבורה ציבורית LL‏",
+   "אגף בכיר תכנון תחבורתי = =",
+   "משרד התחבורה והבטיחות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "1.0",
+   "title": "לבן",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "0.6",
+   "title": "צהוב",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "0.5",
+   "title": "כתום",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "27",
+   "title": "אמריקאי pn",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 12
+  }
+ ],
+ "coverage": "sections"
+}

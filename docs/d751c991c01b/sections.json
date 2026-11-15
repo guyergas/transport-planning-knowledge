@@ -1,0 +1,273 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2002"
+  ],
+  "publisher": [
+   "משרד התחבורה‎ mili",
+   "מנהל היבשה/ אגף תכנון תחבורתי‎ =",
+   "משרד התחבורה",
+   "מנהל הכללי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "39": "2",
+  "44": "2",
+  "45": "5",
+  "50": "106",
+  "51": "135",
+  "52": "16",
+  "53": "137",
+  "54": "138",
+  "55": "145",
+  "56": "8",
+  "58": "208",
+  "59": "209",
+  "61": "212",
+  "62": "213",
+  "63": "214",
+  "64": "215",
+  "65": "220",
+  "67": "243"
+ },
+ "toc_pages": [
+  6,
+  7
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "2",
+   "title": "= מאפיינים של בתי הספר",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "3",
+   "title": "הנחיות כלליות לתכנ",
+   "chapter": null,
+   "start": 9,
+   "level": 1,
+   "end": 14
+  },
+  {
+   "num": "0.80",
+   "title": "עירוני 0.10 0.50",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "0.90",
+   "title": "מועצה מקומית 0.15 0.60",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "1.05",
+   "title": "צר i ( n 0.70",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "3.3",
+   "title": "כמות עמדות נדרשת",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "1.05",
+   "title": "מועצה אזורית 0.20 i 0.70",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "3.4",
+   "title": "הנחיות להקצאת שטחים בתוכניות בנין עיר",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "4",
+   "title": "שלב די: בחינה של חלופות וצמצום שטחים",
+   "chapter": null,
+   "start": 15,
+   "level": 1,
+   "end": 21
+  },
+  {
+   "num": "4.1",
+   "title": "ארגון עמדות הרכב",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "4.3",
+   "title": "דרך גישה לרכב וסובות",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "5",
+   "title": "תכן משטחי המתנה",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 32
+  },
+  {
+   "num": "5.00",
+   "title": "סבירה (B) 0.9 3.75 3.50",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "3.00",
+   "title": "מאולצת (C) 0.6 2.50 2.25",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "5.2",
+   "title": "מעברים להולכי רגל",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "1.00",
+   "title": "פרט עמודי מגן",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "5.4",
+   "title": "סככות המתנה",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 32
+  },
+  {
+   "num": "6",
+   "title": "תמרורים ושלטים",
+   "chapter": null,
+   "start": 33,
+   "level": 1,
+   "end": 33
+  },
+  {
+   "num": "7",
+   "title": "ריהוט רחוב נוסף",
+   "chapter": null,
+   "start": 34,
+   "level": 1,
+   "end": 50
+  },
+  {
+   "num": "6.3",
+   "title": "מקומות להורדת נכים",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "6.4",
+   "title": "מפרצי הורדה להסעות הורים",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "6.5",
+   "title": "עמדות הורדה לכיתות חינוך מיוחד",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 48
+  },
+  {
+   "num": "8.125",
+   "title": "עדכון =",
+   "chapter": null,
+   "start": 49,
+   "level": 2,
+   "end": 50
+  },
+  {
+   "num": "8",
+   "title": "פעם 37",
+   "chapter": null,
+   "start": 51,
+   "level": 1,
+   "end": 51
+  },
+  {
+   "num": "9",
+   "title": "שנתית",
+   "chapter": null,
+   "start": 51,
+   "level": 1,
+   "end": 67
+  },
+  {
+   "num": "12.3.1",
+   "title": "רווחה אקלימית",
+   "chapter": null,
+   "start": 60,
+   "level": 3,
+   "end": 60
+  },
+  {
+   "num": "4.1",
+   "title": "המגרש וחלוקתו",
+   "chapter": null,
+   "start": 61,
+   "level": 2,
+   "end": 61
+  },
+  {
+   "num": "5.125",
+   "title": "הוראות קבע עדכון =",
+   "chapter": null,
+   "start": 61,
+   "level": 2,
+   "end": 67
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,35 @@
+{
+ "front": {
+  "dates": [
+   "ספטמבר 2024",
+   "2021",
+   "2020",
+   "2014",
+   "1995"
+  ],
+  "publisher": [
+   "הרשות הלאומית לבטיחות בדרכים",
+   "הרשות הלאומית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "21": "21",
+  "22": "22",
+  "23": "23"
+ },
+ "toc_pages": [
+  2
+ ],
+ "sections": [
+  {
+   "num": "4",
+   "title": "מנגנון ההשפעה של דרכים שמסבירות את עצמן",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 23
+  }
+ ],
+ "coverage": "page-only"
+}

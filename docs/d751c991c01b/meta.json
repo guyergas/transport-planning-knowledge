@@ -1,0 +1,54 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_school/he/TRAFFIC_PLANNING_TihnunTahanotSchool.pdf",
+ "checked": "2026-11-15T14:56:43Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_school/he/TRAFFIC_PLANNING_TihnunTahanotSchool.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 5275943,
+ "secs": 8.307329,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "d751c991c01b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 67,
+ "pdf_meta": {
+  "Title": "3055-1-rp-003",
+  "Producer": "Corel PDF Engine Version 11.633",
+  "Creator": "CorelDRAW Version 11.0",
+  "CreationDate": "Fri Aug  1 18:55:16 2003 UTC",
+  "ModDate": "Fri Aug  1 18:55:16 2003 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "c5fd6290cd2b637e24e0af8399976fcdcbde9a9c0f52f55fa3f29af8dc2c996e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d751c991c01b.pdf",
+ "fix_log": [
+  "words=3865 unknown=242 fixed=34"
+ ],
+ "image_pages": 67,
+ "table_pages": 6,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 6,
+ "ocr_conf_mean": 82,
+ "lowconf_pages": [
+  2,
+  17,
+  19,
+  24,
+  29,
+  30,
+  32,
+  38,
+  39,
+  41,
+  44,
+  45,
+  46
+ ],
+ "text_pages": 67,
+ "ocr_pages": 67,
+ "layer": "broken"
+}

@@ -1,0 +1,76 @@
+{
+ "front": {
+  "dates": [
+   "יולי 1993"
+  ],
+  "publisher": [
+   "משרד התחבורה - יולי 1993\""
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1"
+ },
+ "toc_pages": [
+  12
+ ],
+ "sections": [
+  {
+   "num": "7",
+   "title": "",
+   "chapter": "פרק 7",
+   "start": 2,
+   "level": 0,
+   "end": 19
+  },
+  {
+   "num": "5",
+   "title": "מגוון שערים. oo",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "6",
+   "title": "טיפול בצמתים באזורי המיתון. o",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 1,
+   "end": 19
+  },
+  {
+   "num": "7.4",
+   "title": "על-פי TWD",
+   "chapter": "פרק 7",
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "7.8",
+   "title": "על-פי מעיפים 7.5 עד",
+   "chapter": "פרק 7",
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "7.8",
+   "title": "על-פי סעיפים 7.5 עד",
+   "chapter": "פרק 7",
+   "start": 14,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "7.4",
+   "title": "סעיף",
+   "chapter": "פרק 7",
+   "start": 15,
+   "level": 2,
+   "end": 19
+  }
+ ],
+ "coverage": "sections"
+}

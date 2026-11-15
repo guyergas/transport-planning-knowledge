@@ -1,0 +1,62 @@
+{
+ "front": {
+  "publisher": [
+   "מנהל ענייני בטיחות הגז או גוף בודק מוסמך כמשמעותו",
+   "רשות ובין אם לאו. וזאת כשאין כוונה אחרת משתמעת."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1.6",
+   "title": "תחנת תדלוק זעירה",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "1.6",
+   "title": "תחנת תדלוק מדרגה א'",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "1.6",
+   "title": "תחנת תדלוק מדרגה ב'",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "1.6",
+   "title": "תחנת תדלוק מדרגה ג'",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "1.5",
+   "title": "תחנת תדלוק לצריכה עצמית",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "6.4",
+   "title": "חוו\"ד מפקח על התעבורה",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 11
+  }
+ ],
+ "coverage": "sections"
+}

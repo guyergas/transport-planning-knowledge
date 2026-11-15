@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/3-12-en.pdf",
+ "checked": "2026-11-15T15:06:27Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/3-12-en.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 409527,
+ "secs": 0.976051,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f2af34510b55",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 30,
+ "pdf_meta": {
+  "Title": "3",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Thu Jan  5 15:03:07 2023 UTC",
+  "ModDate": "Mon Jan  9 06:48:32 2023 UTC"
+ },
+ "fonts_uni_no": 10,
+ "sha256": "079c66dd6d456b856efb29998282be378065ba97777612873427f2782d7360a2",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f2af34510b55.pdf",
+ "fix_log": [
+  "words=9 unknown=2 fixed=0"
+ ],
+ "image_pages": 1,
+ "table_pages": 9,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 9,
+ "ocr_conf_mean": 95,
+ "lowconf_pages": [],
+ "text_pages": 30,
+ "ocr_pages": 30,
+ "layer": "broken"
+}

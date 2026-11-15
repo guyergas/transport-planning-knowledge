@@ -1,0 +1,39 @@
+{
+ "url": "https://www.gov.il/he/departments/general/guide-public-transport-dec2018",
+ "checked": "2026-11-15T15:18:08Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/guide-public-transport-dec2018",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.087179,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "f7d250ee6296",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון הסדרי תנועה לתחבורה ציבורית משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/road_engineering_guide.pdf",
+   "text": "מדריך בהנדסת תנועה - (תחבורה ציבורית מהדורה 3)"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/Concentration_and_organization.xlsx",
+   "text": "ריכוז וארגון הנחיות לתכנון הסדרי תנועה לתחבורה ציבורית"
+  }
+ ],
+ "all_links": 42,
+ "unknown_file_links": []
+}

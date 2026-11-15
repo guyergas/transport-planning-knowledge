@@ -1,0 +1,60 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/separator_planning_guidelines",
+ "checked": "2026-11-15T15:13:44Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/separator_planning_guidelines",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.129768,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "05538aec7542",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון מפרידנים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningTitlePage.pdf",
+   "text": "דפי שער"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningContent.pdf",
+   "text": "מבוא ותוכן עניינים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningChapterA.pdf",
+   "text": "חלק א' - נוסח ההנחיות לתכנון מפרידנים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningCharts.pdf",
+   "text": "תרשימים לפרק 5"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningChapterB.pdf",
+   "text": "חלק ב' - המדריך לתוכנת חישוב העלות של פתרונות הנגישות ופירוט משוואות החישוב"
+  }
+ ],
+ "all_links": 50,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningTitlePage.pdf",
+   "text": "דפי שער"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningCharts.pdf",
+   "text": "תרשימים לפרק 5"
+  }
+ ]
+}

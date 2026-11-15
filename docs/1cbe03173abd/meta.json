@@ -1,0 +1,35 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/03-2023",
+ "checked": "2026-11-15T15:13:50Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/03-2023",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.091467,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "1cbe03173abd",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "תנאים ואמות מידה לקביעת אזורי חניה מוסדרים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/03-2023/he/12-24-23.pdf",
+   "text": "\"תנאים ואמות מידה לקביעת אזורי חניה מוסדרים\" יולי 2023"
+  }
+ ],
+ "all_links": 45,
+ "unknown_file_links": []
+}

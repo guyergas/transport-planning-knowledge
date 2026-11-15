@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2016/he/Tashtiyot_public%20transportation%20development%202016.pdf",
+ "checked": "2026-11-15T14:52:16Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2016/he/Tashtiyot_public%20transportation%20development%202016.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 6869675,
+ "secs": 16.279968,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "5e5b1b582906",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 13,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 9.9",
+  "Creator": "Adobe InDesign CS5.5 (7.5)",
+  "CreationDate": "Tue Sep  6 14:01:03 2016 UTC",
+  "ModDate": "Mon Jun 22 10:50:53 2020 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "a9b9496adc90b7c46dda1175cd0409942928bd33e92338bb1286a843f593099f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/5e5b1b582906.pdf",
+ "image_pages": 12,
+ "table_pages": 3,
+ "figure_ocr_pages": 12,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 13,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

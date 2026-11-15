@@ -1,0 +1,169 @@
+{
+ "front": {
+  "dates": [
+   "2018",
+   "2014",
+   "2006",
+   "אפריל 2010",
+   "2010"
+  ],
+  "publisher": [
+   "נתיבי\nהחברה הלאומית לתשותיות תחבורה בעיים",
+   "נתיבי זחילה. נושאי האורך",
+   "נתיבי הזחילה נסקרו בסעיף  3.9.3 בפרק  3 לעיל – חתכי הרוח",
+   "משרד התחבורה וצה\"ל), תידרש שמירת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "6.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "6.2",
+   "title": "המרווח האנכי",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "6.00",
+   "title": "לפחות מעל רצועה ברוחב 4.50",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "5.60",
+   "title": "מעל מסילת רכבת עירונית (רק\"ל)",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "6.00",
+   "title": "מעל מסילת רכבת שאינן מיועדות לחישמול",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "6.3",
+   "title": "שיפועים לאורך התוואי",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "6.3.1",
+   "title": "שיפועים מרביים",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "6.3.2",
+   "title": "שיפועים מזעריים",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 5
+  },
+  {
+   "num": "6.4",
+   "title": "עקומים אנכיים",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "6.4.1",
+   "title": "הגדרה ויעד",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 5
+  },
+  {
+   "num": "6.4.2",
+   "title": "תכן עקום אנכי קמור",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 5
+  },
+  {
+   "num": "2",
+   "title": "תכן עקום אנכי קמו",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "6",
+   "title": "התוואי האנכי",
+   "chapter": "פרק 6 — התוואי האנכי",
+   "start": 6,
+   "level": 0,
+   "end": 21
+  },
+  {
+   "num": "6.4.3",
+   "title": "תכן עקום אנכי קעור",
+   "chapter": "פרק 6 — התוואי האנכי",
+   "start": 11,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "6.4.4",
+   "title": "שינוי שיפוע מרבי ללא עקום אנכי",
+   "chapter": "פרק 6 — התוואי האנכי",
+   "start": 16,
+   "level": 3,
+   "end": 16
+  },
+  {
+   "num": "6.5",
+   "title": "בקרים כלליים לתוואי האנכי",
+   "chapter": "פרק 6 — התוואי האנכי",
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "4",
+   "title": "שינוי שיפוע מרבי ללא עקום אנכי",
+   "chapter": "פרק 6 — התוואי האנכי",
+   "start": 16,
+   "level": 1,
+   "end": 21
+  }
+ ],
+ "coverage": "sections"
+}

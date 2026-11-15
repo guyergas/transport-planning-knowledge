@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/%D7%A0%D7%95%D7%94%D7%9C%20%D7%90%D7%99%D7%A9%D7%95%D7%A8%20%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D-%20%D7%A0%D7%A1%D7%A4%D7%97%201-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%204%20-%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%20%D7%9C%D7%94%D7%A4%D7%A6%D7%94.pdf",
+ "checked": "2026-11-15T15:09:52Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/%D7%A0%D7%95%D7%94%D7%9C%20%D7%90%D7%99%D7%A9%D7%95%D7%A8%20%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D-%20%D7%A0%D7%A1%D7%A4%D7%97%201-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%204%20-%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%20%D7%9C%D7%94%D7%A4%D7%A6%D7%94.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1151651,
+ "secs": 3.428028,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "162d585b6c2b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 39,
+ "pdf_meta": {
+  "Title": "דרישות משרד התחבורה מתוכנות תכנון תכניות רמזורים",
+  "Producer": "Microsoft® Word עבור Microsoft 365",
+  "Creator": "Microsoft® Word עבור Microsoft 365",
+  "CreationDate": "Mon Feb  9 16:57:01 2026 UTC",
+  "ModDate": "Mon Feb  9 16:57:01 2026 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "7d8a4ffc5fbda5ff779f4be15597cd1c2bb78608faa33e5b173d5ba2d81a8b7a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/162d585b6c2b.pdf",
+ "image_pages": 2,
+ "table_pages": 3,
+ "figure_ocr_pages": 2,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 39,
+ "ocr_pages": 0,
+ "layer": "ok"
+}
