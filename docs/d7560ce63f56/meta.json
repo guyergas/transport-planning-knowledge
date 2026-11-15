@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorim.pdf",
+ "checked": "2026-11-15T13:26:08Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 4043818,
+ "secs": 3.558671,
+ "server": "cloudflare",
+ "id": "d7560ce63f56",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 186,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe Acrobat 6.0",
+  "Creator": "PrimoPDF http://www.primopdf.com",
+  "CreationDate": "Tue Feb  5 15:38:27 2008 UTC",
+  "ModDate": "Tue Apr  8 07:20:08 2008 UTC"
+ },
+ "fonts_uni_no": 66,
+ "sha256": "671b3967eae443e02701e41f98b05aa564a882bb3b8887df2913dd41b7399f0e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d7560ce63f56.pdf",
+ "fix_log": [
+  "words=5151 unknown=247 fixed=2"
+ ],
+ "text_pages": 186,
+ "ocr_pages": 15,
+ "layer": "mixed"
+}

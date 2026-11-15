@@ -1,0 +1,28 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/ar/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_combination_horizontal_vertical_11.pdf",
+ "checked": "2026-11-15T13:25:22Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/ar/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_combination_horizontal_vertical_11.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 965345,
+ "secs": 1.112891,
+ "server": "cloudflare",
+ "id": "bb040cf49f99",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 10,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Wed Jul 11 06:37:45 2018 UTC",
+  "ModDate": "Wed Oct 23 06:20:36 2019 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "ead6795839018f94f6c3ab114b84df235c01f25694f0ea020d7ac4edba915609",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/bb040cf49f99.pdf",
+ "text_pages": 10,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

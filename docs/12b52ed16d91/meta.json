@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/202409_ktziney_tahbura/he/publications_202409_ktziney_tahbura.pdf",
+ "checked": "2026-11-15T13:27:14Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/202409_ktziney_tahbura/he/publications_202409_ktziney_tahbura.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 679310,
+ "secs": 2.687395,
+ "server": "cloudflare",
+ "id": "12b52ed16d91",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 20,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Thu Apr 10 11:22:58 2025 UTC",
+  "ModDate": "Thu Apr 10 11:22:58 2025 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "7f588bf1aee36631489b3f68c22a6ed5fad2b9c6f1443d7af16c21488f533110",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/12b52ed16d91.pdf",
+ "fix_log": [
+  "words=1890 unknown=39 fixed=2"
+ ],
+ "text_pages": 20,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

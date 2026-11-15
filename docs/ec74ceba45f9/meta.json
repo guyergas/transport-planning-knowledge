@@ -1,0 +1,28 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_routes_rapid_bus_traffic/he/BTR-nohal-tihnun-netivim.pdf",
+ "checked": "2026-11-15T13:26:02Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_routes_rapid_bus_traffic/he/BTR-nohal-tihnun-netivim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 7110803,
+ "secs": 14.085628,
+ "server": "cloudflare",
+ "id": "ec74ceba45f9",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 66,
+ "pdf_meta": {
+  "Title": "תאומ 2018",
+  "Producer": "PDFCreator 2.5.3.6324",
+  "Creator": "PDFCreator 2.5.3.6324",
+  "CreationDate": "Wed Apr 24 05:35:03 2019 UTC",
+  "ModDate": "Tue Feb 11 07:57:26 2020 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "f1680aa84bc219f2eac8fffb2ecea104168991f407438912deac55e129095317",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ec74ceba45f9.pdf",
+ "text_pages": 66,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

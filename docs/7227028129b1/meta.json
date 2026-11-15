@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/traffic_height_obstacle/he/Guidelines-for-height-obstacles-2026.pdf",
+ "checked": "2026-11-15T13:25:29Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/traffic_height_obstacle/he/Guidelines-for-height-obstacles-2026.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3939361,
+ "secs": 5.998805,
+ "server": "cloudflare",
+ "id": "7227028129b1",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 63,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Thu Apr  9 11:41:24 2026 UTC",
+  "ModDate": "Thu Apr  9 11:41:24 2026 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "69ee98c497e5056e47e83b15ce5438a45624e8e6cc7f22007612237598ebb8df",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/7227028129b1.pdf",
+ "fix_log": [
+  "words=2693 unknown=97 fixed=7"
+ ],
+ "text_pages": 63,
+ "ocr_pages": 6,
+ "layer": "mixed"
+}

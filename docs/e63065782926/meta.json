@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
+ "checked": "2026-11-15T13:23:20Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 674558,
+ "secs": 1.084533,
+ "server": "cloudflare",
+ "id": "e63065782926",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 10,
+ "pdf_meta": {
+  "Title": "Microsoft Word - רוני רום א.doc",
+  "Producer": "Acrobat Distiller 6.0.1 (Windows)",
+  "Creator": "PScript5.dll Version 5.2",
+  "CreationDate": "Tue May 16 07:59:00 2006 UTC",
+  "ModDate": "Thu Sep 28 09:00:54 2006 UTC"
+ },
+ "fonts_uni_no": 9,
+ "sha256": "79aec1e155633a9874afd36e8b08ce48e81d433f7e45f9da2d0bb5d72d82d68e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/e63065782926.pdf",
+ "fix_log": [
+  "words=1166 unknown=46 fixed=1"
+ ],
+ "text_pages": 10,
+ "ocr_pages": 3,
+ "layer": "mixed"
+}
