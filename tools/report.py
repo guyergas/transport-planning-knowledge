@@ -17,7 +17,10 @@ def load(name):
 
 def main(name):
     recs = load(name)
-    bad = [r for r in recs if not str(r.get('result', '')).startswith(('ok', 'redirect'))]
+    sys.path.insert(0, os.path.join(ROOT, 'tools'))
+    import fetch
+    settled = fetch.settled_replacements()
+    bad = [r for r in recs if not str(r.get('result', '')).startswith(('ok', 'redirect')) and r['url'].split('#')[0] not in settled]
     arch = [r for r in recs if r.get('via') == 'wayback']
     changed = [r for r in recs if r.get('change') == 'changed']
     new = [(r, x) for r in recs for x in r.get('unknown_file_links', [])]

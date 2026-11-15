@@ -352,7 +352,9 @@ def weekly():
     plus inbox/manual docs' original URLs are not re-fetched. One request file, 20 shards."""
     lf = os.path.join(ROOT, 'sheet', 'links.jsonl')
     urls = [json.loads(l)['url'].split('#')[0] for l in open(lf, encoding='utf-8')] if os.path.exists(lf) else []
-    rm = removed_set()
+    rm = removed_set() | set(settled_replacements())
+    for x in (json.loads(l) for l in open(os.path.join(ROOT, 'sheet', 'replacements.jsonl'), encoding='utf-8')) if os.path.exists(os.path.join(ROOT, 'sheet', 'replacements.jsonl')) else []:
+        urls.append(x['new'].split('#')[0])  # the replacement is checked even before the sheet itself is updated
     urls = [u for u in dict.fromkeys(urls) if u.startswith('http') and u not in rm and docid(u) not in rm]
     name = time.strftime('weekly-%Y-%m-%d', time.gmtime())
     open(os.path.join(ROOT, 'requests', name + '.txt'), 'w').write('# shards=20\n# report\n' + '\n'.join(urls) + '\n')
@@ -445,7 +447,7 @@ def build_status():
             u = r['url'].split('#')[0]
             if u not in last or (r.get('checked') or '') >= (last[u].get('checked') or ''):
                 last[u] = r
-    rm = removed_set()
+    rm = removed_set() | set(settled_replacements(last))
     with open(os.path.join(ROOT, 'status.jsonl'), 'w', encoding='utf-8') as fs, open(os.path.join(ROOT, 'inaccessible.jsonl'), 'w', encoding='utf-8') as fi:
         for u in sorted(last):
             if u in rm:
@@ -458,6 +460,30 @@ def build_status():
             fs.write(json.dumps(row, ensure_ascii=False) + '\n')
             if not str(row['result'] or '').startswith(('ok', 'redirect')):
                 fi.write(json.dumps(row, ensure_ascii=False) + '\n')
+
+
+def latest_results():
+    last = {}
+    for f in glob.glob(os.path.join(ROOT, 'results', '*.jsonl')):
+        for l in open(f, encoding='utf-8'):
+            r = json.loads(l); u = r['url'].split('#')[0]
+            if (r.get('checked') or '') >= (last.get(u, {}).get('checked') or ''):
+                last[u] = r
+    return last
+
+
+def settled_replacements(last=None):
+    """Old URLs Guy already replaced AND whose new URL now opens: never re-check or re-report them."""
+    rp = os.path.join(ROOT, 'sheet', 'replacements.jsonl')
+    if not os.path.exists(rp):
+        return {}
+    last = last if last is not None else latest_results()
+    out = {}
+    for l in open(rp, encoding='utf-8'):
+        x = json.loads(l)
+        if str(last.get(x['new'].split('#')[0], {}).get('result', '')).startswith(('ok', 'redirect')):
+            out[x['old'].split('#')[0]] = x
+    return out
 
 
 def build_pending():
@@ -474,6 +500,7 @@ def build_pending():
                 last[u] = r
     rp = os.path.join(ROOT, 'sheet', 'replacements.jsonl')
     decided = {json.loads(l)['old']: json.loads(l) for l in open(rp, encoding='utf-8')} if os.path.exists(rp) else {}
+    settled = settled_replacements()
     out = ['# ממתין להחלטה', '', 'נבנה אוטומטית בסוף כל ריצה. לכל קישור שלא נפתח: הרשומה, הסיבה, והצעות לתחליף (אם נמצאו).',
            'כדי להחליט: כתוב בשיחה "שורה N → קישור" (או "להסיר" / "ידני"), ואני אעדכן את הריפו והגיליון.', '']
     for row in sorted(rows, key=lambda r: (r.get('sheet') or ['~'])[0]):
@@ -483,8 +510,10 @@ def build_pending():
         title = '; '.join(f"{i} — {recs.get(i, {}).get('title', '')}" for i in row.get('sheet') or []) or '(לא בגיליון)'
         out.append(f"## {title}")
         out.append(f"- קישור: [{urllib.parse.unquote(u)[-80:]}]({u})")
+        if u in settled:
+            continue  # decided and the replacement works: nothing to ask
         if u in decided:
-            out.append(f"- הוחלט ({decided[u].get('by', '')}): {decided[u].get('kind', '')} → [{urllib.parse.unquote(decided[u]['new']).split('/')[-1][:70]}]({decided[u]['new']}) — ממתין לעדכון הגיליון")
+            out.append(f"- הוחלט ({decided[u].get('by', '')}): {decided[u].get('kind', '')} → [{urllib.parse.unquote(decided[u]['new']).split('/')[-1][:70]}]({decided[u]['new']}) — התחליף עוד לא נפתח, צריך החלטה חדשה")
             out.append('')
             continue
         out.append(f"- סיבה: {row.get('result')} · שרת {row.get('server') or '-'} · דפדפן {row.get('browser') or '-'} · ארכיון {row.get('archive') or '-'} · נבדק {row.get('checked', '')[:10]}")
