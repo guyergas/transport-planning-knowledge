@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/strategic-plan/he/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA%20%D7%90%D7%A1%D7%98%D7%A8%D7%98%D7%92%D7%99%D7%AA%20%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA%20%D7%9C%D7%A8%D7%A9%D7%AA%20%D7%94%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%94%D7%90%D7%A8%D7%A6%D7%99%D7%AA%202030.pdf",
- "checked": "2026-11-15T13:27:08Z",
+ "checked": "2026-11-15T15:15:22Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/strategic-plan/he/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA%20%D7%90%D7%A1%D7%98%D7%A8%D7%98%D7%92%D7%99%D7%AA%20%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA%20%D7%9C%D7%A8%D7%A9%D7%AA%20%D7%94%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%94%D7%90%D7%A8%D7%A6%D7%99%D7%AA%202030.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 12993719,
- "secs": 12.690395,
+ "secs": 17.187288,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "7f4bc8875567",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 69,
  "pdf_meta": {
   "Title": "תוכנית אסטרטגית לאומית לרשת הדרכים הארצית 2050",
@@ -22,6 +26,12 @@
  "fonts_uni_no": 2,
  "sha256": "c8eb5ed3609f7577c272d27f8a06e87274d4a23d0d6d7a293da930baff13fd47",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/7f4bc8875567.pdf",
+ "image_pages": 41,
+ "table_pages": 39,
+ "figure_ocr_pages": 41,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
  "text_pages": 69,
  "ocr_pages": 0,
  "layer": "ok"

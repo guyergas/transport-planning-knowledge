@@ -1,0 +1,42 @@
+{
+ "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9606701.pdf",
+ "checked": "2026-11-15T14:52:57Z",
+ "status": 200,
+ "final_url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9606701.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 106170,
+ "secs": 2.075587,
+ "server": "",
+ "tries": [
+  200
+ ],
+ "id": "b6d1a0706081",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 4,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Acrobat 5.0 Image Conversion Plug-in for Windows",
+  "Creator": "Acrobat 5.0 Image Conversion Plug-in for Windows",
+  "CreationDate": "Tue May 21 16:23:00 2002 UTC",
+  "ModDate": "Wed May 22 14:07:10 2002 UTC"
+ },
+ "fonts_uni_no": 1,
+ "sha256": "a9bd716163f7968148e16154002fb4913b0646690b85d0b9c11fd73af3c76ae9",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/b6d1a0706081.pdf",
+ "fix_log": [
+  "words=326 unknown=76 fixed=0"
+ ],
+ "image_pages": 4,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 74,
+ "lowconf_pages": [
+  1
+ ],
+ "text_pages": 4,
+ "ocr_pages": 4,
+ "layer": "broken"
+}

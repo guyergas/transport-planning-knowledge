@@ -1,0 +1,147 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2012",
+   "אפריל 2013",
+   "ינואר 2013"
+  ],
+  "publisher": [
+   "משרד האוצר",
+   "משרד התחבורה",
+   "משרד האוצר   מדינת ישראל   התשתיות הלאומיות",
+   "מנהל אגף בכיר תחבורה ציבורית           סמנכ\"לית תשתיות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "13": "3",
+  "59": "14",
+  "61": "15",
+  "62": "16",
+  "63": "17"
+ },
+ "toc_pages": [
+  5,
+  12,
+  20,
+  21,
+  43,
+  44,
+  45
+ ],
+ "sections": [
+  {
+   "num": "1.2",
+   "title": "הצורך בפתוח מערכות תחבורה ציבורית",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2",
+   "title": "הצורך בפתוח מערכות תחבורה ציבורית",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 54
+  },
+  {
+   "num": "3.1",
+   "title": "הפער המצטבר בהשקעות בתחבורה הציבורית",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "4.3",
+   "title": "מדיניות תחבורתית וניהול הביקושים",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "4.1",
+   "title": "רקע",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "4.3.1",
+   "title": "צעדים לעידוד התחבורה הציבורית",
+   "chapter": null,
+   "start": 23,
+   "level": 3,
+   "end": 25
+  },
+  {
+   "num": "5.2",
+   "title": "דגשים ועקרונות",
+   "chapter": null,
+   "start": 26,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "5.3",
+   "title": "יעדים אסטרטגיים לפיתוח התחבורה הציבורית",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "5.4",
+   "title": "פיתוח התחבורה הציבורית הבינעירונית",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "5.8",
+   "title": "אמצעי מדיניות משלימה ותחבורה בת קיימא",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 32
+  },
+  {
+   "num": "6.2",
+   "title": "עמידה ביעדים האסטרטגיים",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "7.3",
+   "title": "תקציב ומימון",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "7.9",
+   "title": "המלצות",
+   "chapter": null,
+   "start": 38,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "3",
+   "title": "רכבות",
+   "chapter": null,
+   "start": 55,
+   "level": 1,
+   "end": 64
+  }
+ ],
+ "coverage": "sections"
+}

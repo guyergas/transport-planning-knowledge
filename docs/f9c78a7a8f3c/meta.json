@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA08_16.pdf",
+ "checked": "2026-11-15T15:02:30Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA08_16.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 655130,
+ "secs": 1.23659,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f9c78a7a8f3c",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 17,
+ "pdf_meta": {
+  "Title": "The Title",
+  "Producer": "The Producer",
+  "Creator": "The Creator",
+  "CreationDate": "Wed Jul  7 12:34:59 2004 UTC",
+  "ModDate": "Sun Sep 19 06:34:12 2004 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "dad4883a062ce284bb111ac091c5c56133366d71ef554c6c6ce7476b1b893e45",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f9c78a7a8f3c.pdf",
+ "fix_log": [
+  "words=2195 unknown=278 fixed=75"
+ ],
+ "image_pages": 17,
+ "table_pages": 5,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 5,
+ "ocr_conf_mean": 85,
+ "lowconf_pages": [],
+ "text_pages": 17,
+ "ocr_pages": 17,
+ "layer": "broken"
+}

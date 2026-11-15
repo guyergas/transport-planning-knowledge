@@ -1,0 +1,42 @@
+{
+ "front": {
+  "edition": [
+   "3.1",
+   "שלישית"
+  ],
+  "dates": [
+   "יולי 2021",
+   "2021"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "אגף בכיר תכנון תחבורתי",
+   "רשות התימרור המקומית, המתכנן, הפרויקט והגדרת קטע(י) הדר",
+   "רשות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  2
+ ],
+ "sections": [
+  {
+   "num": "3.1",
+   "title": "מהדורה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "0",
+   "title": "מ' ראשונים",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 11
+  }
+ ],
+ "coverage": "page-only"
+}

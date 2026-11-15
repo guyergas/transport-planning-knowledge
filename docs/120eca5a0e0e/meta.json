@@ -1,0 +1,304 @@
+{
+ "url": "https://www.gov.il/he/departments/general/tama_iframe",
+ "checked": "2026-11-15T15:07:30Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/tama_iframe",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.198459,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "120eca5a0e0e",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "פירוט תכניות מתאר ארציות מינהל התכנון",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_01.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_03.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_04.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_05.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_08.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_10.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_11.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_12.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_13.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_14.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_15.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_16.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_18.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_19.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_21.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_22.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_23.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_24.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_29.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_30.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_31_a.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_32.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_34.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_35.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_36.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_37.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_38.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_39.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_40.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_41.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_42.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_44.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_46.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_47.zip",
+   "text": "קישור"
+  }
+ ],
+ "all_links": 82,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_01.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_03.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_04.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_05.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_08.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_10.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_11.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_12.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_13.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_14.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_15.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_16.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_18.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_19.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_21.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_22.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_23.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_24.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_29.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_30.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_31_a.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_32.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_34.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_35.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_36.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_37.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_38.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_39.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_40.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_41.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_42.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_44.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_46.zip",
+   "text": "קישור"
+  },
+  {
+   "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_47.zip",
+   "text": "קישור"
+  }
+ ]
+}

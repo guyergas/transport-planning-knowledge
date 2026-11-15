@@ -1,0 +1,59 @@
+{
+ "front": {
+  "publisher": [
+   "רשות המקומית, ונוצר דפוס התנהגות בו, כברירת מחדל, נוטה",
+   "הרשות המקומית תדע היכן סיכויי ההצלחה ליישום פרוייקט הנם",
+   "רשות המקומית?",
+   "הרשות המקומית /ראש העירייה לזכות באמון הציבור, כיון שהנה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "8": "0",
+  "10": "30"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "עוצמת המעורבות",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "3",
+   "title": "מעורבות הציבור בשלבי התכנון השונים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "21.12.95",
+   "title": "חיפה",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "4",
+   "title": "נגישות הסביבה הבנוייה: מכון התקנים הישראלי תקן ישראלי",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 18
+  }
+ ],
+ "coverage": "sections"
+}

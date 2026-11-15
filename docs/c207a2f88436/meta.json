@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/Unified-format_HE.pdf",
+ "checked": "2026-11-15T15:13:47Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/Unified-format_HE.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 643469,
+ "secs": 1.462125,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "c207a2f88436",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 22,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Office Word 2007",
+  "Creator": "Microsoft® Office Word 2007",
+  "CreationDate": "Tue Sep 29 13:04:00 2015 UTC",
+  "ModDate": "Sun Jan 10 15:10:22 2016 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "6da11e81da4200a830518aaa7c6afccf3adc53fac52b09b8d2d927badd39d51c",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/c207a2f88436.pdf",
+ "fix_log": [
+  "words=1155 unknown=42 fixed=2"
+ ],
+ "image_pages": 5,
+ "table_pages": 0,
+ "figure_ocr_pages": 4,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 70,
+ "lowconf_pages": [
+  16
+ ],
+ "text_pages": 22,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}

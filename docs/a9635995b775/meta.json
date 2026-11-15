@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/report_64_65_082016/he/files_maakavim_16.pdf",
+ "checked": "2026-11-15T15:10:51Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/report_64_65_082016/he/files_maakavim_16.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3993839,
+ "secs": 7.868096,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "a9635995b775",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 860,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Office Word 2007",
+  "Creator": "Microsoft® Office Word 2007",
+  "CreationDate": "Wed Sep  7 10:54:15 2016 UTC",
+  "ModDate": "Wed Sep  7 10:54:15 2016 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "4827d86c3b60686dfafd0613266f2d330f494e458c61ed0230959b45018ae141",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a9635995b775.pdf",
+ "fix_log": [
+  "words=23418 unknown=865 fixed=23"
+ ],
+ "image_pages": 3,
+ "table_pages": 2,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 94,
+ "lowconf_pages": [],
+ "text_pages": 860,
+ "ocr_pages": 81,
+ "layer": "mixed"
+}

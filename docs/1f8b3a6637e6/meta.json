@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/road_examinations_protocol/he/2023-new.pdf",
+ "checked": "2026-11-15T15:08:23Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/road_examinations_protocol/he/2023-new.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1581211,
+ "secs": 2.85448,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "1f8b3a6637e6",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 18,
+ "pdf_meta": {
+  "Title": "נוהל לביצוע ניסויים בדרך בהקשר להסדרי תנועה",
+  "Producer": "Microsoft® Word 2016",
+  "Creator": "Microsoft® Word 2016",
+  "CreationDate": "Tue Mar 28 10:22:28 2023 UTC",
+  "ModDate": "Wed Mar 29 07:13:30 2023 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "aca6a5ee2b57a262c595cc4c673335bdb129e0ffcbc119bad6f349a83a8c5452",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/1f8b3a6637e6.pdf",
+ "image_pages": 5,
+ "table_pages": 0,
+ "figure_ocr_pages": 5,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 18,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

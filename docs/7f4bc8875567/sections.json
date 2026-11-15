@@ -5,7 +5,7 @@
    "2030",
    "מאי 2022",
    "2012",
-   "2021"
+   "דצמבר 2012"
   ],
   "publisher": [
    "משרד התחבורה תכנון אסטרטגי לפיתוח תשתית תחבורתית יבשתית",
@@ -20,6 +20,30 @@
   3
  ],
  "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "11.000",
+   "title": "6ובם",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2.1",
+   "title": "שכבות הרקע לתוכנית",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
   {
    "num": "2.12",
    "title": "למעט שלוחת מסילה אשר תיוותר בתוקפה                  צפון",
@@ -50,23 +74,279 @@
    "chapter": null,
    "start": 7,
    "level": 2,
+   "end": 7
+  },
+  {
+   "num": "2",
+   "title": "תשתית הדרכים",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "2.1.3",
+   "title": "תחבורה ציבורית (תח\"צ) אסטרטגית",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.2",
+   "title": "חבילת תשתית",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2.2.2",
+   "title": "היררכיה",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "2.2.3",
+   "title": "חלוקה גיאוגרפית",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "2.3",
+   "title": "חבילת שירות וממשקים",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "3",
+   "title": "הבילת שירות וממשקים",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "4.1",
+   "title": "יעדים אסטרטגיים בתוכניות בעולם",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "4.1.1",
+   "title": "אנגליה",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "4",
+   "title": "מטרות ויעדים אסטרטגיים",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 17
+  },
+  {
+   "num": "4.2",
+   "title": "יעדי תוכניות בישראל",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
    "end": 14
   },
   {
    "num": "1.00",
-   "title": "יחס         BUD             חריגה מיעד התקציב –  30שנה",
+   "title": "יחס         BUD             חריגה מיעד התקציב –  30 שנה",
    "chapter": null,
    "start": 15,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "5.0",
+   "title": "מיליון       3.7 מיליון",
+   "chapter": null,
+   "start": 16,
    "level": 2,
    "end": 17
   },
   {
-   "num": "1",
-   "title": "מספר מעברים ממוצע לנסיעה       12",
+   "num": "5",
+   "title": "זמינות ציבורית   17",
    "chapter": null,
    "start": 18,
    "level": 1,
+   "end": 33
+  },
+  {
+   "num": "4.3.3.1",
+   "title": "תחום תחבורה",
+   "chapter": null,
+   "start": 19,
+   "level": 4,
+   "end": 31
+  },
+  {
+   "num": "5.2.5",
+   "title": "התפלגות עלויות החלופות",
+   "chapter": null,
+   "start": 32,
+   "level": 3,
+   "end": 32
+  },
+  {
+   "num": "6.1",
+   "title": "רקע – המודל התחבורתי הארצי",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "6",
+   "title": "המודל התחבורתי והביקוש לנסיעות",
+   "chapter": null,
+   "start": 34,
+   "level": 1,
    "end": 69
+  },
+  {
+   "num": "6.3",
+   "title": "תרחישי אוכלוסייה ותעסוקה",
+   "chapter": null,
+   "start": 35,
+   "level": 2,
+   "end": 40
+  },
+  {
+   "num": "6.3.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 35,
+   "level": 3,
+   "end": 35
+  },
+  {
+   "num": "6.3.2",
+   "title": "תרחיש המשך מגמות",
+   "chapter": null,
+   "start": 35,
+   "level": 3,
+   "end": 35
+  },
+  {
+   "num": "6.3.3",
+   "title": "תרחיש התוכנית האסטרטגית לדיור",
+   "chapter": null,
+   "start": 36,
+   "level": 3,
+   "end": 40
+  },
+  {
+   "num": "7.1.2",
+   "title": "נגישות",
+   "chapter": null,
+   "start": 41,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "7.1",
+   "title": "תחבורה",
+   "chapter": null,
+   "start": 41,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "7.1.1",
+   "title": "נסועה ושעות רכב",
+   "chapter": null,
+   "start": 41,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "7.1.3",
+   "title": "אמינות הרשת",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "7.1.4",
+   "title": "רמת השירות ברשת              נוסעיםשר נסיעות של  +2ו +3",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "7.2",
+   "title": "חברה",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 48
+  },
+  {
+   "num": "7.4.1",
+   "title": "צמצום הזיהום",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 46
+  },
+  {
+   "num": "7.3.2",
+   "title": "עלות כלכלית",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 46
+  },
+  {
+   "num": "7.4.3",
+   "title": "יעילות אנרגטית",
+   "chapter": null,
+   "start": 47,
+   "level": 3,
+   "end": 48
+  },
+  {
+   "num": "8.2",
+   "title": "חלופות התוכנית ובטיחות",
+   "chapter": null,
+   "start": 49,
+   "level": 2,
+   "end": 49
+  },
+  {
+   "num": "8.2.1",
+   "title": "קווים מנחים בהערכת החלופות",
+   "chapter": null,
+   "start": 49,
+   "level": 3,
+   "end": 49
+  },
+  {
+   "num": "8.2.3",
+   "title": "ממצאי השוואה בין החלופות",
+   "chapter": null,
+   "start": 50,
+   "level": 3,
+   "end": 50
   },
   {
    "num": "0.38",
@@ -74,7 +354,23 @@
    "chapter": null,
    "start": 50,
    "level": 2,
+   "end": 52
+  },
+  {
+   "num": "9.1",
+   "title": "סיכום ניתוח MCA",
+   "chapter": null,
+   "start": 53,
+   "level": 2,
    "end": 56
+  },
+  {
+   "num": "10.2.1",
+   "title": "השקעה בתחבורה ציבורית ובבטיחותה",
+   "chapter": null,
+   "start": 57,
+   "level": 3,
+   "end": 57
   },
   {
    "num": "12.7",
@@ -90,6 +386,38 @@
    "chapter": null,
    "start": 57,
    "level": 2,
+   "end": 64
+  },
+  {
+   "num": "10.3.1",
+   "title": "חבילת ניהול תנועה                              בטיחות",
+   "chapter": null,
+   "start": 57,
+   "level": 3,
+   "end": 60
+  },
+  {
+   "num": "10.3.1.2",
+   "title": "מדיניות ניהול ביקוש",
+   "chapter": null,
+   "start": 60,
+   "level": 4,
+   "end": 60
+  },
+  {
+   "num": "10.3.2",
+   "title": "חבילת בטיחות",
+   "chapter": null,
+   "start": 61,
+   "level": 3,
+   "end": 61
+  },
+  {
+   "num": "10.3.3",
+   "title": "חבילת הפרויקטים הקטנים",
+   "chapter": null,
+   "start": 61,
+   "level": 3,
    "end": 64
   },
   {
