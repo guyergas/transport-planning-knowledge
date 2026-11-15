@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/328/view",
+ "checked": "2026-11-15T14:41:29Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/328/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40189,
+ "secs": 0.699771,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "3d547888c72f",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/328/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/he/pages/pt-preference-arrangements-procedure",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/328/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/328/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/he/pages/pt-preference-arrangements-procedure",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}

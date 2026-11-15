@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/160/view",
- "checked": "2026-11-15T14:36:27Z",
+ "checked": "2026-11-15T14:40:38Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/160/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40045,
- "secs": 0.645267,
+ "secs": 0.686125,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -21,6 +21,10 @@
    "text": "Show user menu"
   },
   {
+   "url": "https://www.gov.il/he/pages/traffic-light-plans",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
    "url": "https://www.eshed-mtl.co.il/documents/160/view#forgot",
    "text": "שכחתי סיסמה"
   },
@@ -30,5 +34,16 @@
   }
  ],
  "all_links": 43,
- "unknown_file_links": []
+ "new_file_links": [
+  {
+   "url": "https://www.gov.il/he/pages/traffic-light-plans",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ],
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/he/pages/traffic-light-plans",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
 }

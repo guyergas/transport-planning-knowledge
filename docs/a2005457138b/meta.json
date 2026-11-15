@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/334/view",
+ "checked": "2026-11-15T14:41:31Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/334/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40602,
+ "secs": 0.696484,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "a2005457138b",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/334/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/334/%20https:/is-il.org.il/wp-content/uploads/2026/04/%D7%97%D7%95%D7%91%D7%A8%D7%AA-%D7%AA%D7%94%D7%9C%D7%99%D7%9B%D7%99%D7%9D-%D7%91%D7%AA%D7%99%D7%90%D7%95%D7%9D-%D7%AA%D7%A9%D7%AA%D7%99%D7%95%D7%AA-2019-1.pdf?hl=en-US",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/334/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/334/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/334/%20https:/is-il.org.il/wp-content/uploads/2026/04/%D7%97%D7%95%D7%91%D7%A8%D7%AA-%D7%AA%D7%94%D7%9C%D7%99%D7%9B%D7%99%D7%9D-%D7%91%D7%AA%D7%99%D7%90%D7%95%D7%9D-%D7%AA%D7%A9%D7%AA%D7%99%D7%95%D7%AA-2019-1.pdf?hl=en-US",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}
