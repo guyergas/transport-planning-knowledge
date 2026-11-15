@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_urban_signage/he/ShilutIroniFull.pdf",
- "checked": "2026-11-15T13:29:03Z",
+ "checked": "2026-11-15T15:00:37Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_urban_signage/he/ShilutIroniFull.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 8843431,
- "secs": 6.938131,
+ "secs": 11.417408,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "b2fe92e47344",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 161,
  "pdf_meta": {
   "Title": "הנחיות לתכנון שילוט עירוני",
@@ -23,7 +27,21 @@
  "sha256": "5b86c2b2f7ceb37b4bfe8b2975f63863891f7319bee73946c20322fda53b5fbd",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b2fe92e47344.pdf",
  "fix_log": [
-  "words=5357 unknown=262 fixed=9"
+  "words=5449 unknown=316 fixed=16"
+ ],
+ "image_pages": 23,
+ "table_pages": 15,
+ "figure_ocr_pages": 9,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 72,
+ "lowconf_pages": [
+  4,
+  137,
+  140,
+  141,
+  142,
+  143,
+  144
  ],
  "text_pages": 161,
  "ocr_pages": 14,

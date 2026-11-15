@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/design_high_demand_crossings/he/TihnunMavarHazaya.pdf",
+ "checked": "2026-11-15T14:54:50Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/design_high_demand_crossings/he/TihnunMavarHazaya.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2518242,
+ "secs": 4.983302,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "0ee9af2c957f",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 58,
+ "pdf_meta": {
+  "Title": "מונחון",
+  "Producer": "Acrobat Distiller 5.0.5 (Windows)",
+  "Creator": "Acrobat PDFMaker 5.0 for Word",
+  "CreationDate": "Wed May 10 15:00:18 2006 UTC",
+  "ModDate": "Wed May 10 15:01:26 2006 UTC"
+ },
+ "fonts_uni_no": 10,
+ "sha256": "00198bb30d96de9f2818803b668492138e9209b167e7b914dab52a7d30963e24",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0ee9af2c957f.pdf",
+ "fix_log": [
+  "words=2156 unknown=185 fixed=11"
+ ],
+ "image_pages": 10,
+ "table_pages": 4,
+ "figure_ocr_pages": 9,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 80,
+ "lowconf_pages": [
+  4,
+  58
+ ],
+ "text_pages": 58,
+ "ocr_pages": 5,
+ "layer": "mixed"
+}

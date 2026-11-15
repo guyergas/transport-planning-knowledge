@@ -1,0 +1,189 @@
+{
+ "front": {
+  "dates": [
+   "1981",
+   "ספטמבר 1981"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "משרד התחבורה - אגף המפקח על התעבורה",
+   "מנהל אגף התנועה מהנדס תנועה - מ.ת.ב‎"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "10": "6",
+  "15": "1",
+  "25": "1",
+  "30": "7",
+  "35": "7",
+  "37": "1",
+  "38": "6",
+  "55": "i",
+  "57": "83"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "2",
+   "title": "משרד התחבורה - אגף המפקח על התעבורה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "3",
+   "title": "אופטימזציה לחבור רמזורים בגל ירוק 3",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "3.3.1",
+   "title": "חשוב העצירות לפי המודל של Robertson 6",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 3
+  },
+  {
+   "num": "3.1.1",
+   "title": "קביעת הפזור לפי Robertson 10",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 3
+  },
+  {
+   "num": "4",
+   "title": "גרפים למציאת מאפייני החבורה ומדדי הבצוע המינימליים 29",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 7
+  },
+  {
+   "num": "5",
+   "title": "אותה. (שניות)ר",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 39
+  },
+  {
+   "num": "3.2",
+   "title": "העכוב הממוצע - 2",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "3.4",
+   "title": "סכום",
+   "chapter": null,
+   "start": 21,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "3.2.3",
+   "title": "השוואת התוצאות ומסקנות",
+   "chapter": null,
+   "start": 26,
+   "level": 3,
+   "end": 26
+  },
+  {
+   "num": "04.1",
+   "title": "P real בס",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "6",
+   "title": "אופטימלי",
+   "chapter": null,
+   "start": 40,
+   "level": 1,
+   "end": 53
+  },
+  {
+   "num": "0.25",
+   "title": "= 20= ץ",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 44
+  },
+  {
+   "num": "0.84",
+   "title": "= 67.2 = - ס",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 53
+  },
+  {
+   "num": "1.45",
+   "title": "\"כל 6 -סת 1.45 - Q גד =",
+   "chapter": null,
+   "start": 54,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "2.01",
+   "title": "Ajg= 2.01 - 0 ד",
+   "chapter": null,
+   "start": 54,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "7",
+   "title": "ףג 0' - 7 ]םת",
+   "chapter": null,
+   "start": 54,
+   "level": 1,
+   "end": 57
+  },
+  {
+   "num": "1.45",
+   "title": "= גד Q - 1.45 \"כל 6 -סת",
+   "chapter": null,
+   "start": 54,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "4.71",
+   "title": "ל =",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 55
+  },
+  {
+   "num": "9.19",
+   "title": "הדרישה ופונקצית השירות",
+   "chapter": null,
+   "start": 56,
+   "level": 2,
+   "end": 56
+  },
+  {
+   "num": "0.67",
+   "title": "veh 0 א",
+   "chapter": null,
+   "start": 56,
+   "level": 2,
+   "end": 57
+  }
+ ],
+ "coverage": "sections"
+}

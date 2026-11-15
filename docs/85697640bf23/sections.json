@@ -1,0 +1,152 @@
+{
+ "front": {
+  "edition": [
+   "שניה",
+   "ראשונה"
+  ],
+  "dates": [
+   "יוני 2020",
+   "2018",
+   "2020",
+   "1997"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "מינהל תכנון ופיתוח תשתיות",
+   "אגף בכיר לתכנון תחבורתי",
+   "הרשות הלאומית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "2",
+  "3": "3",
+  "4": "4",
+  "6": "6",
+  "7": "7",
+  "10": "10",
+  "11": "11",
+  "12": "12",
+  "16": "16",
+  "17": "17",
+  "18": "18",
+  "19": "19",
+  "20": "20"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "1 מבוא",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "1.1",
+   "title": "רקע כללי",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "1.4",
+   "title": "תאורת מעברי חציה",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "1.5",
+   "title": "מונחים",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "2.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "2.2",
+   "title": "דרישות לחלק המואר מבפנים",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "2.3",
+   "title": "דרישות לחלק המאיר",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "4.3",
+   "title": "רשימת תיוג לבדיקת דרישות פוטומטריות לתוספת",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": "פרק 1 — מבוא",
+   "start": 5,
+   "level": 0,
+   "end": 20
+  },
+  {
+   "num": "1",
+   "title": "רקע כלל",
+   "chapter": "פרק 1 — מבוא",
+   "start": 5,
+   "level": 1,
+   "end": 20
+  },
+  {
+   "num": "1.4",
+   "title": "תאורת מעברי חציה",
+   "chapter": "פרק 1 — מבוא",
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.5",
+   "title": "מונחים",
+   "chapter": "פרק 1 — מבוא",
+   "start": 7,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "1.5.1",
+   "title": "גוף תאורה ))Luminaire",
+   "chapter": "פרק 1 — מבוא",
+   "start": 7,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "1.5.11",
+   "title": "ניגוד ()Contrasts",
+   "chapter": "פרק 1 — מבוא",
+   "start": 9,
+   "level": 3,
+   "end": 20
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/202409_direct_vision_standard/he/publications_202409_direct_vision_standard.pdf",
+ "checked": "2026-11-15T15:19:35Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/202409_direct_vision_standard/he/publications_202409_direct_vision_standard.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 681317,
+ "secs": 1.296622,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "9a523260a303",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 12,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Sun Apr 20 08:16:01 2025 UTC",
+  "ModDate": "Sun Apr 20 08:16:01 2025 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "9559427a7b1ecc17c36f89c1fd80a66ffbf59fea7e218e643ee223f792fa077a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9a523260a303.pdf",
+ "fix_log": [
+  "words=984 unknown=24 fixed=0"
+ ],
+ "image_pages": 12,
+ "table_pages": 0,
+ "figure_ocr_pages": 11,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 93,
+ "lowconf_pages": [],
+ "text_pages": 12,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

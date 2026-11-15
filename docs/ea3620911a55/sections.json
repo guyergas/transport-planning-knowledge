@@ -1,0 +1,40 @@
+{
+ "front": {
+  "dates": [
+   "1965",
+   "ינואר 2001"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "5"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "מטרת התוכנית",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "12.5.99",
+   "title": "וב- 9",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 5
+  },
+  {
+   "num": "6",
+   "title": "תיקון התשריט",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 6
+  }
+ ],
+ "coverage": "sections"
+}

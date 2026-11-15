@@ -1,0 +1,397 @@
+{
+ "front": {
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל יבשה /אגף תכנון תחבורתי       ה",
+   "נתיבי אגרה",
+   "נתיבי אגרה  ............................................"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "sections": [
+  {
+   "num": "0.0",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "0.3",
+   "title": "מונחים בתחום נתיבים מהירים ונתיבי אגרה",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "0.2",
+   "title": "מאפיינים וסוגים של נתיבים מהירים",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "0.2.0",
+   "title": "כיווני הנסיעה של נתיבים מהירים",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "0.2.3",
+   "title": "סוגי ההפרדה של נתיבים מהירים",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "0.2.2",
+   "title": "אכיפה",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "0.4",
+   "title": "יישומים של מערכות נתיבים מהירים",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "4",
+   "title": "יישומים של מערכות נתיבים מהירים",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 46
+  },
+  {
+   "num": "3.0",
+   "title": "תצורות טיפוסיות של נתיבים מהירים",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "3.3",
+   "title": "החתך לרוחב הדרך",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "3.3.0",
+   "title": "סיווג הדרכים",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "3.3.3",
+   "title": "רוחב המסלול של נתיבים מהירים",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "3.3.2",
+   "title": "הסבת נתיב בדרך קיימת לנתיב מהיר",
+   "chapter": null,
+   "start": 20,
+   "level": 3,
+   "end": 23
+  },
+  {
+   "num": "3.2",
+   "title": "אזורי כניסה ויציאה",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "3.2.0",
+   "title": "אזור הכניסה בתחילת הנתיב המהיר",
+   "chapter": null,
+   "start": 24,
+   "level": 3,
+   "end": 24
+  },
+  {
+   "num": "3.2.3",
+   "title": "אזור היציאה בסיום הנתיב המהיר",
+   "chapter": null,
+   "start": 24,
+   "level": 3,
+   "end": 24
+  },
+  {
+   "num": "3.2.2",
+   "title": "כניסה לנתיב מהיר ויציאה ממנו באמצע קטע",
+   "chapter": null,
+   "start": 25,
+   "level": 3,
+   "end": 27
+  },
+  {
+   "num": "2.0",
+   "title": "סימון על פני הדרך",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "2.0.0",
+   "title": "סימון לאורך הנתיבים",
+   "chapter": null,
+   "start": 28,
+   "level": 3,
+   "end": 28
+  },
+  {
+   "num": "2.0.3",
+   "title": "סימון אזורי הכניסה והיציאה",
+   "chapter": null,
+   "start": 29,
+   "level": 3,
+   "end": 29
+  },
+  {
+   "num": "2.3",
+   "title": "תמרורים ושלטים קבועים",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "2.2",
+   "title": "תמרורי בקרת נתיבים עבור נתיבים מהירים",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "2.2.0",
+   "title": "דרישות כלליות מתמרורי בקרת נתיבים עבור נתיבים מהירים",
+   "chapter": null,
+   "start": 31,
+   "level": 3,
+   "end": 33
+  },
+  {
+   "num": "2.4",
+   "title": "שלטים מילוליים למסרי תנועה מתחלפים",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "2.1.0",
+   "title": "מבנה ותוכן המסר",
+   "chapter": null,
+   "start": 35,
+   "level": 3,
+   "end": 36
+  },
+  {
+   "num": "2.1.3",
+   "title": "הצבת השלט למסרי תנועה מתחלפים",
+   "chapter": null,
+   "start": 37,
+   "level": 3,
+   "end": 37
+  },
+  {
+   "num": "2.5",
+   "title": "רמזורים ומחסומים בכניסה לנתיבים מהירים",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "2.6",
+   "title": "מעקות בטיחות ופתחי מילוט",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "2.7",
+   "title": "ניהול ובקרת תנועה במערכת נתיבים מהירים",
+   "chapter": null,
+   "start": 38,
+   "level": 2,
+   "end": 38
+  },
+  {
+   "num": "2.7.0",
+   "title": "מערכת איסוף נתוני תנועה",
+   "chapter": null,
+   "start": 38,
+   "level": 3,
+   "end": 38
+  },
+  {
+   "num": "2.7.3",
+   "title": "מרכז בקרת תנועה",
+   "chapter": null,
+   "start": 38,
+   "level": 3,
+   "end": 38
+  },
+  {
+   "num": "2.7.2",
+   "title": "ניהול אירועים",
+   "chapter": null,
+   "start": 38,
+   "level": 3,
+   "end": 38
+  },
+  {
+   "num": "2.7.1",
+   "title": "הפצת מידע",
+   "chapter": null,
+   "start": 39,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "2.8",
+   "title": "בחינת דרישות המידע ועומס המידע של הנהג",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.3",
+   "title": "שלטי המידע (סעיפים )2.2 +",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 40
+  },
+  {
+   "num": "4.0",
+   "title": "רקע כללי",
+   "chapter": null,
+   "start": 41,
+   "level": 2,
+   "end": 41
+  },
+  {
+   "num": "1.0.0",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 41,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "1.0.3",
+   "title": "סוגי מערכות לגביית אגרה",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "4.3",
+   "title": "סוגי כניסה לאזורי גביית אגרה",
+   "chapter": null,
+   "start": 42,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "1.3.0",
+   "title": "כניסה למערכת של אגרת גודש עם תחנות גבייה",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "1.3.3",
+   "title": "כניסה למערכת של אגרת גודש ללא תחנות גבייה",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "1.3.2",
+   "title": "כניסה לדרך אגרה",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "4.2",
+   "title": "הסדרי תנועה והתקני בקרת תנועה",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 46
+  },
+  {
+   "num": "1.2.0",
+   "title": "סימון על פני הדרך",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "1.2.3",
+   "title": "תמרורים ושלטים קבועים",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "1.2.2",
+   "title": "מידע דינאמי באזור תחנות הגבייה ()Toll Plaza",
+   "chapter": null,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "1.2.1",
+   "title": "שלטים מילוליים למסרי תנועה מתחלפים",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 46
+  }
+ ],
+ "coverage": "sections"
+}

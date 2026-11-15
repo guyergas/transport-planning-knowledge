@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/train_stations_spatial_planning_literature_survey/he/Train_Stations_Spatial_Planning_Literature_Survey.pdf",
- "checked": "2026-11-15T13:31:09Z",
+ "checked": "2026-11-15T15:03:58Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/train_stations_spatial_planning_literature_survey/he/Train_Stations_Spatial_Planning_Literature_Survey.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2171192,
- "secs": 4.63275,
+ "secs": 4.105653,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "168358a81605",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 32,
  "pdf_meta": {
   "Title": "שלביות_פיתוח_סירקין_-דוח_מסכם_1",
@@ -23,8 +27,14 @@
  "sha256": "4919f5007e083c5458be08436b79b15a1f2ede242d613beb27d5a3e22f35411a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/168358a81605.pdf",
  "fix_log": [
-  "words=2024 unknown=82 fixed=1"
+  "words=2086 unknown=103 fixed=7"
  ],
+ "image_pages": 17,
+ "table_pages": 0,
+ "figure_ocr_pages": 16,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 90,
+ "lowconf_pages": [],
  "text_pages": 32,
  "ocr_pages": 1,
  "layer": "mixed"

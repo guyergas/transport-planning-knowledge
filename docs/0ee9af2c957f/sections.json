@@ -1,0 +1,278 @@
+{
+ "front": {
+  "dates": [
+   "מאי 2006",
+   "ינואר 2006"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה /אגף תכנון תחבורתי",
+   "מנהל הכללי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "30": "4",
+  "33": "4",
+  "35": "4",
+  "47": "37",
+  "50": "10",
+  "58": "0"
+ },
+ "toc_pages": [
+  6,
+  7,
+  8
+ ],
+ "sections": [
+  {
+   "num": "2.1",
+   "title": "הגדרת מעברי חצייה עתירי ביקוש",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "2.2",
+   "title": "שיטות לכימות נפחי תנועה של הולכי רגל",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "2.3",
+   "title": "דגשים והנחיות לתכנון",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "2.3.1",
+   "title": "תצורות מעבר החצייה",
+   "chapter": null,
+   "start": 15,
+   "level": 3,
+   "end": 16
+  },
+  {
+   "num": "2.3.2",
+   "title": "זמן ירוק ( )gעבור הולכי רגל",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 17
+  },
+  {
+   "num": "2.3.3",
+   "title": "זמן פינוי ( )yעבור הולכי רגל",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 17
+  },
+  {
+   "num": "2.3.4",
+   "title": "רוחב מינימום של מעבר חצייה עתיר ביקוש",
+   "chapter": null,
+   "start": 17,
+   "level": 3,
+   "end": 17
+  },
+  {
+   "num": "2.3.5",
+   "title": "שטח ההמתנה במפרדה",
+   "chapter": null,
+   "start": 18,
+   "level": 3,
+   "end": 18
+  },
+  {
+   "num": "2.3.6",
+   "title": "אזור המתנה בפינת רחוב",
+   "chapter": null,
+   "start": 18,
+   "level": 3,
+   "end": 18
+  },
+  {
+   "num": "2.3.7",
+   "title": "פניות ימינה של כלי רכב",
+   "chapter": null,
+   "start": 19,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "2.4",
+   "title": "תהליך הבדיקה של מעברי חצייה עתירי ביקוש",
+   "chapter": null,
+   "start": 20,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "2.5",
+   "title": "סוגיות בטיחותיות",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "3.1",
+   "title": "מקדם עומס )(T/G",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "5",
+   "title": "ה\"ר למטר רוחב",
+   "chapter": null,
+   "start": 27,
+   "level": 1,
+   "end": 58
+  },
+  {
+   "num": "3.85",
+   "title": "Start_Time                                      זמן זינוק",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "2.09",
+   "title": "Lag1              פריסת קבוצה )פחות מ 5-יא”מ למ'(",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "0.81",
+   "title": "Lag2              פריסת קבוצה )יותר מ 5-יא”מ למ'(",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "0.52",
+   "title": "Lag3                 עיכוב כתוצאה מהקבוצה הנגדית",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "3.2",
+   "title": "עיכוב ממוצע",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "3.3",
+   "title": "צפיפות בפינת רחוב",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 31
+  },
+  {
+   "num": "3.4",
+   "title": "צפיפות באי תנועה משולש",
+   "chapter": null,
+   "start": 32,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "3.5",
+   "title": "צפיפות במפרדה",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
+   "end": 34
+  },
+  {
+   "num": "3.6",
+   "title": "צפיפות ברציף של הרק\"ל במפלס הדרך",
+   "chapter": null,
+   "start": 35,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "3.7",
+   "title": "כלי לחישוב רמת שירות במעברי חצייה עתירי ביקוש",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 38
+  },
+  {
+   "num": "3.8",
+   "title": "בדיקה כוללנית של רמת שירות",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "0.3",
+   "title": "בינונית                           *0.15",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 43
+  },
+  {
+   "num": "0.15",
+   "title": "נמוכה                              >",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "2.68",
+   "title": "שניות                     ממוצע",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 55
+  },
+  {
+   "num": "3.85",
+   "title": "שניות                אחוזון 85",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 55
+  },
+  {
+   "num": "2.09",
+   "title": "לה\"ר  /מ' רוחב מעבר בכיוון העמוס",
+   "chapter": null,
+   "start": 56,
+   "level": 2,
+   "end": 56
+  },
+  {
+   "num": "0.52",
+   "title": "לה\"ר  /מ' רוחב מעבר בכיוון הנגדי",
+   "chapter": null,
+   "start": 56,
+   "level": 2,
+   "end": 58
+  }
+ ],
+ "coverage": "sections"
+}

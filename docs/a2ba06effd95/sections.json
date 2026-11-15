@@ -1,0 +1,39 @@
+{
+ "front": {
+  "dates": [
+   "1966",
+   "2012",
+   "1965",
+   "2000",
+   "2019"
+  ],
+  "publisher": [
+   "המועצה הארצית‎",
+   "משרד הפנים",
+   "נתיבי תחבורה עירוניי, 0%",
+   "המועצה הארצית ‎WONT‏ ולבנייה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "7",
+   "title": "בית עלמין Em ore",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "8",
+   "title": "רצועה לתכנון קוי מתע\"ן",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  }
+ ],
+ "coverage": "page-only"
+}
