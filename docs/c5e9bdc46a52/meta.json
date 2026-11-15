@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/174/view",
- "checked": "2026-11-15T14:36:17Z",
+ "checked": "2026-11-15T14:40:42Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/174/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40199,
- "secs": 0.594399,
+ "secs": 1.042213,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -21,6 +21,10 @@
    "text": "Show user menu"
   },
   {
+   "url": "https://www.gov.il/he/departments/policies/uniform_format_traffic_counts",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
    "url": "https://www.eshed-mtl.co.il/documents/174/view#forgot",
    "text": "שכחתי סיסמה"
   },
@@ -30,5 +34,11 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [
+  {
+   "url": "https://www.gov.il/he/departments/policies/uniform_format_traffic_counts",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ],
  "unknown_file_links": []
 }

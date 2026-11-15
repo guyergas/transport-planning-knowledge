@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/342/view",
+ "checked": "2026-11-15T14:41:35Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/342/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40311,
+ "secs": 0.627254,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "bf88ed7603ae",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/342/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/he/pages/urban-roadwork-sites-traffic-arrangements-guide",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/342/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/342/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}

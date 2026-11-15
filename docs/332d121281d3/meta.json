@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/48/view",
- "checked": "2026-11-15T14:35:39Z",
+ "checked": "2026-11-15T14:40:02Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/48/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40835,
- "secs": 0.643738,
+ "secs": 0.639416,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -34,6 +34,7 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%9F%20%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%20%D7%A9%D7%9C%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%",
