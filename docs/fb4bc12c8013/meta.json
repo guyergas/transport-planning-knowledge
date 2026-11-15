@@ -1,0 +1,37 @@
+{
+ "url": "https://olaw.org.il/yalkut/yalkut-5950.pdf",
+ "checked": "2026-11-15T14:52:02Z",
+ "status": 200,
+ "final_url": "https://olaw.org.il/yalkut/yalkut-5950.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 516944,
+ "secs": 0.344879,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "fb4bc12c8013",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 48,
+ "pdf_meta": {
+  "Title": "5950.indd",
+  "Producer": "Adobe PDF Library 6.0",
+  "Creator": "Adobe InDesign CS (3.0.1)",
+  "CreationDate": "Sun May 10 14:06:02 2009 UTC",
+  "ModDate": "Tue May 12 10:39:43 2009 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "5fc49613ad23e1c83fdbd4a27a5234d528e31961531e42999a2ab12037cab0bb",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-olaw-org-il/fb4bc12c8013.pdf",
+ "image_pages": 1,
+ "table_pages": 23,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 48,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

@@ -1,0 +1,50 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 1977",
+   "1971",
+   "1977"
+  ],
+  "publisher": [
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "2",
+   "title": "חוברת ז",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "10.0",
+   "title": "מימדים קרים 5 רצוי 15.0",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "26.1",
+   "title": "שטח למקום חניה (מ\"ר) 31.3",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "13.0",
+   "title": "מינימום",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  }
+ ],
+ "coverage": "sections"
+}

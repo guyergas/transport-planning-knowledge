@@ -1,0 +1,22 @@
+{
+ "front": {
+  "dates": [
+   "2004",
+   "2003"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מנהל הכללי",
+   "משרד התחבורה מתכוון להטמיע ולבצע הסדר זה ברשת הארצית.",
+   "משרד התחבורה 2.1 ......................................"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  2,
+  3
+ ],
+ "sections": [],
+ "coverage": "page-only"
+}

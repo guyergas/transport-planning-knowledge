@@ -1,17 +1,22 @@
 {
  "url": "https://inbart.net.technion.ac.il/%D7%A2%D7%A0%D7%91%D7%A8-%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99-%D7%92%D7%99%D7%A8%D7%A1%D7%94-16/",
- "checked": "2026-11-15T13:37:13Z",
+ "checked": "2026-11-15T15:18:22Z",
  "status": 200,
  "final_url": "https://inbart.net.technion.ac.il/%D7%A2%D7%A0%D7%91%D7%A8-%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99-%D7%92%D7%99%D7%A8%D7%A1%D7%94-16/",
  "content_type": "text/html; charset=UTF-8",
  "redirects": 0,
  "bytes": 50152,
- "secs": 1.745498,
+ "secs": 1.592332,
  "server": "",
+ "tries": [
+  200
+ ],
  "id": "b4151c5d3f86",
  "kind": "html",
  "result": "ok",
  "title": "ענבר – עדכוני גירסה 16 – מערכת ענבר – עיצוב וניהול בקרת רמזורים",
  "file_links": [],
- "all_links": 24
+ "all_links": 24,
+ "new_file_links": [],
+ "unknown_file_links": []
 }

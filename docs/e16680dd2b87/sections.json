@@ -1,0 +1,22 @@
+{
+ "front": {
+  "dates": [
+   "אוגוסט 2013",
+   "2012",
+   "2013",
+   "2017",
+   "1961"
+  ],
+  "publisher": [
+   "משרד הראשי",
+   "הרשות להתקין חוק עזר עירוני להעמדת רכב",
+   "מנהל הכללי, כאן",
+   "אגף בכיר תכנון תחבורתי, כאן"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

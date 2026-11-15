@@ -1,0 +1,60 @@
+{
+ "front": {
+  "edition": [
+   "חמישית"
+  ],
+  "dates": [
+   "מרץ 2023",
+   "2023",
+   "1961",
+   "2001",
+   "2020"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה",
+   "נתיבי תחבורה ציבורית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "11": "11"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "2.1",
+   "title": "מתוקף פקודת התעבורה ותקנותיה",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "2.2",
+   "title": "זכאים לקבלת פטור",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "8",
+   "title": "משא אשפה מגבה",
+   "chapter": null,
+   "start": 9,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "2.2",
+   "title": "(3) פטור גורף לרכבים לפינוי אשפה",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  }
+ ],
+ "coverage": "sections"
+}

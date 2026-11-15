@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/public_transport_in_traffic_circles/he/Principles-for-integrating-preferred-public-transportation-into-traffic-circles.pdf",
+ "checked": "2026-11-15T15:19:00Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/public_transport_in_traffic_circles/he/Principles-for-integrating-preferred-public-transportation-into-traffic-circles.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 9846460,
+ "secs": 12.188233,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f830b6317ae8",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 95,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "PDFill: Free PDF Writer and Tools",
+  "Creator": "",
+  "CreationDate": "Tue Feb  9 10:59:04 2021 UTC",
+  "ModDate": "Tue Feb  9 10:59:04 2021 UTC"
+ },
+ "fonts_uni_no": 22,
+ "sha256": "035fe4c07a4bc0849b4f5576d77447fd8f92b0b0c292f72bd849e9f2a1d9e1df",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f830b6317ae8.pdf",
+ "fix_log": [
+  "words=3380 unknown=174 fixed=7"
+ ],
+ "image_pages": 66,
+ "table_pages": 2,
+ "figure_ocr_pages": 59,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 86,
+ "lowconf_pages": [
+  40
+ ],
+ "text_pages": 95,
+ "ocr_pages": 7,
+ "layer": "mixed"
+}

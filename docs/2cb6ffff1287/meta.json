@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/saman148.pdf",
- "checked": "2026-11-15T13:37:06Z",
+ "checked": "2026-11-15T15:20:04Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/saman148.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 597566,
- "secs": 1.267785,
+ "secs": 1.241738,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "2cb6ffff1287",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 14,
  "pdf_meta": {
   "Title": "(Microsoft Word - \\340\\347\\370\\351 \\340\\341\\351.doc)",
@@ -23,8 +27,14 @@
  "sha256": "69fcf0949b3966eacd69a6e798d5e96f082953ffc1299c7910805dba85320373",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/2cb6ffff1287.pdf",
  "fix_log": [
-  "words=825 unknown=56 fixed=1"
+  "words=836 unknown=60 fixed=1"
  ],
+ "image_pages": 4,
+ "table_pages": 3,
+ "figure_ocr_pages": 2,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 85,
+ "lowconf_pages": [],
  "text_pages": 14,
  "ocr_pages": 4,
  "layer": "mixed"

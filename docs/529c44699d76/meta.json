@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/01-train/he/%D7%A4%D7%A8%D7%95%D7%92%D7%A8%D7%9E%D7%94%20%D7%9C%D7%9E%D7%A1%D7%95%D7%A4%D7%99%D7%9D%20%D7%94%D7%A1%D7%9E%D7%95%D7%9B%D7%99%D7%9D%20%D7%9C%D7%AA%D7%97%D7%A0%D7%95%D7%AA%20%D7%A8%D7%9B%D7%91%D7%AA.pdf",
+ "checked": "2026-11-15T15:20:21Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/01-train/he/%D7%A4%D7%A8%D7%95%D7%92%D7%A8%D7%9E%D7%94%20%D7%9C%D7%9E%D7%A1%D7%95%D7%A4%D7%99%D7%9D%20%D7%94%D7%A1%D7%9E%D7%95%D7%9B%D7%99%D7%9D%20%D7%9C%D7%AA%D7%97%D7%A0%D7%95%D7%AA%20%D7%A8%D7%9B%D7%91%D7%AA.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3232075,
+ "secs": 3.429041,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "529c44699d76",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 43,
+ "pdf_meta": {
+  "Title": "פרק 2 תנועה",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Sun May 26 08:21:46 2019 UTC",
+  "ModDate": "Mon Jan 22 09:22:55 2024 UTC"
+ },
+ "fonts_uni_no": 16,
+ "sha256": "b64a2653c9d4a7331f85148d866b95c3a252e47c2296cc5f31d87e11a7fc8cf7",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/529c44699d76.pdf",
+ "image_pages": 7,
+ "table_pages": 5,
+ "figure_ocr_pages": 7,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 43,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

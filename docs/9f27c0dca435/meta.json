@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_11-1%29_-_%D7%93%D7%A8%D7%9B%D7%99%D7%9D_%D7%9E%D7%A2%D7%95%D7%99%D7%99%D7%A8%D7%95%D7%AA_%D7%9E%D7%94%D7%99%D7%A8%D7%95%D7%AA.pdf",
+ "checked": "2026-11-15T15:17:43Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_11-1%29_-_%D7%93%D7%A8%D7%9B%D7%99%D7%9D_%D7%9E%D7%A2%D7%95%D7%99%D7%99%D7%A8%D7%95%D7%AA_%D7%9E%D7%94%D7%99%D7%A8%D7%95%D7%AA.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1666428,
+ "secs": 2.937437,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "9f27c0dca435",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 35,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Tue Jun 26 12:51:29 2018 UTC",
+  "ModDate": "Wed Oct 23 06:21:01 2019 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "fd3a7249dba4a4298f20120831fd7395f2acdb00a1560ce136c417fdfa24e8cc",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9f27c0dca435.pdf",
+ "image_pages": 35,
+ "table_pages": 1,
+ "figure_ocr_pages": 35,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 35,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

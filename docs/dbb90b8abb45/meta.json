@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/examining_transport_implications/he/examination%20of%20transportation%20implications%20guide.pdf",
- "checked": "2026-11-15T12:20:59Z",
+ "checked": "2026-11-15T14:53:33Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/examining_transport_implications/he/examination%20of%20transportation%20implications%20guide.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2105334,
- "secs": 4.433479,
+ "secs": 2.073466,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "dbb90b8abb45",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 176,
  "pdf_meta": {
   "Title": "<4D6963726F736F667420576F7264202D20E3F320F9F2F820FAF1F7E9F8E920E4F9F4F2E4312E646F63>",
@@ -23,7 +27,21 @@
  "sha256": "0e54bc3ec5caadf60aa7ef0c722306e5660f116b76207ffb64d26b6601827774",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/dbb90b8abb45.pdf",
  "fix_log": [
-  "words=6622 unknown=466 fixed=117"
+  "words=6697 unknown=514 fixed=121"
+ ],
+ "image_pages": 19,
+ "table_pages": 18,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 18,
+ "ocr_conf_mean": 88,
+ "lowconf_pages": [
+  46,
+  121,
+  131,
+  146,
+  159,
+  171,
+  172
  ],
  "text_pages": 176,
  "ocr_pages": 176,

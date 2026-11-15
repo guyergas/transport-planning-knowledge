@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/ar/03-2023.pdf",
+ "checked": "2026-11-15T15:18:26Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/ar/03-2023.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 707047,
+ "secs": 0.936186,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "47f377538309",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 11,
+ "pdf_meta": {
+  "Title": "נוהל - כללים מנחים למתן פטור מציות לתמרורים",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Wed Mar 22 12:49:47 2023 UTC",
+  "ModDate": "Wed Mar 22 12:49:47 2023 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "9d426e0a43bb0df0e0e9f6cb18d60f1341bb7a2fc9122cc2f18a65094e0dc838",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/47f377538309.pdf",
+ "fix_log": [
+  "words=938 unknown=55 fixed=5"
+ ],
+ "image_pages": 5,
+ "table_pages": 0,
+ "figure_ocr_pages": 3,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 89,
+ "lowconf_pages": [],
+ "text_pages": 11,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}

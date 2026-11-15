@@ -1,0 +1,49 @@
+{
+ "front": {
+  "publisher": [
+   "משרד התחבורה. ב"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "8": "4",
+  "12": "5",
+  "14": "0"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "עקרונות התכנון לצמתים",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "צמתים פנימיים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 12
+  },
+  {
+   "num": "7.7.6",
+   "title": "ריסון מסי 2) על-פי סעיף",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "3",
+   "title": "התנועה",
+   "chapter": null,
+   "start": 13,
+   "level": 1,
+   "end": 15
+  }
+ ],
+ "coverage": "sections"
+}

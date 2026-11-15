@@ -1,0 +1,110 @@
+{
+ "front": {
+  "edition": [
+   "הראשונה",
+   "הנוכחית",
+   "מעודכנת"
+  ],
+  "dates": [
+   "2018",
+   "1983",
+   "1989",
+   "2009",
+   "2011"
+  ],
+  "publisher": [
+   "נתיבי עזר 11-12.........................................",
+   "נתיבי\nישראל",
+   "משרד הבינוי והשיכון ומשרד התחבורה,",
+   "נתיבי ישראל חמישה אוגדנים של הנחיות לדרכים"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "11.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "11.2",
+   "title": "קטעי דרך",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "2",
+   "title": "קטעי דרך",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "3",
+   "title": "תחתכי רוחב",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 14
+  },
+  {
+   "num": "11.3",
+   "title": "מחלפים",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "8.5",
+   "title": "בכרך ההנחיות למחלפים (כרך .)III",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "11.4",
+   "title": "היבטים אורבניים וכלליים בהנחיות לדרכים מעויירות",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "4",
+   "title": "היבטים אורבניים וכלליים בהנחיות לדרכים מעויירות",
+   "chapter": null,
+   "start": 15,
+   "level": 1,
+   "end": 35
+  },
+  {
+   "num": "2.1",
+   "title": "ייקבע ע\"פ הנחיות משרד תחבורה",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 35
+  }
+ ],
+ "coverage": "sections"
+}

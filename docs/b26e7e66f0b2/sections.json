@@ -1,0 +1,224 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2023",
+   "2019"
+  ],
+  "publisher": [
+   "הרשות הלאומית לבטיחות בדרכים",
+   "הרשות הלאומית",
+   "רשות המקומית8 ....................................",
+   "הרשות המקומית, מדיניות שיתוף הציבור 13"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "15": "5"
+ },
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "רקע כללי",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "2",
+   "title": "הכנת הרקע לפיתוח תוכנית לבטיחות בדרכים",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "2.2",
+   "title": "עבודה עם גורמי מקצוע והתקשרות עם יועצים*",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2.3",
+   "title": "הקמת וועדת היגוי",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "2.3.1",
+   "title": "גורמי פנים",
+   "chapter": null,
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "2.3.2",
+   "title": "גורמי חוץ",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "2.4",
+   "title": "הקמת וועדת משנה ולוועדת ההיגוי",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "2.5",
+   "title": "מתווה לדיונים בוועדת ההיגוי",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "3",
+   "title": "מבנה התוכנית",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 15
+  },
+  {
+   "num": "3.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "3.2",
+   "title": "ניתוח מצב קיים",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "3.2.1",
+   "title": "מידע על מגמות ומאפיינים בתאונות ונפגעים ברשות המקומית",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "3.2.2",
+   "title": "תשתיות תחבורתיות ומבנה עירוני",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "3.2.4",
+   "title": "תוכניות פיתוח עתידיות",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "3.2.5",
+   "title": "כללי",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "3.3",
+   "title": "הגדרת מטרות התוכנית",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "3.4",
+   "title": "מערך המידע ואיסוף הנתונים",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "3.5",
+   "title": "הגדרת מוקדי תאונות לטיפול וסדרי עדיפויות",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "3.6",
+   "title": "אמצעים והתערבויות בטיחות",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "3.6.1",
+   "title": "ניהול מהירות וטיפול במוקדי סיכון",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 11
+  },
+  {
+   "num": "3.6.3",
+   "title": "צמצום היפגעות מאוטובוסים ומשאיות",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "3.6.4",
+   "title": "רכיבה בטוחה על אופניים וכלים זעירים",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "3.7",
+   "title": "תכנון ובינוי עתידי",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "3.10",
+   "title": "הגדרת מדיניות ותהליך ניטור ובקרה",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "3.11",
+   "title": "מתווה רב שנתי ליישום וזיהוי מקורות תקציביים",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 15
+  }
+ ],
+ "coverage": "sections"
+}
