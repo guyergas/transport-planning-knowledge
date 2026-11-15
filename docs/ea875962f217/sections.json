@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "מאי 2007",
+   "ספטמבר 2011",
+   "2017",
+   "2020",
+   "2024"
+  ],
+  "publisher": [
+   "רשות שכבר השתרשו בכתיבה העברית: ג', ז', צ'."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1",
+  "2": "2",
+  "3": "3",
+  "4": "4",
+  "5": "5",
+  "6": "6",
+  "7": "7",
+  "8": "8"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

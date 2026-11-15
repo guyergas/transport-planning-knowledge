@@ -1,0 +1,62 @@
+{
+ "url": "https://www.gov.il/he/pages/planning_speed_bumps",
+ "checked": "2026-11-15T17:45:12Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/planning_speed_bumps",
+ "content_type": "text/html",
+ "redirects": 0,
+ "via": "browser (render)",
+ "id": "71f89c67014b",
+ "kind": "html",
+ "result": "ok",
+ "title": "הנחיות לתכנון וביצוע פסי האטה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/COVER.pdf",
+   "text": "דפי שער"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata1.pdf",
+   "text": "מבוא"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata2.pdf",
+   "text": "יתרונות וחסרונות של פסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata3.pdf",
+   "text": "בחינת תנאים לשימוש בפסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata4.pdf",
+   "text": "תכן פסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata5.pdf",
+   "text": "מתקנים בדרך"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata6.pdf",
+   "text": "ביצוע פסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata7.pdf",
+   "text": "מעקב אחרי התקנה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/NISPAH.pdf",
+   "text": "נספח א' - הצדק כמותי"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/MAREI.pdf",
+   "text": "מראי מקום"
+  }
+ ],
+ "all_links": 54,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/MAREI.pdf",
+   "text": "מראי מקום"
+  }
+ ]
+}

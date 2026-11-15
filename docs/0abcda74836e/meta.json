@@ -1,21 +1,33 @@
 {
  "url": "https://technionmail-my.sharepoint.com/:b:/g/personal/inbart_technion_ac_il/EUz2et76_pdCnltOaIg2UFkB7zWH6-0qV8lNq_cj4Cle7A?e=cRYlEd",
- "checked": "2026-11-15T15:02:19Z",
- "status": 200,
- "final_url": "https://login.microsoftonline.com:443/f1502c4c-ee2e-411c-9715-c855f6753b84/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&ear%5Fjwe%5Fcrypto=eyJhbGciOiJFQ0RILUVTIiwiZW5jIjoiQTI1NkdDTSIsImFwdiI6IkFBQUFDVVZoY2tOc2FXVnVkR2dBQUFCRlEwc3pNQUFBQU5oOVRrRXViNjFsVE5JNG80eWxpNi9ocWtsUFVab1dsU3U5SFZhcUU0UXhFSkl0TU5mbjRGZ2JBWU9PY3hNMHpRYnJqY1pseHhIQTZCc0MvSFlDRkZEdXlwOXdJc3lEWTJ3VDJXS2hQYkZpRXFaY2QyNFNJVVp0RGNjdGZVcVBPd0FBQUJnTUpKMm80TmZhZjFRei9YL3VZUmZrUzEzOHZNNE9CR289In0%3D&ear%5Fjwk=eyJhbGciOiJFQ0RILUVTIiwiY3J2IjoiUC0zODQiLCJ4IjoiQUFBQU1OaDlUa0V1YjYxbFROSTRvNHlsaTYvaHFrbFBVWm9XbFN1OUhWYXFFNFF4RUpJdE1OZm40RmdiQVlPT2N4TTB6UT09IiwieSI6IkFBQUFNQWJyamNabHh4SEE2QnNDL0hZQ0ZGRHV5cDl3SXN5RFkyd1QyV0toUGJGaUVxWmNkMjRTSVVadERjY3RmVXFQT3c9PSIsImt0eSI6IkVDIn0%3D&spa%5Fclient%5Fid=08e18876%2D6177%2D487e%2Db8b5%2Dcf950c1e598c&client%5Finfo=1&response%5Ftype=code%20id%5Ftoken%20spa%5Frt&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=35F2245354ABB451FA3127A5512CB8849252521CDA863A93%2D3D19BEA52CA0B4DD09806A88463EAD0BFB2DB9A84CCBDDC5DC97A8E181800BCA&redirect%5Furi=https%3A%2F%2Ftechnionmail%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0wJjMyPUFBTU8lMkJ3QUFBQlJJSnMzektEdGJqVHJHRk1DRVpCR3B1YWNNdUJCZURnSDFEek5MdjFublVIOFhaWmFEd1lFMU1ZQWpHdDFQNmc2dHMlMkJEc3YzMmkxcFQxUmpSejJvYW5sU05VYmV2aTJnY2ZZNFIwT2k0QmZ0Z0NYdWV6RldvYTd4MldMTkFZM3p0UUZSazIzd05oNldZJTJGWFVrZEZEZFh2YkxRNXp2S0lETkRJJTJCVEFhREZ4Y0YzS04xc2pabHBBODJEUSUyRlNhN0cybzM0OXBpNzR0TFk0cG4zU3VEUXZnV0NKTjZ6QnNyZ0Vhczk1ZFFISkVhN2JZNFJHMUh6ZFhBenBrQjNrTkwlMkZlQTZYUjk0aU9QUzQ4cHk4ODZqT0VZNVh6cmdxJTJGSXZad2drYzFFQ1pvaHZzVVhoc3paZW9sTThDZ290JTJCMnhtVXJsS3hadDl6Z0dsaUh2JTJCSUdzRHRxVUlQaEElMkZsd0g3YW1BVmxKUzRWU3pZNklJNFNhMW1DJTJCOGU&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=7e1e4fa2%2D4002%2D0000%2D3a7d%2Dd5e2e79ff0b5",
- "content_type": "text/html; charset=utf-8",
- "redirects": 4,
- "bytes": 26212,
- "secs": 1.551216,
- "server": "microsoft-iis/10.0",
- "tries": [
-  200
- ],
  "id": "0abcda74836e",
- "kind": "html",
- "result": "login",
- "title": "מנתב מחדש",
- "file_links": [],
- "all_links": 0,
- "unknown_file_links": []
+ "source": "manual upload",
+ "note": "https://technionmail-my.sharepoint.com/:b:/g/personal/inbart_technion_ac_il/EUz2et76_pdCnltOaIg2UFkB7zWH6-0qV8lNq_cj4Cle7A?e=cRYlEd  (שורה 167, uploaded by Guy 16.11.2026)",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-15T17:40:25Z",
+ "pages": 308,
+ "pdf_meta": {
+  "Title": "ענבר - עיצוב וניהול בקרת רמזורים",
+  "Producer": "Microsoft® Word 2016",
+  "Creator": "Microsoft® Word 2016",
+  "CreationDate": "Thu Jul 21 05:02:06 2022 UTC",
+  "ModDate": "Thu Jul 21 05:02:06 2022 UTC"
+ },
+ "fonts_uni_no": 16,
+ "sha256": "6f161e1aa0cc9f681e4f97590ad3c67ee9ccd36a03b6a852b679d16b2d08e90b",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-technionmail-my-sharepoint-com/0abcda74836e.pdf",
+ "fix_log": [
+  "words=7194 unknown=567 fixed=44"
+ ],
+ "image_pages": 190,
+ "table_pages": 12,
+ "figure_ocr_pages": 187,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 91,
+ "lowconf_pages": [],
+ "text_pages": 308,
+ "ocr_pages": 11,
+ "layer": "mixed"
 }
