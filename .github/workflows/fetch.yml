@@ -1,0 +1,49 @@
+name: fetch
+on:
+  push:
+    branches: [main]
+    paths: ['requests/**', 'tools/**', '.github/workflows/fetch.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 340
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TDB: /tmp/tdbest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tools
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q poppler-utils tesseract-ocr hunspell hunspell-he hunspell-en-us python3-pil
+      - uses: actions/cache@v4
+        with:
+          path: /tmp/tdbest-cache
+          key: tessdata-best-heb-eng-v1
+      - name: Tessdata best (heb+eng)
+        run: |
+          mkdir -p /tmp/tdbest-cache $TDB
+          for l in heb eng; do
+            [ -s /tmp/tdbest-cache/$l.traineddata ] || curl -sSL -o /tmp/tdbest-cache/$l.traineddata https://github.com/tesseract-ocr/tessdata_best/raw/main/$l.traineddata
+            ln -sf /tmp/tdbest-cache/$l.traineddata $TDB/
+          done
+          ln -sfn /usr/share/tesseract-ocr/5/tessdata/configs $TDB/configs
+          tesseract --version | head -1; ls -la $TDB
+      - name: Egress info
+        run: curl -s https://ipinfo.io/json || true
+      - name: Process requests
+        run: python3 tools/fetch.py
+      - name: Commit results
+        run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add -A results docs index.jsonl
+          git diff --cached --quiet && exit 0
+          git commit -m "fetch results $(date -u +%F_%H%M)"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
