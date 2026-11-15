@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/COVER.pdf",
- "checked": "2026-11-15T13:25:34Z",
+ "checked": "2026-11-15T14:55:58Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/COVER.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1358502,
- "secs": 7.422566,
+ "secs": 2.310181,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "eeb8c604af9f",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 7,
  "pdf_meta": {
   "Title": "",
@@ -24,6 +28,14 @@
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/eeb8c604af9f.pdf",
  "fix_log": [
   "words=434 unknown=32 fixed=3"
+ ],
+ "image_pages": 6,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [
+  4
  ],
  "text_pages": 7,
  "ocr_pages": 7,

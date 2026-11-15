@@ -1,0 +1,129 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 2004"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה / אגף תחבורה ציבורית",
+   "משרד התחבורה לשילוב תחנות רכבת ברשת התחבורה הציבורית ..",
+   "משרד התחבורה לשילוב תחנות רכבת ברשת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "ii",
+  "20": "7",
+  "24": "1"
+ },
+ "toc_pages": [
+  2
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "תזמון אוטובוסים להגעה לתחנת הרכבת. cs 12",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "2",
+   "title": "תזמון אוטובוסים ליציאה מתחנת הרכבת. ces 12",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "3",
+   "title": "שימוש בתחבורה ציבורית להגעה לתחנת הרכבת",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "4",
+   "title": "תחנות רכבת סמוכות",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "3.4",
+   "title": "\"הבא וסע'י",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "5",
+   "title": "\"חנה וסע''",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 10
+  },
+  {
+   "num": "5.8",
+   "title": "הסטת קווים עוברים דרך תחנת הרכבת",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "6",
+   "title": "שיקולים לתזמון קווי האוטובוס",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "7",
+   "title": "חיפה מרכז |3[10]5]s 85 א 1 כן לא",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 13
+  },
+  {
+   "num": "8",
+   "title": "תאור פעילות קווי האוטובוס באזור תחנת הרכבת",
+   "chapter": null,
+   "start": 14,
+   "level": 1,
+   "end": 14
+  },
+  {
+   "num": "9",
+   "title": "תזמון קווי תחבורה ציבורית לתחנת הרכבת",
+   "chapter": null,
+   "start": 15,
+   "level": 1,
+   "end": 32
+  },
+  {
+   "num": "9.6",
+   "title": "דוגמא לבדיקה ותכנון לוח זמנים מתוזמן",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "07.20",
+   "title": "vas | ors [O68 oon | א",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 32
+  }
+ ],
+ "coverage": "sections"
+}

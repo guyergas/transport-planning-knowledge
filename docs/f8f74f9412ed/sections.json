@@ -1,0 +1,37 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 2024"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה",
+   "נתיבי ישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "i",
+  "5": "1",
+  "7": "3",
+  "9": "5",
+  "13": "9",
+  "17": "13"
+ },
+ "toc_pages": [
+  3,
+  4
+ ],
+ "sections": [
+  {
+   "num": "6",
+   "title": "ראו באתר האינטרנט של ועדת שילוט",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 17
+  }
+ ],
+ "coverage": "page-only"
+}

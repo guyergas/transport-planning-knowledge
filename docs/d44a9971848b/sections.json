@@ -1,0 +1,67 @@
+{
+ "front": {
+  "edition": [
+   "2021-08-19",
+   "ראשונה"
+  ],
+  "dates": [
+   "2021",
+   "אוגוסט 2021"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "אגף בכיר תכנון תחבורתי",
+   "מינהל תשתיות",
+   "משרד התחבורה במטרה להעלות את רמת התכנון והארגון של תכני"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  3,
+  25
+ ],
+ "sections": [
+  {
+   "num": "5.4.17.7",
+   "title": "לפירוט הנושא ראו סעיף",
+   "chapter": null,
+   "start": 10,
+   "level": 4,
+   "end": 11
+  },
+  {
+   "num": "4",
+   "title": "מרכיבי תכניות",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 12
+  },
+  {
+   "num": "5",
+   "title": "הנוכחי (Current) חייב להיות מוגדר .\"World\"-2",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 64
+  },
+  {
+   "num": "8.4",
+   "title": "התכניות. לפרטי הכנת תכניות להדפסה יש לראות סעיף",
+   "chapter": null,
+   "start": 47,
+   "level": 2,
+   "end": 53
+  },
+  {
+   "num": "8.5",
+   "title": "הכנת קבצי PLT",
+   "chapter": null,
+   "start": 54,
+   "level": 2,
+   "end": 64
+  }
+ ],
+ "coverage": "sections"
+}

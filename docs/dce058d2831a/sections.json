@@ -1,0 +1,160 @@
+{
+ "front": {
+  "dates": [
+   "מרץ 2013"
+  ],
+  "publisher": [
+   "משרד התחבורה Ss iii‏",
+   "מינהל יבשה/ אגף תכנון תחבורתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "רקע כללי",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "2",
+   "title": "מונחים",
+   "chapter": null,
+   "start": 9,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "3",
+   "title": "מאפיינים מיוחדים למנהרות דרך",
+   "chapter": null,
+   "start": 9,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "4",
+   "title": "מערכות בקרה במנהרות דרך",
+   "chapter": null,
+   "start": 9,
+   "level": 1,
+   "end": 10
+  },
+  {
+   "num": "5",
+   "title": "היבטי הנדסת גורמי אנוש בנהיגה במנהרות",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 28
+  },
+  {
+   "num": "6",
+   "title": "אמצעי בקרת תנועה בנקודות החלטה לפני המנהרה",
+   "chapter": null,
+   "start": 29,
+   "level": 1,
+   "end": 40
+  },
+  {
+   "num": "7.2.3",
+   "title": "למנהרה (סעיף",
+   "chapter": null,
+   "start": 36,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "6.4",
+   "title": "יקבע בהתאם לסוג הדרך כמפורט בטבלה",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 40
+  },
+  {
+   "num": "7",
+   "title": "אמצעי בקרת תנועה בגישה ובכניסה למנהרה",
+   "chapter": null,
+   "start": 41,
+   "level": 1,
+   "end": 44
+  },
+  {
+   "num": "8",
+   "title": "מערכת כריזה בכניסה למנהרה",
+   "chapter": null,
+   "start": 45,
+   "level": 1,
+   "end": 48
+  },
+  {
+   "num": "9",
+   "title": "עקרונות התפעול - ניהול ובקרת תנועה במנהרות",
+   "chapter": null,
+   "start": 49,
+   "level": 1,
+   "end": 91
+  },
+  {
+   "num": "10.2.2",
+   "title": "בתוך המנהרה 10-3",
+   "chapter": null,
+   "start": 58,
+   "level": 3,
+   "end": 58
+  },
+  {
+   "num": "10.2.4",
+   "title": "בנקודת החלטה 10-7",
+   "chapter": null,
+   "start": 58,
+   "level": 3,
+   "end": 58
+  },
+  {
+   "num": "10.3.4",
+   "title": "בנקודת החלטה 10-11",
+   "chapter": null,
+   "start": 58,
+   "level": 3,
+   "end": 58
+  },
+  {
+   "num": "10.4.2",
+   "title": "בתוך המנהרה 10-13",
+   "chapter": null,
+   "start": 58,
+   "level": 3,
+   "end": 58
+  },
+  {
+   "num": "10.3.3",
+   "title": "בגישה ובכניסה למנהרה שח | ה",
+   "chapter": null,
+   "start": 58,
+   "level": 3,
+   "end": 74
+  },
+  {
+   "num": "4.2",
+   "title": "גודש",
+   "chapter": null,
+   "start": 75,
+   "level": 2,
+   "end": 91
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2018_hagvana_yarok.pdf",
+ "checked": "2026-11-15T15:12:14Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2018_hagvana_yarok.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3590097,
+ "secs": 7.364523,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b6aabada4f07",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 58,
+ "pdf_meta": {
+  "Title": "הנחיות לבחירה והשמה של חומרים תיקניים לסימון דרכים",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Sun Aug  5 12:30:33 2018 UTC",
+  "ModDate": "Wed Aug  8 12:11:39 2018 UTC"
+ },
+ "fonts_uni_no": 15,
+ "sha256": "4802bb5831c9c0dd97db30c2e1937f04600d551b8199a4d29841b93063ee3bd1",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b6aabada4f07.pdf",
+ "fix_log": [
+  "words=3064 unknown=162 fixed=7"
+ ],
+ "image_pages": 30,
+ "table_pages": 4,
+ "figure_ocr_pages": 23,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 93,
+ "lowconf_pages": [],
+ "text_pages": 58,
+ "ocr_pages": 8,
+ "layer": "mixed"
+}
