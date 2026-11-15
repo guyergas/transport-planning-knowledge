@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorimSafrut.pdf",
+ "checked": "2026-11-15T15:57:23Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorimSafrut.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3991922,
+ "secs": 9.344634,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "4ad650f1cb81",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 155,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe Acrobat 6.0",
+  "Creator": "PrimoPDF http://www.primopdf.com",
+  "CreationDate": "Tue Feb  5 14:46:30 2008 UTC",
+  "ModDate": "Tue Apr  8 07:20:58 2008 UTC"
+ },
+ "fonts_uni_no": 20,
+ "sha256": "bc960b5d25c5a3ad493e27a9c6b660f55d6cab33985b5991c759d7394ec0af46",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/4ad650f1cb81.pdf",
+ "fix_log": [
+  "words=5907 unknown=343 fixed=8"
+ ],
+ "image_pages": 48,
+ "table_pages": 10,
+ "figure_ocr_pages": 45,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 80,
+ "lowconf_pages": [
+  1,
+  46
+ ],
+ "text_pages": 155,
+ "ocr_pages": 6,
+ "layer": "mixed"
+}

@@ -1,0 +1,44 @@
+{
+ "front": {
+  "edition": [
+   "1.0"
+  ],
+  "dates": [
+   "מרץ 2023",
+   "2023",
+   "1961"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה",
+   "משרד התחבורה והבטיחות בדרכים מקדם הסדרה כללית של מערך ה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "2"
+ },
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "1.0",
+   "title": "מהדורה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 1
+  },
+  {
+   "num": "3",
+   "title": "שלהתעבירה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 17
+  }
+ ],
+ "coverage": "page-only"
+}

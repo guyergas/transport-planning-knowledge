@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/TRAFFIC_PLANNING_standard%20road%20marking%20materials%2010.2020.pdf",
- "checked": "2026-11-15T13:26:28Z",
+ "checked": "2026-11-15T15:58:47Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/TRAFFIC_PLANNING_standard%20road%20marking%20materials%2010.2020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2267693,
- "secs": 2.608982,
+ "secs": 4.380854,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "0f919100a5ee",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 61,
  "pdf_meta": {
   "Title": "הנחיות לבחירה והשמה של חומרים תיקניים לסימון דרכים",
@@ -23,8 +27,14 @@
  "sha256": "44e22b8b2a62e80069c5eaeb68b292a3f3da737b2179bf7b67f1efe10b267a14",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0f919100a5ee.pdf",
  "fix_log": [
-  "words=3463 unknown=179 fixed=4"
+  "words=3482 unknown=183 fixed=5"
  ],
+ "image_pages": 8,
+ "table_pages": 3,
+ "figure_ocr_pages": 7,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 93,
+ "lowconf_pages": [],
  "text_pages": 61,
  "ocr_pages": 3,
  "layer": "mixed"

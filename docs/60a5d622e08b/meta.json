@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/bakarat-netivim1.pdf",
- "checked": "2026-11-15T13:26:48Z",
+ "checked": "2026-11-15T15:59:39Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/bakarat-netivim1.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1196140,
- "secs": 1.493802,
+ "secs": 4.91627,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "60a5d622e08b",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 26,
  "pdf_meta": {
   "Title": "",
@@ -23,8 +27,14 @@
  "sha256": "bb15688b1af99bcc6b16ebf7998a654b08e368c32e388e0dc24daf0b80cb69b5",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/60a5d622e08b.pdf",
  "fix_log": [
-  "words=1585 unknown=72 fixed=2"
+  "words=1601 unknown=80 fixed=8"
  ],
+ "image_pages": 8,
+ "table_pages": 2,
+ "figure_ocr_pages": 7,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 88,
+ "lowconf_pages": [],
  "text_pages": 26,
  "ocr_pages": 1,
  "layer": "mixed"

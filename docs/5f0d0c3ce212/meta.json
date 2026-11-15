@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/parking-plan/he/electric%20vehicles%20policy.pdf",
- "checked": "2026-11-15T13:34:17Z",
+ "checked": "2026-11-15T16:00:14Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/parking-plan/he/electric%20vehicles%20policy.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1397608,
- "secs": 1.783359,
+ "secs": 3.401718,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "5f0d0c3ce212",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 22,
  "pdf_meta": {
   "Title": "",
@@ -22,6 +26,12 @@
  "fonts_uni_no": 14,
  "sha256": "46afa7344c986321afca6387fa21277fa1792bb0691877d29b5fd20cb67dec1d",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/5f0d0c3ce212.pdf",
+ "image_pages": 5,
+ "table_pages": 1,
+ "figure_ocr_pages": 5,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
  "text_pages": 22,
  "ocr_pages": 0,
  "layer": "ok"

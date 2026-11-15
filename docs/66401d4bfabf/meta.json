@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_rakevet/he/TRAFFIC_PLANNING_tihnun_tahanot_rakevet.pdf",
+ "checked": "2026-11-15T15:56:58Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_rakevet/he/TRAFFIC_PLANNING_tihnun_tahanot_rakevet.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1869588,
+ "secs": 6.457492,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "66401d4bfabf",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 32,
+ "pdf_meta": {
+  "Title": "המדריך לתכנון מרחבי תחנות רכבת",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Thu Aug 23 16:06:07 2018 UTC",
+  "ModDate": "Thu Aug 23 16:06:07 2018 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "b5e1b185b49d6f0d9ddc4fd98f83dca17c898d0dc9872781e1e934ace9acf337",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/66401d4bfabf.pdf",
+ "fix_log": [
+  "words=2265 unknown=79 fixed=9"
+ ],
+ "image_pages": 9,
+ "table_pages": 3,
+ "figure_ocr_pages": 8,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 88,
+ "lowconf_pages": [],
+ "text_pages": 32,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}

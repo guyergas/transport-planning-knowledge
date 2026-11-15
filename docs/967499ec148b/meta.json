@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2005_HetkenetBetihut0905.pdf",
- "checked": "2026-11-15T13:26:37Z",
+ "checked": "2026-11-15T15:59:08Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2005_HetkenetBetihut0905.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1142804,
- "secs": 2.005548,
+ "secs": 3.938875,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "967499ec148b",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 34,
  "pdf_meta": {
   "Title": "Microsoft Word -   ÷         .doc",
@@ -22,6 +26,12 @@
  "fonts_uni_no": 7,
  "sha256": "07d92b010bbd399c2f62c6c2401c0b1cdd8cfaf72b665a43990d093f4b3d1a72",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/967499ec148b.pdf",
+ "image_pages": 5,
+ "table_pages": 1,
+ "figure_ocr_pages": 5,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
  "text_pages": 34,
  "ocr_pages": 0,
  "layer": "ok"

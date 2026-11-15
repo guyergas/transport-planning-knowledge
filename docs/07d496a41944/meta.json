@@ -1,0 +1,49 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/design_tests_minimizing_damage_soil_environment_urban_roads/he/07075810-461.pdf",
+ "checked": "2026-11-15T15:24:09Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/design_tests_minimizing_damage_soil_environment_urban_roads/he/07075810-461.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 9482989,
+ "secs": 17.307544,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "07d496a41944",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 119,
+ "pdf_meta": {
+  "Title": "choveret yerukot.pdf",
+  "Producer": "Acrobat Distiller 8.0.0 (Windows)",
+  "Creator": "Adobe InDesign CS3 (5.0.4)",
+  "CreationDate": "Mon Nov 29 11:05:06 2010 UTC",
+  "ModDate": "Mon Nov 29 11:08:50 2010 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "5595160deb6d0d4486402fd64b263306e9c950d66a0db9cf720ac2687c426eb8",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/07d496a41944.pdf",
+ "fix_log": [
+  "words=7526 unknown=1829 fixed=116"
+ ],
+ "image_pages": 119,
+ "table_pages": 10,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 10,
+ "ocr_conf_mean": 83,
+ "lowconf_pages": [
+  39,
+  47,
+  48,
+  49,
+  86,
+  99,
+  108,
+  111
+ ],
+ "text_pages": 119,
+ "ocr_pages": 119,
+ "layer": "broken"
+}

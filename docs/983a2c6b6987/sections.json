@@ -1,0 +1,57 @@
+{
+ "front": {
+  "dates": [
+   "אוגוסט 1976",
+   "1989",
+   "1976",
+   "1969",
+   "1964"
+  ],
+  "publisher": [
+   "משרד המשפטי.",
+   "אגף שומת span‏",
+   "המועצה הדתית בביתדשמש",
+   "המועצה הדתית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "24": "8"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "התווית דרך ציבורית מאושרת וקביעתה לדרך במבוי",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "6",
+   "title": "הרחבת דרכים. . התנגדות במשרדי הועדה המקומית TTR",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 25
+  },
+  {
+   "num": "08.80",
+   "title": "באוקטובר בשעה",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "2.0",
+   "title": "ראשנה",
+   "chapter": null,
+   "start": 21,
+   "level": 2,
+   "end": 25
+  }
+ ],
+ "coverage": "sections"
+}

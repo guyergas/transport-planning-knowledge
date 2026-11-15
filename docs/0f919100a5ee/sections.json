@@ -11,10 +11,10 @@
    "נובמבר 2014"
   ],
   "publisher": [
+   "מינהל תכנון",
    "משרד התחבורה",
-   "אגף הנדסת תנועה ,מ\"מ יו\"ר",
-   "הרשות הלאומית                             -אינג' מאריה כ",
-   "נתיבי ישראל             -אינג' שמעון נסיכי ,אינג' גליה א"
+   "אגף בכיר תכנון תחבורתי",
+   "מנהל הכללי של משרד התחבורה"
   ],
   "verify": "candidates from text; confirm on cover page image"
  },
@@ -23,6 +23,46 @@
   4
  ],
  "sections": [
+  {
+   "num": "1.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.2",
+   "title": "מטרת ההנחיות",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.3",
+   "title": "מונחים והגדרות",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "1.4",
+   "title": "בטיחות",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "2.1",
+   "title": "נראות הסימון",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
   {
    "num": "2.1.1",
    "title": "נראות יום",
@@ -37,7 +77,71 @@
    "chapter": null,
    "start": 11,
    "level": 3,
+   "end": 11
+  },
+  {
+   "num": "2.2",
+   "title": "גוון הסימון",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "2.3",
+   "title": "מירקם (טקסטורה) ועובי",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "2.4",
+   "title": "התנגדות להחלקה",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "2.5",
+   "title": "תוחלת חיים של הסימון",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "2.6",
+   "title": "חומרים מסוכנים בתוך חומרי סימון",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "3.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
    "end": 14
+  },
+  {
+   "num": "3.2",
+   "title": "חומרי סימון בעלי תוחלת חיים קצרה",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "3.3",
+   "title": "חומרי סימון בעלי תוחלת חיים ארוכה",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 15
   },
   {
    "num": "3.3.1",
@@ -64,6 +168,14 @@
    "end": 15
   },
   {
+   "num": "3.4",
+   "title": "תוספים לחומרי סימון",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 17
+  },
+  {
    "num": "3.4.1",
    "title": "כללי",
    "chapter": null,
@@ -85,7 +197,79 @@
    "chapter": null,
    "start": 17,
    "level": 3,
+   "end": 17
+  },
+  {
+   "num": "4.1",
+   "title": "תכונות פני המיסעה והשכבה העליונה",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "4.3",
+   "title": "השפעת תנאי סביבה ואקלים על חומר סימון",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "5.1",
+   "title": "שיקולים כלליים בבחירת חומרי סימון",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "5.2",
+   "title": "דרישות סף ורמות תפקוד לבחירת חומרי סימון",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "5.3",
+   "title": "התאמת רמות התפקוד לתנאי הדרך",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "2",
+   "title": "סימונים",
+   "chapter": null,
+   "start": 27,
+   "level": 1,
+   "end": 61
+  },
+  {
+   "num": "5.4",
+   "title": "דרישות כלליות ליישום חומרי הסימון",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 32
+  },
+  {
+   "num": "6.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
    "end": 33
+  },
+  {
+   "num": "6.2",
+   "title": "אחזקת הסימון",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 36
   },
   {
    "num": "6.2.1",
@@ -104,6 +288,22 @@
    "end": 36
   },
   {
+   "num": "7.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "7.2",
+   "title": "שיטות ההסרה וההסתרה",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
    "num": "7.2.1",
    "title": "הסרת סימון קיים",
    "chapter": null,
@@ -117,6 +317,22 @@
    "chapter": null,
    "start": 38,
    "level": 3,
+   "end": 38
+  },
+  {
+   "num": "7.3",
+   "title": "מגבלות הנוגעות לשיטות ההסרה והסתרה",
+   "chapter": null,
+   "start": 38,
+   "level": 2,
+   "end": 46
+  },
+  {
+   "num": "2.5",
+   "title": "מ\"מ ±     אוסטרליה",
+   "chapter": null,
+   "start": 47,
+   "level": 2,
    "end": 61
   }
  ],
