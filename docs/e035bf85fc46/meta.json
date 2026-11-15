@@ -1,0 +1,21 @@
+{
+ "url": "https://www.gov.il/he/Departments/General/public_transportation_development_ashkelon_sub-district",
+ "checked": "2026-11-15T12:44:17Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/public_transportation_development_ashkelon_sub-district",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.249464,
+ "server": "cloudflare",
+ "id": "e035bf85fc46",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "תוכנית אסטרטגית 2040 להסעת המונים ולתחבורה ציבורית בנפת אשקלון משרד התחבורה והבטיחות בדרכים"
+}

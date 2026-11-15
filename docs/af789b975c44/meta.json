@@ -1,0 +1,21 @@
+{
+ "url": "https://www.gov.il/he/Departments/legalInfo/building_and_planning_parking_regulations",
+ "checked": "2026-11-15T12:44:26Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/building_and_planning_parking_regulations",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.060773,
+ "server": "cloudflare",
+ "id": "af789b975c44",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "תקנות התכנון והבניה (התקנת מקומות חניה), תשמ\"ג-1983 מינהל התכנון"
+}

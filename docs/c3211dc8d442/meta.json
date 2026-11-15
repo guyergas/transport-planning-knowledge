@@ -1,15 +1,15 @@
 {
  "url": "https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
- "checked": "2026-11-15T12:42:29Z",
+ "checked": "2026-11-15T12:44:56Z",
  "status": 200,
  "final_url": "https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
  "content_type": "text/html; charset=UTF-8",
  "redirects": 0,
  "bytes": 144530,
- "secs": 0.16783,
- "server": "mw-web.eqiad.main-85bfb985f-t7mz5",
+ "secs": 0.359689,
+ "server": "mw-web.codfw.main-5757f89b77-9vxsq",
  "id": "c3211dc8d442",
  "kind": "html",
- "result": "blocked (bot challenge)",
+ "result": "ok",
  "title": "תקנות התכנון והבניה (התקנת מקומות חניה) – ויקיטקסט"
 }
