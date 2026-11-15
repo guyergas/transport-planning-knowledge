@@ -1,0 +1,96 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads",
+ "checked": "2026-11-15T16:14:09Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/guidelines_planning_signs_interurban_roads",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.050635,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "16ffeb55b9ca",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון שילוט בדרכים בין-עירוניות משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/planning-%20signage-on-interurban%20roads-guidelines.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים בין-עירוניות סימון הכוונה משלים על-פני המיסעה מהדורה 1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/שילוט מורי דרך- עדכון הנחיות - מהדורה 1.pdf",
+   "text": "הנחיות למורה דרך-מהדורה 1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/עדכון הנחיות כיתוב בערבית - מהדורה 2_260702.pdf",
+   "text": "עדכון הנחיות לכיתוב בערבית - מהדורה 2"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/עדכונים לתכנון השילוט במחלפים_מהדורה 1_עדכון.pdf",
+   "text": "עדכונים לתכנון השילוט במחלפים_מהדורה 1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/a38c3316-070f-4faa-a53b-2178711f7d04.pdf",
+   "text": "פרק 5 - מערך השילוט בצמתים מהדורה 3- מאי 2025"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/6bbeafb8-1bca-4a07-ab51-d5ffdbafdf4b.pdf",
+   "text": "פרק 5 מערך השמות בצמתים - עדכון סעיף 5.6 מעגלי תנועה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/הנחיות_לתכנון_שילוט_בדרכים_בין-עירוניות_מהדורה_2016.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים בין-עירוניות מהדורה 2016"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/הנחיות שילוט בדרכים בין עירוניות-פרק שילוט נתיבי העדפה ונתיבים מנוהלים - מהדורה 2.1_ אוקטובר 2024.pdf",
+   "text": "'הנחיות שילוט בדרכים ביןעירוניות-פרק שילוט נתיבי העדפה ונתיבים מנוהלים - מהדורה 2.1_ אוקטובר 2024'"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/planning- signage-on-interurban roads-guidelines.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים בין-עירוניות סימון הכוונה משלים על-פני המיסעה"
+  }
+ ],
+ "all_links": 54,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/planning-%20signage-on-interurban%20roads-guidelines.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים בין-עירוניות סימון הכוונה משלים על-פני המיסעה מהדורה 1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/שילוט מורי דרך- עדכון הנחיות - מהדורה 1.pdf",
+   "text": "הנחיות למורה דרך-מהדורה 1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/עדכון הנחיות כיתוב בערבית - מהדורה 2_260702.pdf",
+   "text": "עדכון הנחיות לכיתוב בערבית - מהדורה 2"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/עדכונים לתכנון השילוט במחלפים_מהדורה 1_עדכון.pdf",
+   "text": "עדכונים לתכנון השילוט במחלפים_מהדורה 1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/הנחיות_לתכנון_שילוט_בדרכים_בין-עירוניות_מהדורה_2016.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים בין-עירוניות מהדורה 2016"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/הנחיות שילוט בדרכים בין עירוניות-פרק שילוט נתיבי העדפה ונתיבים מנוהלים - מהדורה 2.1_ אוקטובר 2024.pdf",
+   "text": "'הנחיות שילוט בדרכים ביןעירוניות-פרק שילוט נתיבי העדפה ונתיבים מנוהלים - מהדורה 2.1_ אוקטובר 2024'"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/planning- signage-on-interurban roads-guidelines.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים בין-עירוניות סימון הכוונה משלים על-פני המיסעה"
+  }
+ ]
+}

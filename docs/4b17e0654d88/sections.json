@@ -1,0 +1,204 @@
+{
+ "front": {
+  "edition": [
+   "שניה"
+  ],
+  "dates": [
+   "מאי 2017",
+   "פברואר 2008",
+   "1970",
+   "2014",
+   "2012"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "אגף בכיר תכנון תחבורתי",
+   "מינהל תשתיות",
+   "משרד התחבורה והבטיחות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "2",
+   "title": "תקנים והנחיות",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "3",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "4",
+   "title": "מבנה החרוט",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "4.1",
+   "title": "משקל מזערי",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "4.2",
+   "title": "תצורת החרוט",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "4.3",
+   "title": "בסיס החרוט",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "4.4",
+   "title": "יריעות מחזירות אור",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "4.5",
+   "title": "עירום החרוטים",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "4.6",
+   "title": "ראש החרוט",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "5",
+   "title": "מ\"מ. ראש החרוט יתוכנן כר שיאפשר אחיזת CT",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 10
+  },
+  {
+   "num": "4.7",
+   "title": "סטיות מותרות (טולרנס מידות)",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "5.1",
+   "title": "דרישות",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "6",
+   "title": "נוהל הגשת תיק מוצר",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 14
+  },
+  {
+   "num": "6.1",
+   "title": "מפרט טכני",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.2",
+   "title": "הוראות התקנה",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.3",
+   "title": "הוראות אחזקה",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.4",
+   "title": "גיליון בטיחות",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.5",
+   "title": "בדיקות מעבדה",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "6.6",
+   "title": "סימון ותיעוד שרשרת אספקה",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "6.7",
+   "title": "ניסיון שימוש בהתקן ברשויות דרך",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "6.8",
+   "title": "מסמכים נוספים",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 14
+  }
+ ],
+ "coverage": "sections"
+}

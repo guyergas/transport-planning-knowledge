@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/tavhinim_mosadot_tihnun",
+ "checked": "2026-11-15T16:06:38Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/tavhinim_mosadot_tihnun",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.107043,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "4cf8a191f3cd",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "תבחינים להגשת תכניות למוסדות תכנון משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/tavhinim_mosadot_tihnun/he/TRAFFIC_PLANNING_tavhinim_mosadot_tihnun.pdf",
+   "text": "תבחינים להגשת תכניות למוסדות תכנון"
+  }
+ ],
+ "all_links": 47,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/tavhinim_mosadot_tihnun/he/TRAFFIC_PLANNING_tavhinim_mosadot_tihnun.pdf",
+   "text": "תבחינים להגשת תכניות למוסדות תכנון"
+  }
+ ]
+}

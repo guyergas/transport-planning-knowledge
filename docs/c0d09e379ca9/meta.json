@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata2.pdf",
+ "checked": "2026-11-15T14:55:44Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata2.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 166158,
+ "secs": 0.919442,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "c0d09e379ca9",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 5,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Acrobat Distiller 4.05 for Macintosh",
+  "Creator": "",
+  "CreationDate": "Mon Feb 17 14:31:08 2003 UTC",
+  "ModDate": "Thu Feb 20 15:01:38 2003 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "dbb74fb2799d62e20c0485257e2183f106d8cc4774afc2d30bed427e9488e50b",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/c0d09e379ca9.pdf",
+ "fix_log": [
+  "words=529 unknown=20 fixed=5"
+ ],
+ "image_pages": 5,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 89,
+ "lowconf_pages": [],
+ "text_pages": 5,
+ "ocr_pages": 5,
+ "layer": "broken"
+}

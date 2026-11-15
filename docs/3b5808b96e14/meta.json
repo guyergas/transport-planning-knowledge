@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/determination_traffic_arrangements_local_permission_authority/he/18-09.pdf",
+ "checked": "2026-11-15T16:07:05Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/determination_traffic_arrangements_local_permission_authority/he/18-09.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 834423,
+ "secs": 3.478764,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "3b5808b96e14",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 18,
+ "pdf_meta": {
+  "Title": "כללים מנחים ליישום תקנה 18(ב) לעניין קביעת הסדרי תנועה על-ידי רשויות תימרור מקומיות - מהדורה שניה - יוני 2015",
+  "Producer": "Microsoft® Word 2016",
+  "Creator": "Microsoft® Word 2016",
+  "CreationDate": "Tue Apr 16 12:45:34 2024 UTC",
+  "ModDate": "Tue Apr 16 12:45:34 2024 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "7089e09ee3f9662d9729c5aee89dfb98bdd3b129e4bf645c6d2d8c9cbc9d7c59",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3b5808b96e14.pdf",
+ "image_pages": 4,
+ "table_pages": 0,
+ "figure_ocr_pages": 4,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 18,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

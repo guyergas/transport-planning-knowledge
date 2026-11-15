@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_for_public_transport_planning/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
+ "checked": "2026-11-15T16:07:37Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_for_public_transport_planning/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 12386850,
+ "secs": 17.286382,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "58e2df15ca68",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 211,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 9.9",
+  "Creator": "Adobe InDesign CS5.5 (7.5)",
+  "CreationDate": "Sun Apr 23 08:47:22 2017 UTC",
+  "ModDate": "Tue Sep 26 10:23:23 2017 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "4da1368ee898d129d3ebd3ec91216e8711151df9ab13394c3f164ae8e1887e29",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/58e2df15ca68.pdf",
+ "fix_log": [
+  "words=7068 unknown=243 fixed=6"
+ ],
+ "image_pages": 47,
+ "table_pages": 12,
+ "figure_ocr_pages": 39,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 211,
+ "ocr_pages": 16,
+ "layer": "mixed"
+}

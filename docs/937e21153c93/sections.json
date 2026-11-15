@@ -1,0 +1,857 @@
+{
+ "front": {
+  "edition": [
+   "שניה",
+   "מעודכנת",
+   "המקורית"
+  ],
+  "dates": [
+   "אוקטובר 2020",
+   "מאי 2011",
+   "2020"
+  ],
+  "publisher": [
+   "משרד הבינוי והשיכון                               משרד",
+   "אגף האדריכל הראשי",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד הבינוי והשיכון                             משרד הת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "24": "1",
+  "26": "1",
+  "28": "1",
+  "30": "1",
+  "88": "3",
+  "120": "4",
+  "125": "55"
+ },
+ "toc_pages": [
+  12,
+  15,
+  16,
+  113,
+  118,
+  119
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "פרק \u001a1",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 35
+  },
+  {
+   "num": "1.1",
+   "title": "התפישה שבבסיס ההנחיות",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "1.2",
+   "title": "מטרת מערכת ההנחיות לתכנון רחובות בערים",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "1.3",
+   "title": "ההנחיות לתנועת רכב מנועי כחלק",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "1.4",
+   "title": "נמעני ההנחיות לתכנון רחובות בערים",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "1.5",
+   "title": "מרחב הגמישות ביישום ההנחיות לתכנון רחובות",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "1.7",
+   "title": "תחולת ההנחיות ותקפותן",
+   "chapter": null,
+   "start": 30,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "2.1",
+   "title": "הרכב לתכן",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
+   "end": 35
+  },
+  {
+   "num": "2.1.1",
+   "title": "השפעת הרכב",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "2.1.2",
+   "title": "מידות כלי הרכב לתכן",
+   "chapter": null,
+   "start": 35,
+   "level": 3,
+   "end": 35
+  },
+  {
+   "num": "2",
+   "title": "בתנועה מקבילה",
+   "chapter": null,
+   "start": 36,
+   "level": 1,
+   "end": 59
+  },
+  {
+   "num": "2.1.3",
+   "title": "הרכב לתכן באזורי מגורים ומסחר",
+   "chapter": null,
+   "start": 47,
+   "level": 3,
+   "end": 47
+  },
+  {
+   "num": "2.1.4",
+   "title": "הרכב לתכן באזורי תעשייה",
+   "chapter": null,
+   "start": 48,
+   "level": 3,
+   "end": 48
+  },
+  {
+   "num": "2.1.5",
+   "title": "הרכב לתכן בצירי מתע“ן",
+   "chapter": null,
+   "start": 48,
+   "level": 3,
+   "end": 48
+  },
+  {
+   "num": "2.1.6",
+   "title": "הרכב לתכן בדרכים מעויירות",
+   "chapter": null,
+   "start": 48,
+   "level": 3,
+   "end": 49
+  },
+  {
+   "num": "2.2",
+   "title": "מהירות הייעוד",
+   "chapter": null,
+   "start": 50,
+   "level": 2,
+   "end": 59
+  },
+  {
+   "num": "2.2.1",
+   "title": "התפישה הכללית של תכנון וניהול המהירויות",
+   "chapter": null,
+   "start": 50,
+   "level": 3,
+   "end": 51
+  },
+  {
+   "num": "2.2.2",
+   "title": "סוגי מהירות בתהליך התכנון",
+   "chapter": null,
+   "start": 52,
+   "level": 3,
+   "end": 52
+  },
+  {
+   "num": "2.2.3",
+   "title": "סיווג הרחובות",
+   "chapter": null,
+   "start": 53,
+   "level": 3,
+   "end": 53
+  },
+  {
+   "num": "2.2.4",
+   "title": "עקרונות לקביעת מהירות הייעוד",
+   "chapter": null,
+   "start": 54,
+   "level": 3,
+   "end": 54
+  },
+  {
+   "num": "2.2.5",
+   "title": "השפעת מהירות הייעוד על המשך התכנון",
+   "chapter": null,
+   "start": 55,
+   "level": 3,
+   "end": 59
+  },
+  {
+   "num": "3.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 60,
+   "level": 2,
+   "end": 60
+  },
+  {
+   "num": "3",
+   "title": "שירות          חנייה         תחנה      חניית אופניים   פעילות דופן",
+   "chapter": null,
+   "start": 60,
+   "level": 1,
+   "end": 105
+  },
+  {
+   "num": "3.2",
+   "title": "נתיבי הרכב המנועי",
+   "chapter": null,
+   "start": 61,
+   "level": 2,
+   "end": 70
+  },
+  {
+   "num": "3.2.1",
+   "title": "מתודולוגיה",
+   "chapter": null,
+   "start": 61,
+   "level": 3,
+   "end": 62
+  },
+  {
+   "num": "3.2.2",
+   "title": "כמות נתיבים ונפחים מרביים לפי מדרג הרחוב",
+   "chapter": null,
+   "start": 63,
+   "level": 3,
+   "end": 68
+  },
+  {
+   "num": "3.2.2.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 63,
+   "level": 4,
+   "end": 63
+  },
+  {
+   "num": "3.2.2.2",
+   "title": "נפחי תנועה מרביים ברחובות ובדרכים",
+   "chapter": null,
+   "start": 63,
+   "level": 4,
+   "end": 66
+  },
+  {
+   "num": "3.2.2.4",
+   "title": "ניתוב בדרך עירונית (עורק תנועתי)",
+   "chapter": null,
+   "start": 67,
+   "level": 4,
+   "end": 67
+  },
+  {
+   "num": "3.2.2.5",
+   "title": "ניתוב בהעדפת תחבורה ציבורית",
+   "chapter": null,
+   "start": 67,
+   "level": 4,
+   "end": 67
+  },
+  {
+   "num": "3.2.2.6",
+   "title": "תנועת אופניים",
+   "chapter": null,
+   "start": 67,
+   "level": 4,
+   "end": 67
+  },
+  {
+   "num": "3.2.2.7",
+   "title": "כללי החלטה נוספים",
+   "chapter": null,
+   "start": 67,
+   "level": 4,
+   "end": 68
+  },
+  {
+   "num": "3.2.2.8",
+   "title": "שלבי ביניים והשלב הסופי",
+   "chapter": null,
+   "start": 69,
+   "level": 4,
+   "end": 69
+  },
+  {
+   "num": "3.2.3",
+   "title": "רוחב נתיבים לתנועת רכב מנועי",
+   "chapter": null,
+   "start": 69,
+   "level": 3,
+   "end": 70
+  },
+  {
+   "num": "3.2.4",
+   "title": "השיפוע הצידי של הכביש בקטעים ישרים",
+   "chapter": null,
+   "start": 71,
+   "level": 3,
+   "end": 71
+  },
+  {
+   "num": "3.3",
+   "title": "החנייה ברחוב",
+   "chapter": null,
+   "start": 71,
+   "level": 2,
+   "end": 75
+  },
+  {
+   "num": "3.3.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 71,
+   "level": 3,
+   "end": 72
+  },
+  {
+   "num": "3.3.2",
+   "title": "הצדקים לביצוע חנייה",
+   "chapter": null,
+   "start": 73,
+   "level": 3,
+   "end": 73
+  },
+  {
+   "num": "3.3.3",
+   "title": "סוג החנייה ברחובות השונים",
+   "chapter": null,
+   "start": 73,
+   "level": 3,
+   "end": 73
+  },
+  {
+   "num": "3.3.4",
+   "title": "פרטי תכנון חנייה",
+   "chapter": null,
+   "start": 73,
+   "level": 3,
+   "end": 75
+  },
+  {
+   "num": "3.3.4.1",
+   "title": "חנייה מקבילה (תרשים )3.2",
+   "chapter": null,
+   "start": 73,
+   "level": 4,
+   "end": 73
+  },
+  {
+   "num": "3.3.4.2",
+   "title": "חנייה אלכסונית (תרשים  3.3ו)3.4",
+   "chapter": null,
+   "start": 74,
+   "level": 4,
+   "end": 74
+  },
+  {
+   "num": "3.3.4.3",
+   "title": "חנייה ניצבת (תרשים )3.5",
+   "chapter": null,
+   "start": 75,
+   "level": 4,
+   "end": 75
+  },
+  {
+   "num": "2.50",
+   "title": "רוחב תא החנייה                   W ≥",
+   "chapter": null,
+   "start": 76,
+   "level": 2,
+   "end": 76
+  },
+  {
+   "num": "4.25",
+   "title": "עומק תא החנייה                   D =",
+   "chapter": null,
+   "start": 76,
+   "level": 2,
+   "end": 77
+  },
+  {
+   "num": "3.3.4.4",
+   "title": "הערות כלליות ופרטי תכן לכל סוגי החנייה",
+   "chapter": null,
+   "start": 76,
+   "level": 4,
+   "end": 77
+  },
+  {
+   "num": "4.30",
+   "title": "<\u001a D3 <\u001a 4.60 עומק תא החנייה",
+   "chapter": null,
+   "start": 78,
+   "level": 2,
+   "end": 79
+  },
+  {
+   "num": "3.3.5",
+   "title": "חנייה לנכים",
+   "chapter": null,
+   "start": 79,
+   "level": 3,
+   "end": 79
+  },
+  {
+   "num": "3.3.7",
+   "title": "חנייה לרכב חריג",
+   "chapter": null,
+   "start": 79,
+   "level": 3,
+   "end": 79
+  },
+  {
+   "num": "3.4",
+   "title": "מפרדה",
+   "chapter": null,
+   "start": 80,
+   "level": 2,
+   "end": 84
+  },
+  {
+   "num": "3.4.1",
+   "title": "מפרדות  -תפקידיהן וסוגיהן",
+   "chapter": null,
+   "start": 80,
+   "level": 3,
+   "end": 80
+  },
+  {
+   "num": "3.4.2",
+   "title": "הצדקים תנועתיים להתקנת מפרדה בנוייה",
+   "chapter": null,
+   "start": 81,
+   "level": 3,
+   "end": 81
+  },
+  {
+   "num": "3.4.3",
+   "title": "רוחב המפרדה",
+   "chapter": null,
+   "start": 82,
+   "level": 3,
+   "end": 83
+  },
+  {
+   "num": "3.4.3.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 82,
+   "level": 4,
+   "end": 82
+  },
+  {
+   "num": "3.4.3.2",
+   "title": "רוחב מפרדה מזערי לתוכניות סטטוטוריות",
+   "chapter": null,
+   "start": 82,
+   "level": 4,
+   "end": 82
+  },
+  {
+   "num": "3.4.3.3",
+   "title": "רוחב מפרדה לתוכניות גיאומטריות לביצוע",
+   "chapter": null,
+   "start": 83,
+   "level": 4,
+   "end": 83
+  },
+  {
+   "num": "3.4.4",
+   "title": "אבני שפה במפרדות",
+   "chapter": null,
+   "start": 84,
+   "level": 3,
+   "end": 84
+  },
+  {
+   "num": "3.5",
+   "title": "מדרכות",
+   "chapter": null,
+   "start": 85,
+   "level": 2,
+   "end": 85
+  },
+  {
+   "num": "3.6",
+   "title": "רחובות משולבים ורחובות ללא מוצא",
+   "chapter": null,
+   "start": 85,
+   "level": 2,
+   "end": 86
+  },
+  {
+   "num": "3.6.1",
+   "title": "רחוב משולב",
+   "chapter": null,
+   "start": 85,
+   "level": 3,
+   "end": 85
+  },
+  {
+   "num": "3.6.2",
+   "title": "רחוב ללא מוצא ( )cul-de-sac",
+   "chapter": null,
+   "start": 86,
+   "level": 3,
+   "end": 86
+  },
+  {
+   "num": "3.6.2.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 86,
+   "level": 4,
+   "end": 86
+  },
+  {
+   "num": "3.6.2.2",
+   "title": "כללים בסיסיים לתכנון",
+   "chapter": null,
+   "start": 86,
+   "level": 4,
+   "end": 86
+  },
+  {
+   "num": "3.7",
+   "title": "תחנות אוטובוס",
+   "chapter": null,
+   "start": 87,
+   "level": 2,
+   "end": 88
+  },
+  {
+   "num": "3.8",
+   "title": "תשתיות עירוניות",
+   "chapter": null,
+   "start": 89,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "4.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 94,
+   "level": 2,
+   "end": 94
+  },
+  {
+   "num": "4.2",
+   "title": "מרחק ראות",
+   "chapter": null,
+   "start": 95,
+   "level": 2,
+   "end": 99
+  },
+  {
+   "num": "4.2.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 95,
+   "level": 3,
+   "end": 95
+  },
+  {
+   "num": "4.2.2",
+   "title": "מרחק ראות מזערי לעצירה",
+   "chapter": null,
+   "start": 95,
+   "level": 3,
+   "end": 99
+  },
+  {
+   "num": "4.2.2.1",
+   "title": "הגדרת מרחק הראות ומרכיביו",
+   "chapter": null,
+   "start": 95,
+   "level": 4,
+   "end": 95
+  },
+  {
+   "num": "4.2.2.2",
+   "title": "חישוב מרחק הראות במישור",
+   "chapter": null,
+   "start": 96,
+   "level": 4,
+   "end": 96
+  },
+  {
+   "num": "4.2.2.3",
+   "title": "הנחיות נוספות ליישום",
+   "chapter": null,
+   "start": 97,
+   "level": 4,
+   "end": 97
+  },
+  {
+   "num": "4.2.2.4",
+   "title": "השפעת השיפוע על מרחק הראות לעצירה",
+   "chapter": null,
+   "start": 97,
+   "level": 4,
+   "end": 99
+  },
+  {
+   "num": "4.3",
+   "title": "התוואי האופקי של רחובות עירוניים",
+   "chapter": null,
+   "start": 100,
+   "level": 2,
+   "end": 105
+  },
+  {
+   "num": "4.3.1",
+   "title": "הגבהה צידית בעקום אופקי",
+   "chapter": null,
+   "start": 100,
+   "level": 3,
+   "end": 100
+  },
+  {
+   "num": "4.3.1.1",
+   "title": "צרכים ומגבלות",
+   "chapter": null,
+   "start": 100,
+   "level": 4,
+   "end": 100
+  },
+  {
+   "num": "4.3.1.2",
+   "title": "עקרונות ליישום הגבהות ברחובות ודרכים עם בינוי גובל",
+   "chapter": null,
+   "start": 101,
+   "level": 4,
+   "end": 101
+  },
+  {
+   "num": "4.3.1.3",
+   "title": "עקרונות ליישום הגבהות בדרכים ללא בינוי גובל",
+   "chapter": null,
+   "start": 101,
+   "level": 4,
+   "end": 101
+  },
+  {
+   "num": "4.3.2",
+   "title": "רדיוס מזערי של העקום האופקי",
+   "chapter": null,
+   "start": 101,
+   "level": 3,
+   "end": 102
+  },
+  {
+   "num": "4.3.2.1",
+   "title": "הקשר בין רדיוס להגבהה",
+   "chapter": null,
+   "start": 101,
+   "level": 4,
+   "end": 101
+  },
+  {
+   "num": "4.3.2.2",
+   "title": "עקרונות ליישום רדיוסים",
+   "chapter": null,
+   "start": 102,
+   "level": 4,
+   "end": 102
+  },
+  {
+   "num": "4.3.3",
+   "title": "הקשר בין רדיוסים גדולים מהמזעריים להגבהה המתאימה",
+   "chapter": null,
+   "start": 103,
+   "level": 3,
+   "end": 103
+  },
+  {
+   "num": "4.3.4",
+   "title": "מעבר שיפועים",
+   "chapter": null,
+   "start": 104,
+   "level": 3,
+   "end": 105
+  },
+  {
+   "num": "4",
+   "title": "תרשים \u001a4.2",
+   "chapter": null,
+   "start": 106,
+   "level": 1,
+   "end": 125
+  },
+  {
+   "num": "4.3.5",
+   "title": "עקום מעבר",
+   "chapter": null,
+   "start": 107,
+   "level": 3,
+   "end": 107
+  },
+  {
+   "num": "4.3.6",
+   "title": "הרחבה בעקומים אופקיים",
+   "chapter": null,
+   "start": 108,
+   "level": 3,
+   "end": 108
+  },
+  {
+   "num": "4.3.6.1",
+   "title": "מטרת ההרחבה",
+   "chapter": null,
+   "start": 108,
+   "level": 4,
+   "end": 108
+  },
+  {
+   "num": "4.3.6.2",
+   "title": "ערכי תכן ואופן ביצוע",
+   "chapter": null,
+   "start": 108,
+   "level": 4,
+   "end": 108
+  },
+  {
+   "num": "0.65",
+   "title": "אין צורך                          60",
+   "chapter": null,
+   "start": 109,
+   "level": 2,
+   "end": 109
+  },
+  {
+   "num": "0.50",
+   "title": "אין צורך                        70-80",
+   "chapter": null,
+   "start": 109,
+   "level": 2,
+   "end": 113
+  },
+  {
+   "num": "4.3.7",
+   "title": "עקומים מנוגדי כיוון",
+   "chapter": null,
+   "start": 110,
+   "level": 3,
+   "end": 110
+  },
+  {
+   "num": "4.3.8",
+   "title": "עקומים לאותו כיוון",
+   "chapter": null,
+   "start": 111,
+   "level": 3,
+   "end": 111
+  },
+  {
+   "num": "4.3.9",
+   "title": "ראות בעקום אופקי",
+   "chapter": null,
+   "start": 111,
+   "level": 3,
+   "end": 113
+  },
+  {
+   "num": "4.4",
+   "title": "התוואי האנכי של רחובות עירוניים",
+   "chapter": null,
+   "start": 114,
+   "level": 2,
+   "end": 125
+  },
+  {
+   "num": "4.4.1",
+   "title": "מרווח אנכי",
+   "chapter": null,
+   "start": 114,
+   "level": 3,
+   "end": 114
+  },
+  {
+   "num": "4.4.2",
+   "title": "השיפוע האורכי",
+   "chapter": null,
+   "start": 114,
+   "level": 3,
+   "end": 115
+  },
+  {
+   "num": "4.4.2.1",
+   "title": "שיפוע אורכי מזערי",
+   "chapter": null,
+   "start": 114,
+   "level": 4,
+   "end": 114
+  },
+  {
+   "num": "4.4.2.2",
+   "title": "שיפוע אורכי מרבי",
+   "chapter": null,
+   "start": 114,
+   "level": 4,
+   "end": 115
+  },
+  {
+   "num": "4.4.3",
+   "title": "עקומים אנכיים",
+   "chapter": null,
+   "start": 116,
+   "level": 3,
+   "end": 125
+  },
+  {
+   "num": "4.4.3.1",
+   "title": "הגדרה ויעד",
+   "chapter": null,
+   "start": 116,
+   "level": 4,
+   "end": 116
+  },
+  {
+   "num": "4.4.3.2",
+   "title": "הפרשי שיפועים ללא עקום אנכי",
+   "chapter": null,
+   "start": 116,
+   "level": 4,
+   "end": 116
+  },
+  {
+   "num": "4.4.3.3",
+   "title": "עקומים קמורים",
+   "chapter": null,
+   "start": 116,
+   "level": 4,
+   "end": 125
+  }
+ ],
+ "coverage": "sections"
+}

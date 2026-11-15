@@ -1,0 +1,87 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/guidelines_planning_traffic_recessions",
+ "checked": "2026-11-15T16:12:08Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/guidelines_planning_traffic_recessions",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.223582,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "24478f5ef5a7",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון איזורי מיתון תנועה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah1.pdf",
+   "text": "מבוא"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah2.pdf",
+   "text": "נושא ומטרה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah3.pdf",
+   "text": "קביעת מתחם ההתייחסות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah4.pdf",
+   "text": "נתוני הרקע של מתחם ההתייחסות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah5.pdf",
+   "text": "חלוקת המתחם לאזורי מיתון התנועה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah6.pdf",
+   "text": "איסוף נתונים לטיפול מפורט באזור מיתון התנועה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7.pdf",
+   "text": "רכיבי התכנון של רחובות באזורי מיתון תנועה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_4.pdf",
+   "text": "חתכים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_5.pdf",
+   "text": "שערים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_6.pdf",
+   "text": "צמתים"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_7.pdf",
+   "text": "אמצעי ריסון"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_8.pdf",
+   "text": "ניהול תנועה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT8.pdf",
+   "text": "נספחים ומקורות"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MitunTnuaaDapeyIdkun.pdf",
+   "text": "דפי עדכון"
+  }
+ ],
+ "all_links": 59,
+ "unknown_file_links": []
+}

@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2017_Konusim.pdf",
+ "checked": "2026-11-15T16:12:15Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2017_Konusim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 814517,
+ "secs": 0.90287,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "4b17e0654d88",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 14,
+ "pdf_meta": {
+  "Title": "מפרט חרוטים",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Tue Jun  6 03:13:55 2017 UTC",
+  "ModDate": "Thu Jun 15 08:12:17 2017 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "05ac67a28ebc5f935342962f5890be2d9aa7a55b0a8d111305f474b6798c6b45",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/4b17e0654d88.pdf",
+ "image_pages": 7,
+ "table_pages": 1,
+ "figure_ocr_pages": 7,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 14,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

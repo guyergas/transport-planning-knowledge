@@ -1,0 +1,149 @@
+{
+ "front": {
+  "edition": [
+   "חמישית",
+   "זו",
+   "החמישית"
+  ],
+  "dates": [
+   "1961",
+   "2023",
+   "ספטמבר 2023",
+   "2006"
+  ],
+  "publisher": [
+   "רשות תימרור מקומית",
+   "רשות התימרור המרכזית",
+   "מינהל תכנון",
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "3.5.1",
+   "title": "רשות תימרור מרכזית",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "3.5.2",
+   "title": "רשות תמרור מקומית לניהול תנועה",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "3.5.3",
+   "title": "רשות תימרור מקומית",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "3.6",
+   "title": "חובת ההתייעצות",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "3.6.1",
+   "title": "קצין משטרה",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "3.6.2",
+   "title": "קצין משטרה צבאית פיקודי",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "3.6.3",
+   "title": "התייעצות הדדית צולבת",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "3.6.4",
+   "title": "מהנדס תנועה ותחבורה",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "3.6.5",
+   "title": "מנהל הרכבת",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "4.1",
+   "title": "שיקולים אפשריים של רשות התימרור המרכזית בקביעת התחום",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "5",
+   "title": "מעקב אחר תקינות הסדרי התנועה בשטח",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "6",
+   "title": "סיכום",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "7",
+   "title": "רשימת מראי מקום",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 18
+  },
+  {
+   "num": "3.1",
+   "title": "הוספת תקנה  16א בענין ביצוע ניסויים                סעיף",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "3.3.7",
+   "title": "עדכון מספר המינויים לרשות תימרור                סעיף",
+   "chapter": null,
+   "start": 18,
+   "level": 3,
+   "end": 18
+  }
+ ],
+ "coverage": "sections"
+}
