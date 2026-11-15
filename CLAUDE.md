@@ -79,7 +79,7 @@ Poll `https://api.github.com/repos/guyergas/transport-planning-knowledge/actions
 | Replace a broken URL with a new one | add the new URL (request), add the old URL to `removed.txt`, update the sheet, then refresh `sheet/` (below). |
 | Remove a document | add its URL or id to `removed.txt` (one per line, `#` comments). Docs + Release asset are deleted; never fetched again. |
 | Refresh the sheet link | `tools/sheet_import.py` (steps inside) → commit `sheet/`. |
-| Re-check everything | automatic weekly (Sunday 01:17 UTC) → `weekly-YYYY-MM-DD` + GitHub Issue report. |
+| Re-check everything | automatic weekly (Sunday 01:17 UTC): every URL in `sheet/links.jsonl` minus `removed.txt` → `weekly-YYYY-MM-DD` + GitHub Issue. Keep `sheet/` fresh (refresh after every sheet edit) — it is the source of truth. |
 
 Results: `results/<name>[.<shard>].jsonl` (status; result ok / redirect / error <code> / login / blocked; via=browser; change).
 A request name is processed once; to re-run, use a new name. Never edit derived files (index.jsonl, sections, search.json).

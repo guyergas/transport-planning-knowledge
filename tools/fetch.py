@@ -348,17 +348,15 @@ def force(req):
 
 
 def weekly():
-    """Scheduled re-check: every URL ever requested, one request file, 20 shards."""
-    urls = []
-    for req in sorted(glob.glob(os.path.join(ROOT, 'requests', '*.txt'))):
-        for l in open(req, encoding='utf-8'):
-            if l.strip() and not l.startswith('#'):
-                urls.append(l.split()[0])
+    """Scheduled re-check. Source of truth = the sheet export (sheet/links.jsonl) minus removed.txt,
+    plus inbox/manual docs' original URLs are not re-fetched. One request file, 20 shards."""
+    lf = os.path.join(ROOT, 'sheet', 'links.jsonl')
+    urls = [json.loads(l)['url'].split('#')[0] for l in open(lf, encoding='utf-8')] if os.path.exists(lf) else []
     rm = removed_set()
-    urls = [u for u in dict.fromkeys(urls) if u.split('#')[0] not in rm and docid(u) not in rm]
+    urls = [u for u in dict.fromkeys(urls) if u.startswith('http') and u not in rm and docid(u) not in rm]
     name = time.strftime('weekly-%Y-%m-%d', time.gmtime())
-    open(os.path.join(ROOT, 'requests', name + '.txt'), 'w').write('# shards=20\n' + '\n'.join(urls) + '\n')
-    print(name)
+    open(os.path.join(ROOT, 'requests', name + '.txt'), 'w').write('# shards=20\n# report\n' + '\n'.join(urls) + '\n')
+    print(name, len(urls))
 
 
 def removed_set():
