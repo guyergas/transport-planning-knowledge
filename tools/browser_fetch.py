@@ -17,10 +17,20 @@ with sync_playwright() as p:
             open(dest, 'wb').write(r.body())
             out.update(status=r.status, final_url=r.url, content_type=r.headers.get('content-type', ''))
         else:
-            r = pg.goto(url, wait_until='networkidle', timeout=90000)
-            pg.wait_for_timeout(3000)
-            if r and r.status in (403, 503):  # challenge pages often reload themselves
-                pg.wait_for_timeout(8000); r = pg.reload(wait_until='networkidle', timeout=90000)
+            r = None
+            for attempt in range(3):
+                try:
+                    r = pg.goto(url, wait_until='domcontentloaded', timeout=60000)
+                    try:
+                        pg.wait_for_load_state('networkidle', timeout=20000)
+                    except Exception:
+                        pass  # SPA keeps polling; content is usually there
+                    pg.wait_for_timeout(3000)
+                    if r and r.status == 200 and len(pg.content()) > 20000:
+                        break
+                except Exception as e:
+                    out['retry_error'] = repr(e)[:200]
+                pg.wait_for_timeout(5000 * (attempt + 1))
             open(dest, 'w', encoding='utf-8').write(pg.content())
             out.update(status=r.status if r else 0, final_url=pg.url, content_type='text/html')
         out['redirects'] = int(out.get('final_url', url) != url)
