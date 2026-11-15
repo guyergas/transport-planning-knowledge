@@ -1,0 +1,14 @@
+# report
+# 404s: try /he/ /ar/ /en/ /ru/ + archive; 3 URLs repaired from the sheet (split at "(")
+https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/03-12.pdf
+https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/pizul-zmatim.pdf
+https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/the-headlight-system-3.2.pdf
+https://www.gov.il/BlobFolder/generalpage/public_transportation_development2014/he/Tashtiyot_public_transportation_development2014.pdf
+https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/he/Tashtiyot_public%20transportation%20development%202015.pdf
+http://www.iame.org.il/uploadimages/negishot/negishotteken59901.pdf
+https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/210323.pdf
+https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/%D7%A4%D7%95%D7%A8%D7%9E%D7%98%20%D7%90%D7%97%D7%95%D7%93%20%D7%A1%D7%A4%D7%99%D7%A8%D7%95%D7%AA%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%92%D7%A8%D7%A1%D7%94_3.0.pdf
+https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_(%D7%9B%D7%A8%D7%9A_1)_-_%D7%93%D7%A4%D7%99_%D7%A4%D7%AA%D7%99%D7%97%D7%94.pdf
+https://www.gov.il/BlobFolder/policy/determination_traffic_arrangements_local_permission_authority/he/18%20(%D7%91).pdf
+https://www.gov.il/BlobFolder/policy/31-20-23/he/__Ayalon_Phase2_Report_21.03_(2)%20(2).pdf
+https://www.gov.il/he/Departments/news/2020_tamrur render=1

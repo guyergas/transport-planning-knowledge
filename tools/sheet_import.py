@@ -6,7 +6,7 @@
 2. python3 tools/sheet_import.py <saved tool-result json>
 3. commit sheet/ (the next run's index job joins it into index.jsonl)
 """
-import json, os, sys
+import json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 d = json.load(open(sys.argv[1]))
@@ -21,5 +21,10 @@ with open(os.path.join(ROOT, 'sheet', 'records.jsonl'), 'w', encoding='utf-8') a
 with open(os.path.join(ROOT, 'sheet', 'links.jsonl'), 'w', encoding='utf-8') as f:
     for i, r in enumerate(sh['קישורים'][1:], start=2):
         if len(r) > 2 and r[2].startswith('http'):
-            f.write(json.dumps({'row': i, 'record': r[0], 'desc': r[1], 'url': r[2]}, ensure_ascii=False) + '\n')
+            url = r[2]
+            if '\\' in url:  # link with '(' split by the export: 'name_\\(part\\' | next cell 'rest.pdf) · notes'
+                d = r[3] if len(r) > 3 else ''
+                m = re.match(r'^\s*(\S*?\.(?:pdf|docx?|xlsx?))\)', d) or re.search(r'\s(\S*?\.(?:pdf|docx?|xlsx?))\)\s*$', d)
+                url = url.replace('\\(', '(').replace('\\', '') + (')' + m.group(1) if m else '')
+            f.write(json.dumps({'row': i, 'record': r[0], 'desc': r[1], 'url': url}, ensure_ascii=False) + '\n')
 print('ok')

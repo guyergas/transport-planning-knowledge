@@ -549,6 +549,38 @@ def process_inbox():
             for r in out: f.write(json.dumps(r, ensure_ascii=False) + '\n')
 
 
+def alternates(url):
+    """Known mirror patterns. gov.il BlobFolder keeps the same file under several language folders
+    (/he/ /ar/ /en/ /ru/): when one returns 404/403, the others often still serve it."""
+    out = []
+    m = re.match(r'(https?://www\.gov\.il/BlobFolder/[^/]+/[^/]+/)(he|ar|en|ru|am)(/.*)$', url)
+    if m:
+        out += [m.group(1) + lang + m.group(3) for lang in ('he', 'ar', 'en', 'ru') if lang != m.group(2)]
+    return out
+
+
+def try_alternates(rec, url, path):
+    """Try mirror URLs, then the Internet Archive. Returns page text / True when a copy was found (rec updated), else None."""
+    first = {k: rec.get(k) for k in ('status', 'result', 'server')}
+    for alt in alternates(url):
+        time.sleep(PACE.get(urllib.parse.urlsplit(alt).netloc.lower(), 1.5))
+        a = fetch(alt, path)
+        if a.get('status') == 200 and open(path, 'rb').read(5) == b'%PDF-':
+            rec.update({k: a[k] for k in ('status', 'final_url', 'content_type', 'bytes') if k in a}, via='alternate', alt_url=alt, first_try=first)
+            text = classify(rec, path)
+            rec['result'] = 'ok (alternate ' + re.search(r'/(he|ar|en|ru)/', alt).group(0) + ')'
+            return text or True
+    wb = wayback_fetch(url, path)
+    if wb.get('status') == 200:
+        rec.update({k: wb[k] for k in ('status', 'final_url', 'content_type', 'bytes', 'archive_snapshot', 'archive_url') if k in wb}, via='wayback', first_try=first)
+        text = classify(rec, path)
+        rec['result'] = 'ok (archive copy ' + rec['archive_snapshot'][:8] + ')'
+        return text or True
+    rec['wayback'] = wb.get('error') or wb.get('status')
+    rec['alternates_tried'] = alternates(url)
+    return None
+
+
 TRANSIENT = (403, 429, 503, 0)
 BACKOFF = (90, 240)  # seconds before curl attempt 2 and 3 (plus jitter)
 
@@ -595,6 +627,9 @@ def run_queue(lines, req):
             if rec['result'].startswith(('error 403', 'blocked', 'error 0')):
                 w.update(stage='browser', rec=rec, nb=time.time() + 60 + random.random() * 30)
                 continue
+            if rec['result'].startswith(('error 404', 'error 410')):
+                t = try_alternates(rec, url, path)
+                text = t if isinstance(t, str) else None
         elif w['stage'] == 'browser':
             rec = w['rec']
             b = browser_fetch(url, path)
@@ -604,16 +639,8 @@ def run_queue(lines, req):
                 text = classify(rec, path)
             else:
                 rec['browser'] = b
-                text = None
-                wb = wayback_fetch(url, path)  # last automatic resort: Internet Archive copy
-                if wb.get('status') == 200:
-                    first = {k: rec.get(k) for k in ('status', 'result', 'server')}
-                    rec.update({k: wb[k] for k in ('status', 'final_url', 'content_type', 'bytes', 'archive_snapshot', 'archive_url') if k in wb},
-                               via='wayback', first_try=first)
-                    text = classify(rec, path)
-                    rec['result'] = 'ok (archive copy ' + rec['archive_snapshot'][:8] + ')'
-                else:
-                    rec['wayback'] = wb.get('error') or wb.get('status')
+                t = try_alternates(rec, url, path)
+                text = t if isinstance(t, str) else None
         else:  # render: JS-built page, straight to Chromium
             b = browser_fetch(url, path)
             rec = {'url': url, 'checked': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), **b, 'via': 'browser (render)'}

@@ -43,6 +43,9 @@ index.jsonl per doc: `sheet_records` (id, title, section, status), `sheet_desc`,
 - `inaccessible.jsonl`: URLs still not readable, with the reason chain: curl → Chromium (`browser`) → Internet Archive (`archive`).
 - Pacing: ≥6 s between gov.il hits per runner (others 1.5 s). On 403/429/503: retry after ~90 s, then ~240 s; then 60–90 s cool-down → Chromium. Waits never block a shard: the queue (run_queue) works on other hosts / OCR meanwhile → newest Wayback snapshot (`via: wayback`, result `ok (archive copy YYYYMMDD)` —
   cite it as an archive copy and prefer an official URL when one is found).
+- 404/410 → gov.il language mirrors (`/he/`↔`/ar/`↔`/en/`↔`/ru/` in BlobFolder paths; result `ok (alternate /ar/)`, `alt_url`)
+  → Internet Archive. 403 after Chromium → same mirrors → archive.
+- Sheet links split at "(" by the export (`name_\(part\` + rest in the next cell) are rejoined by `tools/sheet_import.py`.
 - Still blocked → in a session: WebSearch the document title for another official/mirror copy → add it as a request;
   else ask Guy for the file → `inbox/`.
 
