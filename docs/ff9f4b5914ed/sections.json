@@ -16,7 +16,7 @@
    "משרד התחבורה והבטיחות בדרכים",
    "אגף בכיר תכנון תחבורתי",
    "משרד\n                                              התחב",
-   "אגף בכיר תכנון תחבורתי ,משרד התחבורה"
+   "אגף בכיר תכנון תחבורתי, משרד התחבורה"
   ],
   "verify": "candidates from text; confirm on cover page image"
  },
@@ -30,7 +30,6 @@
   "11": "10",
   "12": "11",
   "13": "12",
-  "14": "13",
   "15": "14",
   "16": "15",
   "17": "16",
@@ -46,7 +45,6 @@
   "27": "26",
   "28": "27",
   "29": "28",
-  "30": "29",
   "31": "30",
   "32": "31",
   "33": "32",
@@ -88,7 +86,6 @@
   "69": "68",
   "70": "10",
   "71": "70",
-  "72": "71",
   "73": "72",
   "74": "73",
   "75": "74",
@@ -109,7 +106,7 @@
   },
   {
    "num": "1.1",
-   "title": "פרק  - 6בקר הרמזור  -מהדורה",
+   "title": "פרק  - 6 בקר הרמזור  -מהדורה",
    "chapter": null,
    "start": 2,
    "level": 2,
@@ -121,6 +118,30 @@
    "chapter": null,
    "start": 4,
    "level": 2,
+   "end": 6
+  },
+  {
+   "num": "6",
+   "title": "בקר הרמזור",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 76
+  },
+  {
+   "num": "6.1",
+   "title": "עמידה בתקנים ואישורים והגדרות",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "6.1.1",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
    "end": 9
   },
   {
@@ -129,6 +150,70 @@
    "chapter": null,
    "start": 10,
    "level": 2,
+   "end": 12
+  },
+  {
+   "num": "6.3.1.1",
+   "title": "T                    בדיקת מתכנן רמזורים בישראל",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "6.3.2",
+   "title": "R                                    בדיקת רת\"מ",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "6.3.3.4",
+   "title": "E                      בדיקת מומחה חשמל מקומי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "6.3.4",
+   "title": "L/E              בדיקת מעבדה או מומחה חשמל מקומי",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "6.3.4.1",
+   "title": "E                      בדיקת מומחה חשמל מקומי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "6.3.4.2",
+   "title": "L/E              בדיקת מעבדה או מומחה חשמל מקומי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "6.3.4.3",
+   "title": "L/E              בדיקת מעבדה או מומחה חשמל מקומי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "6.3.4.4",
+   "title": "E                      בדיקת מומחה חשמל מקומי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
    "end": 12
   },
   {
@@ -148,6 +233,14 @@
    "end": 13
   },
   {
+   "num": "6.3.1.1",
+   "title": "מודעות על ארון הבקר ()R",
+   "chapter": null,
+   "start": 14,
+   "level": 4,
+   "end": 14
+  },
+  {
    "num": "6.3.2",
    "title": "בסיס הארון ()R",
    "chapter": null,
@@ -164,11 +257,67 @@
    "end": 15
   },
   {
+   "num": "6.3.3.1",
+   "title": "בורר מצבי תפעול",
+   "chapter": null,
+   "start": 15,
+   "level": 4,
+   "end": 15
+  },
+  {
+   "num": "6.3.3.2",
+   "title": "לחצן קידום מואר",
+   "chapter": null,
+   "start": 15,
+   "level": 4,
+   "end": 15
+  },
+  {
+   "num": "6.3.3.4",
+   "title": "מפסק פטריה ()E",
+   "chapter": null,
+   "start": 16,
+   "level": 4,
+   "end": 16
+  },
+  {
    "num": "6.3.4",
    "title": "חשמל ()L / E",
    "chapter": null,
    "start": 16,
    "level": 3,
+   "end": 17
+  },
+  {
+   "num": "6.3.4.1",
+   "title": "מכשיר אל-פסק ()E",
+   "chapter": null,
+   "start": 16,
+   "level": 4,
+   "end": 16
+  },
+  {
+   "num": "6.3.4.2",
+   "title": "ציוד עזר חשמלי ()L/E",
+   "chapter": null,
+   "start": 16,
+   "level": 4,
+   "end": 16
+  },
+  {
+   "num": "6.3.4.3",
+   "title": "מערכות סינון והגנה ()L/E",
+   "chapter": null,
+   "start": 16,
+   "level": 4,
+   "end": 16
+  },
+  {
+   "num": "6.3.4.4",
+   "title": "הגנה כנגד ברקים והארקות ()E",
+   "chapter": null,
+   "start": 17,
+   "level": 4,
    "end": 17
   },
   {
@@ -194,6 +343,38 @@
    "start": 18,
    "level": 3,
    "end": 25
+  },
+  {
+   "num": "6.4.2.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 18,
+   "level": 4,
+   "end": 21
+  },
+  {
+   "num": "6.4.2.2",
+   "title": "תוכנת ההפעלה לבקר",
+   "chapter": null,
+   "start": 22,
+   "level": 4,
+   "end": 22
+  },
+  {
+   "num": "6.4.2.3",
+   "title": "תנאי סביבה",
+   "chapter": null,
+   "start": 23,
+   "level": 4,
+   "end": 23
+  },
+  {
+   "num": "6.4.2.4",
+   "title": "תכונות הבקר וקיבולתו",
+   "chapter": null,
+   "start": 24,
+   "level": 4,
+   "end": 24
   },
   {
    "num": "6.4.2.4.1",
@@ -244,6 +425,14 @@
    "end": 25
   },
   {
+   "num": "6.4.2.5",
+   "title": "דרישות התקשורת של הבקר",
+   "chapter": null,
+   "start": 25,
+   "level": 4,
+   "end": 25
+  },
+  {
    "num": "6.4.2.5.1",
    "title": "תקשורת באמצעות אותות פיזיים ()I/O",
    "chapter": null,
@@ -268,11 +457,139 @@
    "end": 37
   },
   {
+   "num": "6.4.3.1",
+   "title": "יחידות זמן בסיסי",
+   "chapter": null,
+   "start": 26,
+   "level": 4,
+   "end": 26
+  },
+  {
+   "num": "6.4.3.2",
+   "title": "סדר האותות במופעים",
+   "chapter": null,
+   "start": 27,
+   "level": 4,
+   "end": 27
+  },
+  {
+   "num": "6.4.3.3",
+   "title": "זמנים בין-ירוקים ()T",
+   "chapter": null,
+   "start": 28,
+   "level": 4,
+   "end": 28
+  },
+  {
+   "num": "6.4.3.4",
+   "title": "כניסה לפעולה ()T",
+   "chapter": null,
+   "start": 28,
+   "level": 4,
+   "end": 29
+  },
+  {
+   "num": "6.4.3.5",
+   "title": "יומן אירועים ותקלות",
+   "chapter": null,
+   "start": 30,
+   "level": 4,
+   "end": 30
+  },
+  {
+   "num": "6.4.3.6",
+   "title": "איסוף ועיבוד נתונים",
+   "chapter": null,
+   "start": 31,
+   "level": 4,
+   "end": 31
+  },
+  {
+   "num": "6.4.3.7",
+   "title": "לוגיקת הפעלה (תרשים זרימה( ))T",
+   "chapter": null,
+   "start": 31,
+   "level": 4,
+   "end": 31
+  },
+  {
+   "num": "6.4.3.8",
+   "title": "אופני פעולה",
+   "chapter": null,
+   "start": 32,
+   "level": 4,
+   "end": 32
+  },
+  {
+   "num": "6.4.3.9",
+   "title": "מעבר בין תוכניות",
+   "chapter": null,
+   "start": 33,
+   "level": 4,
+   "end": 33
+  },
+  {
+   "num": "6.4.3.11",
+   "title": "הפעלת תמרורי הוריה מוארים",
+   "chapter": null,
+   "start": 34,
+   "level": 4,
+   "end": 34
+  },
+  {
+   "num": "6.4.3.12",
+   "title": "הפעלת תמרורי הוריה מנסרתיים",
+   "chapter": null,
+   "start": 34,
+   "level": 4,
+   "end": 34
+  },
+  {
+   "num": "6.4.3.13",
+   "title": "הפעלת עמעום לפנסי הרמזור",
+   "chapter": null,
+   "start": 34,
+   "level": 4,
+   "end": 34
+  },
+  {
+   "num": "6.4.3.14",
+   "title": "יישום תרחישים ()T",
+   "chapter": null,
+   "start": 35,
+   "level": 4,
+   "end": 35
+  },
+  {
+   "num": "6.4.3.15",
+   "title": "תקלות ובקרות",
+   "chapter": null,
+   "start": 36,
+   "level": 4,
+   "end": 37
+  },
+  {
    "num": "6.4.4",
    "title": "לוח הפיקוד של הבקר",
    "chapter": null,
    "start": 38,
    "level": 3,
+   "end": 38
+  },
+  {
+   "num": "6.4.4.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 38,
+   "level": 4,
+   "end": 38
+  },
+  {
+   "num": "6.4.4.2",
+   "title": "תצוגת לוח הפיקוד",
+   "chapter": null,
+   "start": 38,
+   "level": 4,
    "end": 38
   },
   {
@@ -298,6 +615,94 @@
    "start": 39,
    "level": 3,
    "end": 40
+  },
+  {
+   "num": "6.4.7.1",
+   "title": "תכולת התיעוד",
+   "chapter": null,
+   "start": 39,
+   "level": 4,
+   "end": 39
+  },
+  {
+   "num": "6.4.7.2",
+   "title": "ספר המפעיל",
+   "chapter": null,
+   "start": 39,
+   "level": 4,
+   "end": 39
+  },
+  {
+   "num": "6.4.7.3",
+   "title": "תיאור תפקודי (פונקציונאלי)",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.4",
+   "title": "דרך הפעולה",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.5",
+   "title": "אופן ההתקנה",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.6",
+   "title": "אחזקה מונעת ומתוכננת",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.7",
+   "title": "רשימת החלקים",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.8",
+   "title": "פרק התוכנה",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.9",
+   "title": "פרק התוכניתן",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.10",
+   "title": "תיעוד הנדרש בנספח הגנת הסייבר לבקר רמזור",
+   "chapter": null,
+   "start": 40,
+   "level": 4,
+   "end": 40
+  },
+  {
+   "num": "6.4.7.11",
+   "title": "תיעוד מרכיבים אופציונאליים",
+   "chapter": null,
+   "start": 41,
+   "level": 4,
+   "end": 41
   },
   {
    "num": "6.4.8",
@@ -421,7 +826,7 @@
   },
   {
    "num": "11.5",
-   "title": "א .הבקר עובר להבהוב              בדיקת תפקוד מערכת",
+   "title": "א. הבקר עובר להבהוב              בדיקת תפקוד מערכת",
    "chapter": null,
    "start": 63,
    "level": 2,
@@ -429,7 +834,7 @@
   },
   {
    "num": "11.6",
-   "title": "ד .הבקר עובר להבהוב               בדיקת תפקוד מערכת",
+   "title": "ד. הבקר עובר להבהוב               בדיקת תפקוד מערכת",
    "chapter": null,
    "start": 64,
    "level": 2,
@@ -437,7 +842,7 @@
   },
   {
    "num": "11.7",
-   "title": "ו .הבקר עובר להבהוב             בדיקת תפקוד מערכת",
+   "title": "ו. הבקר עובר להבהוב             בדיקת תפקוד מערכת",
    "chapter": null,
    "start": 64,
    "level": 2,

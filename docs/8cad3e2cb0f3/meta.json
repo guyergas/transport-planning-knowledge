@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_hotizontal_route_9.pdf",
+ "checked": "2026-11-15T15:00:34Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_hotizontal_route_9.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2529736,
+ "secs": 3.341069,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "8cad3e2cb0f3",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 52,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Tue Jun 26 12:48:17 2018 UTC",
+  "ModDate": "Wed Oct 23 06:20:23 2019 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "17806ac4c759a425c70221f7c3222713d08150468a9f9dc9608a7a69374ec8d0",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8cad3e2cb0f3.pdf",
+ "image_pages": 52,
+ "table_pages": 12,
+ "figure_ocr_pages": 52,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 52,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

@@ -1,0 +1,46 @@
+{
+ "front": {
+  "dates": [
+   "1990",
+   "1984"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מיתון התנועה בהיבט היסטורי",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "2",
+   "title": "התפתחות פילוסופיית התכנון של איזורי מיתון תנועה",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "3",
+   "title": "ניסיון מעשי ביישום =",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "4",
+   "title": "תוצאות כלליות המעידות על השיפור בבטיחות ובאיכות חיים",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 9
+  }
+ ],
+ "coverage": "sections"
+}

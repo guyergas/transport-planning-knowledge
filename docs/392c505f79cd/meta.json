@@ -1,0 +1,30 @@
+{
+ "url": "https://xn--5db8awa.com/plan/81755",
+ "checked": "2026-11-15T15:00:25Z",
+ "status": 200,
+ "final_url": "https://xn--5db8awa.com/",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5553,
+ "secs": 0.090472,
+ "body_head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "392c505f79cd",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "תוכניות בניין עיר (תב\"ע) - תבע.קום",
+ "file_links": [],
+ "all_links": 1563,
+ "unknown_file_links": []
+}

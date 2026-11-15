@@ -1,0 +1,35 @@
+{
+ "front": {
+  "edition": [
+   "ראשונה"
+  ],
+  "dates": [
+   "פברואר 2023",
+   "2023"
+  ],
+  "publisher": [
+   "נתיבי תחבורה ציבורית",
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "1"
+ },
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "0",
+   "title": "ופיתוח תשתיות",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 11
+  }
+ ],
+ "coverage": "page-only"
+}

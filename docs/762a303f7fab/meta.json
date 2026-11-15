@@ -1,0 +1,48 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/tamrurim_7924_01_18",
+ "checked": "2026-11-15T15:11:08Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/tamrurim_7924_01_18",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.036427,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "762a303f7fab",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "לוח התמרורים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/news/2020_tamrur/he/1698910750_%D7%AA%D7%A7%D7%95%D7%94_2022%20(003).pdf",
+   "text": "תקנות והנחיות להצבת תמרורים 2022"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/1694327856_לות_ם_משולב_0922.pdf",
+   "text": "לוח התמרורים הודעת התעבורה (קביעת תמרורים), התשע\"א - 2010"
+  }
+ ],
+ "all_links": 49,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/news/2020_tamrur/he/1698910750_%D7%AA%D7%A7%D7%95%D7%94_2022%20(003).pdf",
+   "text": "תקנות והנחיות להצבת תמרורים 2022"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/1694327856_לות_ם_משולב_0922.pdf",
+   "text": "לוח התמרורים הודעת התעבורה (קביעת תמרורים), התשע\"א - 2010"
+  }
+ ]
+}

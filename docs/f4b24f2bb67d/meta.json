@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/24_national_program/he/Walking_wLetter.pdf",
+ "checked": "2026-11-15T15:08:22Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/24_national_program/he/Walking_wLetter.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3137389,
+ "secs": 3.754067,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f4b24f2bb67d",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 46,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "3-Heights™ PDF Merge Split Shell 6.12.1.11 (http://www.pdf-tools.com)",
+  "Creator": "",
+  "CreationDate": "",
+  "ModDate": "Thu Jul  4 07:57:15 2024 UTC"
+ },
+ "fonts_uni_no": 3,
+ "sha256": "4ab4bfbd9237c5502909a7f854d979bd083648f2fc71bbcab803ea41c9d703ff",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f4b24f2bb67d.pdf",
+ "fix_log": [
+  "words=4712 unknown=138 fixed=2"
+ ],
+ "image_pages": 14,
+ "table_pages": 4,
+ "figure_ocr_pages": 11,
+ "table_ocr_pages": 2,
+ "ocr_conf_mean": 80,
+ "lowconf_pages": [
+  1,
+  46
+ ],
+ "text_pages": 46,
+ "ocr_pages": 9,
+ "layer": "mixed"
+}

@@ -1,0 +1,22 @@
+{
+ "front": {
+  "dates": [
+   "1993",
+   "יולי 2017",
+   "2017",
+   "2014",
+   "1995"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "מינהל תשתיות ותיאום תחבורתי",
+   "אגף בכיר לתכנון תחבורתי",
+   "אגף הנדסת תנועה, משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

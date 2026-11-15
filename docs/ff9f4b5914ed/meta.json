@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/210323.pdf",
- "checked": "2026-11-15T13:31:31Z",
+ "checked": "2026-11-15T15:07:21Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/210323.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 4142705,
- "secs": 3.693035,
+ "secs": 4.662034,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "ff9f4b5914ed",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 76,
  "pdf_meta": {
   "Title": "מפרט כללי להצבה ואחזקה של רמזורים",
@@ -23,8 +27,14 @@
  "sha256": "e796bb5ac95a31efcce7d41465f68d3a768ea0ca02f96cf73e6234dfa1ee1fac",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ff9f4b5914ed.pdf",
  "fix_log": [
-  "words=3764 unknown=184 fixed=6"
+  "words=3777 unknown=187 fixed=8"
  ],
+ "image_pages": 5,
+ "table_pages": 1,
+ "figure_ocr_pages": 4,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 92,
+ "lowconf_pages": [],
  "text_pages": 76,
  "ocr_pages": 12,
  "layer": "mixed"

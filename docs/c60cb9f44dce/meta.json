@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/hesderey_hanaya_nehim/he/Tashtiyot_hesderey_hanaya_nehim.pdf",
+ "checked": "2026-11-15T15:03:32Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/hesderey_hanaya_nehim/he/Tashtiyot_hesderey_hanaya_nehim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 362284,
+ "secs": 1.290919,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "c60cb9f44dce",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 4,
+ "pdf_meta": {
+  "Title": "הנחיות לקביעת  הסדרי חניה לרכב של נכים במקומות המיועדים לפריקה וטעינה",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Wed Jul 19 17:47:59 2017 UTC",
+  "ModDate": "Sun Jan 12 07:58:59 2020 UTC"
+ },
+ "fonts_uni_no": 3,
+ "sha256": "cf8563572d56f1bf189af4ed505def5489d22d84887fc7dbe6a1aebccb8fe24f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/c60cb9f44dce.pdf",
+ "fix_log": [
+  "words=292 unknown=20 fixed=1"
+ ],
+ "image_pages": 3,
+ "table_pages": 0,
+ "figure_ocr_pages": 2,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 86,
+ "lowconf_pages": [],
+ "text_pages": 4,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

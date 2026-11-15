@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/guidelines_design_road_control_system_july2021.pdf",
- "checked": "2026-11-15T13:31:48Z",
+ "checked": "2026-11-15T15:07:50Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/guidelines_design_road_control_system_july2021.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 352536,
- "secs": 0.617539,
+ "secs": 0.461733,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "33cb91d82d02",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 7,
  "pdf_meta": {
   "Title": "",
@@ -22,6 +26,12 @@
  "fonts_uni_no": 6,
  "sha256": "872673eb32d7cfbc6bc1a04fc5750f82944ad16fe2f9dd70ec658a1927a6f4c9",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/33cb91d82d02.pdf",
+ "image_pages": 2,
+ "table_pages": 0,
+ "figure_ocr_pages": 2,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
  "text_pages": 7,
  "ocr_pages": 0,
  "layer": "ok"

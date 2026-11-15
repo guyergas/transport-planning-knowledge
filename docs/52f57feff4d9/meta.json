@@ -1,0 +1,48 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/concentration_charge_duties_onservation_authority",
+ "checked": "2026-11-15T15:10:44Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/concentration_charge_duties_onservation_authority",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5187,
+ "secs": 0.039518,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "52f57feff4d9",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הממונים לתפקידי רשות תימרור מרכזית ומקומית משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/concentration_charge_duties_onservation_authority/he/11622.pdf",
+   "text": "מינוי רשויות תימרור מקומיות, לפי תקנות התעבורה, התשכ\"א 1961"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/concentration_charge_duties_onservation_authority/he/רשויות תימרור - הממונים לתפקיד - מונגש 031126.pdf",
+   "text": "רשויות התימרור מרכזית ומקומיות הממונים לתפקיד וסמכויותיהם 03.11.2026"
+  }
+ ],
+ "all_links": 49,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/concentration_charge_duties_onservation_authority/he/11622.pdf",
+   "text": "מינוי רשויות תימרור מקומיות, לפי תקנות התעבורה, התשכ\"א 1961"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/concentration_charge_duties_onservation_authority/he/רשויות תימרור - הממונים לתפקיד - מונגש 031126.pdf",
+   "text": "רשויות התימרור מרכזית ומקומיות הממונים לתפקיד וסמכויותיהם 03.11.2026"
+  }
+ ]
+}

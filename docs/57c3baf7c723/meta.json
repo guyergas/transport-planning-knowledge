@@ -1,0 +1,60 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/CombinedTrafficCentersPlanning2.pdf",
+ "checked": "2026-11-15T15:04:05Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/CombinedTrafficCentersPlanning2.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 4130737,
+ "secs": 8.204805,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "57c3baf7c723",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 409,
+ "pdf_meta": {
+  "Title": "Untitled-2",
+  "Producer": "Acrobat Distiller 4.05 for Macintosh",
+  "Creator": "FreeHand 8U: LaserWriter 8 Z1-8.7.1",
+  "CreationDate": "Tue Dec 27 10:54:13 2005 UTC",
+  "ModDate": "Thu Mar  2 12:22:55 2006 UTC"
+ },
+ "fonts_uni_no": 220,
+ "sha256": "e3f2ecb8bc240a9d85cb033929b142aa5ebb538c849aa90828f912c2558f4f8e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/57c3baf7c723.pdf",
+ "fix_log": [
+  "words=10518 unknown=517 fixed=19"
+ ],
+ "image_pages": 47,
+ "table_pages": 48,
+ "figure_ocr_pages": 25,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 78,
+ "lowconf_pages": [
+  208,
+  268,
+  286,
+  311,
+  338,
+  339,
+  340,
+  342,
+  344,
+  351,
+  354,
+  374,
+  378,
+  387,
+  390,
+  394,
+  396,
+  401,
+  404
+ ],
+ "text_pages": 409,
+ "ocr_pages": 48,
+ "layer": "mixed"
+}
