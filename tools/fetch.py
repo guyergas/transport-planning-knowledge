@@ -481,6 +481,8 @@ def settled_replacements(last=None):
     out = {}
     for l in open(rp, encoding='utf-8'):
         x = json.loads(l)
+        if x.get('deferred'):
+            continue
         if str(last.get(x['new'].split('#')[0], {}).get('result', '')).startswith(('ok', 'redirect')):
             out[x['old'].split('#')[0]] = x
     return out
@@ -512,6 +514,10 @@ def build_pending():
         out.append(f"- קישור: [{urllib.parse.unquote(u)[-80:]}]({u})")
         if u in settled:
             continue  # decided and the replacement works: nothing to ask
+        if decided.get(u, {}).get('deferred'):
+            out.append(f"## {'; '.join(f'{i} — ' + recs.get(i, {}).get('title', '') for i in row.get('sheet') or [])}")
+            out.append(f"- נדחה לבינתיים: {decided[u]['kind']}"); out.append('')
+            continue
         if u in decided:
             out.append(f"- הוחלט ({decided[u].get('by', '')}): {decided[u].get('kind', '')} → [{urllib.parse.unquote(decided[u]['new']).split('/')[-1][:70]}]({decided[u]['new']}) — התחליף עוד לא נפתח, צריך החלטה חדשה")
             out.append('')
