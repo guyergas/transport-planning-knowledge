@@ -1,0 +1,404 @@
+# Knowledge-map check: full-003
+
+- checked: 413
+- accessible: 400
+- not accessible: 13
+- from Internet Archive copy (official site blocked): 3
+- changed documents: 67
+- new files found on pages: 197
+
+## Not accessible
+
+| id | url | reason |
+|---|---|---|
+| 29680ca7aa85 | https://www.iroads.co.il/%D7%9E%D7%99%D7%93%D7%A2-%D7%9C%D7%A1%D7%A4%D7%A7%D7%99%D7%9D/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%95%D7%91%D7%99%D7%A6%D7%95%D7%A2/ | error 403 ; browser: 403; archive: 429; candidates on page: 0 |
+| 5eca8c5196e9 | https://www.gov.il/BlobFolder/policy/31-20-23/he/__Ayalon_Phase2_Report_21.03_\(2\ | error 403 cloudflare; browser: 403; archive: no snapshot; candidates on page: 0 |
+| 5667741a2141 | https://www.nli.org.il/he/books/NNL_ALEPH990025333300205171/NLI | error 403 cloudflare; browser: 403; archive: no snapshot; candidates on page: 0 |
+| 3f248f1b22cb | https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/the-headlight-system-3.2.pdf | error 404 cloudflare; browser: -; archive: -; candidates on page: 0 |
+| ed50d416fc50 | https://www.odata.org.il/dataset/93dde807-7c91-4c66-888c-9d4803a871e8/resource/2f0895ba-8bf0-4552-ada6-b856b512f7a5/download/a3a7a2df-3bce-4b38-bb3c-ed2c97c2f9ce.pdf | error 403 cloudflare; browser: 403; archive: no snapshot; candidates on page: 0 |
+| 0988262d0096 | https://www.gov.il/he/Departments/news/2020_tamrur | blocked (bot challenge) cloudflare; browser: -; archive: -; candidates on page: 0 |
+| 59d2eb1750bc | https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_\(%D7%9B%D7%A8%D7%9A_1\ | error 403 cloudflare; browser: 403; archive: no snapshot; candidates on page: 0 |
+| 26563bd6ee43 | https://www.iroads.co.il/media/18693/%D7%98%D7%99%D7%95%D7%98%D7%AA-%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9B%D7%A8%D7%9A-2-%D7%AA%D7%9B%D7%9F-%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99-%D7%A9%D7%9C-%D7%A6%D7%9E%D7%AA%D7%99%D7%9D.pdf | error 403 ; browser: 403; archive: no snapshot; candidates on page: 0 |
+| 09d819c14ec0 | https://www.gov.il/BlobFolder/policy/determination_traffic_arrangements_local_permission_authority/he/18%20\(%D7%91\ | error 403 cloudflare; browser: 0; archive: no snapshot; candidates on page: 0 |
+| 808f132bca52 | https://eshedm-my.sharepoint.com/:w:/g/personal/yoramgr_eshed-m_co_il/IQBr5Zg_F7KdSJ992YN0x7bJAeK1xSHqGZKEVokx5Z5NeKo?e=bDgC00 | login microsoft-iis/10.0; browser: -; archive: -; candidates on page: 0 |
+| 81585772f429 | https://technionmail-my.sharepoint.com/%3Ab%3A/g/personal/inbart_technion_ac_il/EUz2et76_pdCnltOaIg2UFkB7zWH6-0qV8lNq_cj4Cle7A?e=cRYlEd | login ; browser: -; archive: -; candidates on page: 0 |
+| 0abcda74836e | https://technionmail-my.sharepoint.com/:b:/g/personal/inbart_technion_ac_il/EUz2et76_pdCnltOaIg2UFkB7zWH6-0qV8lNq_cj4Cle7A?e=cRYlEd | login microsoft-iis/10.0; browser: -; archive: -; candidates on page: 0 |
+| 901e43387d82 | https://hebrew-academy.org.il/%d7%9b%d7%9c%d7%9c%d7%99-%d7%94%d7%aa%d7%a2%d7%aa%d7%99%d7%a7/ | error 403 cloudflare; browser: 403; archive: 429; candidates on page: 0 |
+
+## Read from Internet Archive (official URL blocked from GitHub)
+
+- 6872e998948e https://rishonlezion.complot.co.il/wp-content/uploads/2025/10/%D7%A7%D7%95%D7%91%D7%A5-%D7%94%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-12062.pdf — snapshot 20260203163955
+- ff92d0c44b5d https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf — snapshot 20260302202940
+- f3f1711ef5de https://hebrew-academy.org.il/wp-content/uploads/taatik-ivrit-latinit-1.pdf — snapshot 20250215173821
+
+## Changed (new bytes, re-OCRed)
+
+- eddd9a68c7e3 https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/holchey_regel_2020.pdf
+- 47c29f948d37 https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah4.pdf
+- 4a794c7825a9 https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata6.pdf
+- 54f76852a80d https://www.gov.il/BlobFolder/generalpage/public_transportation_development_ashkelon_sub-district/he/hovert_sketch_doch_mesakem_Ashkelon.pdf
+- 04ae4d7a7a3c https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry.pdf
+- fa65e1d9e2b6 https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/MifratimTohniyotAv.pdf
+- 0f919100a5ee https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/TRAFFIC_PLANNING_standard%20road%20marking%20materials%2010.2020.pdf
+- 967499ec148b https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2005_HetkenetBetihut0905.pdf
+- cf1f3c218625 https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/December%202023%20H.pdf
+- 60a5d622e08b https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/bakarat-netivim1.pdf
+- 8714d4db61eb https://www.gov.il/BlobFolder/guide/planning_traffic_lights/ar/TRAFFIC_PLANNING_planning_operating_traffic_lights%2010.2020.pdf
+- 5f0d0c3ce212 https://www.gov.il/BlobFolder/policy/parking-plan/he/electric%20vehicles%20policy.pdf
+- cea31cf04012 https://www.gov.il/BlobFolder/reports/2025_behavior/he/publications_2025_behavior.pdf
+- 5530b31abbd9 https://www.gov.il/BlobFolder/policy/hanhayot_b56/he/HanhayotB56.pdf
+- ec74ceba45f9 https://www.gov.il/BlobFolder/policy/guidelines_planning_routes_rapid_bus_traffic/he/BTR-nohal-tihnun-netivim.pdf
+- d7560ce63f56 https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorim.pdf
+- e63065782926 https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf
+- 84243a4913ef https://www.gov.il/BlobFolder/policy/temporary_traffic_arrangements/he/Tashtiyot_Temporary%20traffic%20arrangements.pdf
+- 0499ec1c140e https://www.gov.il/BlobFolder/policy/guidelines_planning_operational_vehicle_area/he/Guidelines%20for%20planning%20an%20operational%20vehicle%20area%20-%200723%20Mongesh.pdf
+- 50d1f0f4cfb8 https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata1.pdf
+- ab0d4c11e4c8 https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/ar/roads_tunnels_planning_insturactions_introduction.pdf
+- bb040cf49f99 https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/ar/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_combination_horizontal_vertical_11.pdf
+- 7227028129b1 https://www.gov.il/BlobFolder/policy/traffic_height_obstacle/he/Guidelines-for-height-obstacles-2026.pdf
+- e6323abc246b https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2020_HetkeneyTnuaMakotKvuimBenIroni_2020.pdf
+- 038f349a8070 https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/469cee15-72fe-4bfb-b807-188220289c44.pdf
+- bd8c474e9f89 https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/the-headlight-system-3.2.pdf
+- ea4f14b5aaad https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/bakarat-netivim3.pdf
+- b2fe92e47344 https://www.gov.il/BlobFolder/policy/guidelines_planning_urban_signage/he/ShilutIroniFull.pdf
+- 168358a81605 https://www.gov.il/BlobFolder/reports/train_stations_spatial_planning_literature_survey/he/Train_Stations_Spatial_Planning_Literature_Survey.pdf
+- 9ef317f0d7bb https://www.gov.il/BlobFolder/policy/guidelines_operational_geometric_planning_integrated_transportation_centers/he/CombinedTrafficCentersPlanning.pdf
+- 26d8588f8dca https://www.gov.il/BlobFolder/policy/7-9-2023/he/%D7%91%D7%94%D7%AA%204.1.24.pdf
+- 412e66fad90b https://olaw.org.il/yalkut/yalkut-6121.pdf
+- fd97b3d6f29f https://apps.land.gov.il/IturTabotData/tabot/Artzi/9609905.pdf
+- 3f8edf582946 https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tihnon-tzimhiya.pdf
+- d2d04ddf5405 https://www.gov.il/BlobFolder/policy/traffic_circle_planning_guidelines/he/MaagalieTnuaa.pdf
+- eeb8c604af9f https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/COVER.pdf
+- 1053c04a7445 https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HIGHWAY%20CAPACITY%20MANUAL%207th%20Edition.pdf
+- 591882be7360 https://www.gov.il/BlobFolder/policy/2020_tamrur_0/he/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA%20%D7%95%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%94%D7%A6%D7%91%D7%AA%20%D7%AA%D7%9E%D7%A8%D7%95%D7%A8%D7%99%D7%9D%202024.pdf
+- 06d5e8a31d64 https://www.magalim.co.il/wp-content/uploads/2024/01/%D7%AA%D7%9E%D7%90_-1_%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA.pdf
+- 4ec970d26cdd https://eshed-mtl.co.il/uploads/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/hanhayot%20letaskirey%20betihut%207%2026.pdf
+- e8ffd46e8738 https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HighwayCapacityManual.pdf
+- 41b970134c5f https://www.gov.il/BlobFolder/policy/bus_preferential_arrangements_justification/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%91%D7%97%D7%99%D7%A0%D7%AA%20%D7%94%D7%A6%D7%93%D7%A7%D7%94%20%D7%9C%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%94%D7%A2%D7%93%D7%A4%D7%94%20%D7%9C%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA%20%D7%91%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1%D7%99%D7%9D.pdf
+- 2e10ccbd51ab https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/00017216.pdf
+- ff9f4b5914ed https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/210323.pdf
+- 33cb91d82d02 https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/guidelines_design_road_control_system_july2021.pdf
+- 118aa835a9b0 https://data.gov.il/dataset/9e0aca66-772f-4a3f-8d8d-3a8095abebc6/resource/36915a26-1cd1-4fdb-a509-3903f25eb659/download/tma_23.pdf
+- e89eb5514615 https://www.gov.il/BlobFolder/policy/calculation_quantitative_program_bus_terminal/he/PublicTrusnportPrograma.pdf
+- 2310301b24e8 https://www.online.mod.gov.il/Online2016/Documents/General/Binuy/Instructions/IdfCampInst.pdf
+- 10107c3df01a https://www.gov.il/BlobFolder/generalpage/urban-roadwork-sites-traffic-arrangements-guide/he/ayalon_tarshim_tnoa_merchav-ironi_a4_47.1%20%281%29.pdf
+- fe8335c6de73 https://www.gov.il/BlobFolder/reports/202507_safe_system/he/202507_safe_system.pdf
+- 05ec5413e31d https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9609379.pdf
+- f2664e32c9d5 https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/Hanhayot_looping.pdf
+- dbb90b8abb45 https://www.gov.il/BlobFolder/policy/examining_transport_implications/he/examination%20of%20transportation%20implications%20guide.pdf
+- 2cb6ffff1287 https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/saman148.pdf
+- 4ab6a3096df2 https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/SilutBadrahim08_2009.pdf
+- 8b731360a9f9 https://www.gov.il/BlobFolder/policy/pt-preference-arrangements-procedure/he/pt-preference-arrangements-procedure-0126.pdf
+- 1af572caf5d8 https://www.gov.il/BlobFolder/policy/essential_ways/he/DerechHiyunitTzav.pdf
+- 19427b8425ee https://apps.land.gov.il/IturTabotData/takanonim/merkaz/4023785.pdf
+- 533948554da0 https://www.gov.il/BlobFolder/legalinfo/national_outline_plan_poads/he/Tama3_0.pdf
+- 6fff06766938 https://fs.knesset.gov.il/globaldocs/MMM/4abb8d55-f7f7-e411-80c8-00155d010977/2_4abb8d55-f7f7-e411-80c8-00155d010977_11_7744.pdf
+- 6a5d87d5303a https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingA01_07.pdf
+- 76c69db7e58c https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_8.pdf
+- ea462266ba32 https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/%D7%A9%D7%95%D7%9C%20%D7%9C%D7%AA%D7%97%D7%91%D7%A6%20-%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA.pdf
+- d144414313bb https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_1-1%29_-_%D7%9E%D7%91%D7%95%D7%90.pdf
+- a700d3e7652b https://www.gov.il/BlobFolder/policy/selecting-highlight-shade2/he/001.pdf
+- 7f4bc8875567 https://www.gov.il/BlobFolder/generalpage/strategic-plan/he/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA%20%D7%90%D7%A1%D7%98%D7%A8%D7%98%D7%92%D7%99%D7%AA%20%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA%20%D7%9C%D7%A8%D7%A9%D7%AA%20%D7%94%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%94%D7%90%D7%A8%D7%A6%D7%99%D7%AA%202030.pdf
+- 12b52ed16d91 https://www.gov.il/BlobFolder/reports/202409_ktziney_tahbura/he/publications_202409_ktziney_tahbura.pdf
+
+## New files on pages (not in the sheet/requests)
+
+- [הורדה](https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [ק״ת תשמ״ג, 1737](https://olaw.org.il/takanot/takanot-4513.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [תשס״ד, 707](https://olaw.org.il/takanot/takanot-6323.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [תשע״ג, 310](https://olaw.org.il/takanot/takanot-7192.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [תשע״ו, 1436](https://olaw.org.il/takanot/takanot-7675.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [תשפ״ב, 4042](https://olaw.org.il/takanot/takanot-10326.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [4108](https://olaw.org.il/takanot/takanot-10337.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [תשפ״ו, 72](https://olaw.org.il/takanot/takanot-12062.pdf) — on https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29
+- [תקנון סרוק](https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9508072.pdf) — on https://ramibox.com/taba/9508072/
+- [6600](http://www.nevo.co.il/Law_word/law10/yalkut-6600.pdf) — on https://ramibox.com/taba/9508072/
+- [תקנון סרוק](https://apps.land.gov.il/IturTabotData/takanonim/telmer/5009554.pdf) — on https://ramibox.com/taba/9508072/
+- [file](https://apps.land.gov.il/IturTabotData/tabot/telmer/5009554/_K.pdf) — on https://ramibox.com/taba/9508072/
+- [file](https://apps.land.gov.il/IturTabotData/tabot/telmer/5009554/_M.pdf) — on https://ramibox.com/taba/9508072/
+- [תנועה](https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/38.pdf) — on https://ramibox.com/taba/9508072/
+- [נספח עצים](https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/100נספח עצים.pdf) — on https://ramibox.com/taba/9508072/
+- [סקר עצים](https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/100סקר עצים.pdf) — on https://ramibox.com/taba/9508072/
+- [הורדת ממ"ג](https://apps.land.gov.il/IturTabotData/download/telmer/5009554.zip) — on https://ramibox.com/taba/9508072/
+- [לצפייה](http://www.govmap.gov.il/mmi?app=app07&ma=5009554) — on https://ramibox.com/taba/9508072/
+- [להורדה](http://www.gov.il/he/Departments/General/road_tunnel_guidelines) — on https://www.gov.il/he/pages/geometric_design_interurban_roads
+- [להורדה](http://www.gov.il/he/Departments/General/geometry_guidelines) — on https://www.gov.il/he/pages/geometric_design_interurban_roads
+- [להורדה](http://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%9F%20%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%20%D7%A9%D7%9C%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%95%D7%9E%D7%97%D7%9C%D7%A4%D7%99%D7%9D.pdf) — on https://www.gov.il/he/pages/geometric_design_interurban_roads
+- [להורדה](https://www.gov.il/he/pages/geometric-design-guidelines) — on https://www.gov.il/he/pages/geometric_design_interurban_roads
+- [להורדה](http://www.gov.il/he/Departments/General/road_tunnel_guidelines) — on https://www.gov.il/he/departments/policies/geometric_design_interurban_roads
+- [להורדה](http://www.gov.il/he/Departments/General/geometry_guidelines) — on https://www.gov.il/he/departments/policies/geometric_design_interurban_roads
+- [להורדה](http://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%9F%20%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%20%D7%A9%D7%9C%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%95%D7%9E%D7%97%D7%9C%D7%A4%D7%99%D7%9D.pdf) — on https://www.gov.il/he/departments/policies/geometric_design_interurban_roads
+- [להורדה](https://www.gov.il/he/pages/geometric-design-guidelines) — on https://www.gov.il/he/departments/policies/geometric_design_interurban_roads
+- [התקני תנועה, בטיחות ורמזורים מאושרים להצבה בדרך , עדכון שני למהדורה עשרים וחמש תשרי תשפ"ז – אוקטובר](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/חוברת התקנים אוקטובר 2026.pdf) — on https://www.gov.il/he/departments/guides/design_traffic_devices?chapterIndex=3
+- [התקני תנועה, בטיחות ורמזורים מאושרים להצבה בדרך מהדורה עשרים וחמש ינואר – 2026](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic-safety-and-traffic-light-devices-approved-for-installation-on-the-road-january – 2026.pdf) — on https://www.gov.il/he/departments/guides/design_traffic_devices?chapterIndex=3
+- [כתב מינוי לחברי הועדה להתקני תנועה ובטיחות- שנת 2025](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/61ce6499-ad15-4ef8-9145-c9943d36b326.pdf) — on https://www.gov.il/he/departments/guides/design_traffic_devices?chapterIndex=3
+- [נוהל פעילות הוועדה לבחינת התקני תנועה ובטיחות- כרך נספחים- מהדורה 6.3](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/נוהל פעילות הוועדה לבחינת התקני תנועה ובטיחות- כרך נספחים- מהדורה 6.3 מאי 2026.pdf) — on https://www.gov.il/he/departments/guides/design_traffic_devices?chapterIndex=3
+- [file](https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9508887.pdf) — on https://www.tabanow.co.il/%D7%AA%D7%91%D7%A2/%D7%9B%D7%9C%20%D7%9E%D7%97%D7%95%D7%96%20%D7%AA%22%D7%90/%D7%AA%D7%9E%22%D7%90%2023/%D7%90/4%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%202
+- [התקני תנועה, בטיחות ורמזורים מאושרים להצבה בדרך , עדכון שני למהדורה עשרים וחמש תשרי תשפ"ז – אוקטובר](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/חוברת התקנים אוקטובר 2026.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=1
+- [התקני תנועה, בטיחות ורמזורים מאושרים להצבה בדרך מהדורה עשרים וחמש ינואר – 2026](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic-safety-and-traffic-light-devices-approved-for-installation-on-the-road-january – 2026.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=1
+- [כתב מינוי לחברי הועדה להתקני תנועה ובטיחות- שנת 2025](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/61ce6499-ad15-4ef8-9145-c9943d36b326.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=1
+- [נוהל פעילות הוועדה לבחינת התקני תנועה ובטיחות- כרך נספחים- מהדורה 6.3](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/נוהל פעילות הוועדה לבחינת התקני תנועה ובטיחות- כרך נספחים- מהדורה 6.3 מאי 2026.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=1
+- [XSD להורדה](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/xsd-file.xsd) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנה לתכנון רמזורים - מהדורה 3 – עברית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- מהדורה 3- עברית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנה לתכנון רמזורים מהדורה 3 - אנגלית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- מהדורה 3- אנגלית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנות לתכנון רמזורים נספח 1 – תוספת זמנים בין ירוקים ורמזור 2 פנסים – אנגלית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים - נספח 1 - תוספת זמנים בין ירוקים ורמזור 2 פנסים - אנגלית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנה לתכנון רמזורים נספח 1- מהדורה 4 – עברית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 1- מהדורה 4 - עברית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנה לתכנון רמזורים נספח 1- מהדורה 4 – אנגלית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 1- מהדורה 4- אנגלית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנה לתכנון רמזורים נספח 2- מהדורה 3 – עברית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 2- מהדורה 3- עברית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [נוהל אישור תוכנה לתכנון רמזורים נספח 2 – מהדורה 3 – אנגלית](https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 2- מהדורה 3- אנגלית- להפצה.pdf) — on https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights
+- [פורמט אחוד ספירות תנועה](https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/פורמט אחוד ספירות תנועה_גרסה_3.1.pdf) — on https://www.gov.il/he/departments/policies/uniform_format_traffic_counts
+- [דפי פתיחה](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_opening.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תוכן עניינים](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_table_of_contents.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [מבוא](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_introduction.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [היבטים הנדסיים](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_engineering_aspects.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תכן גיאומטרי](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_geomatric_designer.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [מערכת אוורור במנהרות](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_ventilation_systems_in_tunnels.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [בטיחות באש](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_fire_saftey.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תאורה, חשמל ותקשורת](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_lights_electricity_communication.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [שילוב מערכות תשתית במנהרות](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_integration_of_infrastructure_in_tunnels.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [היבטים סביבתיים](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_environmental_aspects.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [רשימת מקורות](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_bibliography.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_12-3.12](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_12-3.12.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_ 13-3.13](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_13-3.13.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_15 A-100](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 A-100.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_15 B-100](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 B-100.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_15 G-100](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15 G-100.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_16 A-3.16A](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16 A-3.16A.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_B-3.16B](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16 B-3.16B.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_ 17-3.17-500](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_17-3.17-500.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_18-3.18](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_18-3.18.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [תרשים 3_19-3.19](https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_19-3.19.pdf) — on https://www.gov.il/he/Departments/General/road_tunnel_guidelines
+- [מעקב רשות התימרור המרכזית בפיקוח על רשויות התימרור המקומיות בהמשך להליך הבקרה](https://www.gov.il/BlobFolder/policy/car_tammrur/he/Monitoring of the traffic light authority.pdf) — on https://www.gov.il/he/departments/policies/car_tammrur
+- [הנחיות לתכנון אזור רכב תפעולי](https://www.gov.il/BlobFolder/policy/guidelines_planning_operational_vehicle_area/he/Guidelines for planning an operational vehicle area - 0723 Mongesh.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_operational_vehicle_area
+- [מראי מקום](https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/MAREI.pdf) — on https://www.gov.il/he/Departments/policies/planning_speed_bumps
+- [נוהל רשות תמרור](https://www.gov.il/BlobFolder/policy/28-12-2022/he/נוהל רשות תמרור _מהדורה 5.2026.pdf) — on https://www.gov.il/he/Departments/policies/28-12-2022
+- [נספח א-טופס בקשה להקמת רשות תמרור חדשה](https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס א-טופס בקשה להקמת רשות תמרור חדשה.docx) — on https://www.gov.il/he/Departments/policies/28-12-2022
+- [נספח ב-טופס בקשה להעברת תחומי אחריות בין רשויות תמרור קיימות בהסכמה](https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ב- טופס בקשה להעברת תחומי אחריות בין רשויות תמרור קיימות בהסכמה.docx) — on https://www.gov.il/he/Departments/policies/28-12-2022
+- [נספח ג-טופס העברת סמכויות בין רשויות תמרור קיימות על פי החלטת המפקח הארצי](https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ג-טופס העברת סמכויות בין רשויות תמרור קיימות על פי החלטת המפקח הארצי.docx) — on https://www.gov.il/he/Departments/policies/28-12-2022
+- [נספח ד-טופס בקשה להחלפת הממונה להיות רשות תימרור מקומית ברשות תימרור מקומית קיימת](https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ד-טופס בקשה להחלפת הממונה להיות רשות תימרור מקומית ברשות תימרור מקומית קיימת.docx) — on https://www.gov.il/he/Departments/policies/28-12-2022
+- [נספח ה-טופס בקשה להוספת ממונה לרשות תמרור קיימת](https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ה-טופס בקשה להוספת ממונה נוסף לרשות תמרור קיימת .docx) — on https://www.gov.il/he/Departments/policies/28-12-2022
+- [רשימת בעלי תעודות הכרה במומחיות בתחום הנדסת תנועה ותחבורה יולי 2025](https://www.gov.il/BlobFolder/policy/traffic_engineering_transportation/he/list_08.25.pdf) — on https://www.gov.il/he/departments/policies/traffic_engineering_transportation
+- [הודעה מטעם הועדה להכרה במומחיות של המפקח הארצי על התעבורה- חובת קורס רענון 11.2020](https://www.gov.il/BlobFolder/policy/traffic_engineering_transportation/he/הודעה מטעם הועדה להכרה במומחיות של המפקח הארצי על התעבורה -חובת קורס רענון-11.2020.pdf) — on https://www.gov.il/he/departments/policies/traffic_engineering_transportation
+- [הנחיות לתכנון נגישות לתחנות הרכבת - סקר ספרות](https://www.gov.il/BlobFolder/policy/tihnun_negishut/he/TRAFFIC_PLANNING_tihnun_negishut.pdf) — on https://www.gov.il/he/departments/policies/tihnun_negishut
+- [סקר ספרות בין לאומית - 10/1999](https://www.gov.il/BlobFolder/policy/guidelines_planning_urban_signage/he/LiteratureReview.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_urban_signage
+- [מצגת - 9/2000](https://www.gov.il/BlobFolder/policy/guidelines_planning_urban_signage/he/Presentation.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_urban_signage
+- [כלים לייעול ניידות במרחבים עירוניים: תוספת למערך בחינת ההשלכות התחבורתיות](https://www.gov.il/BlobFolder/policy/7-9-2023/he/בהת 4.1.24.pdf) — on https://www.gov.il/he/departments/policies/7-9-2023
+- [HIGHWAY CAPACITY MANUAL 7th Edition הנחיות ודגשים ליישום בישראל , מרץ 2026](https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HIGHWAY CAPACITY MANUAL 7th Edition.pdf) — on https://www.gov.il/he/departments/general/world_guide_hcm
+- [zip מפרט cad](https://www.gov.il/BlobFolder/policy/cad/he/CAD.zip) — on https://www.gov.il/he/departments/policies/cad
+- [שכבות מידע - מרחבים עירוניים](http://media.mot.gov.il/TAHAZ/MerhavimIronim.zip) — on https://www.gov.il/he/Departments/policies/guidelines_for_public_transport_planning
+- [הנחיות לתכנון ותפעול שירות תחבורה ציבורית](https://www.gov.il/BlobFolder/policy/guidelines_for_public_transport_planning/he/הנחיות לתכנון תחבורה ציבורית.pdf) — on https://www.gov.il/he/Departments/policies/guidelines_for_public_transport_planning
+- [תבחינים להגשת תכניות למוסדות תכנון](https://www.gov.il/BlobFolder/policy/tavhinim_mosadot_tihnun/he/TRAFFIC_PLANNING_tavhinim_mosadot_tihnun.pdf) — on https://www.gov.il/he/departments/policies/tavhinim_mosadot_tihnun
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_01.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_03.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_04.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_05.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_08.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_10.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_11.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_12.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_13.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_14.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_15.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_16.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_18.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_19.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_21.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_22.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_23.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_24.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_29.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_30.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_31_a.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_32.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_34.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_35.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_36.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_37.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_38.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_39.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_40.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_41.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_42.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_44.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_46.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_47.zip) — on https://www.gov.il/he/pages/tama_iframe
+- [הנחיות לתכנון שילוט בדרכים בין-עירוניות סימון הכוונה משלים על-פני המיסעה מהדורה 1](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/planning-%20signage-on-interurban%20roads-guidelines.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- [הנחיות למורה דרך-מהדורה 1](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/שילוט מורי דרך- עדכון הנחיות - מהדורה 1.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- [עדכון הנחיות לכיתוב בערבית - מהדורה 2](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/עדכון הנחיות כיתוב בערבית - מהדורה 2_260702.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- [עדכונים לתכנון השילוט במחלפים_מהדורה 1](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/עדכונים לתכנון השילוט במחלפים_מהדורה 1_עדכון.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- [הנחיות לתכנון שילוט בדרכים בין-עירוניות מהדורה 2016](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/הנחיות_לתכנון_שילוט_בדרכים_בין-עירוניות_מהדורה_2016.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- ['הנחיות שילוט בדרכים ביןעירוניות-פרק שילוט נתיבי העדפה ונתיבים מנוהלים - מהדורה 2.1_ אוקטובר 2024'](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/הנחיות שילוט בדרכים בין עירוניות-פרק שילוט נתיבי העדפה ונתיבים מנוהלים - מהדורה 2.1_ אוקטובר 2024.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- [הנחיות לתכנון שילוט בדרכים בין-עירוניות סימון הכוונה משלים על-פני המיסעה](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/planning- signage-on-interurban roads-guidelines.pdf) — on https://www.gov.il/he/departments/policies/guidelines_planning_signs_interurban_roads
+- [file](https://eshed-mtl.co.il/uploads/הנחיות/hanhayot letaskirey betihut 7 26.pdf) — on https://eshed-mtl.co.il/documents/336/view
+- [לצפיה במסמך לחצו כאן](https://eshedm-my.sharepoint.com/:b:/g/personal/yoramgr_eshed-m_co_il/IQA5kjvtS3wrQpB5lwPVYzQMAYBtjGSgrwVhBB1q9Ngrbdc?e=Srcg6b) — on https://eshed-mtl.co.il/documents/336/view
+- [עקרונות להכנת נספח תחבורה לתוכניות סטטוטוריות](https://www.gov.il/BlobFolder/policy/principles_preparing_transport_appendix_12_2017/he/עקרונות_להכנת_נספח_תחבורה _26_12_17.pdf) — on https://www.gov.il/he/departments/policies/principles_preparing_transport_appendix_12_2017
+- [מסמך עקרונות להכנת נספחי תחבורה](https://www.gov.il/BlobFolder/policy/principles_preparing_transport_appendix_12_2017/he/עקרונות_להכנת_נספחי_תחבורה_מכתב_נלווה.pdf) — on https://www.gov.il/he/departments/policies/principles_preparing_transport_appendix_12_2017
+- [מינוי רשויות תימרור מקומיות, לפי תקנות התעבורה, התשכ"א 1961](https://www.gov.il/BlobFolder/policy/concentration_charge_duties_onservation_authority/he/11622.pdf) — on https://www.gov.il/he/departments/policies/concentration_charge_duties_onservation_authority
+- [רשויות התימרור מרכזית ומקומיות הממונים לתפקיד וסמכויותיהם 03.11.2026](https://www.gov.il/BlobFolder/policy/concentration_charge_duties_onservation_authority/he/רשויות תימרור - הממונים לתפקיד - מונגש 031126.pdf) — on https://www.gov.il/he/departments/policies/concentration_charge_duties_onservation_authority
+- [תקנות והנחיות להצבת תמרורים 2022](https://www.gov.il/BlobFolder/news/2020_tamrur/he/1698910750_%D7%AA%D7%A7%D7%95%D7%94_2022%20(003).pdf) — on https://www.gov.il/he/Departments/policies/tamrurim_7924_01_18
+- [לוח התמרורים הודעת התעבורה (קביעת תמרורים), התשע"א - 2010](https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/1694327856_לות_ם_משולב_0922.pdf) — on https://www.gov.il/he/Departments/policies/tamrurim_7924_01_18
+- [הנחיות להכנת פרוגרמות למתקני תשתית לתפעול תחבורה ציבורית באוטובוסים](https://www.gov.il/BlobFolder/policy/guidelines_for_preparing_programs_for_infrastructure_facilities_for_operating_public_transportation_on_buses/he/הנחיות להכנת פרוגרמות למתקני תשתית לתפעול תחבורה ציבורית באוטובוסים 2022.pdf) — on https://www.gov.il/he/departments/policies/guidelines_for_preparing_programs_for_infrastructure_facilities_for_operating_public_transportation_on_buses
+- [בחירת גוון הסימון (כתום או לבן) באתרי עבודה](https://www.gov.il/BlobFolder/policy/traffic_arrangements_work_sites_roads/he/001.pdf) — on https://www.gov.il/he/departments/policies/traffic_arrangements_work_sites_roads
+- [דפי עדכון הנחיות חניה פרק ד'- חניונים- עדכון מספר 2- מונגש](https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/דפי עדכון הנחיות חניה פרק ד'- חניונים - עדכון מספר 2 - מונגש.pdf) — on https://www.gov.il/he/departments/policies/parking_planning_guidelines
+- [דפי שער](https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningTitlePage.pdf) — on https://www.gov.il/he/departments/policies/separator_planning_guidelines
+- [תרשימים לפרק 5](https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningCharts.pdf) — on https://www.gov.il/he/departments/policies/separator_planning_guidelines
+- [לצפיה במסמך לחצו כאן](https://eshed-mtl.co.il/documents/262/request) — on https://eshed-mtl.co.il/documents/262/view
+- [התקני תנועה, בטיחות ורמזורים מאושרים להצבה בדרך , עדכון שני למהדורה עשרים וחמש תשרי תשפ"ז – אוקטובר](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/חוברת התקנים אוקטובר 2026.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=3
+- [התקני תנועה, בטיחות ורמזורים מאושרים להצבה בדרך מהדורה עשרים וחמש ינואר – 2026](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic-safety-and-traffic-light-devices-approved-for-installation-on-the-road-january – 2026.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=3
+- [כתב מינוי לחברי הועדה להתקני תנועה ובטיחות- שנת 2025](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/61ce6499-ad15-4ef8-9145-c9943d36b326.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=3
+- [נוהל פעילות הוועדה לבחינת התקני תנועה ובטיחות- כרך נספחים- מהדורה 6.3](https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/נוהל פעילות הוועדה לבחינת התקני תנועה ובטיחות- כרך נספחים- מהדורה 6.3 מאי 2026.pdf) — on https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=3
+- [כתב מינוי הוועדה הבין משרדית לשילוט ההדרכה ברשת הדרכים](https://www.gov.il/BlobFolder/guide/signage-committee/he/כתב מינוי הוועדה הבין – משרדית לשילוט הדרכה ברשת הדרכים.pdf) — on https://www.gov.il/he/Departments/Guides/signage-committee?chapterIndex=2
+- [כללים מנחים למתן פטור מציות לתמרורים מהדורה שישית תמו ז התשפ"ו-יולי 2026](https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/כללים מנחים למתן פטור - 0726.pdf) — on https://www.gov.il/he/departments/policies/klalim_matan_ptor_tamrurim
+- [פטור לרכבי פינוי אשפה מציות להוראות תמרור 501](https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/501.pdf) — on https://www.gov.il/he/departments/policies/klalim_matan_ptor_tamrurim
+- [מדריך להסדרי תנועה באתרי עבודה בדרכים עירוניות מהדורה 01 ספטמבר 2026](https://www.gov.il/BlobFolder/generalpage/urban-roadwork-sites-traffic-arrangements-guide/he/ayalon_tarshim_tnoa_merchav-ironi_a4_47.1 (1).pdf) — on https://www.gov.il/he/pages/urban-roadwork-sites-traffic-arrangements-guide
+- [לצפיה במסמך לחצו כאן](https://www.gov.il/he/pages/design_traffic_devices?chapterIndex=3) — on https://eshed-mtl.co.il/documents/266/view
+- [שמות יעדים בשילוט הדרכה בעברית ובתעתיקים לאותיות לטיניות וערביות, ינואר 2025](https://www.gov.il/BlobFolder/generalpage/destination_names_for_directions_signage/he/MOTWebsiteUpdate@mot.gov_.il_4561_Attachment1 (2).pdf) — on https://www.gov.il/he/Departments/General/destination_names_for_directions_signage
+- [רשימת שמות יעדים בשילוט הדרכה, מהדורה 2025](https://www.gov.il/BlobFolder/generalpage/destination_names_for_directions_signage/he/חדש.xlsx) — on https://www.gov.il/he/Departments/General/destination_names_for_directions_signage
+- [הנחיות לתכנון שול (שות"צ) לתחבורה ציבורית מהדורה 3.1](https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/3.1 מ.pdf) — on https://www.gov.il/he/departments/policies/outline_use_buses_right_hand_side_intercity_roads
+- [הנחיות לתכנון שול (שות"צ) לתחבורה ציבורית מהדורה שלישית](https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/שול לתחבצ - בין עירוניות.pdf) — on https://www.gov.il/he/departments/policies/outline_use_buses_right_hand_side_intercity_roads
+- [בחירת גוון הסימון (כתום או לבן) באתרי עבודה](https://www.gov.il/BlobFolder/generalpage/guide_to_traffic_arrangements_for_interurban_work_sites/he/001.pdf) — on https://www.gov.il/he/departments/general/guide_to_traffic_arrangements_for_interurban_work_sites
+- [מפרט טכני לשילוט בדרכים באמצעות מסרי תנועה מתחלפים מהדורה 3.1 מבוסס על התקן האירופי EN 12966:2014+A1:2018](https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/3-1-12.pdf) — on https://www.gov.il/he/Departments/policies/guidelines_planning_signs_roads_alternating_traffic_messages
+- [להגשת טופס הבקשה לחצו כאן](https://auth.govforms.gov.il/mw/forms/RoadTestApplication@mot.gov.il) — on https://www.gov.il/he/departments/policies/road_examinations_protocol
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_01.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_03.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_04.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_05.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_08.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_10.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_11.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_12.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_13.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_14.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_15.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_16.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_18.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_19.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_21.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_22.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_23.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_24.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_29.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_30.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_31_a.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_32.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_34.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_35.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_36.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_37.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_38.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_39.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_40.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_41.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_42.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_44.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_46.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [קישור](https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_47.zip) — on https://www.gov.il/he/departments/general/tama_iframe
+- [zip שכבת בסיס לתשתית קיימת](https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/CyclingInfrastructure.zip) — on https://www.gov.il/he/departments/general/cycling-infrastructure
+- [zip שכבת בסיס לתשתית מתוכננת](https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/CyclingInfrastructure_Planned.zip) — on https://www.gov.il/he/departments/general/cycling-infrastructure
+- [מפרט מיפוי והכנת שכבת ממ"ג של שכבות תשתיות רכיבה 1.52](https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/מיפוי תשתיות רכיבה הגדרת מבנה נתונים תשתית קיימת גרסה 1.52.pdf) — on https://www.gov.il/he/departments/general/cycling-infrastructure
+- [מיפוי תשתיות רכיבה הגדרת מבנה נתונים תשתית מתוכננת גירסה 1.54](https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/מיפוי תשתיות רכיבה  הגדרת מבנה נתונים תשתית מתוכננת גירסה 1.54.pdf) — on https://www.gov.il/he/departments/general/cycling-infrastructure
+- [מפרט מיפוי והכנת שכבת ממ"ג (GIS) של שכבות תשתיות רכיבה](https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/BPH_Stru_1.52_Plan.xlsx) — on https://www.gov.il/he/departments/general/cycling-infrastructure
+- [מפרט מיפוי והכנת שכבת ממ"ג (GIS) של שכבות תשתיות רכיבה](https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/BPH_Stru_1.52_Exist.xlsx) — on https://www.gov.il/he/departments/general/cycling-infrastructure
+- [כתב מינוי הוועדה הבין משרדית לשילוט ההדרכה ברשת הדרכים](https://www.gov.il/BlobFolder/guide/signage-committee/he/כתב מינוי הוועדה הבין – משרדית לשילוט הדרכה ברשת הדרכים.pdf) — on https://www.gov.il/he/Departments/Guides/signage-committee?chapterIndex=3
+
+## Low OCR confidence (read these pages from the image)
+
+- eddd9a68c7e3 pages [159] — https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/holchey_regel_2020.pdf
+- 47c29f948d37 pages [1, 12, 13, 14] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah4.pdf
+- 4a794c7825a9 pages [1, 7] — https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata6.pdf
+- 57988d35a974 pages [23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 35, 37, 38, 39, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56] — https://www.gov.il/BlobFolder/policy/traffic_arrangements_work_sites_roads/he/hesder-tnuah-barzel.pdf
+- c94205ba36db pages [22, 27, 35, 39, 45, 58, 65, 67, 69, 71, 73, 78, 80, 89, 93, 94, 96, 101, 102, 105, 111, 112, 116, 123, 163, 180, 182, 197, 202, 213] — https://www.gov.il/BlobFolder/policy/guidelines_planning_public_transport_lanes/he/HanhayotTihnunNetivim.pdf
+- c0bc86b4874e pages [49] — https://www.gov.il/BlobFolder/generalpage/electric_bus_program/he/%D7%94%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%20%D7%9C%D7%97%D7%99%D7%A9%D7%9E%D7%95%D7%9C%20%D7%94%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf
+- 54f76852a80d pages [5] — https://www.gov.il/BlobFolder/generalpage/public_transportation_development_ashkelon_sub-district/he/hovert_sketch_doch_mesakem_Ashkelon.pdf
+- 0a5163f28954 pages [1] — https://olaw.org.il/yalkut/yalkut-3366.pdf
+- 564543ee6e23 pages [23, 24, 33, 43] — https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingE.pdf
+- d3e418598eee pages [1, 10] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah5.pdf
+- 38f716ca8802 pages [1] — https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata7.pdf
+- b22aa0006b5c pages [14, 15, 17] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MitunTnuaaDapeyIdkun.pdf
+- fa58401fbc23 pages [1, 4] — https://transportation.org.il/wp-content/uploads/2025/03/vrd_qryspyn_rmty-_yr_vvyr_nqy_tl_byb_ll_tmvnvt.pdf
+- 88c8c11d8642 pages [19, 47, 53, 56, 57, 68, 79, 116, 125, 148, 150, 159, 172, 184, 185, 189, 227, 267, 285, 288, 292, 294, 298, 309, 319, 346, 347, 350, 370, 386] — https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/road_engineering_guide.pdf
+- 36c90fc9545f pages [31, 33] — https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/TRAFFIC_PLANNING_MaterialRoadMarkingTest-2007.pdf
+- b75d22a1831f pages [63, 64, 99] — https://www.gov.il/BlobFolder/guide/strategic-plan-2050/he/program.pdf
+- fa65e1d9e2b6 pages [2] — https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/MifratimTohniyotAv.pdf
+- 983a2c6b6987 pages [1, 24] — https://olaw.org.il/yalkut/yalkut-2247.pdf
+- 22b864d1215e pages [3, 13, 29, 36] — https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingAappendix06_15.pdf
+- 07d496a41944 pages [39, 47, 48, 49, 86, 99, 108, 111] — https://www.gov.il/BlobFolder/policy/design_tests_minimizing_damage_soil_environment_urban_roads/he/07075810-461.pdf
+- 4ad650f1cb81 pages [1, 46] — https://www.gov.il/BlobFolder/policy/guidelines_integrating_mass_transit_systems_traffic_lights/he/HasatHamonimRamzorimSafrut.pdf
+- 8714d4db61eb pages [1, 7, 8] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/ar/TRAFFIC_PLANNING_planning_operating_traffic_lights%2010.2020.pdf
+- cea31cf04012 pages [32] — https://www.gov.il/BlobFolder/reports/2025_behavior/he/publications_2025_behavior.pdf
+- 65c09c08c12b pages [129, 137, 239] — https://www.gov.il/BlobFolder/policy/land_transport_development_policy/he/Land%20transport%20development%20policy.pdf
+- 7c36ed724458 pages [1] — https://apps.land.gov.il/IturTabotData/tabot/Artzi/9606701.pdf
+- 4b4485b58e63 pages [31, 32] — https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_nispachim_HetkenetBetihutNispahim0905.pdf
+- ebb010dfb8be pages [4, 5, 6, 27, 30, 34] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/galay_ramzor.pdf
+- 84243a4913ef pages [2, 189, 191, 194, 197, 199, 201, 202] — https://www.gov.il/BlobFolder/policy/temporary_traffic_arrangements/he/Tashtiyot_Temporary%20traffic%20arrangements.pdf
+- f5b986e60a0e pages [1, 32, 45, 80, 81, 83, 113, 116, 119, 126, 129, 132, 145] — https://www.gov.il/BlobFolder/generalpage/railroad_crossing/he/RailroadCrossing_planning_instructions.pdf
+- f7c7d3005021 pages [4, 15, 19, 24, 39, 50, 51, 52, 56, 57, 60, 61] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/hanhayot_leramzorim.pdf
+- a2ba06effd95 pages [1] — https://apps.land.gov.il/IturTabotData/nispachim/Artzi/9606427/100/%D7%92%D7%91%D7%95%D7%9C%D7%95%D7%AA%20%D7%94%D7%AA%D7%9B%D7%A0%D7%99%D7%AA.pdf
+- ea3620911a55 pages [1] — https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9609905.pdf
+- 0ee9af2c957f pages [4, 58] — https://www.gov.il/BlobFolder/policy/design_high_demand_crossings/he/TihnunMavarHazaya.pdf
+- a32ea49cb117 pages [32, 64, 66, 67, 68, 74, 84, 85] — https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%A8%D7%9B%D7%91%D7%99%D7%9D%20%D7%9C%D7%AA%D7%9B%D7%9F%20-%202025.pdf
+- b2fe92e47344 pages [4, 137, 140, 141, 142, 143, 144] — https://www.gov.il/BlobFolder/policy/guidelines_planning_urban_signage/he/ShilutIroniFull.pdf
+- 9ef317f0d7bb pages [208, 268, 286, 311, 338, 339, 340, 342, 344, 351, 354, 374, 378, 387, 390, 394, 396, 401, 404] — https://www.gov.il/BlobFolder/policy/guidelines_operational_geometric_planning_integrated_transportation_centers/he/CombinedTrafficCentersPlanning.pdf
+- 40552962ea36 pages [1, 22, 29, 30, 35, 37, 38, 50, 52, 54, 55, 57] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/hibur-zmatim.pdf
+- fd97b3d6f29f pages [1] — https://apps.land.gov.il/IturTabotData/tabot/Artzi/9609905.pdf
+- d2d04ddf5405 pages [3, 4] — https://www.gov.il/BlobFolder/policy/traffic_circle_planning_guidelines/he/MaagalieTnuaa.pdf
+- eeb8c604af9f pages [4] — https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/COVER.pdf
+- 5d5a949b1a3b pages [7, 8, 9, 10, 17] — https://www.gov.il/BlobFolder/reports/roads_closure/he/roads.pdf
+- 61ecbb38b69f pages [2] — https://www.gov.il/BlobFolder/policy/guidelines_integrating_train_stations/he/tahanot-rachevet.pdf
+- dce058d2831a pages [71] — https://www.gov.il/BlobFolder/policy/guidelines_design_road_control_systems_israel/he/bakarat-netivim5.pdf
+- 06d5e8a31d64 pages [1] — https://www.magalim.co.il/wp-content/uploads/2024/01/%D7%AA%D7%9E%D7%90_-1_%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA.pdf
+- 937e21153c93 pages [125] — https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/rechev_menoy_2020.pdf
+- e8ffd46e8738 pages [98, 105, 108, 110, 113, 116, 117, 273, 322, 355, 362, 406, 407, 408] — https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HighwayCapacityManual.pdf
+- ed95851591e1 pages [26, 43, 57, 61, 104] — https://nzc.org.il/uploads/n/1584259727.6546.pdf
+- 771d6ccfd29e pages [7] — https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tzmatim_2020.pdf
+- 30e040d1ac60 pages [4, 5, 6, 7, 8, 10, 11, 18, 20, 26, 41, 42, 43, 50, 74, 98, 115, 123, 125, 135, 138, 144, 161, 166, 168, 173, 177, 182, 183, 217] — https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry-tzmatim.pdf
+- 53f10064d875 pages [16, 45] — https://www.gov.il/BlobFolder/generalpage/maor_badrahim/he/TRAFFIC_PLANNING_MaorBadrahim.pdf
+- 2d3fd1ae1cf7 pages [24, 41, 42, 67, 75, 77, 127, 142, 144, 147, 203, 225, 242, 249, 260, 292, 318, 324, 327, 339, 343, 345, 346, 347, 348, 349, 350, 352, 357, 381] — https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/18-1.pdf
+- 421f9c8bfe81 pages [51] — https://www.gov.il/BlobFolder/reports/seder_gov050114/he/n177_0.pdf
+- d922af008c12 pages [179] — https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/merchav_harchov_2020.pdf
+- e62f31ecc778 pages [1] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah2.pdf
+- 190523ca5099 pages [1, 14, 15, 17, 18, 19, 20, 23] — https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata4.pdf
+- 2ede88ffae0e pages [15, 16, 17, 18, 19, 20, 21] — https://www.gov.il/BlobFolder/policy/613/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9E%D7%A8%D7%95%D7%A8%20613%20-%20%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8%202025.pdf
+- 57c3baf7c723 pages [208, 268, 286, 311, 338, 339, 340, 342, 344, 351, 354, 374, 378, 387, 390, 394, 396, 401, 404] — https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/CombinedTrafficCentersPlanning2.pdf
+- b5f5cb484d33 pages [4] — https://www.gov.il/BlobFolder/legalinfo/israeli_accessibility_standards/he/sitedocs_tekenyisraeli5990helek2.pdf
+- f4b24f2bb67d pages [1, 46] — https://www.gov.il/BlobFolder/reports/24_national_program/he/Walking_wLetter.pdf
+- 0f184443ca74 pages [195] — https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tnuat_ofnaim.pdf
+- dbe666c69c2e pages [1, 9] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah3.pdf
+- 7cdb23b2f459 pages [1, 4, 5, 6] — https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata5.pdf
+- a7a31aa29b26 pages [14] — https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/detectors_specifications.pdf
+- 4bb9c8289270 pages [305] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D.pdf
+- dbe952e263b9 pages [2, 99, 100, 103, 104, 105, 106, 107] — https://www.gov.il/BlobFolder/reports/trends_2022/ar/publications_trends_2022.pdf
+- ec9c84638c9e pages [1, 2, 3, 4] — https://apps.land.gov.il/IturTabotData/tma/%D7%AA%D7%9E%D7%90%2023/%D7%AA%D7%9E%D7%90%2023.pdf
+- 27265cc8e79b pages [26, 30, 31, 37] — https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/TihnunParkingB.pdf
+- e31f40aa4730 pages [1] — https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/NISPAH.pdf
+- 9e3562c13409 pages [7] — https://www.gov.il/BlobFolder/policy/detectors_identification_preferred_vehicles/he/FavoriteVehicleSensors.pdf
+- e573a6cb38e7 pages [1] — https://apps.land.gov.il/IturTabotData/tma/%D7%AA%D7%9E%D7%90%2023/%D7%AA%D7%9E%D7%90%2023%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%209.pdf
+- f1bde5992e3b pages [1] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7.pdf
+- d751c991c01b pages [2, 17, 19, 24, 29, 30, 32, 38, 39, 41, 44, 45, 46] — https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_school/he/TRAFFIC_PLANNING_TihnunTahanotSchool.pdf
+- de5339879cb6 pages [15, 42] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/Rep_SignalizedJunctionEconomicalAnalysis.pdf
+- 1ed378b1acb1 pages [4, 5, 7, 83] — https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parking.pdf
+- 9df671fa4316 pages [7, 8, 32, 55] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_4.pdf
+- 2310301b24e8 pages [4, 11, 48] — https://www.online.mod.gov.il/Online2016/Documents/General/Binuy/Instructions/IdfCampInst.pdf
+- af7322558aaf pages [6, 10, 12, 14, 16] — https://www.gov.il/BlobFolder/generalpage/national_master_plan_traffic_management_control/he/BakaratTnuah.pdf
+- 8f24e05f3038 pages [1, 41, 42, 43] — https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf
+- 2e9f52b7eb7b pages [17, 48, 123, 124, 137, 159, 161, 164, 169, 170, 173, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200] — https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94%20%D7%96%D7%9E%D7%A0%D7%99%D7%99%D7%9D%20%D7%91%D7%90%D7%AA%D7%A8%D7%99%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20-%202023.pdf
+- 3342865b4e8e pages [7, 8, 10, 11, 12, 13, 15, 16, 17, 18, 20] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_5.pdf
+- d61a9ea7e897 pages [37, 53] — https://www.gov.il/BlobFolder/reports/2023_city_plan/he/publications_2023_city_plan.pdf
+- 69d273e9f035 pages [7] — https://www.gov.il/BlobFolder/guide/total_area/he/rz_installation_parking_spaces.pdf
+- dbb90b8abb45 pages [46, 121, 131, 146, 159, 171, 172] — https://www.gov.il/BlobFolder/policy/examining_transport_implications/he/examination%20of%20transportation%20implications%20guide.pdf
+- c277380abdcf pages [5] — https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingC.pdf
+- 8adc66d2d16e pages [6, 7, 8, 9, 10, 12, 13, 14, 15] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_6.pdf
+- f8f7b780c0fb pages [11] — https://www.gov.il/BlobFolder/policy/planning_dimensions_parking_spaces_streets_residential_areas/he/Rechovot_lomuza_1977.pdf
+- f830b6317ae8 pages [40] — https://www.gov.il/BlobFolder/reports/public_transport_in_traffic_circles/he/Principles-for-integrating-preferred-public-transportation-into-traffic-circles.pdf
+- 2dcaa9dca24b pages [90, 99, 181, 185, 189, 190, 194, 196, 197, 199, 201, 234, 235, 238, 246, 298, 328, 342, 344, 349, 381, 398, 399, 442, 476, 532, 541] — https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%97%D7%A0%D7%99%D7%94%20-%202025.pdf
+- 7b2342520c33 pages [7, 9, 12, 19] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_7.pdf
+- 0d5e5dedb9c3 pages [31, 33, 36, 38, 40, 41, 42, 49, 50, 60, 67, 87, 96, 98, 103, 118, 119, 121, 122, 124, 126, 127, 128, 129, 130, 131] — https://www.gov.il/BlobFolder/generalpage/guide_to_traffic_arrangements_for_interurban_work_sites/he/TrafficWorkingSites.pdf
+- 81159e39f6c6 pages [136] — https://www.gov.il/BlobFolder/generalpage/destination_names_for_directions_signage/he/MOTWebsiteUpdate%40mot.gov_.il_4561_Attachment1%20%282%29.pdf
+- 0a2ae8231be6 pages [1, 6, 13, 21, 37, 65, 73, 79, 80, 81, 83, 84, 85, 86, 87, 90, 91, 94, 97, 105, 106, 108, 110, 111, 112, 113, 114, 115, 116, 117] — https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/MifratRamzorimKlali.pdf
+- 76c69db7e58c pages [6, 8, 9, 10, 11] — https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_8.pdf
+- b6d1a0706081 pages [1] — https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9606701.pdf
+- a6e681a2979e pages [31, 33, 36, 38, 40, 41, 42, 49, 50, 60, 67, 87, 96, 98, 103, 118, 119, 121, 122, 124, 126, 127, 128, 129, 130, 131] — https://www.infocenters.co.il/rsa/multimedia/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/%D7%94%D7%9E%D7%93%D7%A8%D7%99%D7%9A%20%D7%9C%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94%20%D7%91%D7%90%D7%AA%D7%A8%D7%99%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA.pdf
+- c207a2f88436 pages [16] — https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/Unified-format_HE.pdf
+
+## Waiting for Guy
+See pending.md: https://github.com/guyergas/transport-planning-knowledge/blob/main/pending.md
