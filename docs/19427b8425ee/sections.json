@@ -4,10 +4,6 @@
    "1965",
    "2017"
   ],
-  "publisher": [
-   "הרשות ,נפה",
-   "הרשות :רחובות"
-  ],
   "verify": "candidates from text; confirm on cover page image"
  },
  "pages": {},
@@ -30,12 +26,52 @@
    "end": 4
   },
   {
+   "num": "1.5.4",
+   "title": "כתובות שבהן חלה התכנית",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
    "num": "31",
    "title": "הרצל                        רחובות",
    "chapter": null,
    "start": 4,
    "level": 1,
    "end": 19
+  },
+  {
+   "num": "1.5.5",
+   "title": "גושים וחלקות בתכנית",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "1.5.6",
+   "title": "גושים ישנים",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "1.5.7",
+   "title": "מגרשים  /תאי שטח מתכניות קודמות שלא נרשמו כחלקות",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "1.5.8",
+   "title": "מרחבי תכנון גובלים בתכנית",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
   },
   {
    "num": "1.6",

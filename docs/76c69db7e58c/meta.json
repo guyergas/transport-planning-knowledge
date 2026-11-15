@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_8.pdf",
- "checked": "2026-11-15T13:35:00Z",
+ "checked": "2026-11-15T15:04:44Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_8.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1449411,
- "secs": 4.454161,
+ "secs": 4.321597,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "76c69db7e58c",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 12,
  "pdf_meta": {
   "Title": "חוברת מיתון תנועה",
@@ -23,7 +27,19 @@
  "sha256": "9422e3c5ea5dce857b87d725503612dac0baf4228e586fe50a7fc69fa1c5ef5f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/76c69db7e58c.pdf",
  "fix_log": [
-  "words=590 unknown=57 fixed=1"
+  "words=590 unknown=58 fixed=3"
+ ],
+ "image_pages": 11,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 76,
+ "lowconf_pages": [
+  6,
+  8,
+  9,
+  10,
+  11
  ],
  "text_pages": 12,
  "ocr_pages": 12,

@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/safety_for_public_transport_projects/he/Tashtiyot_safety%20for%20public%20transport%20projects%2008.2020.pdf",
+ "checked": "2026-11-15T15:06:50Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/safety_for_public_transport_projects/he/Tashtiyot_safety%20for%20public%20transport%20projects%2008.2020.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 541857,
+ "secs": 0.68178,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f19e958e14da",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 23,
+ "pdf_meta": {
+  "Title": "שם הנוהל: תסקיר בטיחות - מהדורה מס' 2, דצמבר 2015",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Thu Sep 24 15:24:59 2020 UTC",
+  "ModDate": "Thu Sep 24 15:24:59 2020 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "cd4e2602353593600476e0d1a532ade0de9cfe43642f4cf23a4197af7e763a34",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f19e958e14da.pdf",
+ "image_pages": 23,
+ "table_pages": 0,
+ "figure_ocr_pages": 23,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 23,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

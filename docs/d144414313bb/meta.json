@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_1-1%29_-_%D7%9E%D7%91%D7%95%D7%90.pdf",
- "checked": "2026-11-15T13:36:04Z",
+ "checked": "2026-11-15T15:06:13Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_1-1%29_-_%D7%9E%D7%91%D7%95%D7%90.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 431793,
- "secs": 1.271918,
+ "secs": 1.393547,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "d144414313bb",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 12,
  "pdf_meta": {
   "Title": "Author:          BM",
@@ -22,6 +26,12 @@
  "fonts_uni_no": 2,
  "sha256": "454791310ea564c6e5f64f72af88f42a0a157ec7893762f6a9578c3d85c78f4b",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d144414313bb.pdf",
+ "image_pages": 12,
+ "table_pages": 5,
+ "figure_ocr_pages": 12,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
  "text_pages": 12,
  "ocr_pages": 0,
  "layer": "ok"

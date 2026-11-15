@@ -1,0 +1,52 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/guidelines_planning_signs_roads_alternating_traffic_messages",
+ "checked": "2026-11-15T15:13:01Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/guidelines_planning_signs_roads_alternating_traffic_messages",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.040981,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "bae4e91f2c09",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון שילוט בדרכים באמצעות מסרי תנועה מתחלפים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/3-1-12.pdf",
+   "text": "מפרט טכני לשילוט בדרכים באמצעות מסרי תנועה מתחלפים מהדורה 3.1 מבוסס על התקן האירופי EN 12966:2014+A1:2018"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/3-12-en.pdf",
+   "text": "מפרט טכני לשילוט בדרכים באמצעות מסרי תנועה מתחלפים מהדורה 3.1 מבוסס על התקן האירופי EN 12966:2014+A1:2018 אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/SilutBadrahim08_2009.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים באמצעות מסרי תנועה מתחלפים - 08/2009"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/road-signs.pdf",
+   "text": "הנחיות לתכנון שילוט בדרכים באמצעות מסרי תנועה מתחלפים אוגוסט 2009 , עדכון מס' 1 - מאי 2022"
+  }
+ ],
+ "all_links": 48,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/3-1-12.pdf",
+   "text": "מפרט טכני לשילוט בדרכים באמצעות מסרי תנועה מתחלפים מהדורה 3.1 מבוסס על התקן האירופי EN 12966:2014+A1:2018"
+  }
+ ]
+}

@@ -1,16 +1,20 @@
 {
  "url": "https://fs.knesset.gov.il/globaldocs/MMM/4abb8d55-f7f7-e411-80c8-00155d010977/2_4abb8d55-f7f7-e411-80c8-00155d010977_11_7744.pdf",
- "checked": "2026-11-15T12:42:29Z",
+ "checked": "2026-11-15T14:52:29Z",
  "status": 200,
  "final_url": "https://fs.knesset.gov.il/globaldocs/MMM/4abb8d55-f7f7-e411-80c8-00155d010977/2_4abb8d55-f7f7-e411-80c8-00155d010977_11_7744.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 131914,
- "secs": 0.614029,
+ "secs": 1.251683,
  "server": "",
+ "tries": [
+  200
+ ],
  "id": "6fff06766938",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 11,
  "pdf_meta": {
   "Title": "תכנית תחבורתית לצמצום זיהום האוויר: יישום תיקון 84 לפקודת התעבורה",
@@ -22,6 +26,12 @@
  "fonts_uni_no": 5,
  "sha256": "4adeeecbef795704b2f46760dd0ce61e953c381887219c9cce9f1afe1184ff66",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-fs-knesset-gov-il/6fff06766938.pdf",
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
  "text_pages": 11,
  "ocr_pages": 0,
  "layer": "ok"

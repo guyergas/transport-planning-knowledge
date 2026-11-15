@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/selecting-highlight-shade2/he/001.pdf",
- "checked": "2026-11-15T13:36:13Z",
+ "checked": "2026-11-15T15:06:32Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/selecting-highlight-shade2/he/001.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 213556,
- "secs": 0.587953,
+ "secs": 0.472941,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "a700d3e7652b",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 3,
  "pdf_meta": {
   "Title": "תעב לוגו אורנה להמן",
@@ -25,6 +29,12 @@
  "fix_log": [
   "words=334 unknown=12 fixed=0"
  ],
+ "image_pages": 1,
+ "table_pages": 0,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [],
  "text_pages": 3,
  "ocr_pages": 1,
  "layer": "mixed"

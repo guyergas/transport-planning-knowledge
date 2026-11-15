@@ -1,0 +1,49 @@
+{
+ "front": {
+  "edition": [
+   "'",
+   "3"
+  ],
+  "dates": [
+   "ספטמבר 2020",
+   "אוגוסט 2020",
+   "2020"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה היא להבטיח כי בטיחות הדרך הינה שיקול מרכזי",
+   "מנהל אגף בכיר תכנון תחבורתי, או"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "בללי",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "2",
+   "title": "מטרה",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 10
+  },
+  {
+   "num": "3",
+   "title": "עקביות התכנון",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 23
+  }
+ ],
+ "coverage": "sections"
+}

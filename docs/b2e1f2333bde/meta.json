@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/HanhayotAmudimSalhanim.pdf",
+ "checked": "2026-11-15T15:08:30Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/HanhayotAmudimSalhanim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3189724,
+ "secs": 4.530304,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b2e1f2333bde",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 61,
+ "pdf_meta": {
+  "Title": "<4D6963726F736F667420576F7264202D20E4F0E7E9E5FA20F2EEE5E3E9ED20F1ECE7F0E9E9ED2E646F63>",
+  "Producer": "GPL Ghostscript 8.15",
+  "Creator": "PScript5.dll Version 5.2",
+  "CreationDate": "Wed Jan  7 12:43:56 2009 UTC",
+  "ModDate": "Tue Jan 27 12:30:36 2009 UTC"
+ },
+ "fonts_uni_no": 13,
+ "sha256": "71e9ba5e3723d3b4b5513fe112c4948c77ac0ec0f61a6007ba5bcdedb5747109",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b2e1f2333bde.pdf",
+ "fix_log": [
+  "words=2731 unknown=101 fixed=6"
+ ],
+ "image_pages": 11,
+ "table_pages": 9,
+ "figure_ocr_pages": 10,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 93,
+ "lowconf_pages": [],
+ "text_pages": 61,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}
