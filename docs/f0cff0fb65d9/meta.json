@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/11/view",
- "checked": "2026-11-15T14:35:15Z",
+ "checked": "2026-11-15T14:40:18Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/11/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40470,
- "secs": 0.68101,
+ "secs": 0.646914,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -34,6 +34,7 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
