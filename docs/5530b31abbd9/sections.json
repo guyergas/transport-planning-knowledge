@@ -14,13 +14,69 @@
  "toc_pages": [],
  "sections": [
   {
-   "num": "30",
-   "title": "מ\"מ                           גובה אותיות שם תחנה",
+   "num": "1",
+   "title": "תמרור ב – \" 56 תחנת אוטובוסים ציבוריים\"",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "2",
+   "title": "גודל תמרור",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "3",
+   "title": "תיאור התמרור ב – 56",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "3.4",
+   "title": "תמרור כפול",
    "chapter": null,
    "start": 2,
-   "level": 1,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "4.1",
+   "title": "כיתוב על כותרת התמרור",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "4.2",
+   "title": "כיתוב על רצועת הקו",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "6.1",
+   "title": "כותרת תמרור",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "6.2",
+   "title": "רצועות הקווים",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
    "end": 5
   }
  ],
- "coverage": "page-only"
+ "coverage": "sections"
 }

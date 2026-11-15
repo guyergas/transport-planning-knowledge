@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/ar/roads_tunnels_planning_insturactions_table_of_contents.pdf",
+ "checked": "2026-11-15T15:16:46Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/ar/roads_tunnels_planning_insturactions_table_of_contents.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1619158,
+ "secs": 3.15316,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "a3cf8dfe421b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 15,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Tue Nov 20 19:50:34 2018 UTC",
+  "ModDate": "Tue Nov 20 19:50:34 2018 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "6be89133a48021610f023a9db7b28d60ea8a7d94fc4bd8546f0a0b0b55afe09f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a3cf8dfe421b.pdf",
+ "image_pages": 15,
+ "table_pages": 0,
+ "figure_ocr_pages": 15,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 15,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

@@ -1,0 +1,125 @@
+{
+ "front": {
+  "dates": [
+   "2018",
+   "2000"
+  ],
+  "publisher": [
+   "נתיבי\nהברה הלאומית לתשותיות תחבורה ‎DAL‏",
+   "רשות הדרך",
+   "נתיבי\nana"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "13.1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "13.1.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "13.1.2",
+   "title": "חציית קו השול: התאמה לתקנות התעבורה",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "13.2",
+   "title": "מדיניות יישום הפתרון של התחברות למתקן תשתית",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "1",
+   "title": "הקדמה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "חציית קו השול: התאמה לתקנות התעבורה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "13.3",
+   "title": "פתרונות גיאומטריים של התחברות למתקן תשתית מצומת קיים",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "13.3.1",
+   "title": "התחברות למתקן תשתית מהמשך מפרץ תחנת הסעה",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 3
+  },
+  {
+   "num": "3",
+   "title": "פתרונות גיאומטריים של התחברות למתקן תשתית מצומת קיים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "13.4",
+   "title": "פתרונות גיאומטריים של התחברות למתקן תשתית מקטע דרך",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "13.4.1",
+   "title": "התחברות למתקן תשתית מקטע דרך מקומית חד-מסלולית",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "4",
+   "title": "פתרונות גיאומטריים של התחברות למתקן תשתית מקטע דרך",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 18
+  },
+  {
+   "num": "13.5",
+   "title": "מרחק התחברות למתקן תשתית מצומת בקטע פנוי",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 18
+  }
+ ],
+ "coverage": "sections"
+}

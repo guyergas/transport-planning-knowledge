@@ -1,0 +1,76 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/planning_speed_bumps",
+ "checked": "2026-11-15T15:30:29Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/planning_speed_bumps",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5185,
+ "secs": 0.059102,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "6513261ca101",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון וביצוע פסי האטה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/COVER.pdf",
+   "text": "דפי שער"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata1.pdf",
+   "text": "מבוא"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata2.pdf",
+   "text": "יתרונות וחסרונות של פסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata3.pdf",
+   "text": "בחינת תנאים לשימוש בפסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata4.pdf",
+   "text": "תכן פסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata5.pdf",
+   "text": "מתקנים בדרך"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata6.pdf",
+   "text": "ביצוע פסי האטה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/PaseyHeata7.pdf",
+   "text": "מעקב אחרי התקנה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/NISPAH.pdf",
+   "text": "נספח א' - הצדק כמותי"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/MAREI.pdf",
+   "text": "מראי מקום"
+  }
+ ],
+ "all_links": 54,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/MAREI.pdf",
+   "text": "מראי מקום"
+  }
+ ]
+}

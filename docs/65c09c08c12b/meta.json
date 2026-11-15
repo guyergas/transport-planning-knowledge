@@ -1,0 +1,44 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/land_transport_development_policy/he/Land%20transport%20development%20policy.pdf",
+ "checked": "2026-11-15T14:52:52Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/land_transport_development_policy/he/Land%20transport%20development%20policy.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 33798616,
+ "secs": 50.026803,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "65c09c08c12b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 279,
+ "pdf_meta": {
+  "Title": "<4D6963726F736F667420576F7264202D20F9F2F820FAE5EBF0E9FA20E0E120E0F8F6E9FA20ECFAE7E1E5F8E420E9E1F9FAE9FA2E646F63>",
+  "Producer": "Acrobat Distiller 7.0.5 (Windows)",
+  "Creator": "PScript5.dll Version 5.2.2",
+  "CreationDate": "Wed Mar 19 09:28:11 2008 UTC",
+  "ModDate": "Mon Jul 21 09:35:24 2008 UTC"
+ },
+ "fonts_uni_no": 151,
+ "sha256": "342a79ef9242d4e19c045425ea2e855ab2ad75426e3814699c2ad866a160f72f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/65c09c08c12b.pdf",
+ "fix_log": [
+  "words=11913 unknown=977 fixed=169"
+ ],
+ "image_pages": 116,
+ "table_pages": 64,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 40,
+ "ocr_conf_mean": 87,
+ "lowconf_pages": [
+  129,
+  137,
+  239
+ ],
+ "text_pages": 279,
+ "ocr_pages": 117,
+ "layer": "mixed"
+}

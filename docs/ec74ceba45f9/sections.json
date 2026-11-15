@@ -11,9 +11,9 @@
   ],
   "publisher": [
    "משרד התחבורה והבטיחות בדרכים",
-   "אגף בכיר תכנון תחבורתי ,משרד התחבורה",
-   "משרד התחבורה                             -אינג' טופז פל",
-   "משרד התחבורה                       -אינג' יעקב פרלשטין"
+   "מינהל תכנון",
+   "משרד התחבורה והבטיחות בדרכים (. ופיתוו תשתיות",
+   "אגף בכיר תכנון תחבורתי, משרד התחבורה"
   ],
   "verify": "candidates from text; confirm on cover page image"
  },
@@ -79,7 +79,15 @@
    "chapter": null,
    "start": 15,
    "level": 2,
-   "end": 35
+   "end": 24
+  },
+  {
+   "num": "4",
+   "title": "רימום ביטוחן יפוד בטור סו ADIT",
+   "chapter": null,
+   "start": 25,
+   "level": 1,
+   "end": 66
   },
   {
    "num": "5.1",
@@ -102,6 +110,22 @@
    "title": "רצועת בטיחות",
    "chapter": null,
    "start": 36,
+   "level": 2,
+   "end": 36
+  },
+  {
+   "num": "3.05",
+   "title": "מינימום",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "5.05",
+   "title": "מינימום",
+   "chapter": null,
+   "start": 37,
    "level": 2,
    "end": 37
   },
@@ -138,6 +162,30 @@
    "end": 44
   },
   {
+   "num": "5.7.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 40,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "5.7.2",
+   "title": "הערכת משך ההמתנה של רכב בתחנה",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.7.3",
+   "title": "מספר העמדות המזערי בתחנה",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
    "num": "5.8",
    "title": "תכן גיאומטרי של תחנות",
    "chapter": null,
@@ -159,6 +207,38 @@
    "chapter": null,
    "start": 47,
    "level": 2,
+   "end": 49
+  },
+  {
+   "num": "6.2.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 47,
+   "level": 3,
+   "end": 47
+  },
+  {
+   "num": "6.2.2",
+   "title": "התחנות ממוקמות מעברו האחד של הצומת",
+   "chapter": null,
+   "start": 48,
+   "level": 3,
+   "end": 48
+  },
+  {
+   "num": "6.2.3",
+   "title": "התחנות ממוקמות לפני הצומת",
+   "chapter": null,
+   "start": 48,
+   "level": 3,
+   "end": 48
+  },
+  {
+   "num": "6.2.4",
+   "title": "התחנות ממוקמות אחרי הצומת",
+   "chapter": null,
+   "start": 49,
+   "level": 3,
    "end": 49
   },
   {
@@ -191,6 +271,30 @@
    "chapter": null,
    "start": 59,
    "level": 2,
+   "end": 62
+  },
+  {
+   "num": "6.6.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 59,
+   "level": 3,
+   "end": 59
+  },
+  {
+   "num": "6.6.2",
+   "title": "פניות שמאליות אל נת\"צ שמאלי וממנו",
+   "chapter": null,
+   "start": 60,
+   "level": 3,
+   "end": 60
+  },
+  {
+   "num": "6.6.3",
+   "title": "פניות ימינה לתוך נת\"צ מרכזי",
+   "chapter": null,
+   "start": 60,
+   "level": 3,
    "end": 62
   },
   {

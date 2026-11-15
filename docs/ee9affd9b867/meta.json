@@ -1,0 +1,80 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/28-12-2022",
+ "checked": "2026-11-15T15:30:41Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/28-12-2022",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5185,
+ "secs": 0.043448,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "ee9affd9b867",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הקמה ועדכון הסמכות של רשות תימרור מקומית שלבים, תהליכים ומסמכים להגשה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/נוהל רשות תמרור _מהדורה 5.2026.pdf",
+   "text": "נוהל רשות תמרור"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס א-טופס בקשה להקמת רשות תמרור חדשה.docx",
+   "text": "נספח א-טופס בקשה להקמת רשות תמרור חדשה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ב- טופס בקשה להעברת תחומי אחריות בין רשויות תמרור קיימות בהסכמה.docx",
+   "text": "נספח ב-טופס בקשה להעברת תחומי אחריות בין רשויות תמרור קיימות בהסכמה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ג-טופס העברת סמכויות בין רשויות תמרור קיימות על פי החלטת המפקח הארצי.docx",
+   "text": "נספח ג-טופס העברת סמכויות בין רשויות תמרור קיימות על פי החלטת המפקח הארצי"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ד-טופס בקשה להחלפת הממונה להיות רשות תימרור מקומית ברשות תימרור מקומית קיימת.docx",
+   "text": "נספח ד-טופס בקשה להחלפת הממונה להיות רשות תימרור מקומית ברשות תימרור מקומית קיימת"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ה-טופס בקשה להוספת ממונה נוסף לרשות תמרור קיימת .docx",
+   "text": "נספח ה-טופס בקשה להוספת ממונה לרשות תמרור קיימת"
+  }
+ ],
+ "all_links": 48,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/נוהל רשות תמרור _מהדורה 5.2026.pdf",
+   "text": "נוהל רשות תמרור"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס א-טופס בקשה להקמת רשות תמרור חדשה.docx",
+   "text": "נספח א-טופס בקשה להקמת רשות תמרור חדשה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ב- טופס בקשה להעברת תחומי אחריות בין רשויות תמרור קיימות בהסכמה.docx",
+   "text": "נספח ב-טופס בקשה להעברת תחומי אחריות בין רשויות תמרור קיימות בהסכמה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ג-טופס העברת סמכויות בין רשויות תמרור קיימות על פי החלטת המפקח הארצי.docx",
+   "text": "נספח ג-טופס העברת סמכויות בין רשויות תמרור קיימות על פי החלטת המפקח הארצי"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ד-טופס בקשה להחלפת הממונה להיות רשות תימרור מקומית ברשות תימרור מקומית קיימת.docx",
+   "text": "נספח ד-טופס בקשה להחלפת הממונה להיות רשות תימרור מקומית ברשות תימרור מקומית קיימת"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/28-12-2022/he/טופס ה-טופס בקשה להוספת ממונה נוסף לרשות תמרור קיימת .docx",
+   "text": "נספח ה-טופס בקשה להוספת ממונה לרשות תמרור קיימת"
+  }
+ ]
+}

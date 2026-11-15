@@ -1,0 +1,35 @@
+{
+ "front": {
+  "edition": [
+   "2",
+   "הראשונה"
+  ],
+  "dates": [
+   "יולי 2026",
+   "2016",
+   "2026"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "1",
+  "3": "2"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "8.2.1",
+   "title": "2 עדכון סעיף",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 3
+  }
+ ],
+ "coverage": "page-only"
+}

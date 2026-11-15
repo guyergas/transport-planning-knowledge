@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_nispachim_HetkenetBetihutNispahim0905.pdf",
+ "checked": "2026-11-15T15:21:06Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_nispachim_HetkenetBetihutNispahim0905.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 896243,
+ "secs": 1.52463,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "4b4485b58e63",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 32,
+ "pdf_meta": {
+  "Title": "Microsoft Word -         - .doc",
+  "Producer": "Acrobat Distiller 6.0 (Windows)",
+  "Creator": "PScript5.dll Version 5.2",
+  "CreationDate": "Sun Nov 20 10:09:47 2005 UTC",
+  "ModDate": "Sun Nov 27 10:08:26 2005 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "a6ab0a5c0b901db95dbfc7067ab3d485f35a9bdce46559add312c606236d0276",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/4b4485b58e63.pdf",
+ "fix_log": [
+  "words=1871 unknown=63 fixed=3"
+ ],
+ "image_pages": 9,
+ "table_pages": 11,
+ "figure_ocr_pages": 2,
+ "table_ocr_pages": 5,
+ "ocr_conf_mean": 80,
+ "lowconf_pages": [
+  31,
+  32
+ ],
+ "text_pages": 32,
+ "ocr_pages": 7,
+ "layer": "mixed"
+}

@@ -1,0 +1,33 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 2025",
+   "2024"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "i",
+  "4": "3",
+  "5": "4"
+ },
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "6",
+   "title": "הערות סיום",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 12
+  }
+ ],
+ "coverage": "page-only"
+}

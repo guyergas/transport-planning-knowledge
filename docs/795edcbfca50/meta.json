@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/cyclists-and-pedestrians-right-way-regulations/he/%D7%94%D7%A1%D7%93%D7%A8%D7%AA%20%D7%96%D7%9B%D7%95%D7%AA%20%D7%A7%D7%93%D7%99%D7%9E%D7%94%20%D7%9C%D7%90%D7%95%D7%A4%D7%A0%D7%99%D7%99%D7%9D_%D7%A0%D7%99%D7%99%D7%A8%20%D7%A2%D7%91%D7%95%D7%93%D7%94%2011.25.pdf",
+ "checked": "2026-11-15T15:30:57Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/cyclists-and-pedestrians-right-way-regulations/he/%D7%94%D7%A1%D7%93%D7%A8%D7%AA%20%D7%96%D7%9B%D7%95%D7%AA%20%D7%A7%D7%93%D7%99%D7%9E%D7%94%20%D7%9C%D7%90%D7%95%D7%A4%D7%A0%D7%99%D7%99%D7%9D_%D7%A0%D7%99%D7%99%D7%A8%20%D7%A2%D7%91%D7%95%D7%93%D7%94%2011.25.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1269755,
+ "secs": 4.156972,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "795edcbfca50",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 12,
+ "pdf_meta": {
+  "Title": "הסדרת זכות קדימה בין רוכבי אופניים לבין הולכי",
+  "Producer": "Microsoft® Word 2016",
+  "Creator": "Microsoft® Word 2016",
+  "CreationDate": "Mon Dec  8 13:35:13 2025 UTC",
+  "ModDate": "Tue Dec  9 10:28:50 2025 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "0b87f66d208fdabaae796ae59d758d5b16fdf4fb93b2b994f0bb138f87e11ad4",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/795edcbfca50.pdf",
+ "image_pages": 8,
+ "table_pages": 0,
+ "figure_ocr_pages": 8,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 12,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

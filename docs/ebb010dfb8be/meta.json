@@ -1,0 +1,47 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/galay_ramzor.pdf",
+ "checked": "2026-11-15T15:22:32Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/galay_ramzor.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 9953295,
+ "secs": 19.382637,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "ebb010dfb8be",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 50,
+ "pdf_meta": {
+  "Title": "Subject:         Message from AVCapture",
+  "Producer": "Avision AVCapture",
+  "Creator": "Avision AVCapture",
+  "CreationDate": "Wed Dec 30 10:40:37 2009",
+  "ModDate": "Mon Jan  4 07:44:24 2010 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "c608884f5567a5939482596b81cadf8099c3373e32e4e265adfcbde6b1cbdb4f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ebb010dfb8be.pdf",
+ "fix_log": [
+  "words=2772 unknown=562 fixed=11"
+ ],
+ "image_pages": 50,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 82,
+ "lowconf_pages": [
+  4,
+  5,
+  6,
+  27,
+  30,
+  34
+ ],
+ "text_pages": 50,
+ "ocr_pages": 50,
+ "layer": "broken"
+}
