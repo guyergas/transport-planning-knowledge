@@ -1,0 +1,52 @@
+{
+ "front": {
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "תנקיד/יעוד השער",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "הקשר האדריכלי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "3",
+   "title": "עקרונות התכנון לשערים",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "4",
+   "title": "תימרור בשערים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "5",
+   "title": "שערים אופייניים",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 22
+  }
+ ],
+ "coverage": "sections"
+}

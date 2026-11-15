@@ -1,0 +1,106 @@
+{
+ "front": {
+  "publisher": [
+   "הרשות המקומית 2 ........................................",
+   "הרשות המקומית",
+   "רשות הציבור על פי",
+   "רשות המקומית שבתחומה נמצאים המקרקעין ויירשם על שמה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "2.2",
+   "title": "לחנויות אחרות",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "2.1",
+   "title": "לחנויות מכל הסוגים",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "5.2",
+   "title": "מלון",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "5.1",
+   "title": "מלון",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "6.3",
+   "title": "בית ספר יסודי",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "6.2",
+   "title": "בית ספר על",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "6.4",
+   "title": "בית תרבות או",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "6.6",
+   "title": "מוזיאון או אולם",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "9.4",
+   "title": "תעשיה עתירת ידע",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "31.2",
+   "title": "מיתקני ספורט לשימוש",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "31.1",
+   "title": "פארק ציבורי בשולי",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  }
+ ],
+ "coverage": "sections"
+}

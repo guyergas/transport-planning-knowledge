@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_bicycle_traffic_13.pdf",
+ "checked": "2026-11-15T15:35:46Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_bicycle_traffic_13.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 631124,
+ "secs": 3.245969,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b0d97ad00fce",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 19,
+ "pdf_meta": {
+  "Title": "פרק 9",
+  "Producer": "PDFCreator 2.5.3.6324",
+  "Creator": "PDFCreator 2.5.3.6324",
+  "CreationDate": "Fri Jun 29 06:46:43 2018 UTC",
+  "ModDate": "Wed Oct 23 06:20:49 2019 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "3e94cdbdfadae01410dbbaec226e622bfbca9245fe02d81bd5ff20af3cc3b0cc",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b0d97ad00fce.pdf",
+ "image_pages": 19,
+ "table_pages": 1,
+ "figure_ocr_pages": 19,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 19,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

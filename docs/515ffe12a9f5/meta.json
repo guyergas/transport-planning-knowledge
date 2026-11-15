@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_integrated_street_planning/he/RehovotMesulavim.pdf",
+ "checked": "2026-11-15T15:32:57Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_integrated_street_planning/he/RehovotMesulavim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3444284,
+ "secs": 6.980608,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "515ffe12a9f5",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 9,
+ "pdf_meta": {
+  "Title": "PowerPoint Presentation",
+  "Producer": "Microsoft® PowerPoint® 2010",
+  "Creator": "Microsoft® PowerPoint® 2010",
+  "CreationDate": "Tue Jan 21 13:39:34 2020 UTC",
+  "ModDate": "Sun Feb 16 07:28:54 2020 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "e1f43982ac272c4a52cf75d62e233fd436f6c9380d3948620425843f2d7871cb",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/515ffe12a9f5.pdf",
+ "fix_log": [
+  "words=1647 unknown=119 fixed=23"
+ ],
+ "image_pages": 9,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 86,
+ "lowconf_pages": [],
+ "text_pages": 9,
+ "ocr_pages": 9,
+ "layer": "broken"
+}

@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/2022-5.pdf",
+ "checked": "2026-11-15T15:37:38Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/2022-5.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3387824,
+ "secs": 7.631882,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "48da3b7647b2",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 68,
+ "pdf_meta": {
+  "Title": "הנחיות לבחירה ולהצבה של מעקות בטיחות ליישומים זמניים",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Thu May 11 12:06:32 2023 UTC",
+  "ModDate": "Thu May 11 12:06:32 2023 UTC"
+ },
+ "fonts_uni_no": 12,
+ "sha256": "e9277ff574ec58746b4bf92024f56e0dbdb9f3bb72ecba516fe8eba664f1c13b",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/48da3b7647b2.pdf",
+ "fix_log": [
+  "words=3095 unknown=106 fixed=8"
+ ],
+ "image_pages": 36,
+ "table_pages": 6,
+ "figure_ocr_pages": 35,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 89,
+ "lowconf_pages": [],
+ "text_pages": 68,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

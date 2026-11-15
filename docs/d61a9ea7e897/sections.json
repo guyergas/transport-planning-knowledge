@@ -1,0 +1,71 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2023"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "הרשות הלאומית לבטיחות בדרכים",
+   "אגף תכנון משרד התחבורה",
+   "הרשות הלאומית לבטיחות בדרכים לצמצום משמעותי בתאונות ובנפ"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "15": "15",
+  "23": "23",
+  "25": "Vii",
+  "26": "30",
+  "30": "30",
+  "37": "37",
+  "44": "4",
+  "53": "53",
+  "69": "69"
+ },
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "2",
+   "title": "שיטת המסמך",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "3",
+   "title": "ממצאים ומסקנות",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "4",
+   "title": "סיכום",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 20
+  },
+  {
+   "num": "5",
+   "title": "תוצאות",
+   "chapter": null,
+   "start": 21,
+   "level": 1,
+   "end": 69
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,48 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/klalim_matan_ptor_tamrurim",
+ "checked": "2026-11-15T15:42:08Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/klalim_matan_ptor_tamrurim",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5188,
+ "secs": 0.083271,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "5b4be8638a91",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "כללים מנחים למתן פטור מציות לתמרורים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/כללים מנחים למתן פטור - 0726.pdf",
+   "text": "כללים מנחים למתן פטור מציות לתמרורים מהדורה שישית תמו ז התשפ\"ו-יולי 2026"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/501.pdf",
+   "text": "פטור לרכבי פינוי אשפה מציות להוראות תמרור 501"
+  }
+ ],
+ "all_links": 48,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/כללים מנחים למתן פטור - 0726.pdf",
+   "text": "כללים מנחים למתן פטור מציות לתמרורים מהדורה שישית תמו ז התשפ\"ו-יולי 2026"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/501.pdf",
+   "text": "פטור לרכבי פינוי אשפה מציות להוראות תמרור 501"
+  }
+ ]
+}

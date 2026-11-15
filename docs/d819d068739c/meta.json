@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/3-1-12.pdf",
+ "checked": "2026-11-15T15:36:37Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/3-1-12.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 960336,
+ "secs": 4.286466,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "d819d068739c",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 33,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Thu Jan  5 15:00:18 2023 UTC",
+  "ModDate": "Mon Jan  9 06:47:38 2023 UTC"
+ },
+ "fonts_uni_no": 13,
+ "sha256": "60f2f12e322bd26d370cced0906faad4f7ba724a63d430ecb2e062d4dce84db9",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d819d068739c.pdf",
+ "image_pages": 4,
+ "table_pages": 3,
+ "figure_ocr_pages": 4,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 33,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

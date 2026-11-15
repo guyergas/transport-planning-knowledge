@@ -1,0 +1,41 @@
+{
+ "front": {
+  "edition": [
+   "פברואר"
+  ],
+  "dates": [
+   "מרץ 2024",
+   "פברואר 2002",
+   "אוגוסט 2023"
+  ],
+  "publisher": [
+   "אגף בכיר תכנון תחבורתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  3,
+  5,
+  6
+ ],
+ "sections": [
+  {
+   "num": "ד'",
+   "title": "תכנון חניונים",
+   "chapter": "פרק ד' — תכנון חניונים",
+   "start": 1,
+   "level": 0,
+   "end": 17
+  },
+  {
+   "num": "4.00",
+   "title": "**        **       **      טבלאות       4.50          4.00     3.50",
+   "chapter": "פרק ד' — תכנון חניונים",
+   "start": 9,
+   "level": 2,
+   "end": 17
+  }
+ ],
+ "coverage": "page-only"
+}

@@ -15,16 +15,17 @@
   "verify": "candidates from text; confirm on cover page image"
  },
  "pages": {
+  "2": "2",
   "3": "4",
   "4": "5"
  },
  "toc_pages": [],
  "sections": [
   {
-   "num": "6",
-   "title": "שינוי בסעיף7",
+   "num": "1",
+   "title": "התכנית",
    "chapter": null,
-   "start": 4,
+   "start": 2,
    "level": 1,
    "end": 5
   }

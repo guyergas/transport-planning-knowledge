@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/he/pages/urban-roadwork-sites-traffic-arrangements-guide",
+ "checked": "2026-11-15T15:44:45Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/urban-roadwork-sites-traffic-arrangements-guide",
+ "content_type": "text/html",
+ "redirects": 0,
+ "bytes": 5188,
+ "secs": 0.041198,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "b737a369bd08",
+ "kind": "html",
+ "result": "ok",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "מדריך להסדרי תנועה באתרי עבודה בדרכים עירוניות משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/urban-roadwork-sites-traffic-arrangements-guide/he/ayalon_tarshim_tnoa_merchav-ironi_a4_47.1 (1).pdf",
+   "text": "מדריך להסדרי תנועה באתרי עבודה בדרכים עירוניות מהדורה 01 ספטמבר 2026"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/urban-roadwork-sites-traffic-arrangements-guide/he/ayalon_tarshim_tnoa_merchav-ironi_a4_47.1 (1).pdf",
+   "text": "מדריך להסדרי תנועה באתרי עבודה בדרכים עירוניות מהדורה 01 ספטמבר 2026"
+  }
+ ]
+}

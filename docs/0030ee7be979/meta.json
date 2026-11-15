@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/%D7%93%D7%A4%D7%99%20%D7%A2%D7%93%D7%9B%D7%95%D7%9F%20%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%97%D7%A0%D7%99%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%93%27-%20%D7%97%D7%A0%D7%99%D7%95%D7%A0%D7%99%D7%9D%20-%20%D7%A2%D7%93%D7%9B%D7%95%D7%9F%20%D7%9E%D7%A1%D7%A4%D7%A8%202%20-%20%D7%9E%D7%95%D7%A0%D7%92%D7%A9.pdf",
+ "checked": "2026-11-15T15:29:51Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/%D7%93%D7%A4%D7%99%20%D7%A2%D7%93%D7%9B%D7%95%D7%9F%20%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%97%D7%A0%D7%99%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%93%27-%20%D7%97%D7%A0%D7%99%D7%95%D7%A0%D7%99%D7%9D%20-%20%D7%A2%D7%93%D7%9B%D7%95%D7%9F%20%D7%9E%D7%A1%D7%A4%D7%A8%202%20-%20%D7%9E%D7%95%D7%A0%D7%92%D7%A9.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1071356,
+ "secs": 4.627949,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "0030ee7be979",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 17,
+ "pdf_meta": {
+  "Title": "הנחיות לתכנון חניה: פרק ד' תכנון חניונים",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Thu Apr  4 08:55:23 2024 UTC",
+  "ModDate": "Thu Apr  4 09:22:08 2024 UTC"
+ },
+ "fonts_uni_no": 7,
+ "sha256": "f6ccb5acd59d4e8b19d0c842b6cf95f6941e44fb79027627288150dc45eb5830",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0030ee7be979.pdf",
+ "image_pages": 9,
+ "table_pages": 2,
+ "figure_ocr_pages": 9,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 17,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

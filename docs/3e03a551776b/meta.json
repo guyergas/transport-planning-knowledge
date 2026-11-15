@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/932_09-2011.pdf",
+ "checked": "2026-11-15T15:38:13Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/932_09-2011.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 336291,
+ "secs": 0.884967,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "3e03a551776b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 26,
+ "pdf_meta": {
+  "Title": "(Microsoft Word - \\356\\364\\370\\350 932 \\361\\345\\364\\351.doc)",
+  "Producer": "GPL Ghostscript 8.56",
+  "Creator": "PScript5.dll Version 5.2.2",
+  "CreationDate": "Sun Oct 30 17:22:13 2011 UTC",
+  "ModDate": "Sun Oct 30 17:22:13 2011 UTC"
+ },
+ "fonts_uni_no": 9,
+ "sha256": "a1e2c66d007ba5423f8b9dc21ff5b955aff6bee251d37a1c4cfb9e9f7c771b30",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3e03a551776b.pdf",
+ "fix_log": [
+  "words=1525 unknown=77 fixed=2"
+ ],
+ "image_pages": 5,
+ "table_pages": 6,
+ "figure_ocr_pages": 5,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 82,
+ "lowconf_pages": [],
+ "text_pages": 26,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

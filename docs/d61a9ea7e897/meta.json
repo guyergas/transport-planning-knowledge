@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/2023_city_plan/he/publications_2023_city_plan.pdf",
+ "checked": "2026-11-15T15:39:10Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/2023_city_plan/he/publications_2023_city_plan.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 8183997,
+ "secs": 19.021687,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "d61a9ea7e897",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 69,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Tue Feb  6 09:35:56 2024 UTC",
+  "ModDate": "Tue Feb  6 09:35:56 2024 UTC"
+ },
+ "fonts_uni_no": 17,
+ "sha256": "5deb49524e89c3d563734ef101c33d0d28bb7dc972144fa4903ea6679eb1c683",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d61a9ea7e897.pdf",
+ "fix_log": [
+  "words=4018 unknown=122 fixed=9"
+ ],
+ "image_pages": 69,
+ "table_pages": 2,
+ "figure_ocr_pages": 62,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 81,
+ "lowconf_pages": [
+  37,
+  53
+ ],
+ "text_pages": 69,
+ "ocr_pages": 7,
+ "layer": "mixed"
+}
