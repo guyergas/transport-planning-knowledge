@@ -52,6 +52,8 @@ def build(db):
         if not os.path.exists(tf):
             continue
         m = json.load(open(mf)) if os.path.exists(mf) else {}
+        if m.get('duplicate_of'):
+            continue
         con.execute('INSERT INTO docs VALUES (?,?,?,?,?,?)', (did, m.get('url'), m.get('title') or (m.get('pdf_meta') or {}).get('Title'), m.get('pages'), m.get('sha256'), m.get('asset')))
         t = open(tf, encoding='utf-8').read()
         parts = PAGE.split(t)
@@ -103,7 +105,9 @@ def query(db, q, n=20, doc=None):
         key = next((v for w in norm(q).split() for v in [w] + expand(w).split()[1:] if v in nb), None)
         i = nb.find(key) if key else 0
         snip = re.sub(r'\s+', ' ', body[max(0, i - 120): i + 200])
-        out.append({'id': did, 'page': page, 'method': method, 'title': title, 'link': f"{(url or '').split('#')[0]}#page={page}", 'snippet': snip})
+        cut = min([x for x in (nb.find('--- figure-ocr'), nb.find('--- table-ocr')) if x >= 0] or [len(nb)])
+        where = 'figure/table: read the page image' if i >= cut else ('table page: verify values on the image' if 'table' in method else 'text')
+        out.append({'id': did, 'page': page, 'method': method, 'title': title, 'link': f"{(url or '').split('#')[0]}#page={page}", 'snippet': snip, 'where': where})
     return out
 
 
@@ -116,6 +120,6 @@ if __name__ == '__main__':
         doc = a[a.index('--doc') + 1] if '--doc' in a else None
         db = os.environ.get('SEARCH_DB', os.path.join(ROOT, 'search.db'))
         for r in query(db, a[1], n, doc):
-            print(f"{r['id']} p{r['page']} [{r['method']}] {(r['title'] or '')[:50]}\n  {r['snippet']}\n  {r['link']}")
+            print(f"{r['id']} p{r['page']} [{r['method']}] ({r['where']}) {(r['title'] or '')[:50]}\n  {r['snippet']}\n  {r['link']}")
     else:
         print(__doc__)

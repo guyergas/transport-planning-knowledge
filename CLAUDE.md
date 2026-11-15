@@ -16,7 +16,16 @@ github.com is open. So GitHub Actions downloads, the session reads results from 
 → hits: id, PDF page, method (text-layer/ocr), title, snippet, `URL#page=N`. Then cite (below).
 - search.db = SQLite FTS5, one row per page; Release `search-index`. `search.json` = manifest (sha256, docs_hash, source_commit).
 - get_index.sh verifies sha256 + docs_hash against this checkout; on mismatch rebuilds locally (never uses a stale index).
+- Page flags in `=== PAGE N === [...; image; table]`. Text-layer pages with pictures get an extra
+  `--- figure-ocr ---` block (labels inside images, dictionary-filtered); OCR pages with tables get `--- table-ocr psm6 ---`.
+  A hit there is marked "figure/table: read the page image" — values/labels must be confirmed on the image.
 - Words match without prefix letters (ו ה ב כ ל מ ש) and with final letters folded.
+
+## No duplicates
+One document = one id. The index job folds ids with the same sha256 (or, for HTML, the same final URL) into the
+smallest id: the others keep only meta.json with `duplicate_of`, their URLs go to the canonical `aliases`,
+their Release asset is deleted, and they are skipped by index.jsonl / sections / search.
+Different editions (different bytes) are separate documents on purpose.
 
 ## Sync rule
 All derived data (index.jsonl, docs/*/sections.json, sections.jsonl, search.db + search.json) is rebuilt from docs/ by the

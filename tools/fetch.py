@@ -151,6 +151,57 @@ def ocr_pages(pdf, pages, work):
     return {p: open(os.path.join(work, f'p{p}.txt'), encoding='utf-8').read() if os.path.exists(os.path.join(work, f'p{p}.txt')) else '' for p in pages}
 
 
+def ocr_extra(pdf, pages, work, psm, tag):
+    """Plain OCR pass (no refine) for figure labels (psm 11 sparse) or tables (psm 6 block)."""
+    if not pages:
+        return {}
+    jobs = os.path.join(work, f'jobs_{tag}.sh')
+    with open(jobs, 'w') as f:
+        for p in pages:
+            b = os.path.join(work, f'{tag}{p}')
+            f.write(f'pdftoppm -r 150 -gray -png -f {p} -l {p} -singlefile "{pdf}" {b} && '
+                    f'OMP_THREAD_LIMIT=1 tesseract {b}.png {b} --tessdata-dir {TDB} -l heb+eng --psm {psm} --dpi 150 2>/dev/null; rm -f {b}.png\n')
+    subprocess.run(f'xargs -P {os.cpu_count() or 2} -I CMD sh -c CMD < {jobs}', shell=True)
+    out = {}
+    for p in pages:
+        f = os.path.join(work, f'{tag}{p}.txt')
+        out[p] = open(f, encoding='utf-8').read() if os.path.exists(f) else ''
+    return out
+
+
+def image_pages(path):
+    """PDF pages holding a real picture (>=200x150 px raster, not a mask)."""
+    pg = set()
+    for l in sh(['pdfimages', '-list', path]).stdout.splitlines()[2:]:
+        c = l.split()
+        if len(c) > 4 and c[2] == 'image' and c[3].isdigit() and int(c[3]) >= 200 and int(c[4]) >= 150:
+            pg.add(int(c[0]))
+    return pg
+
+
+def table_like(t):
+    """Many lines with 3+ number cells, or ruled/aligned columns -> treat as table page."""
+    rows = [l for l in t.splitlines() if len(re.findall(r'(?<![\w.])\d[\d.,/%-]*(?![\w.])', l)) >= 3]
+    gaps = [l for l in t.splitlines() if len(re.findall(r'\S\s{3,}\S', l)) >= 3]
+    return len(rows) >= 4 or len(gaps) >= 6
+
+
+def new_words(extra, base):
+    """Keep only OCR lines that add real words missing from the page text (figure labels).
+    A line survives if it has a dictionary word (hunspell he_IL / en_US, >=3 letters) not already in the page text."""
+    have = set(re.findall(r'[\w"]{2,}', base))
+    cand = [l.strip() for l in extra.splitlines() if re.search(r'[א-תA-Za-z]{3}', l)]
+    words = sorted({w for l in cand for w in re.findall(r'[א-ת"]{3,}|[A-Za-z]{3,}', l) if w not in have})
+    ok = set()
+    for d, rx in (('he_IL', r'[א-ת]'), ('en_US', r'[A-Za-z]')):
+        ws = [w for w in words if re.match(rx, w)]
+        if ws:
+            r = sh(['hunspell', '-i', 'UTF-8', '-d', d, '-G'], input='\n'.join(ws))
+            ok |= set(r.stdout.split())
+    keep = [l for l in cand if any(w in ok for w in re.findall(r'[א-ת"]{3,}|[A-Za-z]{3,}', l))]
+    return '\n'.join(keep)
+
+
 def ensure_release(tag):
     if sh(['gh', 'release', 'view', tag, '-R', REPO]).returncode:
         sh(['gh', 'release', 'create', tag, '-R', REPO, '-t', tag, '-n', 'Original source files (see index.jsonl)'])
@@ -198,13 +249,24 @@ def process_pdf(rec, path, pages_spec, did):
         if st != 'ok':
             need.append(p)
     ocr = ocr_pages(path, need, work) if need else {}
+    imgs = image_pages(path) & set(pages)
+    tables = {p for p in pages if table_like(ocr.get(p) or layer[p][1])}
+    fig = ocr_extra(path, sorted(p for p in imgs if p not in ocr), work, 11, 'fig')  # labels inside pictures on text-layer pages
+    tab = ocr_extra(path, sorted(p for p in tables if p in ocr), work, 6, 'tab')     # scanned tables: row-preserving pass
     out = []
     for p in pages:
         st, t = layer[p]
+        flags = ''.join(f'; {f}' for f, on in (('image', p in imgs), ('table', p in tables)) if on)
         if p in ocr:
-            out.append(f'=== PAGE {p} === [ocr; layer={st}]\n{ocr[p].strip()}\n')
+            body = f'=== PAGE {p} === [ocr; layer={st}{flags}]\n{ocr[p].strip()}\n'
         else:
-            out.append(f'=== PAGE {p} === [text-layer]\n{t.strip()}\n')
+            body = f'=== PAGE {p} === [text-layer{flags}]\n{t.strip()}\n'
+        fw = new_words(fig.get(p, ''), t) if p in fig else ''
+        if fw:
+            body += f'--- figure-ocr (text inside images; verify on page image) ---\n{fw}\n'
+        if tab.get(p, '').strip():
+            body += f'--- table-ocr psm6 (row order; verify values on page image) ---\n{tab[p].strip()}\n'
+        out.append(body)
     raw = '\n'.join(out)
     if ocr:
         tmp_in, tmp_out = os.path.join(work, 'all_raw.txt'), os.path.join(work, 'all_fixed.txt')
@@ -213,6 +275,7 @@ def process_pdf(rec, path, pages_spec, did):
         if os.path.exists(tmp_out):
             raw = open(tmp_out, encoding='utf-8').read()
         rec['fix_log'] = r.stderr.splitlines()[:1]
+    rec.update(image_pages=len(imgs), table_pages=len(tables), figure_ocr_pages=len(fig), table_ocr_pages=len(tab))
     rec.update(text_pages=len(pages), ocr_pages=len(ocr), layer=('broken' if len(need) == len(pages) else 'mixed') if need else 'ok')
     return raw
 
@@ -246,11 +309,49 @@ def weekly():
     print(name)
 
 
+def dedupe():
+    """One document = one copy. Same bytes (sha256) or, for HTML, same final URL -> keep one canonical id
+    (the smallest id), turn the others into aliases: no text/sections/search rows, no second Release asset.
+    Runs in the index job after all shards, so it is race-free and deterministic."""
+    groups = {}
+    for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
+        r = json.load(open(m))
+        key = r.get('sha256') or (r.get('kind') == 'html' and (r.get('final_url') or '').lower().split('#')[0])
+        if key:
+            groups.setdefault(key, []).append((os.path.basename(os.path.dirname(m)), r))
+    n = 0
+    for key, docs in groups.items():
+        ids = sorted({d for d, _ in docs})
+        if len(ids) < 2:
+            continue
+        canon = ids[0]
+        cm = os.path.join(ROOT, 'docs', canon, 'meta.json')
+        c = json.load(open(cm))
+        aliases = set(c.get('aliases', []))
+        for did, r in docs:
+            if did == canon:
+                continue
+            aliases.add(r['url'])
+            d = os.path.join(ROOT, 'docs', did)
+            for f in ('text.md', 'sections.json'):
+                if os.path.exists(os.path.join(d, f)):
+                    os.remove(os.path.join(d, f))
+            if r.get('asset') and r['asset'] != c.get('asset') and REPO:
+                tag = r['asset'].split('/download/')[1].split('/')[0]
+                sh(['gh', 'release', 'delete-asset', tag, did + '.pdf', '-y', '-R', REPO])
+            r.update(duplicate_of=canon, asset=c.get('asset'))
+            json.dump(r, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)
+            n += 1
+        c['aliases'] = sorted(aliases - {c['url']})
+        json.dump(c, open(cm, 'w'), ensure_ascii=False, indent=1)
+    print(f'dedupe: {n} duplicate ids folded', file=sys.stderr)
+
+
 def build_index():
     with open(os.path.join(ROOT, 'index.jsonl'), 'w', encoding='utf-8') as f:
         for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
             r = json.load(open(m))
-            keep = {k: r.get(k) for k in ('id', 'url', 'final_url', 'kind', 'title', 'pages', 'layer', 'text_pages', 'ocr_pages', 'asset', 'sha256', 'checked')}
+            keep = {k: r.get(k) for k in ('id', 'url', 'final_url', 'kind', 'title', 'pages', 'layer', 'text_pages', 'ocr_pages', 'image_pages', 'table_pages', 'asset', 'sha256', 'checked')}
             keep['pdf_title'] = (r.get('pdf_meta') or {}).get('Title')
             f.write(json.dumps(keep, ensure_ascii=False) + '\n')
 
@@ -265,6 +366,7 @@ def main():
         weekly()
         return
     if sys.argv[1:2] == ['index']:
+        dedupe()
         build_index()
         return
     shard = int(os.environ.get('SHARD', '0'))
@@ -298,7 +400,7 @@ def main():
                 try:
                     old = None if force(req) or rec['kind'] != 'pdf' or rec.get('status') != 200 else unchanged(path, did)
                     if old:
-                        rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer')}, change='unchanged')
+                        rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer', 'image_pages', 'table_pages', 'figure_ocr_pages', 'table_ocr_pages')}, change='unchanged')
                         text = None  # keep existing text.md / sections.json
                     elif rec['kind'] == 'pdf' and rec.get('status') == 200:
                         if os.path.exists(os.path.join(d, 'meta.json')):
