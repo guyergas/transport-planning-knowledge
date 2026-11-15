@@ -26,10 +26,13 @@ newer doc in record) · snippet. Then read the hit pages (and the page image whe
   A hit there is marked "figure/table: read the page image" — values/labels must be confirmed on the image.
 - Words match without prefix letters (ו ה ב כ ל מ ש) and with final letters folded.
 
-## Link to the Google Sheet (Transport_Planning_Records_Index)
-`sheet/records.jsonl` + `sheet/links.jsonl` = export of tabs רשומות / קישורים (refresh: `tools/sheet_import.py`, steps inside).
-index.jsonl per doc: `sheet_records` (id, title, section, status), `sheet_desc`, `sheet_rows` (row numbers in קישורים), `year`,
-`edition_status` (newer/older ONLY when the sheet text says so; null = not stated), `newer_in_record`. Titles fall back to the sheet title.
+## The map (no Google Sheet any more)
+The Google Sheet Transport_Planning_Records_Index was retired on 16.11.2026 (Guy). The repo is the only source of truth.
+- `sheet/records.jsonl` — 223 records: id ("שורה N" / "מקור נוסף NNN"), title, section, status.
+- `sheet/links.jsonl` — every link of every record (record, desc, url; `replaced` = old URL + decision). Edit THIS file to add/fix links.
+- `sheet/replacements.jsonl` — log of Guy's replacement decisions (old → new, kind, who/when).
+- index.jsonl per doc joins these: `sheet_records`, `sheet_desc`, `edition_status`, `newer_in_record`; titles fall back to the record title.
+(`tools/sheet_import.py` is kept only for re-importing an old export.)
 
 ## Quality flags
 - OCR pages: `conf=NN` in the page header (mean tesseract word confidence); `lowconf` if <75 → read from the page image.
@@ -77,10 +80,10 @@ Poll `https://api.github.com/repos/guyergas/transport-planning-knowledge/actions
 | Add documents by URL | `requests/<new-name>.txt`, one line per URL: `URL [pages=1-5,9 \| pages=toc]` (toc = index only: first 15 + last 3 pages; omit = all). Header lines: `# shards=N` (≤20), `# force`, `# report`. Per line `render=1` = open in Chromium (JS-built pages, e.g. eshed document library). |
 | Add a file you have (blocked site, login, attachment) | `inbox/<name>.pdf` + optional `inbox/<name>.url` (original URL or source note; the doc keeps that URL as its id and is never re-fetched weekly). Guy can drag it in on github.com (≤25MB). Stored in Release `src-inbox`, removed from inbox/. |
 | Update / re-read a document | `requests/<new-name>.txt` with its URL and `# force` (otherwise unchanged bytes are skipped). Changed bytes are re-OCRed automatically, also weekly. |
-| Replace a broken URL with a new one | add the new URL (request), add the old URL to `removed.txt`, update the sheet, then refresh `sheet/` (below). |
+| Replace a broken URL with a new one | edit the row in `sheet/links.jsonl` (new url + `replaced`), log it in `sheet/replacements.jsonl`, add the old URL to `removed.txt`. |
 | Remove a document | add its URL or id to `removed.txt` (one per line, `#` comments). Docs + Release asset are deleted; never fetched again. |
-| Refresh the sheet link | `tools/sheet_import.py` (steps inside) → commit `sheet/`. |
-| Re-check everything | automatic weekly (Sunday 01:17 UTC): every URL in `sheet/links.jsonl` minus `removed.txt` → `weekly-YYYY-MM-DD` + GitHub Issue. Keep `sheet/` fresh (refresh after every sheet edit) — it is the source of truth. |
+| Add a record | append to `sheet/records.jsonl` (next free id) and its links to `sheet/links.jsonl`. |
+| Re-check everything | automatic weekly (Sunday 01:17 UTC): every URL in `sheet/links.jsonl` minus `removed.txt` → `weekly-YYYY-MM-DD` + GitHub Issue. `sheet/links.jsonl` is the source of truth. |
 
 Results: `results/<name>[.<shard>].jsonl` (status; result ok / redirect / error <code> / login / blocked; via=browser; change).
 A request name is processed once; to re-run, use a new name. Never edit derived files (index.jsonl, sections, search.json).
