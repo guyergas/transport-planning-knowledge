@@ -452,6 +452,7 @@ def build_status():
             if u not in last or (r.get('checked') or '') >= (last[u].get('checked') or ''):
                 last[u] = r
     rm = removed_set() | set(settled_replacements(last))
+    have = stored_urls()
     with open(os.path.join(ROOT, 'status.jsonl'), 'w', encoding='utf-8') as fs, open(os.path.join(ROOT, 'inaccessible.jsonl'), 'w', encoding='utf-8') as fi:
         for u in sorted(last):
             if u in rm:
@@ -462,7 +463,8 @@ def build_status():
                    'archive': r.get('wayback') or r.get('archive_snapshot'), 'checked': r.get('checked'),
                    'sheet': sorted({x['record'] for x in by_url.get(u, [])}), 'sheet_rows': sorted({x['row'] for x in by_url.get(u, []) if x.get('row') is not None})}
             fs.write(json.dumps(row, ensure_ascii=False) + '\n')
-            if not str(row['result'] or '').startswith(('ok', 'redirect')):
+            # inaccessible = still unreadable, still in the map, and no stored copy (manual upload / mirror)
+            if not str(row['result'] or '').startswith(('ok', 'redirect')) and u in by_url and urllib.parse.unquote(u) not in have:
                 fi.write(json.dumps(row, ensure_ascii=False) + '\n')
 
 
