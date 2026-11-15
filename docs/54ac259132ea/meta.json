@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/73/view",
- "checked": "2026-11-15T14:35:49Z",
+ "checked": "2026-11-15T14:40:13Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/73/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40346,
- "secs": 0.669607,
+ "secs": 0.611403,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -21,6 +21,10 @@
    "text": "Show user menu"
   },
   {
+   "url": "https://www.eshed-mtl.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%aa-%d7%95%d7%94%d7%a0%d7%97%d7%99%d7%95%d7%aa-%d7%9c%d7%94%d7%a6%d7%91%d7%aa-%d7%aa%d7%9e%d7%a8%d7%95%d7%a8%d7%99%d7%9d-2024",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
    "url": "https://www.eshed-mtl.co.il/documents/73/view#forgot",
    "text": "שכחתי סיסמה"
   },
@@ -30,5 +34,16 @@
   }
  ],
  "all_links": 43,
- "unknown_file_links": []
+ "new_file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%aa-%d7%95%d7%94%d7%a0%d7%97%d7%99%d7%95%d7%aa-%d7%9c%d7%94%d7%a6%d7%91%d7%aa-%d7%aa%d7%9e%d7%a8%d7%95%d7%a8%d7%99%d7%9d-2024",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ],
+ "unknown_file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%aa-%d7%95%d7%94%d7%a0%d7%97%d7%99%d7%95%d7%aa-%d7%9c%d7%94%d7%a6%d7%91%d7%aa-%d7%aa%d7%9e%d7%a8%d7%95%d7%a8%d7%99%d7%9d-2024",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
 }

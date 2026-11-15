@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/103/view",
- "checked": "2026-11-15T14:36:00Z",
+ "checked": "2026-11-15T14:40:22Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/103/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40169,
- "secs": 0.658159,
+ "secs": 0.597308,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -34,6 +34,7 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.eshed-mtl.co.il/www.gov.il/BlobFolder/generalpage/tihnun_tahanot_rakevet/he/TRAFFIC_PLANNING_tihnun_tahanot_rakevet.pdf",
