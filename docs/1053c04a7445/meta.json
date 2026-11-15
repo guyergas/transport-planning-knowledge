@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HIGHWAY%20CAPACITY%20MANUAL%207th%20Edition.pdf",
- "checked": "2026-11-15T12:56:59Z",
+ "checked": "2026-11-15T13:27:12Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HIGHWAY%20CAPACITY%20MANUAL%207th%20Edition.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 6915473,
- "secs": 18.331728,
+ "secs": 8.574083,
  "server": "cloudflare",
  "id": "1053c04a7445",
  "kind": "pdf",
@@ -23,9 +23,9 @@
  "sha256": "f223ec9598255617c43b3635331159099c9f489e414c2919f2a59ae1f89f92d2",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/1053c04a7445.pdf",
  "fix_log": [
-  "words=1223 unknown=71 fixed=3"
+  "words=4518 unknown=166 fixed=5"
  ],
- "text_pages": 18,
+ "text_pages": 167,
  "ocr_pages": 1,
  "layer": "mixed"
 }

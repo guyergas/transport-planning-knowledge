@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/ar/TRAFFIC_PLANNING_planning_operating_traffic_lights%2010.2020.pdf",
+ "checked": "2026-11-15T13:34:08Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/ar/TRAFFIC_PLANNING_planning_operating_traffic_lights%2010.2020.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1985303,
+ "secs": 2.886883,
+ "server": "cloudflare",
+ "id": "8714d4db61eb",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 10,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe Acrobat 6.0 Image Conversion Plug-in",
+  "Creator": "Adobe Acrobat 6.0",
+  "CreationDate": "Wed Nov  3 08:13:37 2004 UTC",
+  "ModDate": "Thu Nov 27 09:08:46 2008 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "2bb50c279e550616af4acbbf3c8a1d637f8c70bf3002729d9705c06f405df40a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8714d4db61eb.pdf",
+ "fix_log": [
+  "words=12 unknown=6 fixed=3"
+ ],
+ "text_pages": 10,
+ "ocr_pages": 10,
+ "layer": "broken"
+}

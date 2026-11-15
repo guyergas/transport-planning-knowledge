@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/469cee15-72fe-4bfb-b807-188220289c44.pdf",
+ "checked": "2026-11-15T13:33:48Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/469cee15-72fe-4bfb-b807-188220289c44.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2505275,
+ "secs": 4.57653,
+ "server": "cloudflare",
+ "id": "038f349a8070",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 80,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Tue Jan 21 06:53:06 2025 UTC",
+  "ModDate": "Tue Jan 21 06:53:06 2025 UTC"
+ },
+ "fonts_uni_no": 11,
+ "sha256": "19fe0e8dcb604377a6d1ff95da744d122f1a86eab40d1eca3edfa7f09de5a7d3",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/038f349a8070.pdf",
+ "fix_log": [
+  "words=4505 unknown=198 fixed=8"
+ ],
+ "text_pages": 80,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}
