@@ -1,0 +1,29 @@
+{
+ "url": "https://www.gov.il/he/Departments/policies/02-05-23",
+ "checked": "2026-11-15T13:27:17Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/02-05-23",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.030924,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "id": "ae20f119aeae",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "רשות תימרור מקומית לניהול תנועה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/02-05-23/he/05-09-23.pdf",
+   "text": "רשות תמרור מקומית לניהול תנועה ע\"פ תקנות 17א-17ב, יולי 2023"
+  }
+ ],
+ "all_links": 43
+}

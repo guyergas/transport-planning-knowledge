@@ -1,12 +1,13 @@
 {
  "url": "https://www.gov.il/he/departments/policies/geometric_design_interurban_roads",
- "checked": "2026-11-15T12:50:52Z",
+ "checked": "2026-11-15T13:26:42Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/geometric_design_interurban_roads",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5186,
- "secs": 0.063737,
+ "secs": 0.030638,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "id": "e686f8b67f60",
  "kind": "html",
@@ -27,5 +28,6 @@
    "url": "https://www.iroads.co.il/media/2pcdauqs/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99-%D7%A9%D7%9C-%D7%93%D7%A8%D7%9B%D7%99%D7%9D-%D7%91%D7%99%D7%9F-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA-%D7%9B%D7%A8%D7%9A-2-%D7%A6%D7%9E%D7%AA%D7%99%D7%9D.pdf",
    "text": "להורדה"
   }
- ]
+ ],
+ "all_links": 49
 }
