@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/32/view",
- "checked": "2026-11-15T14:35:43Z",
+ "checked": "2026-11-15T14:39:52Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/32/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40342,
- "secs": 0.645096,
+ "secs": 0.946087,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -34,5 +34,6 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [],
  "unknown_file_links": []
 }

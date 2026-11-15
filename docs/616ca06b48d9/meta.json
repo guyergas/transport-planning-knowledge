@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/290/view",
- "checked": "2026-11-15T14:37:16Z",
+ "checked": "2026-11-15T14:41:10Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/290/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40155,
- "secs": 0.673717,
+ "secs": 0.704236,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -21,6 +21,10 @@
    "text": "Show user menu"
   },
   {
+   "url": "https://eshedm-my.sharepoint.com/:b:/g/personal/yoramgr_eshed-m_co_il/IQBtKH0b0KjHSb0E3-u55mEhAfDuU1oCyQ-EqAJkHi0xdPQ?e=8B1aum",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
    "url": "https://www.eshed-mtl.co.il/documents/290/view#forgot",
    "text": "שכחתי סיסמה"
   },
@@ -30,5 +34,16 @@
   }
  ],
  "all_links": 43,
- "unknown_file_links": []
+ "new_file_links": [
+  {
+   "url": "https://eshedm-my.sharepoint.com/:b:/g/personal/yoramgr_eshed-m_co_il/IQBtKH0b0KjHSb0E3-u55mEhAfDuU1oCyQ-EqAJkHi0xdPQ?e=8B1aum",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ],
+ "unknown_file_links": [
+  {
+   "url": "https://eshedm-my.sharepoint.com/:b:/g/personal/yoramgr_eshed-m_co_il/IQBtKH0b0KjHSb0E3-u55mEhAfDuU1oCyQ-EqAJkHi0xdPQ?e=8B1aum",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
 }

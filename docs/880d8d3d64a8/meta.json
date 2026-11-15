@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/documents/110/view",
- "checked": "2026-11-15T14:36:08Z",
+ "checked": "2026-11-15T14:40:15Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/documents/110/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 40234,
- "secs": 0.665573,
+ "secs": 0.724243,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -21,6 +21,10 @@
    "text": "Show user menu"
   },
   {
+   "url": "https://www.gov.il/he/departments/policies/traffic_arrangements_work_sites_roads",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
    "url": "https://www.eshed-mtl.co.il/documents/110/view#forgot",
    "text": "שכחתי סיסמה"
   },
@@ -30,5 +34,11 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [
+  {
+   "url": "https://www.gov.il/he/departments/policies/traffic_arrangements_work_sites_roads",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ],
  "unknown_file_links": []
 }

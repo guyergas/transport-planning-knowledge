@@ -1,0 +1,43 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/338/view",
+ "checked": "2026-11-15T14:41:25Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/338/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40192,
+ "secs": 0.702062,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "6848bfe76f67",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/338/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/he/pages/guidelines_bus_sheds",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/338/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/338/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/he/pages/guidelines_bus_sheds",
+   "text": "לצפיה במסמך לחצו כאן"
+  }
+ ]
+}
