@@ -1,37 +1,12 @@
 {
  "url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-latinit-ivrit-2025-1.pdf",
- "checked": "2026-11-15T17:51:33Z",
- "status": 200,
- "final_url": "http://web.archive.org/web/20251218083952id_/https://hebrew-academy.org.il/wp-content/uploads/taatik-latinit-ivrit-2025-1.pdf",
- "content_type": "application/pdf",
- "redirects": 0,
- "bytes": 277665,
- "secs": 0.041059,
- "body_head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39",
- "server": "cloudflare",
- "tries": [
-  403,
-  403,
-  403
- ],
  "id": "ea875962f217",
+ "source": "manual upload",
+ "note": "https://hebrew-academy.org.il/wp-content/uploads/taatik-latinit-ivrit-2025-1.pdf",
+ "status": 200,
  "kind": "pdf",
- "result": "ok (archive copy 20251218)",
- "browser": {
-  "url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-latinit-ivrit-2025-1.pdf",
-  "status": 403,
-  "final_url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-latinit-ivrit-2025-1.pdf",
-  "content_type": "text/html; charset=UTF-8",
-  "redirects": 0
- },
- "archive_snapshot": "20251218083952",
- "archive_url": "http://web.archive.org/web/20251218083952/https://hebrew-academy.org.il/wp-content/uploads/taatik-latinit-ivrit-2025-1.pdf",
- "via": "wayback",
- "first_try": {
-  "status": 403,
-  "result": "error 403",
-  "server": "cloudflare"
- },
+ "result": "ok",
+ "checked": "2026-11-15T19:19:06Z",
  "pages": 8,
  "pdf_meta": {
   "Title": "",

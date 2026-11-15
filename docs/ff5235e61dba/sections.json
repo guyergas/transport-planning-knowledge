@@ -1,0 +1,23 @@
+{
+ "front": {
+  "dates": [
+   "2006",
+   "ינואר 2008",
+   "2011",
+   "ספטמבר 2011",
+   "ינואר 1957"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1",
+  "2": "2",
+  "3": "3",
+  "4": "4",
+  "5": "3",
+  "6": "6"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

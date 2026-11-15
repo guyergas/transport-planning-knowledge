@@ -1,0 +1,30 @@
+{
+ "url": "https://hebrew-academy.org.il/wp-content/uploads/taatik-ivrit-latinit-2025-1.pdf",
+ "id": "ff5235e61dba",
+ "source": "manual upload",
+ "note": "https://hebrew-academy.org.il/wp-content/uploads/taatik-ivrit-latinit-2025-1.pdf",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-15T19:19:06Z",
+ "pages": 6,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 10.0.1",
+  "Creator": "Adobe InDesign CS6 (Windows)",
+  "CreationDate": "Thu Apr  3 12:35:50 2025 UTC",
+  "ModDate": "Thu Apr  3 12:36:26 2025 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "17f40816061600143456060b99685ee8df21e35eaab1554ded907f6a86236c2a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-hebrew-academy-org-il/ff5235e61dba.pdf",
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 6,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

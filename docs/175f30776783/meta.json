@@ -1,0 +1,30 @@
+{
+ "url": "https://hebrew-academy.org.il/wp-content/uploads/Transcription2_5.pdf",
+ "id": "175f30776783",
+ "source": "manual upload",
+ "note": "https://hebrew-academy.org.il/wp-content/uploads/Transcription2_5.pdf",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-15T19:18:55Z",
+ "pages": 1,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 10.0.1",
+  "Creator": "Adobe InDesign CS6 (Windows)",
+  "CreationDate": "Wed Mar 11 12:09:42 2015 UTC",
+  "ModDate": "Sun Mar 15 07:57:33 2015 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "99775f3055fbfca39ef8a0c83685af2783fcddd45a826decedb90c69ad44c442",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-hebrew-academy-org-il/175f30776783.pdf",
+ "image_pages": 0,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 1,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

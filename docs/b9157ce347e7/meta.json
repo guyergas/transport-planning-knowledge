@@ -1,0 +1,35 @@
+{
+ "url": "https://hebrew-academy.org.il/2022/06/27/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa-%d7%94%d7%99%d7%99%d7%a9%d7%95%d7%91%d7%99%d7%9d-%d7%91%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
+ "id": "b9157ce347e7",
+ "source": "manual upload",
+ "note": "https://hebrew-academy.org.il/2022/06/27/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa-%d7%94%d7%99%d7%99%d7%a9%d7%95%d7%91%d7%99%d7%9d-%d7%91%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-15T19:18:58Z",
+ "pages": 44,
+ "pdf_meta": {
+  "Title": "Subject:",
+  "Producer": "Adobe PDF Library 23.1.206",
+  "Creator": "Acrobat PDFMaker 23 for Word",
+  "CreationDate": "Tue Jun 13 14:06:02 2023 UTC",
+  "ModDate": "Tue Jun 13 14:23:23 2023 UTC"
+ },
+ "fonts_uni_no": 1,
+ "sha256": "5c0ba08b5f1c2e86423d031a785ab8103bd69e41dd782c419033eca356df3ac1",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-hebrew-academy-org-il/b9157ce347e7.pdf",
+ "fix_log": [
+  "words=1591 unknown=369 fixed=14"
+ ],
+ "image_pages": 1,
+ "table_pages": 42,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 62,
+ "lowconf_pages": [
+  44
+ ],
+ "text_pages": 44,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}
