@@ -1,0 +1,103 @@
+{
+ "url": "https://ramibox.com/taba/9508072/",
+ "checked": "2026-11-15T14:52:17Z",
+ "status": 200,
+ "final_url": "https://ramibox.com/taba/9508072/",
+ "content_type": "text/html; charset=UTF-8",
+ "redirects": 0,
+ "bytes": 61797,
+ "secs": 1.498636,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "9a341f0a9a79",
+ "kind": "html",
+ "result": "ok",
+ "title": "תקנון תב\"ע תמ\"א 23/א/4 שינוי 1 לא ידוע | RAMIBOX | רמיבוקס",
+ "file_links": [
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9508072.pdf",
+   "text": "תקנון סרוק"
+  },
+  {
+   "url": "http://www.nevo.co.il/Law_word/law10/yalkut-6600.pdf",
+   "text": "6600"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/takanonim/telmer/5009554.pdf",
+   "text": "תקנון סרוק"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/tabot/telmer/5009554/_K.pdf",
+   "text": ""
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/tabot/telmer/5009554/_M.pdf",
+   "text": ""
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/38.pdf",
+   "text": "תנועה"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/100נספח עצים.pdf",
+   "text": "נספח עצים"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/100סקר עצים.pdf",
+   "text": "סקר עצים"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/download/telmer/5009554.zip",
+   "text": "הורדת ממ\"ג"
+  },
+  {
+   "url": "http://www.govmap.gov.il/mmi?app=app07&ma=5009554",
+   "text": "לצפייה"
+  }
+ ],
+ "all_links": 16,
+ "unknown_file_links": [
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9508072.pdf",
+   "text": "תקנון סרוק"
+  },
+  {
+   "url": "http://www.nevo.co.il/Law_word/law10/yalkut-6600.pdf",
+   "text": "6600"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/takanonim/telmer/5009554.pdf",
+   "text": "תקנון סרוק"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/tabot/telmer/5009554/_K.pdf",
+   "text": ""
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/tabot/telmer/5009554/_M.pdf",
+   "text": ""
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/38.pdf",
+   "text": "תנועה"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/100נספח עצים.pdf",
+   "text": "נספח עצים"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/nispachim/telmer/5009554/100סקר עצים.pdf",
+   "text": "סקר עצים"
+  },
+  {
+   "url": "https://apps.land.gov.il/IturTabotData/download/telmer/5009554.zip",
+   "text": "הורדת ממ\"ג"
+  },
+  {
+   "url": "http://www.govmap.gov.il/mmi?app=app07&ma=5009554",
+   "text": "לצפייה"
+  }
+ ]
+}

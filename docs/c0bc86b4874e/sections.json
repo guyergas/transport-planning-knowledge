@@ -1,0 +1,329 @@
+{
+ "front": {
+  "edition": [
+   "שניה"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "הרשות הארצי",
+   "משרד התחבורה",
+   "רשות החשמל              פרק  - 9 צעדי המשך       פרק  –"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "2",
+  "3": "3",
+  "4": "4",
+  "5": "5",
+  "7": "7",
+  "8": "8",
+  "11": "00",
+  "19": "09",
+  "21": "20",
+  "22": "22",
+  "24": "24",
+  "26": "26",
+  "28": "28",
+  "30": "31",
+  "31": "30",
+  "36": "36",
+  "37": "37",
+  "38": "38",
+  "39": "39",
+  "40": "41",
+  "41": "40",
+  "43": "43",
+  "47": "47",
+  "48": "8",
+  "49": "49",
+  "50": "51",
+  "51": "50",
+  "52": "52",
+  "55": "55"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "3.1",
+   "title": "חשמל",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "12",
+   "title": "במקרה הזה הדוגמה היא של חברת סימנס",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 57
+  },
+  {
+   "num": "3.2",
+   "title": "מערכות מידע וניהול16",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "3.3",
+   "title": "הנדסה ומבנים",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "3.3",
+   "title": "דוגמה מסכמת – חניון ווטרלו17",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "3.1",
+   "title": "עבודות החשמל",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "3.1.1",
+   "title": "ברמת כלל הרשת",
+   "chapter": null,
+   "start": 19,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "3.1.2",
+   "title": "ברמת המתקן",
+   "chapter": null,
+   "start": 20,
+   "level": 3,
+   "end": 20
+  },
+  {
+   "num": "3.2",
+   "title": "סטטוטוריקה",
+   "chapter": null,
+   "start": 21,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "3.3",
+   "title": "בעלויות",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "3.3",
+   "title": "הגדרת גבולות גיזרה",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 22
+  },
+  {
+   "num": "5.1",
+   "title": "מיזמים מסחריים",
+   "chapter": null,
+   "start": 23,
+   "level": 2,
+   "end": 23
+  },
+  {
+   "num": "5.2",
+   "title": "תמיכת המשרד להגנת הסביבה",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "5.3",
+   "title": "פעילות המפעילים",
+   "chapter": null,
+   "start": 24,
+   "level": 2,
+   "end": 24
+  },
+  {
+   "num": "5.3",
+   "title": "החלטות ממשלה",
+   "chapter": null,
+   "start": 25,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "5.5",
+   "title": "מכרזים והסכמים של משרד התחבורה מול המפעילים",
+   "chapter": null,
+   "start": 26,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "5.5",
+   "title": "אכיפה",
+   "chapter": null,
+   "start": 26,
+   "level": 2,
+   "end": 26
+  },
+  {
+   "num": "5.1",
+   "title": "תשתיות",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "5.2",
+   "title": "הצטיידות",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "5.2.1",
+   "title": "נספח החישמול",
+   "chapter": null,
+   "start": 30,
+   "level": 3,
+   "end": 30
+  },
+  {
+   "num": "7.1",
+   "title": "תהליכים במרחב ירושלים",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 31
+  },
+  {
+   "num": "7.2",
+   "title": "מטרופולין חיפה",
+   "chapter": null,
+   "start": 32,
+   "level": 2,
+   "end": 32
+  },
+  {
+   "num": "7.3",
+   "title": "מטרופולין ת\"א המורחב",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "7.3",
+   "title": "מרחב בין עירוני",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "8.1",
+   "title": "מימון הצטיידות",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
+   "end": 34
+  },
+  {
+   "num": "8.2",
+   "title": "מימון תשתיות",
+   "chapter": null,
+   "start": 35,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "3.2",
+   "title": "גרסה",
+   "chapter": null,
+   "start": 38,
+   "level": 2,
+   "end": 38
+  },
+  {
+   "num": "2.2",
+   "title": "מתקן",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.3",
+   "title": "טעינת לילה",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.3",
+   "title": "טעינה מהירה",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.5",
+   "title": "טכנולוגית מצברים",
+   "chapter": null,
+   "start": 39,
+   "level": 2,
+   "end": 39
+  },
+  {
+   "num": "2.5",
+   "title": "טכנולוגית קבלי על",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 40
+  },
+  {
+   "num": "2.7",
+   "title": "טכנולוגית טעינה אינדוקטיבית",
+   "chapter": null,
+   "start": 40,
+   "level": 2,
+   "end": 42
+  },
+  {
+   "num": "3.1",
+   "title": "עבור טכנולוגיה מצברית",
+   "chapter": null,
+   "start": 43,
+   "level": 2,
+   "end": 43
+  },
+  {
+   "num": "3.2",
+   "title": "עבור טכנולוגית קבלי על",
+   "chapter": null,
+   "start": 44,
+   "level": 2,
+   "end": 57
+  }
+ ],
+ "coverage": "sections"
+}

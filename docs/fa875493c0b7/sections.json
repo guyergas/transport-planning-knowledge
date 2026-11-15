@@ -1,0 +1,21 @@
+{
+ "front": {
+  "dates": [
+   "2021",
+   "1993"
+  ],
+  "publisher": [
+   "מינהל תכנון"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "9": "11",
+  "11": "16",
+  "12": "10",
+  "13": "11"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

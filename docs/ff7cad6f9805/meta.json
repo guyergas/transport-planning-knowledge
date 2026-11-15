@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/KetzdekimLehatzavatRamzor.pdf",
+ "checked": "2026-11-15T15:43:24Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/KetzdekimLehatzavatRamzor.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 735403,
+ "secs": 1.720852,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "ff7cad6f9805",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 15,
+ "pdf_meta": {
+  "Title": "הצדקים להצבת רמזור",
+  "Producer": "Acrobat Distiller 8.0.0 (Windows)",
+  "Creator": "Acrobat PDFMaker 8.0 for Word",
+  "CreationDate": "Thu Jul 16 12:17:00 2009 UTC",
+  "ModDate": "Thu Jul 16 13:21:54 2009 UTC"
+ },
+ "fonts_uni_no": 12,
+ "sha256": "ffc1e0cbb827aaa24c338b828571fad68e357867460f728279944f6a691fa063",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ff7cad6f9805.pdf",
+ "image_pages": 14,
+ "table_pages": 0,
+ "figure_ocr_pages": 14,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 15,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

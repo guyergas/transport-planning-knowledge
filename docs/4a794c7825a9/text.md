@@ -1,7 +1,7 @@
-=== PAGE 1 === [ocr; layer=empty]
+=== PAGE 1 === [ocr; layer=empty; image; conf=63; lowconf]
 ₪ | ao ביצוע‎
 
-=== PAGE 2 === [ocr; layer=garbled]
+=== PAGE 2 === [ocr; layer=garbled; image; conf=89]
 45
 6 ביצוע פסי האטה
 פסי האטה מותקנים ברחובות מגורים וקיימים לצורך מיתון מהירות הנסיעה.
@@ -26,7 +26,7 @@
 אלו. כמו כן לא מומל\ להשתמש בתערובות אספלטיות קרות עקב איכותן הנמוכה
 והבלאי הגבוה שלהו.
 
-=== PAGE 3 === [ocr; layer=garbled]
+=== PAGE 3 === [ocr; layer=garbled; image; conf=92]
 6.2
 46
 בטון מהיר התקשות
@@ -58,7 +58,7 @@
 שלב בי - ריסוס מאחה.
 שלב גי - פיזור והידוק האספלט.
 
-=== PAGE 4 === [ocr; layer=garbled]
+=== PAGE 4 === [ocr; layer=garbled; image; conf=87]
 47
 לצורך השגת הדיוק מומל\ לתקוע יתדות בשני צידי הפס עם סימון הגבהים, ותוך
 כדי הפיזור, לבדוק את הגובה באמצעות מתיחת תילים בין היתדות.
@@ -88,13 +88,13 @@
 את הסטיות הבאות בגובה: מצע- 3.0 ס"מ, אגויימ- 2.0 ס"מ.
 בביצוע פסי האטה יש לדרוש כי הסטיה המותרת בגובה תהיה עד 1.0 ס"מ.
 
-=== PAGE 5 === [ocr; layer=empty]
+=== PAGE 5 === [ocr; layer=empty; image; conf=95]
 48
 
-=== PAGE 6 === [ocr; layer=empty]
+=== PAGE 6 === [ocr; layer=empty; image; conf=94]
 49
 
-=== PAGE 7 === [ocr; layer=empty]
+=== PAGE 7 === [ocr; layer=empty; image; conf=53; lowconf]
 50
 WE SNCS קר 7ר קר‎ NEN קר‎ NE ד 7ר 7ר קר 7ר קר קר 7ר 7ר‎ G
 0

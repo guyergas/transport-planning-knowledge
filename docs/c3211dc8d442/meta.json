@@ -1,18 +1,25 @@
 {
  "url": "https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
- "checked": "2026-11-15T13:24:10Z",
+ "checked": "2026-11-15T14:52:16Z",
  "status": 200,
  "final_url": "https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
  "content_type": "text/html; charset=UTF-8",
  "redirects": 0,
- "bytes": 144529,
- "secs": 0.137293,
- "server": "mw-web.eqiad.main-85bfb985f-85nm9",
+ "bytes": 144531,
+ "secs": 0.36325,
+ "server": "mw-web.codfw.main-5757f89b77-tfmnl",
+ "tries": [
+  200
+ ],
  "id": "c3211dc8d442",
  "kind": "html",
  "result": "ok",
  "title": "תקנות התכנון והבניה (התקנת מקומות חניה) – ויקיטקסט",
  "file_links": [
+  {
+   "url": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
+   "text": "הורדה"
+  },
   {
    "url": "https://olaw.org.il/takanot/takanot-4513.pdf",
    "text": "ק״ת תשמ״ג, 1737"
@@ -42,5 +49,45 @@
    "text": "תשפ״ו, 72"
   }
  ],
- "all_links": 170
+ "all_links": 170,
+ "new_file_links": [
+  {
+   "url": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
+   "text": "הורדה"
+  }
+ ],
+ "unknown_file_links": [
+  {
+   "url": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
+   "text": "הורדה"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-4513.pdf",
+   "text": "ק״ת תשמ״ג, 1737"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-6323.pdf",
+   "text": "תשס״ד, 707"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-7192.pdf",
+   "text": "תשע״ג, 310"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-7675.pdf",
+   "text": "תשע״ו, 1436"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-10326.pdf",
+   "text": "תשפ״ב, 4042"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-10337.pdf",
+   "text": "4108"
+  },
+  {
+   "url": "https://olaw.org.il/takanot/takanot-12062.pdf",
+   "text": "תשפ״ו, 72"
+  }
+ ]
 }

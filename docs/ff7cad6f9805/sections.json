@@ -1,0 +1,48 @@
+{
+ "front": {
+  "dates": [
+   "1981",
+   "יוני 2009",
+   "2009",
+   "1961"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "מינהל היבשה/אגף תכנון תחבורתי",
+   "מינהל יבשה",
+   "אגף תכנון תחבורתי"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "2.4",
+   "title": "עדכון פרק",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "4.1",
+   "title": "ההצדקים להצבת רמזור",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "4.2",
+   "title": "שיקולים נוספים להצדקים",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 15
+  }
+ ],
+ "coverage": "sections"
+}
