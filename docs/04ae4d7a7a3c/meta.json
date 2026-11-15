@@ -1,0 +1,31 @@
+{
+ "url": "https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry.pdf",
+ "checked": "2026-11-15T12:39:58Z",
+ "status": 200,
+ "final_url": "https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry.pdf",
+ "content_type": "",
+ "redirects": 0,
+ "bytes": 10491592,
+ "secs": 1.302464,
+ "server": "",
+ "id": "04ae4d7a7a3c",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 313,
+ "pdf_meta": {
+  "Title": "(Microsoft Word - \\343\\364\\351 \\364\\372\\351\\347\\344.doc)",
+  "Producer": "GPL Ghostscript 8.15",
+  "Creator": "PScript5.dll Version 5.2.2",
+  "CreationDate": "Sat Sep  1 20:36:22 2012 UTC",
+  "ModDate": "Tue Nov 27 13:52:52 2012 UTC"
+ },
+ "fonts_uni_no": 120,
+ "sha256": "861d1e1a5fb25c30c64a234bb28dfb7451006f33ff4d6f47e9ce9cefae82a953",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-ams3-digitaloceanspaces-com/04ae4d7a7a3c.pdf",
+ "fix_log": [
+  "words=7958 unknown=347 fixed=10"
+ ],
+ "text_pages": 313,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

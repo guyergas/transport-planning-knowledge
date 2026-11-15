@@ -1,0 +1,31 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/MifratimTohniyotAv.pdf",
+ "checked": "2026-11-15T12:16:20Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/master_plans_transportation_local_authorities/he/MifratimTohniyotAv.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 4853709,
+ "secs": 6.710867,
+ "server": "cloudflare",
+ "id": "fa65e1d9e2b6",
+ "kind": "pdf",
+ "result": "login",
+ "pages": 49,
+ "pdf_meta": {
+  "Title": "printing",
+  "Producer": "Acrobat Distiller 4.0.5  for Macintosh",
+  "Creator": "FreeHand 9: LaserWriter 8 8.7",
+  "CreationDate": "Fri Jan 10 06:25:07 1941 UTC",
+  "ModDate": "Mon Mar 22 09:53:53 2004 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "00f3d49876c2be68f2a1f16a9b69186d6004256b54ccc7400cf5d531407b15f1",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/fa65e1d9e2b6.pdf",
+ "fix_log": [
+  "words=4729 unknown=267 fixed=50"
+ ],
+ "text_pages": 49,
+ "ocr_pages": 49,
+ "layer": "broken"
+}

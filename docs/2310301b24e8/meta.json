@@ -1,0 +1,31 @@
+{
+ "url": "https://www.online.mod.gov.il/Online2016/Documents/General/Binuy/Instructions/IdfCampInst.pdf",
+ "checked": "2026-11-15T12:41:52Z",
+ "status": 200,
+ "final_url": "https://www.online.mod.gov.il/Online2016/Documents/General/Binuy/Instructions/IdfCampInst.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2480674,
+ "secs": 0.805313,
+ "server": "",
+ "id": "2310301b24e8",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 155,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "",
+  "Creator": "",
+  "CreationDate": "",
+  "ModDate": ""
+ },
+ "fonts_uni_no": 102,
+ "sha256": "bf9c41258bc64d52cbebb7e981963a4d2ec52ea65880dc17d8e0f5b900fd0b2f",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-online-mod-gov-il/2310301b24e8.pdf",
+ "fix_log": [
+  "words=6003 unknown=915 fixed=77"
+ ],
+ "text_pages": 155,
+ "ocr_pages": 4,
+ "layer": "mixed"
+}

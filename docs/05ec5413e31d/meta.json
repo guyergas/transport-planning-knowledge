@@ -1,0 +1,31 @@
+{
+ "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9609379.pdf",
+ "checked": "2026-11-15T12:39:25Z",
+ "status": 200,
+ "final_url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9609379.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 863475,
+ "secs": 3.146767,
+ "server": "",
+ "id": "05ec5413e31d",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 5,
+ "pdf_meta": {
+  "Title": "Scanned Document",
+  "Producer": "Lexmark CX725",
+  "Creator": "HardCopy",
+  "CreationDate": "Wed Jul 24 07:56:29 2019 UTC",
+  "ModDate": "Thu Jul 25 06:24:58 2019 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "f5e9f44d71a586d91989bf018d517b080b83d18be8aee53add83d3d85afa144e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/05ec5413e31d.pdf",
+ "fix_log": [
+  "words=445 unknown=51 fixed=19"
+ ],
+ "text_pages": 5,
+ "ocr_pages": 5,
+ "layer": "broken"
+}

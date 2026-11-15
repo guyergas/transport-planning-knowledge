@@ -1,0 +1,28 @@
+{
+ "url": "https://data.gov.il/dataset/9e0aca66-772f-4a3f-8d8d-3a8095abebc6/resource/36915a26-1cd1-4fdb-a509-3903f25eb659/download/tma_23.pdf",
+ "checked": "2026-11-15T12:39:48Z",
+ "status": 200,
+ "final_url": "https://data.gov.il/dataset/9e0aca66-772f-4a3f-8d8d-3a8095abebc6/resource/36915a26-1cd1-4fdb-a509-3903f25eb659/download/tma_23.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 154799,
+ "secs": 0.547107,
+ "server": "",
+ "id": "118aa835a9b0",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 2,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Skia/PDF m85",
+  "Creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228",
+  "CreationDate": "Thu Oct 15 11:47:15 2020 UTC",
+  "ModDate": "Thu Oct 15 11:47:15 2020 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "975eaf1526b10b7ff95180139d713dd36b1c2a3e7a0eabe721c0426c4783719b",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-data-gov-il/118aa835a9b0.pdf",
+ "text_pages": 2,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

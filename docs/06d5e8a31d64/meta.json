@@ -1,0 +1,31 @@
+{
+ "url": "https://www.magalim.co.il/wp-content/uploads/2024/01/%D7%AA%D7%9E%D7%90_-1_%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA.pdf",
+ "checked": "2026-11-15T12:40:10Z",
+ "status": 200,
+ "final_url": "https://www.magalim.co.il/wp-content/uploads/2024/01/%D7%AA%D7%9E%D7%90_-1_%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 977064,
+ "secs": 1.674777,
+ "server": "nginx",
+ "id": "06d5e8a31d64",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 175,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "GPL Ghostscript 9.55.0",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Fri Jun 27 07:09:57 2025 UTC",
+  "ModDate": "Fri Jun 27 07:09:57 2025 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "268c2d10e33ed46d9afc61bda5a827fddccbed6514a193b5a66d999b1714ccb9",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-magalim-co-il/06d5e8a31d64.pdf",
+ "fix_log": [
+  "words=7090 unknown=374 fixed=8"
+ ],
+ "text_pages": 175,
+ "ocr_pages": 62,
+ "layer": "mixed"
+}
