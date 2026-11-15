@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/procedure-for-examination-of-devices-6.1.pdf",
+ "checked": "2026-11-15T16:04:39Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/procedure-for-examination-of-devices-6.1.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 688915,
+ "secs": 3.484425,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "34b7ff86eb1a",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 38,
+ "pdf_meta": {
+  "Title": "נוהל לבחינה של התקני תנועה ובטיחות",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Mon Aug  8 23:50:01 2022 UTC",
+  "ModDate": "Wed Aug 10 11:07:43 2022 UTC"
+ },
+ "fonts_uni_no": 13,
+ "sha256": "b1ec2b9d22566b4a48e5218f116ec0de9d9d195f998d6dca7317ec3a036c2068",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/34b7ff86eb1a.pdf",
+ "fix_log": [
+  "words=779 unknown=32 fixed=1"
+ ],
+ "image_pages": 1,
+ "table_pages": 11,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 86,
+ "lowconf_pages": [],
+ "text_pages": 38,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}

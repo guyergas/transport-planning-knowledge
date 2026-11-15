@@ -1,0 +1,21 @@
+{
+ "url": "https://inbart.net.technion.ac.il/%D7%9E%D7%93%D7%A8%D7%99%D7%9B%D7%99%D7%9D-%D7%9C%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9/",
+ "checked": "2026-11-15T14:53:13Z",
+ "status": 200,
+ "final_url": "https://inbart.net.technion.ac.il/%D7%9E%D7%93%D7%A8%D7%99%D7%9B%D7%99%D7%9D-%D7%9C%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9/",
+ "content_type": "text/html; charset=UTF-8",
+ "redirects": 0,
+ "bytes": 47116,
+ "secs": 3.330945,
+ "server": "",
+ "tries": [
+  200
+ ],
+ "id": "72b4034c558e",
+ "kind": "html",
+ "result": "ok",
+ "title": "מדריכים למשתמש – מערכת ענבר – עיצוב וניהול בקרת רמזורים",
+ "file_links": [],
+ "all_links": 23,
+ "unknown_file_links": []
+}

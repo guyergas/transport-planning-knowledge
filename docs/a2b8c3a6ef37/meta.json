@@ -1,15 +1,22 @@
 {
  "url": "https://mavat.iplan.gov.il/SV4/1/99006598/310",
- "checked": "2026-11-15T12:39:57Z",
+ "checked": "2026-11-15T14:53:09Z",
  "status": 200,
  "final_url": "https://mavat.iplan.gov.il/SV4/1/99006598/310",
  "content_type": "text/html",
  "redirects": 0,
  "bytes": 11719,
- "secs": 1.013289,
+ "secs": 1.016462,
  "server": "",
+ "tries": [
+  200
+ ],
  "id": "a2b8c3a6ef37",
  "kind": "html",
  "result": "ok",
- "title": "מידע תכנוני - מינהל התכנון"
+ "title": "מידע תכנוני - מינהל התכנון",
+ "file_links": [],
+ "all_links": 0,
+ "new_file_links": [],
+ "unknown_file_links": []
 }

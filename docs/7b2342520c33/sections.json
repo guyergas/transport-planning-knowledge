@@ -1,0 +1,77 @@
+{
+ "front": {
+  "dates": [
+   "ינואר 1984"
+  ],
+  "publisher": [
+   "נתיבי התנועה שנוצרים (ראה סעיף 77.6 ג').",
+   "משרד התחבורה - ינואר 1984\" בעת כתיבת שורות אלה מצויות ב",
+   "משרד התחבורה",
+   "משרד התחבורה מעדכן את ההנחיות הישראליות לתכנון וביצוע פ"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "20": "4"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "תנפקיד/יעוד אמצעי הריסון",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "סוגי אמצעי הריסון",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "3",
+   "title": "פסי האטה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "4",
+   "title": "נתונים נדרשים לבחירת אמצעי ריסון התנועה המתאים",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "5",
+   "title": "סימון ותימרור",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "6",
+   "title": "אמצעי ריסון אופייניים",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 10
+  },
+  {
+   "num": "7",
+   "title": "2 ל 0",
+   "chapter": null,
+   "start": 11,
+   "level": 1,
+   "end": 23
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,20 @@
+{
+ "front": {
+  "dates": [
+   "2020",
+   "2022",
+   "2026"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "משרד התחבורה, שאוסף ספירות תנועה שבוצעו באופן מזדמן בצמ",
+   "משרד התחבורה.",
+   "משרד התחבורה ומוגדרות גיאוגרפית ע\"פ קואורדינטה וזרועות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

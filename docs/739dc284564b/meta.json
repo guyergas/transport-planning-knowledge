@@ -1,0 +1,48 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/outline_use_buses_right_hand_side_intercity_roads",
+ "checked": "2026-11-15T16:18:43Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/outline_use_buses_right_hand_side_intercity_roads",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5185,
+ "secs": 0.126552,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "739dc284564b",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון שול לתחבורה ציבורית (שות\"צ) בדרכים בין-עירוניות משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/3.1 מ.pdf",
+   "text": "הנחיות לתכנון שול (שות\"צ) לתחבורה ציבורית מהדורה 3.1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/שול לתחבצ - בין עירוניות.pdf",
+   "text": "הנחיות לתכנון שול (שות\"צ) לתחבורה ציבורית מהדורה שלישית"
+  }
+ ],
+ "all_links": 47,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/3.1 מ.pdf",
+   "text": "הנחיות לתכנון שול (שות\"צ) לתחבורה ציבורית מהדורה 3.1"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/outline_use_buses_right_hand_side_intercity_roads/he/שול לתחבצ - בין עירוניות.pdf",
+   "text": "הנחיות לתכנון שול (שות\"צ) לתחבורה ציבורית מהדורה שלישית"
+  }
+ ]
+}

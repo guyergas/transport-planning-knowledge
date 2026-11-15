@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/essential_ways/he/DerechHiyunitTzav.pdf",
- "checked": "2026-11-15T13:37:01Z",
+ "checked": "2026-11-15T16:04:30Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/essential_ways/he/DerechHiyunitTzav.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 11984,
- "secs": 0.221417,
+ "secs": 0.470149,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "1af572caf5d8",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 1,
  "pdf_meta": {
   "Title": "",
@@ -25,6 +29,12 @@
  "fix_log": [
   "words=114 unknown=12 fixed=0"
  ],
+ "image_pages": 1,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [],
  "text_pages": 1,
  "ocr_pages": 1,
  "layer": "broken"

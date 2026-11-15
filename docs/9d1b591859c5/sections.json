@@ -1,0 +1,71 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2009",
+   "2000",
+   "2009"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכי",
+   "מינהל היבשה /אג\u0013 תכנו\u0012 תחבורתי",
+   "משרד התחבורה והבטיחות",
+   "מינהל היבשה, משרד התחבורה = יו\"ר"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  3
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "2",
+   "title": "תיאור מערכת התראה",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "3",
+   "title": "דרישות למערכת התראה",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 6
+  },
+  {
+   "num": "4",
+   "title": "מסמכים נדרשים לבחינה ולאישור של מערכת התראה",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 7
+  },
+  {
+   "num": "5",
+   "title": "= אחריות היבואן/הספק",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "6",
+   "title": "שימוש במערכת התראה",
+   "chapter": null,
+   "start": 8,
+   "level": 1,
+   "end": 12
+  }
+ ],
+ "coverage": "sections"
+}

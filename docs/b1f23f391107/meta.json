@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/2023_2024_cost_accidents_israel/he/%D7%A2%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%A9%D7%A7%D7%99%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%AA%D7%90%D7%95%D7%A0%D7%95%D7%AA%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%202023-2024.pdf",
+ "checked": "2026-11-15T16:18:59Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/2023_2024_cost_accidents_israel/he/%D7%A2%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%A9%D7%A7%D7%99%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%AA%D7%90%D7%95%D7%A0%D7%95%D7%AA%20%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%202023-2024.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 710932,
+ "secs": 3.922543,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b1f23f391107",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 11,
+ "pdf_meta": {
+  "Title": "הרשות הלאומית לבטיחות בדרכים",
+  "Producer": "Microsoft® Word עבור Microsoft 365",
+  "Creator": "Microsoft® Word עבור Microsoft 365",
+  "CreationDate": "Sun Apr 20 05:31:39 2025 UTC",
+  "ModDate": "Sun Apr 20 05:31:39 2025 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "3336b544dd2e54b32540acffb7ddebeca211ff3e66b891226031214218954e67",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b1f23f391107.pdf",
+ "fix_log": [
+  "words=720 unknown=26 fixed=0"
+ ],
+ "image_pages": 11,
+ "table_pages": 2,
+ "figure_ocr_pages": 10,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 90,
+ "lowconf_pages": [],
+ "text_pages": 11,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

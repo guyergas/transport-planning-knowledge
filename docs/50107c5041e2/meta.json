@@ -1,0 +1,21 @@
+{
+ "url": "https://eshed-mtl.co.il/documents/340/request",
+ "checked": "2026-11-15T15:51:52Z",
+ "status": 200,
+ "final_url": "https://eshed-mtl.co.il/documents/340/request",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 43035,
+ "secs": 1.136345,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "50107c5041e2",
+ "kind": "html",
+ "result": "ok",
+ "title": "בקשה לקבלת העתק דיגיטאלי של מסמך",
+ "file_links": [],
+ "all_links": 41,
+ "unknown_file_links": []
+}

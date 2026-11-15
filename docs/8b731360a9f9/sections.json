@@ -20,6 +20,39 @@
  "toc_pages": [
   4
  ],
- "sections": [],
- "coverage": "page-only"
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "1.2",
+   "title": "מטרה",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "1.3",
+   "title": "חלות",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "1.4",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 8
+  }
+ ],
+ "coverage": "sections"
 }
