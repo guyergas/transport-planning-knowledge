@@ -3,6 +3,11 @@
 Why: the session egress blocks gov.il, apps.land.gov.il, data.gov.il, olaw, eshed, etc. (403 policy).
 github.com is open. So GitHub Actions downloads, the session reads results from GitHub.
 
+## Start here: one command
+`python3 tools/ask.py "<question words>" [-n 8] [--doc <id>] [--json]` → per hit: document (sheet title) · sheet record ·
+chapter · section · printed page · PDF page · `URL#page=N` · warnings (table/figure → image, low OCR conf, older edition,
+newer doc in record) · snippet. Then read the hit pages (and the page image when warned) and answer with the citation.
+
 ## Read (no push rights needed)
 - `git clone --depth 1 https://github.com/guyergas/transport-planning-knowledge`
 - `index.jsonl` — one line per document: id, url, final_url, kind, title, pages, layer (ok/mixed/broken), ocr_pages, asset.
