@@ -460,6 +460,45 @@ def build_status():
                 fi.write(json.dumps(row, ensure_ascii=False) + '\n')
 
 
+def build_pending():
+    """pending.md: everything that waits for Guy's decision, newest check first.
+    Per unresolved link: sheet record + title, reason chain, and replacement candidates ranked by title-word overlap."""
+    recs, by_url = sheet_maps()
+    words = lambda t: {w for w in re.findall(r'[א-תA-Za-z0-9.]{3,}', t or '')}
+    rows = [json.loads(l) for l in open(os.path.join(ROOT, 'inaccessible.jsonl'), encoding='utf-8')] if os.path.exists(os.path.join(ROOT, 'inaccessible.jsonl')) else []
+    last = {}
+    for f in glob.glob(os.path.join(ROOT, 'results', '*.jsonl')):
+        for l in open(f, encoding='utf-8'):
+            r = json.loads(l); u = r['url'].split('#')[0]
+            if (r.get('checked') or '') >= (last.get(u, {}).get('checked') or ''):
+                last[u] = r
+    rp = os.path.join(ROOT, 'sheet', 'replacements.jsonl')
+    decided = {json.loads(l)['old']: json.loads(l) for l in open(rp, encoding='utf-8')} if os.path.exists(rp) else {}
+    out = ['# ממתין להחלטה', '', 'נבנה אוטומטית בסוף כל ריצה. לכל קישור שלא נפתח: הרשומה, הסיבה, והצעות לתחליף (אם נמצאו).',
+           'כדי להחליט: כתוב בשיחה "שורה N → קישור" (או "להסיר" / "ידני"), ואני אעדכן את הריפו והגיליון.', '']
+    for row in sorted(rows, key=lambda r: (r.get('sheet') or ['~'])[0]):
+        u = row['url']; r = last.get(u, {})
+        if u not in by_url:
+            continue  # probes / old forms no longer in the sheet
+        title = '; '.join(f"{i} — {recs.get(i, {}).get('title', '')}" for i in row.get('sheet') or []) or '(לא בגיליון)'
+        out.append(f"## {title}")
+        out.append(f"- קישור: [{urllib.parse.unquote(u)[-80:]}]({u})")
+        if u in decided:
+            out.append(f"- הוחלט ({decided[u].get('by', '')}): {decided[u].get('kind', '')} → [{urllib.parse.unquote(decided[u]['new']).split('/')[-1][:70]}]({decided[u]['new']}) — ממתין לעדכון הגיליון")
+            out.append('')
+            continue
+        out.append(f"- סיבה: {row.get('result')} · שרת {row.get('server') or '-'} · דפדפן {row.get('browser') or '-'} · ארכיון {row.get('archive') or '-'} · נבדק {row.get('checked', '')[:10]}")
+        tw = words(' '.join(recs.get(i, {}).get('title', '') for i in row.get('sheet') or []))
+        cands = sorted(r.get('candidates') or [], key=lambda c: -len(words(c.get('text', '') + ' ' + urllib.parse.unquote(c.get('url', ''))) & tw))
+        for c in cands[:5]:
+            if c.get('url'):
+                out.append(f"  - הצעה: [{(c.get('text') or '').strip()[:70] or urllib.parse.unquote(c['url']).split('/')[-1][:70]}]({c['url']})")
+        if not cands:
+            out.append('  - אין הצעה אוטומטית')
+        out.append('')
+    open(os.path.join(ROOT, 'pending.md'), 'w', encoding='utf-8').write('\n'.join(out))
+
+
 def build_index():
     recs, by_url = sheet_maps()
     rows = []
@@ -721,6 +760,7 @@ def main():
         dedupe()
         build_index()
         build_status()
+        build_pending()
         return
     shard = int(os.environ.get('SHARD', '0'))
     if shard == 0:

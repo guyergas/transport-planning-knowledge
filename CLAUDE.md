@@ -40,6 +40,7 @@ index.jsonl per doc: `sheet_records` (id, title, section, status), `sheet_desc`,
 
 ## Access status (rebuilt every run)
 - `status.jsonl`: latest check per URL (result, http status, via=browser|wayback, server, sheet record + rows, checked date).
+- `pending.md`: everything waiting for Guy (unresolved sheet links + reason + ranked candidates; decided ones marked "הוחלט — ממתין לעדכון הגיליון"). Guy answers in chat "שורה N → link".
 - `inaccessible.jsonl`: URLs still not readable, with the reason chain: curl → Chromium (`browser`) → Internet Archive (`archive`).
 - Pacing: ≥6 s between gov.il hits per runner (others 1.5 s). On 403/429/503: retry after ~90 s, then ~240 s; then 60–90 s cool-down → Chromium. Waits never block a shard: the queue (run_queue) works on other hosts / OCR meanwhile → newest Wayback snapshot (`via: wayback`, result `ok (archive copy YYYYMMDD)` —
   cite it as an archive copy and prefer an official URL when one is found).

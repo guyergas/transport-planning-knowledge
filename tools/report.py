@@ -44,6 +44,7 @@ def main(name):
     if low:
         out += ['## Low OCR confidence (read these pages from the image)', '']
         out += [f"- {r.get('id')} pages {r['lowconf_pages'][:30]} — {r['url']}" for r in low]
+    out += ['', '## Waiting for Guy', f"See pending.md: https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'guyergas/transport-planning-knowledge')}/blob/main/pending.md"]
     print('\n'.join(out))
 
 
