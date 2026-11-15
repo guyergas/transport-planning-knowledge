@@ -1,12 +1,7 @@
 # ממתין להחלטה
 
 נבנה אוטומטית בסוף כל ריצה. לכל קישור שלא נפתח: הרשומה, הסיבה, והצעות לתחליף (אם נמצאו).
-כדי להחליט: כתוב בשיחה "שורה N → קישור" (או "להסיר" / "ידני"), ואני אעדכן את הריפו והגיליון.
-
-## שורה 167 — מערכת ענבר – מדריך למשתמש – גירסה 16
-- קישור: [al/inbart_technion_ac_il/EUz2et76_pdCnltOaIg2UFkB7zWH6-0qV8lNq_cj4Cle7A?e=cRYlEd](https://technionmail-my.sharepoint.com/%3Ab%3A/g/personal/inbart_technion_ac_il/EUz2et76_pdCnltOaIg2UFkB7zWH6-0qV8lNq_cj4Cle7A?e=cRYlEd)
-- סיבה: login · שרת - · דפדפן - · ארכיון - · נבדק 2026-11-15
-  - אין הצעה אוטומטית
+כדי להחליט: כתוב בשיחה "שורה N → קישור" (או "להסיר" / "ידני"), ואני אעדכן את הריפו.
 
 ## שורה 52 — הנחיות לתכן גיאומטרי דרכים בינעירוניות – II צמתים
 - קישור: [https://www.iroads.co.il/מידע-לספקים/הנחיות-תכנון-וביצוע/](https://www.iroads.co.il/%D7%9E%D7%99%D7%93%D7%A2-%D7%9C%D7%A1%D7%A4%D7%A7%D7%99%D7%9D/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%95%D7%91%D7%99%D7%A6%D7%95%D7%A2/)
@@ -20,11 +15,6 @@
 
 ## שורה 87 — התעתיק מעברית לאותיות לטיניות, התעתיק מערבית לעברית
 - קישור: [https://hebrew-academy.org.il/wp-content/uploads/Transcription2_5.pdf](https://hebrew-academy.org.il/wp-content/uploads/Transcription2_5.pdf)
-- סיבה: error 403 · שרת cloudflare · דפדפן 403 · ארכיון 429 · נבדק 2026-11-15
-  - אין הצעה אוטומטית
-
-## שורה 87 — התעתיק מעברית לאותיות לטיניות, התעתיק מערבית לעברית
-- קישור: [https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf](https://hebrew-academy.org.il/wp-content/uploads/taatik-arabic-ivrit-2025-1.pdf)
 - סיבה: error 403 · שרת cloudflare · דפדפן 403 · ארכיון 429 · נבדק 2026-11-15
   - אין הצעה אוטומטית
 

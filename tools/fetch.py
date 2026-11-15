@@ -476,19 +476,31 @@ def latest_results():
     return last
 
 
+def stored_urls():
+    """Unquoted URLs that already have a stored document (fetched or uploaded by hand)."""
+    have = set()
+    for m in glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json')):
+        r = json.load(open(m))
+        if r.get('pages') or r.get('asset') or r.get('source'):
+            have |= {urllib.parse.unquote(v.split('#')[0]) for v in [r.get('url'), r.get('final_url')] + r.get('aliases', []) if v}
+    return have
+
+
 def settled_replacements(last=None):
     """Old URLs Guy already replaced AND whose new URL now opens: never re-check or re-report them."""
     rp = os.path.join(ROOT, 'sheet', 'replacements.jsonl')
     if not os.path.exists(rp):
         return {}
     last = last if last is not None else latest_results()
+    have = stored_urls()
     out = {}
     for l in open(rp, encoding='utf-8'):
         x = json.loads(l)
         if x.get('deferred'):
             continue
-        if str(last.get(x['new'].split('#')[0], {}).get('result', '')).startswith(('ok', 'redirect')):
-            out[x['old'].split('#')[0]] = x
+        n = x['new'].split('#')[0]
+        if str(last.get(n, {}).get('result', '')).startswith(('ok', 'redirect')) or urllib.parse.unquote(n) in have:
+            out[x['old'].split('#')[0]] = x  # new URL opens, or a copy is already stored (manual upload)
     return out
 
 
@@ -507,19 +519,19 @@ def build_pending():
     rp = os.path.join(ROOT, 'sheet', 'replacements.jsonl')
     decided = {json.loads(l)['old']: json.loads(l) for l in open(rp, encoding='utf-8')} if os.path.exists(rp) else {}
     settled = settled_replacements()
+    have = stored_urls()
     out = ['# ממתין להחלטה', '', 'נבנה אוטומטית בסוף כל ריצה. לכל קישור שלא נפתח: הרשומה, הסיבה, והצעות לתחליף (אם נמצאו).',
-           'כדי להחליט: כתוב בשיחה "שורה N → קישור" (או "להסיר" / "ידני"), ואני אעדכן את הריפו והגיליון.', '']
+           'כדי להחליט: כתוב בשיחה "שורה N → קישור" (או "להסיר" / "ידני"), ואני אעדכן את הריפו.', '']
     for row in sorted(rows, key=lambda r: (r.get('sheet') or ['~'])[0]):
         u = row['url']; r = last.get(u, {})
         if u not in by_url:
             continue  # probes / old forms no longer in the sheet
-        title = '; '.join(f"{i} — {recs.get(i, {}).get('title', '')}" for i in row.get('sheet') or []) or '(לא בגיליון)'
+        if u in settled or urllib.parse.unquote(u) in have:
+            continue  # decided and the replacement works, or a copy is stored: nothing to ask
+        title = '; '.join(f"{i} — {recs.get(i, {}).get('title', '')}" for i in row.get('sheet') or []) or '(לא ברשומות)'
         out.append(f"## {title}")
         out.append(f"- קישור: [{urllib.parse.unquote(u)[-80:]}]({u})")
-        if u in settled:
-            continue  # decided and the replacement works: nothing to ask
         if decided.get(u, {}).get('deferred'):
-            out.append(f"## {'; '.join(f'{i} — ' + recs.get(i, {}).get('title', '') for i in row.get('sheet') or [])}")
             out.append(f"- נדחה לבינתיים: {decided[u]['kind']}"); out.append('')
             continue
         if u in decided:
