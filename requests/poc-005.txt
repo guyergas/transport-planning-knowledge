@@ -1,0 +1,4 @@
+# shards=2
+https://www.online.mod.gov.il/Online2016/Documents/General/Binuy/Instructions/IdfCampInst.pdf
+https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HIGHWAY%20CAPACITY%20MANUAL%207th%20Edition.pdf pages=toc
+https://www.gov.il/he/departments/general/world_guide_hcm

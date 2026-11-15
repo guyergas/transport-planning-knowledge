@@ -29,6 +29,8 @@ def docid(url):
 def parse_pages(spec, n):
     if not spec:
         return list(range(1, n + 1))
+    if spec == 'toc':  # index-only: front matter + last pages
+        return sorted(set(range(1, min(n, 15) + 1)) | set(range(max(1, n - 2), n + 1)))
     out = []
     for part in spec.split(','):
         a, _, b = part.partition('-')
@@ -127,6 +129,8 @@ def check_layer(txt):
     junk = len(re.findall(r'[\$\+]{2,}|[ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþ]', txt))
     if len(txt.strip()) < 30:
         return 'empty'
+    if len(words) >= 30 and end / len(words) < 0.05:
+        return 'garbled'  # final letters dropped (broken font map)
     if (start > end and start >= 3) or bad > 20 or junk > 15 or (heb < 50 and len(txt.strip()) > 200 and not re.search(r'[A-Za-z]{4,}\s+[A-Za-z]{4,}', txt)):
         return 'garbled'
     return 'ok'
@@ -174,6 +178,7 @@ def process_pdf(rec, path, pages_spec, did):
     layer, need = {}, []
     for p in pages:
         t = sh(['pdftotext', '-layout', '-f', str(p), '-l', str(p), path, '-']).stdout
+        t = re.sub(r'[\u200e\u200f\u202a-\u202e\u2066-\u2069]', '', t)  # bidi controls
         st = check_layer(t)
         if uni_no and st == 'ok' and len(re.findall(r'[א-ת]', t)) < 50:
             st = 'garbled'  # uni=no fonts: trust the layer only where real Hebrew came out
@@ -200,17 +205,45 @@ def process_pdf(rec, path, pages_spec, did):
     return raw
 
 
-def main():
-    os.makedirs(os.path.join(ROOT, 'results'), exist_ok=True)
+def pending():
+    """Request files with no results yet, and their shard count ('# shards=N' line, default 1)."""
+    out = []
     for req in sorted(glob.glob(os.path.join(ROOT, 'requests', '*.txt'))):
         name = os.path.splitext(os.path.basename(req))[0]
-        res = os.path.join(ROOT, 'results', name + '.jsonl')
-        if os.path.exists(res):
+        if glob.glob(os.path.join(ROOT, 'results', name + '*.jsonl')):
             continue
+        m = re.search(r'^#\s*shards=(\d+)', open(req, encoding='utf-8').read(), re.M)
+        out.append((name, req, min(int(m.group(1)), 20) if m else 1))
+    return out
+
+
+def build_index():
+    with open(os.path.join(ROOT, 'index.jsonl'), 'w', encoding='utf-8') as f:
+        for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
+            r = json.load(open(m))
+            keep = {k: r.get(k) for k in ('id', 'url', 'final_url', 'kind', 'title', 'pages', 'layer', 'text_pages', 'ocr_pages', 'asset', 'sha256', 'checked')}
+            keep['pdf_title'] = (r.get('pdf_meta') or {}).get('Title')
+            f.write(json.dumps(keep, ensure_ascii=False) + '\n')
+
+
+def main():
+    os.makedirs(os.path.join(ROOT, 'results'), exist_ok=True)
+    if sys.argv[1:2] == ['matrix']:  # used by the workflow to size the job matrix
+        n = max([s for _, _, s in pending()] or [1])
+        print(json.dumps({'shard': list(range(n))}))
+        return
+    if sys.argv[1:2] == ['index']:
+        build_index()
+        return
+    shard = int(os.environ.get('SHARD', '0'))
+    for name, req, nshard in pending():
+        if shard >= nshard:
+            continue
+        res = os.path.join(ROOT, 'results', f'{name}.{shard}.jsonl' if nshard > 1 else f'{name}.jsonl')
         recs = []
-        for line in open(req, encoding='utf-8'):
-            line = line.strip()
-            if not line or line.startswith('#'):
+        lines = [l.strip() for l in open(req, encoding='utf-8') if l.strip() and not l.startswith('#')]
+        for i, line in enumerate(lines):
+            if i % nshard != shard:
                 continue
             parts = line.split()
             url, opts = parts[0], dict(p.split('=', 1) for p in parts[1:] if '=' in p)
@@ -245,13 +278,6 @@ def main():
         with open(res, 'w', encoding='utf-8') as f:
             for r in recs:
                 f.write(json.dumps(r, ensure_ascii=False) + '\n')
-    # rebuild index
-    with open(os.path.join(ROOT, 'index.jsonl'), 'w', encoding='utf-8') as f:
-        for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
-            r = json.load(open(m))
-            keep = {k: r.get(k) for k in ('id', 'url', 'final_url', 'kind', 'title', 'pages', 'layer', 'text_pages', 'ocr_pages', 'asset', 'sha256', 'checked')}
-            keep['pdf_title'] = (r.get('pdf_meta') or {}).get('Title')
-            f.write(json.dumps(keep, ensure_ascii=False) + '\n')
 
 
 if __name__ == '__main__':
