@@ -1,0 +1,43 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah5.pdf",
+ "checked": "2026-11-15T15:03:00Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/HandasaMitunTnuah5.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 5955190,
+ "secs": 13.563371,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "d3e418598eee",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 10,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe Photoshop for Macintosh",
+  "Creator": "Adobe Photoshop 6.0 ME",
+  "CreationDate": "Sun Nov 28 10:47:34 2004 UTC",
+  "ModDate": "Sun Nov 28 10:48:15 2004 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "e316c3b408f9b28bab36663c209584afba84307c88b988b890fa4498b7cdd12c",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d3e418598eee.pdf",
+ "fix_log": [
+  "words=1037 unknown=26 fixed=1"
+ ],
+ "image_pages": 10,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [
+  1,
+  10
+ ],
+ "text_pages": 10,
+ "ocr_pages": 10,
+ "layer": "broken"
+}

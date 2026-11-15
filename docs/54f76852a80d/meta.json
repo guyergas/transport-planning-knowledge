@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_ashkelon_sub-district/he/hovert_sketch_doch_mesakem_Ashkelon.pdf",
- "checked": "2026-11-15T12:16:03Z",
+ "checked": "2026-11-15T14:52:29Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_ashkelon_sub-district/he/hovert_sketch_doch_mesakem_Ashkelon.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 8344456,
- "secs": 11.817743,
+ "secs": 19.699459,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "54f76852a80d",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 65,
  "pdf_meta": {
   "Title": "תוכנית אסטרטגית 2040 להסעת המונים ולתחבורה ציבורית בנפת אשקלון",
@@ -23,7 +27,15 @@
  "sha256": "f7042a6071ab5abe496076a8f6656f8fc6cbf925121afdef9eb32cde77a18bf3",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/54f76852a80d.pdf",
  "fix_log": [
-  "words=2994 unknown=151 fixed=3"
+  "words=3412 unknown=271 fixed=14"
+ ],
+ "image_pages": 58,
+ "table_pages": 13,
+ "figure_ocr_pages": 57,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [
+  5
  ],
  "text_pages": 65,
  "ocr_pages": 3,

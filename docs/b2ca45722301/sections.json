@@ -1,0 +1,54 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2012",
+   "2012"
+  ],
+  "publisher": [
+   "משרד התחבורה,",
+   "אגף תכנון תחבורתי                               מנהל ה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "3": "18",
+  "4": "38",
+  "5": "40"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "2.7",
+   "title": "תנאי גבול עליון לתפעול מפגשים במפלס אחד",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "3.5",
+   "title": "אבטחת תנאי ראות במפגש מסילה",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "3.5.1",
+   "title": "אבטחת תנאי ראות במפגש לא מבוקר",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "3.5.2",
+   "title": "אבטחת תנאי ראות במפגש מבוקר",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 5
+  }
+ ],
+ "coverage": "sections"
+}

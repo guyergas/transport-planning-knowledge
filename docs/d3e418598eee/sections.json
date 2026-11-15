@@ -1,0 +1,41 @@
+{
+ "front": {
+  "publisher": [
+   "רשות\nהמקומית.",
+   "רשות\nהמקומית, בתמיכה רחבה ככל האפשר מצד הציבור (הקהילות",
+   "רשות המקומית, ולא יינתנו מראש הנחיות ברורות בסוגיות אלה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "6": "55"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מהלך הניתוח הכוללני",
+   "chapter": null,
+   "start": 3,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "2",
+   "title": "מהלך הניתוח הפרטני",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "3",
+   "title": "הכנת תכנית אזורי מיתון תנועה",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 10
+  }
+ ],
+ "coverage": "sections"
+}

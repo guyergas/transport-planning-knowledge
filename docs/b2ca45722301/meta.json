@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/railroad_crossing/he/RailroadCrossing_Second_Update.pdf",
+ "checked": "2026-11-15T15:06:34Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/railroad_crossing/he/RailroadCrossing_Second_Update.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 97814,
+ "secs": 0.494711,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b2ca45722301",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 5,
+ "pdf_meta": {
+  "Title": "גרסה סופית של עדכון מס' 2 להנחיות לתכנון מפגשים - משולשי ראות ותנאי סף למפגש במפלס אחד",
+  "Producer": "Microsoft® Office Word 2007",
+  "Creator": "Microsoft® Office Word 2007",
+  "CreationDate": "Mon Dec 31 14:53:30 2012 UTC",
+  "ModDate": "Mon Jan 28 11:45:40 2013 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "e01e98e36c5a30cdb57ac72173021cd51efb351abaf2fd4712f73dfee12da087",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b2ca45722301.pdf",
+ "image_pages": 1,
+ "table_pages": 0,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 5,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

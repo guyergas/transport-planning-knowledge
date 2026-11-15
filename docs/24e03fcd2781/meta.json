@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/uniform_format_traffic_counts",
+ "checked": "2026-11-15T15:12:35Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/uniform_format_traffic_counts",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.042643,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "24e03fcd2781",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "פורמט אחוד לספירות תנועה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/פורמט אחוד ספירות תנועה_גרסה_3.1.pdf",
+   "text": "פורמט אחוד ספירות תנועה"
+  }
+ ],
+ "all_links": 48,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/פורמט אחוד ספירות תנועה_גרסה_3.1.pdf",
+   "text": "פורמט אחוד ספירות תנועה"
+  }
+ ]
+}

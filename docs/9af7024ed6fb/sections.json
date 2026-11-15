@@ -1,0 +1,89 @@
+{
+ "front": {
+  "dates": [
+   "נובמבר 2009",
+   "1993"
+  ],
+  "publisher": [
+   "משרד התחבורה והבטיחות בדרכים",
+   "מינהל היבשה /אגף תכנון תחבורתי",
+   "משרד התחבורה",
+   "מינהל היבשה, משרד התחבורה – יו\"ר       –"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "4": "1",
+  "16": "13",
+  "17": "14",
+  "18": "15"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "7",
+   "title": "",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 0,
+   "end": 18
+  },
+  {
+   "num": "7.1",
+   "title": "רשימת הגדרות ומונחים",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "7.2",
+   "title": "רשימת תקנים ופרטים",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "7.3",
+   "title": "רשימת ציוד מוכר",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "7.5",
+   "title": "אפיון הבדיקות הפוטומטריות",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "7.6",
+   "title": "אפיון מכשירי המדידה",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "7.7",
+   "title": "מראי מקום",
+   "chapter": "פרק 7",
+   "start": 3,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "20",
+   "title": "קמ\"ש",
+   "chapter": "פרק 7",
+   "start": 6,
+   "level": 1,
+   "end": 18
+  }
+ ],
+ "coverage": "sections"
+}

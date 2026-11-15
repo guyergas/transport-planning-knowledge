@@ -1,0 +1,55 @@
+{
+ "url": "https://rishonlezion.complot.co.il/wp-content/uploads/2025/10/%D7%A7%D7%95%D7%91%D7%A5-%D7%94%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-12062.pdf",
+ "checked": "2026-11-15T15:04:01Z",
+ "status": 200,
+ "final_url": "http://web.archive.org/web/20260203163955id_/https://rishonlezion.complot.co.il/wp-content/uploads/2025/10/%D7%A7%D7%95%D7%91%D7%A5-%D7%94%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-12062.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 132227,
+ "secs": 0.308837,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "6872e998948e",
+ "kind": "pdf",
+ "result": "ok (archive copy 20260203)",
+ "browser": {
+  "url": "https://rishonlezion.complot.co.il/wp-content/uploads/2025/10/%D7%A7%D7%95%D7%91%D7%A5-%D7%94%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-12062.pdf",
+  "status": 403,
+  "final_url": "https://rishonlezion.complot.co.il/wp-content/uploads/2025/10/%D7%A7%D7%95%D7%91%D7%A5-%D7%94%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-12062.pdf",
+  "content_type": "text/html; charset=UTF-8",
+  "redirects": 0
+ },
+ "archive_snapshot": "20260203163955",
+ "archive_url": "http://web.archive.org/web/20260203163955/https://rishonlezion.complot.co.il/wp-content/uploads/2025/10/%D7%A7%D7%95%D7%91%D7%A5-%D7%94%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-12062.pdf",
+ "via": "wayback",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "pages": 8,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 10.0.1",
+  "Creator": "Adobe InDesign CS6 (Windows)",
+  "CreationDate": "Sun Oct 19 06:48:27 2025 UTC",
+  "ModDate": "Tue Oct 21 12:34:37 2025 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "03aa05f2fa5dce8a2cafb62967eff6c6f2a0398b2f37356b7d2cba0d72317dd5",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-rishonlezion-complot-co-il/6872e998948e.pdf",
+ "image_pages": 1,
+ "table_pages": 5,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 8,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

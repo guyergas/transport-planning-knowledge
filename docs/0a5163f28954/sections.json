@@ -1,0 +1,39 @@
+{
+ "front": {
+  "dates": [
+   "יולי 1986",
+   "1965",
+   "יוני 1986",
+   "מאי 1986",
+   "1969"
+  ],
+  "publisher": [
+   "רשות תימרורמרכזית | . . . . . 2850",
+   "משרד\nמזכיר הממשלה הבטחון = בטל *.",
+   "המועצה האזורית שפיר = חבר.",
+   "משרד הבטחון, לממלא"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "עמוד עמוד",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "6",
+   "title": "המחיר: איגרות החוב יימכרו לבנק ישראל במחיר 97.77",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 9
+  }
+ ],
+ "coverage": "page-only"
+}

@@ -1,0 +1,93 @@
+{
+ "front": {
+  "edition": [
+   "1.1",
+   "זו",
+   "הראשונה"
+  ],
+  "dates": [
+   "ינואר 2023",
+   "2023",
+   "יולי 2022",
+   "2022"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "משרד התחבורה",
+   "משרד התחבורה, חב' ארגו                דר' נחום פוספלד",
+   "משרד התחבורה, מומחית לבטיחות בדרכים               דר' ו"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "מהדורה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "1.2",
+   "title": "אין למקם שלט בקטע דרך אשר עלול לדרוש",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "1.5",
+   "title": "יש להימנע משלט המציג מסר ארוך ו/או מורכב",
+   "chapter": null,
+   "start": 17,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "4",
+   "title": "ספרות =  0.5יח' מידע)",
+   "chapter": null,
+   "start": 17,
+   "level": 1,
+   "end": 20
+  },
+  {
+   "num": "4.1",
+   "title": "אין להציב שלט פרסום העלול לבלבל את הנהג",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "5.1",
+   "title": "השלט לא יסתיר או יצור רקע המקטין את",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "5.2",
+   "title": "השלט לא יחסום את מרחב שדה הראייה הנחוץ",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 19
+  },
+  {
+   "num": "6.1",
+   "title": "לקטע הדרך בו מבקשים להציב את השלט יש",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 20
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,37 @@
+{
+ "url": "https://www.eshed-mtl.co.il/uploads/TAKANOT1718.pdf",
+ "checked": "2026-11-15T15:06:23Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/uploads/TAKANOT1718.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 810918,
+ "secs": 4.194374,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "d61eec7b2e8b",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 13,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Wed Aug 16 13:20:36 2023 UTC",
+  "ModDate": "Wed Aug 16 13:20:36 2023 UTC"
+ },
+ "fonts_uni_no": 10,
+ "sha256": "26a501d4a59b702788437267aa7b15ee8a78e238677117820e740c8b6061f118",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-eshed-mtl-co-il/d61eec7b2e8b.pdf",
+ "image_pages": 5,
+ "table_pages": 0,
+ "figure_ocr_pages": 5,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 13,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

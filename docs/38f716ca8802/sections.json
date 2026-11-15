@@ -1,0 +1,19 @@
+{
+ "front": {
+  "publisher": [
+   "הרשות המקומית אשר גם אחראית על ביצוע המעקב במידה",
+   "משרד התחבורה.",
+   "הרשות המקומית או",
+   "משרד התחבורה מסמכים אשר מאשרים את ניסיון השימוש או את מ"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "2": "7",
+  "3": "52",
+  "4": "53"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

@@ -1,0 +1,140 @@
+{
+ "front": {
+  "edition": [
+   "1.0"
+  ],
+  "dates": [
+   "יוני 2025",
+   "2025",
+   "2003",
+   "2016"
+  ],
+  "publisher": [
+   "מינהל תכנון",
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה.",
+   "נתיבי ישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  5,
+  6
+ ],
+ "sections": [
+  {
+   "num": "1.0",
+   "title": "מהדורה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "6.6",
+   "title": "מערך השילוט במחלפונים",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "6.6.1",
+   "title": "שילוט בדרך העיקרית",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "6",
+   "title": "מערכי שילוט במחלפים",
+   "chapter": null,
+   "start": 7,
+   "level": 1,
+   "end": 29
+  },
+  {
+   "num": "6.6.2",
+   "title": "שילוט בדרך המשנית",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "6.6.3",
+   "title": "מערכת מחלפונים",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "6.7",
+   "title": "הסתעפות בפניות ימינה-ימינה בדרך ממוחלפת",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "6.8",
+   "title": "שלט יעדים נוספים",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "7.4",
+   "title": "מחלפים",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "7.4.6",
+   "title": "שלט \"היציאות הבאות\"",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "8.3",
+   "title": "הנחיות לתכנון מפורט לפי סוג השלט",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "8.3.5",
+   "title": "שלט \"היציאות הבאות\"",
+   "chapter": null,
+   "start": 13,
+   "level": 3,
+   "end": 27
+  },
+  {
+   "num": "0.00",
+   "title": "יעד יציאה",
+   "chapter": null,
+   "start": 28,
+   "level": 2,
+   "end": 29
+  },
+  {
+   "num": "7",
+   "title": "היציאות הבאות",
+   "chapter": null,
+   "start": 30,
+   "level": 1,
+   "end": 32
+  }
+ ],
+ "coverage": "sections"
+}

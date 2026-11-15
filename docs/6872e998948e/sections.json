@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "אוקטובר 2025",
+   "2062",
+   "2025",
+   "1965",
+   "2021"
+  ],
+  "publisher": [
+   "המועצה הארצית לתכנון ולבנייה, ולעניין תקנה  - 2 לפי סעיף"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "6",
+   "title": "מקומות           10 מקומות",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 8
+  }
+ ],
+ "coverage": "page-only"
+}

@@ -1,0 +1,96 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/guidelines_using_software_plan_traffic_lights",
+ "checked": "2026-11-15T15:12:50Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/guidelines_using_software_plan_traffic_lights",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.041652,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "b97eba7ba36d",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לשימוש בתוכנות לתכנון תכניות רמזורים בישראל משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/xsd-file.xsd",
+   "text": "XSD להורדה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- מהדורה 3- עברית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים - מהדורה 3 – עברית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- מהדורה 3- אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים מהדורה 3 - אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים - נספח 1 - תוספת זמנים בין ירוקים ורמזור 2 פנסים - אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנות לתכנון רמזורים נספח 1 – תוספת זמנים בין ירוקים ורמזור 2 פנסים – אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 1- מהדורה 4 - עברית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 1- מהדורה 4 – עברית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 1- מהדורה 4- אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 1- מהדורה 4 – אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 2- מהדורה 3- עברית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 2- מהדורה 3 – עברית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 2- מהדורה 3- אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 2 – מהדורה 3 – אנגלית"
+  }
+ ],
+ "all_links": 55,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/xsd-file.xsd",
+   "text": "XSD להורדה"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- מהדורה 3- עברית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים - מהדורה 3 – עברית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- מהדורה 3- אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים מהדורה 3 - אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים - נספח 1 - תוספת זמנים בין ירוקים ורמזור 2 פנסים - אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנות לתכנון רמזורים נספח 1 – תוספת זמנים בין ירוקים ורמזור 2 פנסים – אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 1- מהדורה 4 - עברית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 1- מהדורה 4 – עברית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 1- מהדורה 4- אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 1- מהדורה 4 – אנגלית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 2- מהדורה 3- עברית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 2- מהדורה 3 – עברית"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/נוהל אישור תוכנות לתכנון רמזורים- נספח 2- מהדורה 3- אנגלית- להפצה.pdf",
+   "text": "נוהל אישור תוכנה לתכנון רמזורים נספח 2 – מהדורה 3 – אנגלית"
+  }
+ ]
+}
