@@ -11,9 +11,9 @@
   ],
   "publisher": [
    "מינהל תכנון",
-   "משרד התחבורה. אגף בכיר תכנון תחבורתל",
    "משרד התחבורה",
-   "משרד הביטחון"
+   "אגף בכיר תכנון תחבורתי",
+   "משרד התחבורה. אגף בכיר תכנון תחבורתל"
   ],
   "verify": "candidates from text; confirm on cover page image"
  },
@@ -32,15 +32,7 @@
  "sections": [
   {
    "num": "2.1",
-   "title": "1עדכון טבלה  :2.1סיפי גובה מומלצים לתכנון              סעיף",
-   "chapter": null,
-   "start": 12,
-   "level": 2,
-   "end": 12
-  },
-  {
-   "num": "2.1",
-   "title": "2הוספת פסקה על צמחיה אחרי טבלה",
+   "title": "2 הוספת פסקה על צמחיה אחרי טבלה",
    "chapter": null,
    "start": 12,
    "level": 2,
@@ -48,7 +40,7 @@
   },
   {
    "num": "2.2",
-   "title": "1עדכון תקנה לגובה הרכב                  סעיף",
+   "title": "1 עדכון תקנה לגובה הרכב                  סעיף",
    "chapter": null,
    "start": 12,
    "level": 2,
@@ -64,7 +56,7 @@
   },
   {
    "num": "5.3.4",
-   "title": "1הוספת מרחק מינימום להצבת מגביל מקובע                סעיף",
+   "title": "1 הוספת מרחק מינימום להצבת מגביל מקובע                סעיף",
    "chapter": null,
    "start": 12,
    "level": 3,
@@ -76,7 +68,39 @@
    "chapter": null,
    "start": 12,
    "level": 2,
+   "end": 12
+  },
+  {
+   "num": "1.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 13
+  },
+  {
+   "num": "1.2",
+   "title": "הגדרות בסיסיות",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "1.3",
+   "title": "מבנה ההנחיות",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
    "end": 15
+  },
+  {
+   "num": "2.1",
+   "title": "הנחיות לתכנון מרווח אנכי מדוד",
+   "chapter": null,
+   "start": 16,
+   "level": 2,
+   "end": 16
   },
   {
    "num": "5.00",
@@ -127,12 +151,132 @@
    "end": 17
   },
   {
-   "num": "4.00",
-   "title": "מונחת ומחוברת המכולה לא יעלה על  1.56מטרים",
+   "num": "2.2",
+   "title": "תקנות קיימות בנוגע לכלי הרכב ולמטען",
    "chapter": null,
    "start": 18,
    "level": 2,
+   "end": 18
+  },
+  {
+   "num": "4.00",
+   "title": "מונחת ומחוברת המכולה לא יעלה על  1.56 מטרים",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 20
+  },
+  {
+   "num": "2.5",
+   "title": "הנחיות להצבת תמרורים",
+   "chapter": null,
+   "start": 21,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "3",
+   "title": "גודל האותיו",
+   "chapter": null,
+   "start": 22,
+   "level": 1,
+   "end": 63
+  },
+  {
+   "num": "3.1",
+   "title": "גורמי מערכת נהג-רכב",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 27
+  },
+  {
+   "num": "3.2",
+   "title": "ליקויים בהסדרי תנועה בסביבת מכשול הגובה",
+   "chapter": null,
+   "start": 27,
+   "level": 2,
+   "end": 28
+  },
+  {
+   "num": "4.1",
+   "title": "הגדרת סוגי האמצעים",
+   "chapter": null,
+   "start": 29,
+   "level": 2,
+   "end": 30
+  },
+  {
+   "num": "4.1.1",
+   "title": "מגבילי גובה מקובעים",
+   "chapter": null,
+   "start": 29,
+   "level": 3,
+   "end": 29
+  },
+  {
+   "num": "4.1.2",
+   "title": "מתריעי גובה",
+   "chapter": null,
+   "start": 30,
+   "level": 3,
+   "end": 30
+  },
+  {
+   "num": "4.2",
+   "title": "שיקולים בבחירת סוג מגביל/מתריע הגובה",
+   "chapter": null,
+   "start": 31,
+   "level": 2,
+   "end": 33
+  },
+  {
+   "num": "4.2.1",
+   "title": "מגבילי גובה מקובעים",
+   "chapter": null,
+   "start": 32,
+   "level": 3,
+   "end": 32
+  },
+  {
+   "num": "4.2.2",
+   "title": "מתריעי גובה מכניים",
+   "chapter": null,
+   "start": 32,
+   "level": 3,
+   "end": 32
+  },
+  {
+   "num": "4.2.3",
+   "title": "מתריעי גובה אלקטרונים/אופטיים",
+   "chapter": null,
+   "start": 33,
+   "level": 3,
+   "end": 33
+  },
+  {
+   "num": "4.2.4",
+   "title": "סיכום השיקולים",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "4.3",
+   "title": "תכנון סלחני בהתאמת אמצעי הגבלת והתרעת גובה",
+   "chapter": null,
+   "start": 34,
+   "level": 2,
    "end": 35
+  },
+  {
+   "num": "5.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 36,
+   "level": 2,
+   "end": 36
   },
   {
    "num": "5.2",
@@ -172,7 +316,87 @@
    "chapter": null,
    "start": 36,
    "level": 2,
-   "end": 54
+   "end": 36
+  },
+  {
+   "num": "5.2",
+   "title": "הנחיות כלליות",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 37
+  },
+  {
+   "num": "5.3",
+   "title": "אמצעי התרעה והגבלת גובה והצבתם",
+   "chapter": null,
+   "start": 37,
+   "level": 2,
+   "end": 44
+  },
+  {
+   "num": "5.3.1",
+   "title": "נוהל טיפול במכשול גובה",
+   "chapter": null,
+   "start": 37,
+   "level": 3,
+   "end": 38
+  },
+  {
+   "num": "5.3.2",
+   "title": "הפרטים הטכניים הנדרשים למגבילי גובה",
+   "chapter": null,
+   "start": 39,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "5.3.3",
+   "title": "הצדקים להצבה אמצעי התרעה או הגבלת גובה",
+   "chapter": null,
+   "start": 39,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "5.3.4",
+   "title": "תנאים להצבה אמצעי התרעה או הגבלת גובה",
+   "chapter": null,
+   "start": 39,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "5.3.5",
+   "title": "מיקום אמצעי התרעה או הגבלת גובה ומרחקי ראות",
+   "chapter": null,
+   "start": 40,
+   "level": 3,
+   "end": 41
+  },
+  {
+   "num": "5.3.6",
+   "title": "בטיחות",
+   "chapter": null,
+   "start": 42,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "5.3.8",
+   "title": "תהליכי אישור",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "5.4.2",
+   "title": "תמרור אחרי נקודת החלטה",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
   },
   {
    "num": "5.4.3",
@@ -188,14 +412,78 @@
    "chapter": null,
    "start": 44,
    "level": 3,
-   "end": 54
+   "end": 44
   },
   {
-   "num": "7",
-   "title": "דוגמאות להסדרי תנועה בסביבת מכשול גובה",
+   "num": "5.4.5",
+   "title": "הסדרי מילוט אחרי נקודת החלטה אחרונה",
    "chapter": null,
-   "start": 55,
-   "level": 1,
+   "start": 44,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "5.5",
+   "title": "תחזוקה",
+   "chapter": null,
+   "start": 45,
+   "level": 2,
+   "end": 45
+  },
+  {
+   "num": "5.5.1",
+   "title": "תחזוקת מגבילי/מתריעי גובה",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.5.2",
+   "title": "תחזוקת מכשולי הגובה",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.5.3",
+   "title": "תחזוקת שילוט ותימרור",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "5.6",
+   "title": "מתודולוגיה: הצדקים והנחיות לטיפול במכשולי גובה",
+   "chapter": null,
+   "start": 46,
+   "level": 2,
+   "end": 63
+  },
+  {
+   "num": "5.6.1",
+   "title": "נוהל  :Aיישום מגביל גובה במרחקים מאולצים",
+   "chapter": null,
+   "start": 49,
+   "level": 3,
+   "end": 49
+  },
+  {
+   "num": "5.6.2",
+   "title": "נוהל  :Bיישום מתריע גובה במרחקים מאולצים",
+   "chapter": null,
+   "start": 50,
+   "level": 3,
+   "end": 50
+  },
+  {
+   "num": "5.6.3",
+   "title": "תרשימים למיקום מתריעי ומגבלי גובה",
+   "chapter": null,
+   "start": 51,
+   "level": 3,
    "end": 63
   }
  ],

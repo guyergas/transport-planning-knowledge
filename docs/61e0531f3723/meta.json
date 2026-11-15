@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/tihnun_negishut",
+ "checked": "2026-11-15T15:21:12Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/tihnun_negishut",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.062511,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "61e0531f3723",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "הנחיות לתכנון נגישות לתחנות הרכבת - סקר ספרות משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/tihnun_negishut/he/TRAFFIC_PLANNING_tihnun_negishut.pdf",
+   "text": "הנחיות לתכנון נגישות לתחנות הרכבת - סקר ספרות"
+  }
+ ],
+ "all_links": 44,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/tihnun_negishut/he/TRAFFIC_PLANNING_tihnun_negishut.pdf",
+   "text": "הנחיות לתכנון נגישות לתחנות הרכבת - סקר ספרות"
+  }
+ ]
+}

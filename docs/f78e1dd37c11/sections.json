@@ -1,0 +1,35 @@
+{
+ "front": {
+  "dates": [
+   "ספטמבר 2024",
+   "2022",
+   "2016",
+   "2017",
+   "2021"
+  ],
+  "publisher": [
+   "הרשות הלאומית לבטיחות בדרכים",
+   "הרשות הלאומית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "13": "13",
+  "14": "14",
+  "15": "15"
+ },
+ "toc_pages": [
+  2
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "/ לבטיחות בדרכים",
+   "chapter": null,
+   "start": 14,
+   "level": 1,
+   "end": 15
+  }
+ ],
+ "coverage": "page-only"
+}

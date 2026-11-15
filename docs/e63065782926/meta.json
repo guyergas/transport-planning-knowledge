@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
- "checked": "2026-11-15T13:23:20Z",
+ "checked": "2026-11-15T14:51:45Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/RestrictiveParkingPolicyHE.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 674558,
- "secs": 1.084533,
+ "secs": 2.142183,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "e63065782926",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 10,
  "pdf_meta": {
   "Title": "Microsoft Word - רוני רום א.doc",
@@ -25,6 +29,12 @@
  "fix_log": [
   "words=1166 unknown=46 fixed=1"
  ],
+ "image_pages": 3,
+ "table_pages": 2,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 83,
+ "lowconf_pages": [],
  "text_pages": 10,
  "ocr_pages": 3,
  "layer": "mixed"

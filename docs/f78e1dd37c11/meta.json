@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/reports/202409_shtachim_metim/he/publications_202409_shtachim_metim.pdf",
+ "checked": "2026-11-15T15:21:22Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/reports/202409_shtachim_metim/he/publications_202409_shtachim_metim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 688887,
+ "secs": 3.624436,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f78e1dd37c11",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 15,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word for Microsoft 365",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Sun Apr 20 08:11:50 2025 UTC",
+  "ModDate": "Sun Apr 20 08:11:50 2025 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "f00c1e0359f3fb10b30cd457d17dcffc24d35a5271c51bf44e3d6efce23f9303",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f78e1dd37c11.pdf",
+ "fix_log": [
+  "words=1111 unknown=19 fixed=1"
+ ],
+ "image_pages": 15,
+ "table_pages": 0,
+ "figure_ocr_pages": 13,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 93,
+ "lowconf_pages": [],
+ "text_pages": 15,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}

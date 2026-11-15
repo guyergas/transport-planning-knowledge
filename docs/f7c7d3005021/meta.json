@@ -1,0 +1,53 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/hanhayot_leramzorim.pdf",
+ "checked": "2026-11-15T15:15:01Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/hanhayot_leramzorim.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 2395353,
+ "secs": 7.285814,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "f7c7d3005021",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 63,
+ "pdf_meta": {
+  "Title": "Design guidelines for Signalized Intersections",
+  "Producer": "The Producer",
+  "Creator": "The Creator",
+  "CreationDate": "Tue Feb  4 10:56:57 2003 UTC",
+  "ModDate": "Mon Apr  7 17:42:38 2003 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "90129a3573d6520c0a0814349f2e1d22fb4598f1efd428ac66eebacd48330b80",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f7c7d3005021.pdf",
+ "fix_log": [
+  "words=2957 unknown=284 fixed=14"
+ ],
+ "image_pages": 63,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 81,
+ "lowconf_pages": [
+  4,
+  15,
+  19,
+  24,
+  39,
+  50,
+  51,
+  52,
+  56,
+  57,
+  60,
+  61
+ ],
+ "text_pages": 63,
+ "ocr_pages": 63,
+ "layer": "broken"
+}

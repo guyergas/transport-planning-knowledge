@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/temporary_traffic_arrangements/he/Tashtiyot_Temporary%20traffic%20arrangements.pdf",
- "checked": "2026-11-15T13:23:40Z",
+ "checked": "2026-11-15T14:52:11Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/temporary_traffic_arrangements/he/Tashtiyot_Temporary%20traffic%20arrangements.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 9663677,
- "secs": 13.69995,
+ "secs": 16.403335,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "84243a4913ef",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 204,
  "pdf_meta": {
   "Title": "",
@@ -23,7 +27,22 @@
  "sha256": "579547cd3434488630b7ea2b51dc96e87a7ef5b32af656e63eab1add6fa1bb8c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/84243a4913ef.pdf",
  "fix_log": [
-  "words=6037 unknown=299 fixed=8"
+  "words=6285 unknown=362 fixed=18"
+ ],
+ "image_pages": 112,
+ "table_pages": 14,
+ "figure_ocr_pages": 97,
+ "table_ocr_pages": 4,
+ "ocr_conf_mean": 77,
+ "lowconf_pages": [
+  2,
+  189,
+  191,
+  194,
+  197,
+  199,
+  201,
+  202
  ],
  "text_pages": 204,
  "ocr_pages": 17,

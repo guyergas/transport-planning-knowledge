@@ -1,16 +1,20 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_operational_vehicle_area/he/Guidelines%20for%20planning%20an%20operational%20vehicle%20area%20-%200723%20Mongesh.pdf",
- "checked": "2026-11-15T13:24:41Z",
+ "checked": "2026-11-15T14:55:12Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_operational_vehicle_area/he/Guidelines%20for%20planning%20an%20operational%20vehicle%20area%20-%200723%20Mongesh.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 579667,
- "secs": 1.326666,
+ "secs": 1.197045,
  "server": "cloudflare",
+ "tries": [
+  200
+ ],
  "id": "0499ec1c140e",
  "kind": "pdf",
  "result": "ok",
+ "change": "changed",
  "pages": 11,
  "pdf_meta": {
   "Title": "הנחיות לתכנון אזור רכב תפעולי",
@@ -23,8 +27,14 @@
  "sha256": "0a4e50de5b9d3b0b500bebeb89dbcf47daa9aa3a066dc7da42bbf3505e4fc644",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0499ec1c140e.pdf",
  "fix_log": [
-  "words=1061 unknown=66 fixed=3"
+  "words=1068 unknown=71 fixed=6"
  ],
+ "image_pages": 3,
+ "table_pages": 0,
+ "figure_ocr_pages": 2,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 83,
+ "lowconf_pages": [],
  "text_pages": 11,
  "ocr_pages": 1,
  "layer": "mixed"

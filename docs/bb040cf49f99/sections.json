@@ -3,12 +3,80 @@
   "dates": [
    "2018"
   ],
+  "publisher": [
+   "נתיבי\nישראל"
+  ],
   "verify": "candidates from text; confirm on cover page image"
  },
  "pages": {},
  "toc_pages": [
   1
  ],
- "sections": [],
- "coverage": "page-only"
+ "sections": [
+  {
+   "num": "7.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "7.7",
+   "title": "הנחיות כלליות",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "7.2.1",
+   "title": "שילוב עקום אופקי עם עקום אנכי",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "7.2.2",
+   "title": "כללים לשילוב התוואי האופקי והתוואי האנכי",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 3
+  },
+  {
+   "num": "7",
+   "title": "שילוב התוואי האופקי והתוואי האנכי",
+   "chapter": "פרק 7 — שילוב התוואי האופקי והתוואי האנכי",
+   "start": 4,
+   "level": 0,
+   "end": 10
+  },
+  {
+   "num": "7.2.4",
+   "title": "היבטים סביבתיים",
+   "chapter": "פרק 7 — שילוב התוואי האופקי והתוואי האנכי",
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "4",
+   "title": "היבטים סביבתיים",
+   "chapter": "פרק 7 — שילוב התוואי האופקי והתוואי האנכי",
+   "start": 7,
+   "level": 1,
+   "end": 10
+  }
+ ],
+ "coverage": "sections"
 }
