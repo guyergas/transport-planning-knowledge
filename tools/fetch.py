@@ -72,13 +72,23 @@ class Text(HTMLParser):
         if not self.skip: self.out.append(d)
 
 
+def browser_fetch(url, dest):
+    """Fallback for bot-protected sites: real headless Chromium (Playwright)."""
+    r = sh(['python3', os.path.join(TOOLS, 'browser_fetch.py'), url, dest], timeout=300)
+    try:
+        return json.loads(r.stdout.strip().splitlines()[-1])
+    except Exception:
+        return {'status': 0, 'error': (r.stderr or r.stdout)[-300:]}
+
+
 def classify(rec, path):
     """Accessible / error / redirect / login-required, plus kind."""
     head = open(path, 'rb').read(2048) if os.path.exists(path) else b''
     rec['kind'] = 'pdf' if head.startswith(b'%PDF') else 'zip' if head.startswith(b'PK') else 'html' if b'<' in head[:200] else 'other'
     s = rec.get('status', 0)
     final = rec.get('final_url', '')
-    if s in (401, 407) or re.search(r'login|signin|auth|sso', final, re.I):
+    moved = final and urllib.parse.urlsplit(final).path != urllib.parse.urlsplit(rec['url']).path
+    if s in (401, 407) or (moved and re.search(r'/(login|signin|sign-in|logon|sso|oauth2?|account/login)\b', final, re.I)):
         rec['result'] = 'login'
     elif s >= 400 or s == 0:
         rec['result'] = f'error {s}'
@@ -88,7 +98,7 @@ def classify(rec, path):
         rec['result'] = 'ok'
     if rec['kind'] == 'html' and s == 200:
         t = open(path, encoding='utf-8', errors='replace').read()
-        if re.search(r'captcha|cf-chl|Request unsuccessful|Incapsula|Access Denied', t[:20000], re.I):
+        if len(t) < 60000 and re.search(r'cf-chl|challenge-platform|Request unsuccessful|Incapsula incident|<title>(Access Denied|Just a moment)', t, re.I):
             rec['result'] = 'blocked (bot challenge)'
         p = Text(); p.feed(t)
         rec['title'] = re.sub(r'\s+', ' ', p.title).strip()[:200]
@@ -197,6 +207,14 @@ def main():
                 rec = fetch(url, path)
                 rec['id'] = did
                 text = classify(rec, path)
+                if rec['result'].startswith(('error 403', 'blocked', 'error 0')):
+                    b = browser_fetch(url, path)
+                    if b.get('status') == 200:
+                        first = {k: rec.get(k) for k in ('status', 'result', 'server')}
+                        rec.update(b, via='browser', first_try=first)
+                        text = classify(rec, path)
+                    else:
+                        rec['browser'] = b
                 print(f"{rec.get('status')} {rec['result']:<10} {rec['kind']:<5} {url[:110]}", flush=True)
                 d = os.path.join(ROOT, 'docs', did)
                 try:
