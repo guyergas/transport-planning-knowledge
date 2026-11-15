@@ -1,0 +1,33 @@
+{
+ "url": "https://www.iroads.co.il/media/2pcdauqs/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99-%D7%A9%D7%9C-%D7%93%D7%A8%D7%9B%D7%99%D7%9D-%D7%91%D7%99%D7%9F-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA-%D7%9B%D7%A8%D7%9A-2-%D7%A6%D7%9E%D7%AA%D7%99%D7%9D.pdf",
+ "id": "dc53d94f7028",
+ "source": "manual upload",
+ "note": "https://www.iroads.co.il/media/2pcdauqs/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99-%D7%A9%D7%9C-%D7%93%D7%A8%D7%9B%D7%99%D7%9D-%D7%91%D7%99%D7%9F-%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA-%D7%9B%D7%A8%D7%9A-2-%D7%A6%D7%9E%D7%AA%D7%99%D7%9D.pdf  (שורה 52, כרך 2 צמתים מהדורה 2 נובמבר 2023, uploaded by Guy 16.11.2026)",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-15T17:57:25Z",
+ "pages": 355,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Neevia Document Converter Pro v7.5.0.218 (http://neevia.com)",
+  "Creator": "Microsoft® Word for Microsoft 365",
+  "CreationDate": "Wed Dec 27 18:19:56 2023 UTC",
+  "ModDate": "Wed Jan  3 17:00:22 2024 UTC"
+ },
+ "fonts_uni_no": 86,
+ "sha256": "a6a5e36e569f7ce5c0973b17cfcbd567ca85ee4da2c2eff4e26aa8a0415537ff",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-iroads-co-il/dc53d94f7028.pdf",
+ "fix_log": [
+  "words=8230 unknown=396 fixed=19"
+ ],
+ "image_pages": 151,
+ "table_pages": 21,
+ "figure_ocr_pages": 150,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 80,
+ "lowconf_pages": [],
+ "text_pages": 355,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}
