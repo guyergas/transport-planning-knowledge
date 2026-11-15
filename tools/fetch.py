@@ -353,6 +353,10 @@ def weekly():
     lf = os.path.join(ROOT, 'sheet', 'links.jsonl')
     urls = [json.loads(l)['url'].split('#')[0] for l in open(lf, encoding='utf-8')] if os.path.exists(lf) else []
     rm = removed_set() | set(settled_replacements())
+    for m in glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json')):  # files Guy uploaded: never re-fetched from the blocked source
+        r = json.load(open(m))
+        if r.get('source') == 'manual upload':
+            rm.add(r['url'].split('#')[0])
     for x in (json.loads(l) for l in open(os.path.join(ROOT, 'sheet', 'replacements.jsonl'), encoding='utf-8')) if os.path.exists(os.path.join(ROOT, 'sheet', 'replacements.jsonl')) else []:
         urls.append(x['new'].split('#')[0])  # the replacement is checked even before the sheet itself is updated
     urls = [u for u in dict.fromkeys(urls) if u.startswith('http') and u not in rm and docid(u) not in rm]
