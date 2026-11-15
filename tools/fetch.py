@@ -159,7 +159,7 @@ def classify(rec, path):
         seen, links = set(), []
         for h, txt in p.links:
             u = urllib.parse.urljoin(base, h.strip())
-            if u.startswith('http') and u not in seen and re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download|/media/|/uploads/|/documents/\d+/view', u, re.I):
+            if u.startswith('http') and u not in seen and (re.search(r'לצפי[יה]|להורדה|לחצו כאן|הורדה|download', txt, re.I) and '#' not in u or re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download|/media/|/uploads/|/documents/\d+/view', u, re.I)):
                 seen.add(u); links.append({'url': u, 'text': re.sub(r'\s+', ' ', txt).strip()[:150]})
         rec['file_links'] = links
         rec['all_links'] = len(p.links)
