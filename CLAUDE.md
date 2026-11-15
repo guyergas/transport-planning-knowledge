@@ -38,6 +38,14 @@ index.jsonl per doc: `sheet_records` (id, title, section, status), `sheet_desc`,
 - HTML pages: `new_file_links` (vs last check) and `unknown_file_links` (not in sheet/requests) = possible new editions.
 - Weekly run (and any request with `# report`) opens a GitHub Issue: not accessible / changed / new files / low confidence.
 
+## Access status (rebuilt every run)
+- `status.jsonl`: latest check per URL (result, http status, via=browser|wayback, server, sheet record + rows, checked date).
+- `inaccessible.jsonl`: URLs still not readable, with the reason chain: curl → Chromium (`browser`) → Internet Archive (`archive`).
+- Fallback order on 403/blocked: Chromium → newest Wayback snapshot (`via: wayback`, result `ok (archive copy YYYYMMDD)` —
+  cite it as an archive copy and prefer an official URL when one is found).
+- Still blocked → in a session: WebSearch the document title for another official/mirror copy → add it as a request;
+  else ask Guy for the file → `inbox/`.
+
 ## No duplicates
 One document = one id. The index job folds ids with the same sha256 (or, for HTML, the same final URL) into the
 smallest id: the others keep only meta.json with `duplicate_of`, their URLs go to the canonical `aliases`,

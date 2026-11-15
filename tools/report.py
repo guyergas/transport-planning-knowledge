@@ -17,16 +17,21 @@ def load(name):
 
 def main(name):
     recs = load(name)
-    bad = [r for r in recs if r.get('result') not in ('ok', 'redirect')]
+    bad = [r for r in recs if not str(r.get('result', '')).startswith(('ok', 'redirect'))]
+    arch = [r for r in recs if r.get('via') == 'wayback']
     changed = [r for r in recs if r.get('change') == 'changed']
     new = [(r, x) for r in recs for x in r.get('unknown_file_links', [])]
     low = [r for r in recs if r.get('lowconf_pages')]
     out = [f'# Knowledge-map check: {name}', '',
            f'- checked: {len(recs)}', f'- accessible: {len(recs) - len(bad)}', f'- not accessible: {len(bad)}',
-           f'- changed documents: {len(changed)}', f'- new files found on pages: {len(new)}', '']
+           f'- from Internet Archive copy (official site blocked): {len(arch)}', f'- changed documents: {len(changed)}', f'- new files found on pages: {len(new)}', '']
     if bad:
         out += ['## Not accessible', '', '| id | url | reason |', '|---|---|---|']
-        out += [f"| {r.get('id')} | {r['url']} | {r.get('result')} {r.get('server', '')} |" for r in bad]
+        out += [f"| {r.get('id')} | {r['url']} | {r.get('result')} {r.get('server', '')}; browser: {(r.get('browser') or {}).get('status', '-')}; archive: {r.get('wayback', '-')} |" for r in bad]
+        out.append('')
+    if arch:
+        out += ['## Read from Internet Archive (official URL blocked from GitHub)', '']
+        out += [f"- {r.get('id')} {r['url']} — snapshot {r.get('archive_snapshot')}" for r in arch]
         out.append('')
     if changed:
         out += ['## Changed (new bytes, re-OCRed)', '']

@@ -8,7 +8,7 @@ Outputs:
   docs/<docid>/text.md         text with '=== PAGE N ===' markers and per-page method
   index.jsonl                  one line per document (rebuilt)
 """
-import hashlib, html, json, os, re, shutil, subprocess, sys, tempfile, time, glob, urllib.parse
+import hashlib, html, json, os, random, re, shutil, subprocess, sys, tempfile, time, glob, urllib.parse
 from html.parser import HTMLParser
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sections
@@ -81,6 +81,20 @@ class Text(HTMLParser):
         if not self.skip: self.out.append(d)
 
 
+def fetch_retry(url, dest):
+    """gov.il's Cloudflare answers ~1 in 4 requests from GitHub runners with a transient 403: back off and retry."""
+    tries = []
+    for wait in (0, 25, 70):
+        if wait:
+            time.sleep(wait + random.random() * 10)
+        rec = fetch(url, dest)
+        tries.append(rec.get('status'))
+        if rec.get('status') not in (403, 429, 503, 0):
+            break
+    rec['tries'] = tries
+    return rec
+
+
 def browser_fetch(url, dest):
     """Fallback for bot-protected sites: real headless Chromium (Playwright)."""
     r = sh(['python3', os.path.join(TOOLS, 'browser_fetch.py'), url, dest], timeout=300)
@@ -88,6 +102,21 @@ def browser_fetch(url, dest):
         return json.loads(r.stdout.strip().splitlines()[-1])
     except Exception:
         return {'status': 0, 'error': (r.stderr or r.stdout)[-300:]}
+
+
+def wayback_fetch(url, dest):
+    """Last resort: newest Internet Archive snapshot (raw bytes via id_). Marked as an archive copy."""
+    r = sh(['curl', '-sS', '-m', '60', 'https://archive.org/wayback/available?url=' + urllib.parse.quote(url, safe='')])
+    try:
+        snap = json.loads(r.stdout)['archived_snapshots']['closest']
+    except Exception:
+        return {'status': 0, 'error': 'no snapshot'}
+    if not snap.get('available'):
+        return {'status': 0, 'error': 'no snapshot'}
+    raw = re.sub(r'/web/(\d+)/', r'/web/\1id_/', snap['url'])
+    rec = fetch(raw, dest)
+    rec.update(archive_snapshot=snap['timestamp'], archive_url=snap['url'])
+    return rec
 
 
 def classify(rec, path):
@@ -418,6 +447,31 @@ def sheet_maps():
 YEAR = re.compile(r'(?<!\d)(19[5-9]\d|20[0-4]\d)(?!\d)')
 
 
+def build_status():
+    """status.jsonl: latest check per URL (all results); inaccessible.jsonl: the ones still not readable, with the reasons."""
+    recs, by_url = sheet_maps()
+    last = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, 'results', '*.jsonl'))):
+        for l in open(f, encoding='utf-8'):
+            r = json.loads(l)
+            u = r['url'].split('#')[0]
+            if u not in last or (r.get('checked') or '') >= (last[u].get('checked') or ''):
+                last[u] = r
+    rm = removed_set()
+    with open(os.path.join(ROOT, 'status.jsonl'), 'w', encoding='utf-8') as fs, open(os.path.join(ROOT, 'inaccessible.jsonl'), 'w', encoding='utf-8') as fi:
+        for u in sorted(last):
+            if u in rm:
+                continue
+            r = last[u]
+            row = {'url': u, 'id': r.get('id'), 'result': r.get('result'), 'status': r.get('status'), 'via': r.get('via'),
+                   'server': r.get('server'), 'browser': (r.get('browser') or {}).get('status') if isinstance(r.get('browser'), dict) else None,
+                   'archive': r.get('wayback') or r.get('archive_snapshot'), 'checked': r.get('checked'),
+                   'sheet': sorted({x['record'] for x in by_url.get(u, [])}), 'sheet_rows': sorted({x['row'] for x in by_url.get(u, [])})}
+            fs.write(json.dumps(row, ensure_ascii=False) + '\n')
+            if not str(row['result'] or '').startswith(('ok', 'redirect')):
+                fi.write(json.dumps(row, ensure_ascii=False) + '\n')
+
+
 def build_index():
     recs, by_url = sheet_maps()
     rows = []
@@ -520,6 +574,7 @@ def main():
         apply_removed()
         dedupe()
         build_index()
+        build_status()
         return
     shard = int(os.environ.get('SHARD', '0'))
     if shard == 0:
@@ -539,7 +594,7 @@ def main():
             did = docid(url)
             with tempfile.TemporaryDirectory() as td:
                 path = os.path.join(td, 'f')
-                rec = fetch(url, path)
+                rec = fetch_retry(url, path)
                 rec['id'] = did
                 text = classify(rec, path)
                 if rec['result'].startswith(('error 403', 'blocked', 'error 0')):
@@ -550,6 +605,15 @@ def main():
                         text = classify(rec, path)
                     else:
                         rec['browser'] = b
+                        w = wayback_fetch(url, path)  # last automatic resort: Internet Archive copy
+                        if w.get('status') == 200:
+                            first = {k: rec.get(k) for k in ('status', 'result', 'server')}
+                            rec.update({k: w[k] for k in ('status', 'final_url', 'content_type', 'bytes', 'archive_snapshot', 'archive_url') if k in w},
+                                       via='wayback', first_try=first)
+                            text = classify(rec, path)
+                            rec['result'] = 'ok (archive copy ' + rec['archive_snapshot'][:8] + ')'
+                        else:
+                            rec['wayback'] = w.get('error') or w.get('status')
                 print(f"{rec.get('status')} {rec['result']:<10} {rec['kind']:<5} {url[:110]}", flush=True)
                 d = os.path.join(ROOT, 'docs', did)
                 try:
