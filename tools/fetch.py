@@ -85,31 +85,6 @@ LAST_HIT = {}
 PACE = {'www.gov.il': 6, 'gov.il': 6}  # min seconds between requests to one host from one runner
 
 
-def pace(url):
-    host = urllib.parse.urlsplit(url).netloc.lower()
-    gap = PACE.get(host, 1.5)
-    wait = LAST_HIT.get(host, 0) + gap + random.random() * gap / 2 - time.time()
-    if wait > 0:
-        time.sleep(wait)
-    LAST_HIT[host] = time.time()
-
-
-def fetch_retry(url, dest):
-    """gov.il's Cloudflare answers ~1 in 4 requests from GitHub runners with a transient 403.
-    Pace every host (gov.il: >=6 s between hits), and on 403/429/503 back off 90 s, then 240 s, before giving up."""
-    tries = []
-    for wait in (0, 90, 240):
-        if wait:
-            time.sleep(wait + random.random() * 30)
-        pace(url)
-        rec = fetch(url, dest)
-        tries.append(rec.get('status'))
-        if rec.get('status') not in (403, 429, 503, 0):
-            break
-    rec['tries'] = tries
-    return rec
-
-
 def browser_fetch(url, dest):
     """Fallback for bot-protected sites: real headless Chromium (Playwright)."""
     r = sh(['python3', os.path.join(TOOLS, 'browser_fetch.py'), url, dest], timeout=300)
@@ -574,6 +549,117 @@ def process_inbox():
             for r in out: f.write(json.dumps(r, ensure_ascii=False) + '\n')
 
 
+TRANSIENT = (403, 429, 503, 0)
+BACKOFF = (90, 240)  # seconds before curl attempt 2 and 3 (plus jitter)
+
+
+def host_next(url):
+    host = urllib.parse.urlsplit(url).netloc.lower()
+    return LAST_HIT.get(host, 0) + PACE.get(host, 1.5)
+
+
+def mark(url):
+    LAST_HIT[urllib.parse.urlsplit(url).netloc.lower()] = time.time()
+
+
+def run_queue(lines, req):
+    """Process URLs as a time-aware queue: a URL waiting for its gov.il back-off (or host pacing)
+    does not block the shard - other URLs (other hosts, or OCR work) run in the meantime."""
+    work = []
+    for line in lines:
+        parts = line.split()
+        url, opts = parts[0], dict(p.split('=', 1) for p in parts[1:] if '=' in p)
+        td = tempfile.mkdtemp()
+        work.append({'url': url, 'opts': opts, 'did': docid(url), 'td': td, 'path': os.path.join(td, 'f'),
+                     'stage': 'render' if opts.get('render') else 'curl', 'tries': [], 'nb': 0.0, 'rec': None})
+    recs = []
+    while work:
+        now = time.time()
+        ready = [w for w in work if w['nb'] <= now and host_next(w['url']) <= now]
+        if not ready:
+            t = min(max(w['nb'], host_next(w['url'])) for w in work)
+            time.sleep(max(0.2, min(t - now, 30)))
+            continue
+        w = ready[0]
+        url, path = w['url'], w['path']
+        mark(url)
+        if w['stage'] == 'curl':
+            rec = fetch(url, path)
+            w['tries'].append(rec.get('status'))
+            if rec.get('status') in TRANSIENT and len(w['tries']) <= len(BACKOFF):
+                w['nb'] = time.time() + BACKOFF[len(w['tries']) - 1] + random.random() * 30
+                print(f"   wait {url[:90]} after {rec.get('status')} (try {len(w['tries'])})", flush=True)
+                continue
+            rec['tries'], rec['id'] = w['tries'], w['did']
+            text = classify(rec, path)
+            if rec['result'].startswith(('error 403', 'blocked', 'error 0')):
+                w.update(stage='browser', rec=rec, nb=time.time() + 60 + random.random() * 30)
+                continue
+        elif w['stage'] == 'browser':
+            rec = w['rec']
+            b = browser_fetch(url, path)
+            if b.get('status') == 200:
+                first = {k: rec.get(k) for k in ('status', 'result', 'server')}
+                rec.update(b, via='browser', first_try=first)
+                text = classify(rec, path)
+            else:
+                rec['browser'] = b
+                text = None
+                wb = wayback_fetch(url, path)  # last automatic resort: Internet Archive copy
+                if wb.get('status') == 200:
+                    first = {k: rec.get(k) for k in ('status', 'result', 'server')}
+                    rec.update({k: wb[k] for k in ('status', 'final_url', 'content_type', 'bytes', 'archive_snapshot', 'archive_url') if k in wb},
+                               via='wayback', first_try=first)
+                    text = classify(rec, path)
+                    rec['result'] = 'ok (archive copy ' + rec['archive_snapshot'][:8] + ')'
+                else:
+                    rec['wayback'] = wb.get('error') or wb.get('status')
+        else:  # render: JS-built page, straight to Chromium
+            b = browser_fetch(url, path)
+            rec = {'url': url, 'checked': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), **b, 'via': 'browser (render)'}
+            rec.setdefault('redirects', 0)
+            rec['id'] = w['did']
+            text = classify(rec, path)
+        work.remove(w)
+        finalize(rec, path, w['opts'], w['did'], req, text)
+        shutil.rmtree(w['td'], ignore_errors=True)
+        recs.append(rec)
+    return recs
+
+
+def finalize(rec, path, opts, did, req, text):
+    url = rec['url']
+    print(f"{rec.get('status')} {rec['result']:<10} {rec['kind']:<5} {url[:110]}", flush=True)
+    d = os.path.join(ROOT, 'docs', did)
+    try:
+        old = None if force(req) or rec['kind'] != 'pdf' or rec.get('status') != 200 else unchanged(path, did)
+        if old:
+            rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer', 'image_pages', 'table_pages', 'figure_ocr_pages', 'table_ocr_pages', 'ocr_conf_mean', 'lowconf_pages')}, change='unchanged')
+            text = None  # keep existing text.md / sections.json
+        elif rec['kind'] == 'pdf' and rec.get('status') == 200:
+            if os.path.exists(os.path.join(d, 'meta.json')):
+                rec['change'] = 'changed'
+            text = process_pdf(rec, path, opts.get('pages'), did)
+    except Exception as e:  # keep going on one bad file
+        rec['process_error'] = repr(e)[:300]
+    if text:
+        os.makedirs(d, exist_ok=True)
+        open(os.path.join(d, 'text.md'), 'w', encoding='utf-8').write(text)
+        try:
+            sections.build(d)
+        except Exception as e:
+            rec['sections_error'] = repr(e)[:200]
+    if rec.get('file_links') is not None:  # discovery: files on the page that we did not know before
+        old = os.path.join(d, 'meta.json')
+        prev = {x['url'] for x in json.load(open(old)).get('file_links', [])} if os.path.exists(old) else None
+        if prev is not None:
+            rec['new_file_links'] = [x for x in rec['file_links'] if x['url'] not in prev]
+        rec['unknown_file_links'] = [x for x in rec['file_links'] if x['url'].split('#')[0] not in KNOWN]
+    if rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
+        os.makedirs(d, exist_ok=True)
+        json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)
+
+
 def main():
     global KNOWN
     os.makedirs(os.path.join(ROOT, 'results'), exist_ok=True)
@@ -598,75 +684,10 @@ def main():
         if shard >= nshard:
             continue
         res = os.path.join(ROOT, 'results', f'{name}.{shard}.jsonl' if nshard > 1 else f'{name}.jsonl')
-        recs = []
         lines = [l.strip() for l in open(req, encoding='utf-8') if l.strip() and not l.startswith('#')]
         rm = removed_set()
-        for i, line in enumerate(lines):
-            if i % nshard != shard or line.split()[0].split('#')[0] in rm or docid(line.split()[0]) in rm:
-                continue
-            parts = line.split()
-            url, opts = parts[0], dict(p.split('=', 1) for p in parts[1:] if '=' in p)
-            did = docid(url)
-            with tempfile.TemporaryDirectory() as td:
-                path = os.path.join(td, 'f')
-                if opts.get('render'):
-                    pace(url)
-                    b = browser_fetch(url, path)
-                    rec = {'url': url, 'checked': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), **b, 'via': 'browser (render)'}
-                    rec.setdefault('redirects', 0)
-                else:
-                    rec = fetch_retry(url, path)
-                rec['id'] = did
-                text = classify(rec, path)
-                if rec['result'].startswith(('error 403', 'blocked', 'error 0')) and not opts.get('render'):
-                    time.sleep(60 + random.random() * 30)  # cool down before the browser attempt
-                    pace(url)
-                    b = browser_fetch(url, path)
-                    if b.get('status') == 200:
-                        first = {k: rec.get(k) for k in ('status', 'result', 'server')}
-                        rec.update(b, via='browser', first_try=first)
-                        text = classify(rec, path)
-                    else:
-                        rec['browser'] = b
-                        w = wayback_fetch(url, path)  # last automatic resort: Internet Archive copy
-                        if w.get('status') == 200:
-                            first = {k: rec.get(k) for k in ('status', 'result', 'server')}
-                            rec.update({k: w[k] for k in ('status', 'final_url', 'content_type', 'bytes', 'archive_snapshot', 'archive_url') if k in w},
-                                       via='wayback', first_try=first)
-                            text = classify(rec, path)
-                            rec['result'] = 'ok (archive copy ' + rec['archive_snapshot'][:8] + ')'
-                        else:
-                            rec['wayback'] = w.get('error') or w.get('status')
-                print(f"{rec.get('status')} {rec['result']:<10} {rec['kind']:<5} {url[:110]}", flush=True)
-                d = os.path.join(ROOT, 'docs', did)
-                try:
-                    old = None if force(req) or rec['kind'] != 'pdf' or rec.get('status') != 200 else unchanged(path, did)
-                    if old:
-                        rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer', 'image_pages', 'table_pages', 'figure_ocr_pages', 'table_ocr_pages')}, change='unchanged')
-                        text = None  # keep existing text.md / sections.json
-                    elif rec['kind'] == 'pdf' and rec.get('status') == 200:
-                        if os.path.exists(os.path.join(d, 'meta.json')):
-                            rec['change'] = 'changed'
-                        text = process_pdf(rec, path, opts.get('pages'), did)
-                except Exception as e:  # keep going on one bad file
-                    rec['process_error'] = repr(e)[:300]
-                if text:
-                    os.makedirs(d, exist_ok=True)
-                    open(os.path.join(d, 'text.md'), 'w', encoding='utf-8').write(text)
-                    try:
-                        sections.build(d)
-                    except Exception as e:
-                        rec['sections_error'] = repr(e)[:200]
-                if rec.get('file_links') is not None:  # discovery: files on the page that we did not know before
-                    old = os.path.join(d, 'meta.json')
-                    prev = {x['url'] for x in json.load(open(old)).get('file_links', [])} if os.path.exists(old) else None
-                    if prev is not None:
-                        rec['new_file_links'] = [x for x in rec['file_links'] if x['url'] not in prev]
-                    rec['unknown_file_links'] = [x for x in rec['file_links'] if x['url'].split('#')[0] not in KNOWN]
-                if rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
-                    os.makedirs(d, exist_ok=True)
-                    json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)
-            recs.append(rec)
+        mine = [l for i, l in enumerate(lines) if i % nshard == shard and l.split()[0].split('#')[0] not in rm and docid(l.split()[0]) not in rm]
+        recs = run_queue(mine, req)
         with open(res, 'w', encoding='utf-8') as f:
             for r in recs:
                 f.write(json.dumps(r, ensure_ascii=False) + '\n')
