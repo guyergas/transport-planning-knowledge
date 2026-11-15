@@ -44,5 +44,8 @@
  "lowconf_pages": [],
  "text_pages": 76,
  "ocr_pages": 12,
- "layer": "mixed"
+ "layer": "mixed",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/210323.pdf"
+ ]
 }

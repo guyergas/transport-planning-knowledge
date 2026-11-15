@@ -34,5 +34,8 @@
  "table_ocr_pages": 0,
  "ocr_conf_mean": 87,
  "lowconf_pages": [],
- "change": "unchanged"
+ "change": "unchanged",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/pizul-zmatim.pdf"
+ ]
 }

@@ -41,5 +41,8 @@
  "lowconf_pages": [],
  "text_pages": 41,
  "ocr_pages": 0,
- "layer": "ok"
+ "layer": "ok",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/generalpage/public_transportation_development2014/ar/Tashtiyot_public_transportation_development2014.pdf"
+ ]
 }

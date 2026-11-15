@@ -44,5 +44,8 @@
  "lowconf_pages": [],
  "text_pages": 30,
  "ocr_pages": 1,
- "layer": "mixed"
+ "layer": "mixed",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/the-headlight-system-3.2.pdf"
+ ]
 }
