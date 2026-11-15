@@ -27,6 +27,8 @@ with sync_playwright() as p:
                         pass  # SPA keeps polling; content is usually there
                     pg.wait_for_timeout(3000)
                     if r and r.status == 200 and len(pg.content()) > 20000:
+                        for _ in range(6):  # lazy lists: scroll to load more
+                            pg.mouse.wheel(0, 20000); pg.wait_for_timeout(1200)
                         break
                 except Exception as e:
                     out['retry_error'] = repr(e)[:200]

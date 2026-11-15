@@ -81,12 +81,27 @@ class Text(HTMLParser):
         if not self.skip: self.out.append(d)
 
 
+LAST_HIT = {}
+PACE = {'www.gov.il': 6, 'gov.il': 6}  # min seconds between requests to one host from one runner
+
+
+def pace(url):
+    host = urllib.parse.urlsplit(url).netloc.lower()
+    gap = PACE.get(host, 1.5)
+    wait = LAST_HIT.get(host, 0) + gap + random.random() * gap / 2 - time.time()
+    if wait > 0:
+        time.sleep(wait)
+    LAST_HIT[host] = time.time()
+
+
 def fetch_retry(url, dest):
-    """gov.il's Cloudflare answers ~1 in 4 requests from GitHub runners with a transient 403: back off and retry."""
+    """gov.il's Cloudflare answers ~1 in 4 requests from GitHub runners with a transient 403.
+    Pace every host (gov.il: >=6 s between hits), and on 403/429/503 back off 90 s, then 240 s, before giving up."""
     tries = []
-    for wait in (0, 25, 70):
+    for wait in (0, 90, 240):
         if wait:
-            time.sleep(wait + random.random() * 10)
+            time.sleep(wait + random.random() * 30)
+        pace(url)
         rec = fetch(url, dest)
         tries.append(rec.get('status'))
         if rec.get('status') not in (403, 429, 503, 0):
@@ -144,7 +159,7 @@ def classify(rec, path):
         seen, links = set(), []
         for h, txt in p.links:
             u = urllib.parse.urljoin(base, h.strip())
-            if u.startswith('http') and u not in seen and re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download|/media/', u, re.I):
+            if u.startswith('http') and u not in seen and re.search(r'\.(pdf|zip|docx?|xlsx?|kmz|shp)(\?|#|$)|BlobFolder|/download|/media/|/uploads/|/documents/\d+/view', u, re.I):
                 seen.add(u); links.append({'url': u, 'text': re.sub(r'\s+', ' ', txt).strip()[:150]})
         rec['file_links'] = links
         rec['all_links'] = len(p.links)
@@ -594,10 +609,18 @@ def main():
             did = docid(url)
             with tempfile.TemporaryDirectory() as td:
                 path = os.path.join(td, 'f')
-                rec = fetch_retry(url, path)
+                if opts.get('render'):
+                    pace(url)
+                    b = browser_fetch(url, path)
+                    rec = {'url': url, 'checked': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), **b, 'via': 'browser (render)'}
+                    rec.setdefault('redirects', 0)
+                else:
+                    rec = fetch_retry(url, path)
                 rec['id'] = did
                 text = classify(rec, path)
-                if rec['result'].startswith(('error 403', 'blocked', 'error 0')):
+                if rec['result'].startswith(('error 403', 'blocked', 'error 0')) and not opts.get('render'):
+                    time.sleep(60 + random.random() * 30)  # cool down before the browser attempt
+                    pace(url)
                     b = browser_fetch(url, path)
                     if b.get('status') == 200:
                         first = {k: rec.get(k) for k in ('status', 'result', 'server')}
