@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/128/view",
+ "checked": "2026-11-15T14:36:10Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/128/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40416,
+ "secs": 0.648068,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "9ad6b054432b",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/128/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/27-12.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/128/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/128/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}

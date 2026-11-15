@@ -1,0 +1,38 @@
+{
+ "url": "https://www.eshed-mtl.co.il/documents/118/view",
+ "checked": "2026-11-15T14:36:06Z",
+ "status": 200,
+ "final_url": "https://www.eshed-mtl.co.il/documents/118/view",
+ "content_type": "text/html; charset=utf-8",
+ "redirects": 0,
+ "bytes": 40532,
+ "secs": 0.683095,
+ "server": "microsoft-iis/10.0",
+ "tries": [
+  200
+ ],
+ "id": "2fd34886a60b",
+ "kind": "html",
+ "result": "ok",
+ "title": "אשד - המינהלת לתכנון תחבורתי",
+ "file_links": [
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/118/view",
+   "text": "Show user menu"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/guidelines_operational_geometric_planning_integrated_transportation_centers/he/CombinedTrafficCentersPlanning.pdf",
+   "text": "לצפיה במסמך לחצו כאן"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/118/view#forgot",
+   "text": "שכחתי סיסמה"
+  },
+  {
+   "url": "https://www.eshed-mtl.co.il/documents/118/view#login",
+   "text": "התחבר עכשיו"
+  }
+ ],
+ "all_links": 43,
+ "unknown_file_links": []
+}
