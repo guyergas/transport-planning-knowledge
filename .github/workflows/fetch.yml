@@ -1,10 +1,15 @@
 name: fetch
 # Push a file to requests/ -> every pending request is processed.
-# A request may start with '# shards=N' (max 20) to split it over N parallel jobs.
+# Request header lines: '# shards=N' (max 20) parallel jobs; '# force' re-process even unchanged files.
+# Weekly schedule: re-checks every URL ever requested; only changed/new files are re-OCRed.
+# Every run ends with the index job, which rebuilds ALL derived data from docs/ in one commit:
+#   index.jsonl, sections.json(l), search.db (Release 'search-index') + search.json manifest.
 on:
   push:
     branches: [main]
     paths: ['requests/**']
+  schedule:
+    - cron: '17 1 * * 0'   # Sunday 01:17 UTC
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,6 +23,15 @@ jobs:
       matrix: ${{ steps.m.outputs.matrix }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Weekly request
+        if: github.event_name == 'schedule'
+        run: |
+          python3 tools/fetch.py weekly
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add requests && git commit -qm "weekly re-check request" && git push -q
       - id: m
         run: echo "matrix=$(python3 tools/fetch.py matrix)" >> "$GITHUB_OUTPUT"
 
@@ -34,6 +48,8 @@ jobs:
       SHARD: ${{ matrix.shard }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Tools
         run: |
           sudo apt-get update -q
@@ -67,18 +83,25 @@ jobs:
     needs: fetch
     if: always()
     runs-on: ubuntu-24.04
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Rebuild index
+      - name: Rebuild derived data (index, sections, search)
         run: |
           git pull -q
           python3 tools/fetch.py index
           python3 tools/sections.py --all
+          python3 tools/search_index.py build /tmp/search.db
+      - name: Publish search.db + commit manifest
+        run: |
+          gh release view search-index -R "$GITHUB_REPOSITORY" >/dev/null 2>&1 || gh release create search-index -R "$GITHUB_REPOSITORY" -t search-index -n "SQLite FTS5 over docs/*/text.md. Manifest: search.json"
+          gh release upload search-index /tmp/search.db --clobber -R "$GITHUB_REPOSITORY"
           git config user.name "fetch-bot"
           git config user.email "fetch-bot@users.noreply.github.com"
-          git add index.jsonl sections.jsonl docs
+          git add index.jsonl sections.jsonl search.json docs
           git diff --cached --quiet && exit 0
-          git commit -qm "index $(date -u +%F_%H%M)"
+          git commit -qm "index + sections + search $(date -u +%F_%H%M)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

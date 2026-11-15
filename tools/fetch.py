@@ -156,6 +156,16 @@ def ensure_release(tag):
         sh(['gh', 'release', 'create', tag, '-R', REPO, '-t', tag, '-n', 'Original source files (see index.jsonl)'])
 
 
+def unchanged(path, did):
+    """Same bytes as last time and text already built -> no need to re-OCR."""
+    mf = os.path.join(ROOT, 'docs', did, 'meta.json')
+    if not (os.path.exists(mf) and os.path.exists(os.path.join(ROOT, 'docs', did, 'text.md'))):
+        return None
+    old = json.load(open(mf))
+    new = hashlib.sha256(open(path, 'rb').read()).hexdigest()
+    return old if old.get('sha256') == new else None
+
+
 def process_pdf(rec, path, pages_spec, did):
     info = sh(['pdfinfo', path]).stdout
     n = int((re.findall(r'^Pages:\s+(\d+)', info, re.M) or ['0'])[0])
@@ -219,6 +229,23 @@ def pending():
     return out
 
 
+def force(req):
+    return bool(re.search(r'^#\s*force\b', open(req, encoding='utf-8').read(), re.M))
+
+
+def weekly():
+    """Scheduled re-check: every URL ever requested, one request file, 20 shards."""
+    urls = []
+    for req in sorted(glob.glob(os.path.join(ROOT, 'requests', '*.txt'))):
+        for l in open(req, encoding='utf-8'):
+            if l.strip() and not l.startswith('#'):
+                urls.append(l.split()[0])
+    urls = list(dict.fromkeys(urls))
+    name = time.strftime('weekly-%Y-%m-%d', time.gmtime())
+    open(os.path.join(ROOT, 'requests', name + '.txt'), 'w').write('# shards=20\n' + '\n'.join(urls) + '\n')
+    print(name)
+
+
 def build_index():
     with open(os.path.join(ROOT, 'index.jsonl'), 'w', encoding='utf-8') as f:
         for m in sorted(glob.glob(os.path.join(ROOT, 'docs', '*', 'meta.json'))):
@@ -233,6 +260,9 @@ def main():
     if sys.argv[1:2] == ['matrix']:  # used by the workflow to size the job matrix
         n = max([s for _, _, s in pending()] or [1])
         print(json.dumps({'shard': list(range(n))}))
+        return
+    if sys.argv[1:2] == ['weekly']:
+        weekly()
         return
     if sys.argv[1:2] == ['index']:
         build_index()
@@ -266,7 +296,13 @@ def main():
                 print(f"{rec.get('status')} {rec['result']:<10} {rec['kind']:<5} {url[:110]}", flush=True)
                 d = os.path.join(ROOT, 'docs', did)
                 try:
-                    if rec['kind'] == 'pdf' and rec.get('status') == 200:
+                    old = None if force(req) or rec['kind'] != 'pdf' or rec.get('status') != 200 else unchanged(path, did)
+                    if old:
+                        rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer')}, change='unchanged')
+                        text = None  # keep existing text.md / sections.json
+                    elif rec['kind'] == 'pdf' and rec.get('status') == 200:
+                        if os.path.exists(os.path.join(d, 'meta.json')):
+                            rec['change'] = 'changed'
                         text = process_pdf(rec, path, opts.get('pages'), did)
                 except Exception as e:  # keep going on one bad file
                     rec['process_error'] = repr(e)[:300]
