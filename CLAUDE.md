@@ -11,6 +11,12 @@ github.com is open. So GitHub Actions downloads, the session reads results from 
 - Original PDF: `curl -sSL -o f.pdf <asset>` (GitHub Releases `src-<host>`). Use it for tables, maps, formulas, sub/superscripts: render the page image (hebrew-pdf-read skill) — the image wins over text.
 - `id` = first 12 hex of sha1(url without #fragment).
 
+## Citations (every guideline you quote must carry one)
+`python3 tools/sections.py --cite docs/<id> <pdf_page> "<quoted words>"` →
+document · front (edition/date/publisher candidates) · chapter · section (map + nearest heading above the quote) · printed page · PDF page · link `URL#page=N` · asset · sha256.
+- `docs/<id>/sections.json`: section map (heuristic; `coverage: page-only` when no reliable numbering). `sections.jsonl`: all docs.
+- Edition/date from text are candidates: confirm on the cover page image before stating them. Read the heading on the page itself when map and nearest heading disagree.
+
 ## Request new / partial downloads (needs push: add_repo access=push)
 1. Write `requests/<name>.txt`, one line per URL: `URL [pages=1-5,9 | pages=toc]`.
    `pages=toc` = index only (first 15 + last 3 pages). Omit = all pages. Optional first line `# shards=N` (≤20).

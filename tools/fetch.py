@@ -10,6 +10,8 @@ Outputs:
 """
 import hashlib, html, json, os, re, subprocess, sys, tempfile, time, glob, urllib.parse
 from html.parser import HTMLParser
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import sections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOOLS = os.path.join(ROOT, 'tools')
@@ -271,6 +273,10 @@ def main():
                 if text:
                     os.makedirs(d, exist_ok=True)
                     open(os.path.join(d, 'text.md'), 'w', encoding='utf-8').write(text)
+                    try:
+                        sections.build(d)
+                    except Exception as e:
+                        rec['sections_error'] = repr(e)[:200]
                 if rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
                     os.makedirs(d, exist_ok=True)
                     json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)

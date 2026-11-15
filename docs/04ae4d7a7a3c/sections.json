@@ -1,0 +1,205 @@
+{
+ "front": {
+  "edition": [
+   "הקודמת"
+  ],
+  "dates": [
+   "2012",
+   "1994"
+  ],
+  "publisher": [
+   "משרד התחבורה – יו\"ר‬          ‫אינג' ישעיהו רונן‬",
+   "משרד התחבורה‬          ‫אינג' עירית שפרבר‬",
+   "משרד התחבורה‬            ‫אינג' מריאן ברוק‬",
+   "משרד התחבורה‬           ‫אינג' יקי פרלשטין‬"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "I",
+  "101": "3",
+  "129": "2",
+  "137": "2",
+  "173": "2",
+  "192": "V",
+  "209": "V"
+ },
+ "toc_pages": [
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  26,
+  44,
+  45,
+  90,
+  107,
+  108,
+  159,
+  179,
+  188,
+  223,
+  241,
+  256
+ ],
+ "sections": [
+  {
+   "num": "3.9.2.2",
+   "title": "יישום ותכן גיאומטרי",
+   "chapter": null,
+   "start": 68,
+   "level": 4,
+   "end": 71
+  },
+  {
+   "num": "3.9.2.3",
+   "title": "חתכים אופייניים",
+   "chapter": null,
+   "start": 72,
+   "level": 4,
+   "end": 74
+  },
+  {
+   "num": "7.1",
+   "title": "בעקום מסוג  Iאו  IIIמתרשים",
+   "chapter": null,
+   "start": 75,
+   "level": 2,
+   "end": 75
+  },
+  {
+   "num": "7.1",
+   "title": "בעקום מסוג  IIאו  IVמתרשים",
+   "chapter": null,
+   "start": 75,
+   "level": 2,
+   "end": 143
+  },
+  {
+   "num": "3.9.3.3",
+   "title": "הצדקים למתן נתיבי זחילה בדרך דו-מסלולית",
+   "chapter": null,
+   "start": 76,
+   "level": 4,
+   "end": 76
+  },
+  {
+   "num": "3.9.3.4",
+   "title": "מיקום נתיבי הזחילה",
+   "chapter": null,
+   "start": 77,
+   "level": 4,
+   "end": 83
+  },
+  {
+   "num": "3.9.4.1",
+   "title": "הצדק בטיחותי",
+   "chapter": null,
+   "start": 84,
+   "level": 4,
+   "end": 84
+  },
+  {
+   "num": "3.9.4.2",
+   "title": "חתכים אופייניים",
+   "chapter": null,
+   "start": 85,
+   "level": 4,
+   "end": 143
+  },
+  {
+   "num": "5.8",
+   "title": "עקלתונים",
+   "chapter": null,
+   "start": 144,
+   "level": 2,
+   "end": 156
+  },
+  {
+   "num": "5.9",
+   "title": "בקרה כללית לתוואי האופקי",
+   "chapter": null,
+   "start": 157,
+   "level": 2,
+   "end": 203
+  },
+  {
+   "num": "8.3",
+   "title": "דרכים דו-מסלוליות רב-נתיביות )(Multilane Highways",
+   "chapter": null,
+   "start": 204,
+   "level": 2,
+   "end": 223
+  },
+  {
+   "num": "9.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 224,
+   "level": 2,
+   "end": 224
+  },
+  {
+   "num": "9.2",
+   "title": "התייחסות להנחיות קיימות",
+   "chapter": null,
+   "start": 225,
+   "level": 2,
+   "end": 225
+  },
+  {
+   "num": "9.3",
+   "title": "נתוני הבסיס לתכן תשתית לאופניים",
+   "chapter": null,
+   "start": 225,
+   "level": 2,
+   "end": 225
+  },
+  {
+   "num": "9.4",
+   "title": "רמות ההפרדה לתנועת אופניים",
+   "chapter": null,
+   "start": 226,
+   "level": 2,
+   "end": 227
+  },
+  {
+   "num": "9.5",
+   "title": "חתכי רוחב אופייניים",
+   "chapter": null,
+   "start": 228,
+   "level": 2,
+   "end": 237
+  },
+  {
+   "num": "9.6",
+   "title": "תכן גיאומטרי",
+   "chapter": null,
+   "start": 238,
+   "level": 2,
+   "end": 285
+  },
+  {
+   "num": "2.1",
+   "title": "ייקבע ע\"פ הנחיות משרד תחבורה",
+   "chapter": null,
+   "start": 286,
+   "level": 2,
+   "end": 313
+  }
+ ],
+ "coverage": "sections"
+}
