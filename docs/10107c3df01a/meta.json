@@ -1,0 +1,28 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/urban-roadwork-sites-traffic-arrangements-guide/he/ayalon_tarshim_tnoa_merchav-ironi_a4_47.1%20%281%29.pdf",
+ "checked": "2026-11-15T13:38:04Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/urban-roadwork-sites-traffic-arrangements-guide/he/ayalon_tarshim_tnoa_merchav-ironi_a4_47.1%20%281%29.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 21062378,
+ "secs": 44.490533,
+ "server": "cloudflare",
+ "id": "10107c3df01a",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 106,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Adobe PDF Library 18.0",
+  "Creator": "Adobe InDesign 21.3 (Windows)",
+  "CreationDate": "Thu Sep 10 10:57:16 2026 UTC",
+  "ModDate": "Thu Sep 10 11:02:36 2026 UTC"
+ },
+ "fonts_uni_no": 1,
+ "sha256": "f70b768347fb78615ae36235c727251539ee157f8c6258f377239b22f893af03",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/10107c3df01a.pdf",
+ "text_pages": 106,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

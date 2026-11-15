@@ -1,0 +1,29 @@
+{
+ "url": "https://www.gov.il/he/departments/publications/reports/strategic_plan_december_2012",
+ "checked": "2026-11-15T13:23:16Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/strategic_plan_december_2012",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5189,
+ "secs": 0.104154,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "id": "0b68fb4e9a46",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "פיתוח התחבורה הציבורית- תכנית אסטרטגית דצמבר 2012 משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/reports/strategic_plan_december_2012/he/development_of_public_transport-strategic_plan_december_2012.pdf",
+   "text": "פיתוח התחבורה הציבורית- תכנית אסטרטגית דצמבר 2012"
+  }
+ ],
+ "all_links": 43
+}

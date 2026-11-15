@@ -1,0 +1,14 @@
+{
+ "url": "https://data.gov.il/dataset/944e53ea-5fb0-40c6-9427-d9d7ba1407a2/resource/e32d4418-f2fc-42dc-8abb-9ef352c2b756/download/countsvol4_2020_ver1.4.zip",
+ "checked": "2026-11-15T13:37:15Z",
+ "status": 200,
+ "final_url": "https://data.gov.il/dataset/944e53ea-5fb0-40c6-9427-d9d7ba1407a2/resource/e32d4418-f2fc-42dc-8abb-9ef352c2b756/download/countsvol4_2020_ver1.4.zip",
+ "content_type": "application/zip",
+ "redirects": 0,
+ "bytes": 24246304,
+ "secs": 2.684043,
+ "server": "",
+ "id": "1b89ffe4c6ad",
+ "kind": "zip",
+ "result": "ok"
+}

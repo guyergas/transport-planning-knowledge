@@ -1,0 +1,28 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/Hanhayot_looping.pdf",
+ "checked": "2026-11-15T13:37:17Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/Hanhayot_looping.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 802735,
+ "secs": 1.432662,
+ "server": "cloudflare",
+ "id": "f2664e32c9d5",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 20,
+ "pdf_meta": {
+  "Title": "ת ו כ ן   ה ע נ י נ י ם",
+  "Producer": "Microsoft® Word 2016",
+  "Creator": "Microsoft® Word 2016",
+  "CreationDate": "Thu Jul  7 18:04:43 2016 UTC",
+  "ModDate": "Thu Jul 14 14:58:16 2016 UTC"
+ },
+ "fonts_uni_no": 6,
+ "sha256": "c1d63c497767ade0c3478d47225fe3aeb3eb19fceb314f4b5953c3ba033bce2a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f2664e32c9d5.pdf",
+ "text_pages": 20,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

@@ -1,0 +1,28 @@
+{
+ "url": "https://www.gov.il/BlobFolder/legalinfo/national_outline_plan_poads/he/Tama3_0.pdf",
+ "checked": "2026-11-15T13:23:55Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/legalinfo/national_outline_plan_poads/he/Tama3_0.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 112128,
+ "secs": 0.23406,
+ "server": "cloudflare",
+ "id": "533948554da0",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 16,
+ "pdf_meta": {
+  "Title": "Microsoft Word - תמא3-מרץ2001.doc",
+  "Producer": "Acrobat Distiller 6.0 (Windows)",
+  "Creator": "PScript5.dll Version 5.2",
+  "CreationDate": "Tue Mar 15 14:53:06 2005 UTC",
+  "ModDate": "Tue Mar 15 14:53:38 2005 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "937fdf480418e019213fa1a8f10319bbaed227ce3e5cc0c3e65e2a5ef63b6bc8",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/533948554da0.pdf",
+ "text_pages": 16,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

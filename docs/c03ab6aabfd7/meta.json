@@ -1,0 +1,29 @@
+{
+ "url": "https://www.gov.il/he/departments/policies/road_examinations_protocol",
+ "checked": "2026-11-15T13:36:16Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/road_examinations_protocol",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5189,
+ "secs": 0.042436,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "id": "c03ab6aabfd7",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "ביצוע ניסויים בדרך בהקשר להסדרי תנועה משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/road_examinations_protocol/he/2023-new.pdf",
+   "text": "נוהל לביצוע ניסויים בדרך בהקשר להסדרי תנועה"
+  }
+ ],
+ "all_links": 46
+}
