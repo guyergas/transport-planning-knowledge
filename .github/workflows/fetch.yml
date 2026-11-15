@@ -112,7 +112,7 @@ jobs:
             n=$(basename "$f" .txt)
             case "$n" in weekly-*) ;; *) grep -q '^# *report' "$f" || continue ;; esac
             ls results/$n*.jsonl >/dev/null 2>&1 || continue
-            git log --format=%s | grep -q "^report $n$" && continue
+            [ -f "reports/$n.md" ] && continue   # one report (and one Issue) per request
             mkdir -p reports && python3 tools/report.py "$n" > "reports/$n.md"
             url="https://github.com/$GITHUB_REPOSITORY/blob/main/reports/$n.md"
             { head -c 55000 "reports/$n.md"; printf '\n\n---\nFull report: %s\n' "$url"; } > /tmp/issue.md   # Issue body limit 65,536 chars
