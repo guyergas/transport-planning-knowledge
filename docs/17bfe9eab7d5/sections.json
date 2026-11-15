@@ -1,0 +1,162 @@
+{
+ "front": {
+  "edition": [
+   "רביעית",
+   "הרביעית"
+  ],
+  "dates": [
+   "1961",
+   "אפריל 2021"
+  ],
+  "publisher": [
+   "רשות תימרור מקומית",
+   "רשות התימרור המרכזית",
+   "רשות\n    תימרור מקומית בתוך התחום שקבעה ר. תימרור מרכזי",
+   "מינהל תכנון"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  4
+ ],
+ "sections": [
+  {
+   "num": "3.3",
+   "title": "בעלי סמכות על פי דין לקבוע הסדרי תנועה",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "3.3.1",
+   "title": "רשות תימרור מרכזית",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "3.3.2",
+   "title": "רשות תימרור מקומית",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "3.3.3",
+   "title": "המשטרה או משטרה צבאית פיקודית",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "4.1",
+   "title": "אופן הגשת הבקשה",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "4.2",
+   "title": "שיקול דעתה של רשות התימרור המרכזית",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "4.3",
+   "title": "קביעת הגבולות הגיאוגרפיים",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 35
+  },
+  {
+   "num": "4.3.1",
+   "title": "כאשר רשות התימרור המקומית היא רשות מקומית",
+   "chapter": null,
+   "start": 9,
+   "level": 3,
+   "end": 9
+  },
+  {
+   "num": "4.3.2",
+   "title": "כאשר רשות התימרור המקומית היא הממונה על דרך/דרכים",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "4.3.3",
+   "title": "ברשות תימרור מקומית באתרים מיוחדים",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "4.3.4",
+   "title": "ברשות התימרור המקומית \"חב' רכבת ישראל בע\"מ\"",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 11
+  },
+  {
+   "num": "4.5.2",
+   "title": "ביטול הסמכות לקביעת התחום לפי תקנה (18ב)",
+   "chapter": null,
+   "start": 12,
+   "level": 3,
+   "end": 35
+  },
+  {
+   "num": "2",
+   "title": "התחבורה.       מבוא",
+   "chapter": null,
+   "start": 36,
+   "level": 1,
+   "end": 36
+  },
+  {
+   "num": "3",
+   "title": "של המטרופולינים ומה שביניהם    הפיתוח",
+   "chapter": null,
+   "start": 36,
+   "level": 1,
+   "end": 36
+  },
+  {
+   "num": "4",
+   "title": "מצבת הרמזורים בישראל       הרמזור                       5",
+   "chapter": null,
+   "start": 36,
+   "level": 1,
+   "end": 46
+  },
+  {
+   "num": "3.1",
+   "title": "הוספת תקנה 16א בענין ביצוע ניסויים              סעיף",
+   "chapter": null,
+   "start": 45,
+   "level": 2,
+   "end": 46
+  },
+  {
+   "num": "3.3.7",
+   "title": "עדכון מספר המינויים לרשות תימרור             סעיף",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 46
+  }
+ ],
+ "coverage": "sections"
+}

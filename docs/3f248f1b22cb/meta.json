@@ -1,0 +1,48 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/the-headlight-system-3.2.pdf",
+ "checked": "2026-11-15T16:47:12Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/the-headlight-system-3.2.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 987882,
+ "secs": 0.639046,
+ "body_head": "<!DOCTYPE html> <html dir=\"rtl\" lang=\"he-IL\" class=\"no-js\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width\" /> <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no\" /> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin> <link href=\"https://fonts.googleapis.com/",
+ "server": "cloudflare",
+ "tries": [
+  404
+ ],
+ "id": "3f248f1b22cb",
+ "kind": "pdf",
+ "result": "ok (alternate /ar/)",
+ "via": "alternate",
+ "alt_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/the-headlight-system-3.2.pdf",
+ "first_try": {
+  "status": 404,
+  "result": "error 404",
+  "server": "cloudflare"
+ },
+ "pages": 30,
+ "pdf_meta": {
+  "Title": "סעיף 3.2-מערכת הפנסים",
+  "Producer": "Microsoft® Word 2019",
+  "Creator": "Microsoft® Word 2019",
+  "CreationDate": "Wed Jul 27 04:59:03 2022 UTC",
+  "ModDate": "Sun Aug 14 10:52:42 2022 UTC"
+ },
+ "fonts_uni_no": 7,
+ "sha256": "11227ef1a1b8535a8052269a4c4e96c2b6fe50190c7a01925d48f17edf167ee8",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3f248f1b22cb.pdf",
+ "fix_log": [
+  "words=1716 unknown=91 fixed=6"
+ ],
+ "image_pages": 6,
+ "table_pages": 0,
+ "figure_ocr_pages": 5,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 85,
+ "lowconf_pages": [],
+ "text_pages": 30,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

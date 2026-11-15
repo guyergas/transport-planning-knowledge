@@ -1,0 +1,53 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/he/Tashtiyot_public%20transportation%20development%202015.pdf",
+ "checked": "2026-11-15T16:48:42Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 10450368,
+ "secs": 0.184634,
+ "body_head": "<!DOCTYPE html> <html dir=\"rtl\" lang=\"he-IL\" class=\"no-js\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width\" /> <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no\" /> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin> <link href=\"https://fonts.googleapis.com/",
+ "server": "cloudflare",
+ "tries": [
+  404
+ ],
+ "id": "b41d00790cd8",
+ "kind": "pdf",
+ "result": "ok (alternate /ar/)",
+ "via": "alternate",
+ "alt_url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf",
+ "first_try": {
+  "status": 404,
+  "result": "error 404",
+  "server": "cloudflare"
+ },
+ "pages": 108,
+ "pdf_meta": {
+  "Title": "1",
+  "Producer": "Microsoft® Office Word 2007",
+  "Creator": "Microsoft® Office Word 2007",
+  "CreationDate": "Tue Oct  6 12:20:13 2015 UTC",
+  "ModDate": "Mon Jun 22 10:51:34 2020 UTC"
+ },
+ "fonts_uni_no": 14,
+ "sha256": "c19436c79d8861d96fb35114c42970b35b02ab828a7162f227428d8981b1ff92",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b41d00790cd8.pdf",
+ "fix_log": [
+  "words=4411 unknown=282 fixed=7"
+ ],
+ "image_pages": 34,
+ "table_pages": 22,
+ "figure_ocr_pages": 26,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 73,
+ "lowconf_pages": [
+  1,
+  41,
+  42,
+  43
+ ],
+ "text_pages": 108,
+ "ocr_pages": 8,
+ "layer": "mixed"
+}

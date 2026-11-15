@@ -1,0 +1,24 @@
+{
+ "front": {
+  "dates": [
+   "2026",
+   "2022",
+   "2023"
+  ],
+  "publisher": [
+   "מינהל תכנון IS‏",
+   "אגף בכיר תכנון תחבורתי משרדהתחבורה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "x",
+  "9": "9",
+  "10": "10",
+  "11": "14",
+  "12": "12"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

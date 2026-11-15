@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/31-20-23/he/__Ayalon_Phase2_Report_21.03_(2)%20(2).pdf",
+ "checked": "2026-11-15T16:53:18Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/policy/31-20-23/he/__Ayalon_Phase2_Report_21.03_(2)%20(2).pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 51763459,
+ "secs": 46.078199,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b38c6f154732",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 68,
+ "pdf_meta": {
+  "Title": "מרכזי תחבורה בפרוזדור האיילון שלב 2 | עקרונות מנחים לתכנון ומדדי רמת שירות",
+  "Producer": "Adobe PDF Library 17.0",
+  "Creator": "Adobe InDesign 18.2 (Windows)",
+  "CreationDate": "Wed Mar 22 09:56:38 2023 UTC",
+  "ModDate": "Sun Mar 26 16:13:53 2023 UTC"
+ },
+ "fonts_uni_no": 7,
+ "sha256": "02d143cb819703bd8d9826745c4ae9dd953f2b10c5642dac1f03dc333217592a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b38c6f154732.pdf",
+ "fix_log": [
+  "words=5563 unknown=193 fixed=10"
+ ],
+ "image_pages": 48,
+ "table_pages": 19,
+ "figure_ocr_pages": 48,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 63,
+ "lowconf_pages": [
+  63
+ ],
+ "text_pages": 68,
+ "ocr_pages": 6,
+ "layer": "mixed"
+}

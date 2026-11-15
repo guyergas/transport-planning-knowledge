@@ -1,30 +1,17 @@
 {
  "url": "https://www.gov.il/he/Departments/news/2020_tamrur",
- "checked": "2026-11-15T15:19:16Z",
+ "checked": "2026-11-15T16:56:16Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/error",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5186,
- "secs": 0.055116,
- "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
- "server": "cloudflare",
- "tries": [
-  403,
-  403,
-  403
- ],
+ "via": "browser (render)",
  "id": "0988262d0096",
  "kind": "html",
  "result": "blocked (bot challenge)",
- "via": "browser",
- "first_try": {
-  "status": 403,
-  "result": "error 403",
-  "server": "cloudflare"
- },
  "title": "Attention Required! | Cloudflare",
  "file_links": [],
  "all_links": 1,
+ "new_file_links": [],
  "unknown_file_links": []
 }

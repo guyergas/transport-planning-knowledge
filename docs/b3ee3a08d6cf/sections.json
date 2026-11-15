@@ -1,0 +1,27 @@
+{
+ "front": {
+  "edition": [
+   "זו",
+   "מ"
+  ],
+  "dates": [
+   "2018",
+   "אפריל 2018",
+   "2012",
+   "1994"
+  ],
+  "publisher": [
+   "רשות",
+   "משרד התחבורה",
+   "משרד התחבורה.",
+   "משרד התחבורה – יו\"ר           אינג' ישעיהו רונן"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "60"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}

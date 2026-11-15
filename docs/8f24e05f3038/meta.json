@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf",
- "checked": "2026-11-15T14:51:58Z",
+ "checked": "2026-11-15T16:56:32Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 10450368,
- "secs": 21.620063,
+ "secs": 15.440781,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 14,
  "sha256": "c19436c79d8861d96fb35114c42970b35b02ab828a7162f227428d8981b1ff92",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8f24e05f3038.pdf",
- "fix_log": [
-  "words=4410 unknown=281 fixed=7"
- ],
+ "text_pages": 108,
+ "ocr_pages": 8,
+ "layer": "mixed",
  "image_pages": 34,
  "table_pages": 22,
  "figure_ocr_pages": 26,
@@ -39,7 +39,5 @@
   42,
   43
  ],
- "text_pages": 108,
- "ocr_pages": 8,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/ar/pizul-zmatim.pdf",
- "checked": "2026-11-15T15:13:56Z",
+ "checked": "2026-11-15T16:57:37Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/ar/pizul-zmatim.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 608123,
- "secs": 0.91667,
+ "secs": 2.425742,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 5,
  "sha256": "8f11c9e5e074c21ac5b6641e27005a8474163664b8e08a901ab2989d376f39cd",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ad728778bcbd.pdf",
- "fix_log": [
-  "words=1328 unknown=116 fixed=40"
- ],
+ "text_pages": 12,
+ "ocr_pages": 12,
+ "layer": "broken",
  "image_pages": 5,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 87,
  "lowconf_pages": [],
- "text_pages": 12,
- "ocr_pages": 12,
- "layer": "broken"
+ "change": "unchanged"
 }

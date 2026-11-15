@@ -14,12 +14,12 @@ What can I do to resolve this?
 
 You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
 
-      Cloudflare Ray ID: a5af3e942a25a0cc
+      Cloudflare Ray ID: a5afc95baa68ebd6
       •
 
         Your IP:
         Click to reveal
-        134.138.63.3
+        54.211.170.155
         •
 
       Performance & security by Cloudflare
