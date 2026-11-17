@@ -1,0 +1,30 @@
+name: data
+# National datasets (CSV/ZIP, no OCR): push data/sources.jsonl -> download -> Release data-<name> + data/<name>/meta.json.
+on:
+  push:
+    branches: [main]
+    paths: ['data/sources.jsonl']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: data
+  cancel-in-progress: false
+jobs:
+  data:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: python3 tools/data_fetch.py
+      - run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -qm "data: $(date -u +%F_%H%M)"
+          git pull -q --rebase && git push -q

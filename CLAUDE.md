@@ -73,6 +73,13 @@ document · front (edition/date/publisher candidates) · chapter · section (map
 - `docs/<id>/sections.json`: section map (heuristic; `coverage: page-only` when no reliable numbering). `sections.jsonl`: all docs.
 - Edition/date from text are candidates: confirm on the cover page image before stating them. Read the heading on the page itself when map and nearest heading disagree.
 
+## National datasets (not documents)
+Big data files (CSV/ZIP) that projects clip locally — no OCR, no index, not in the map.
+- Add: append a line to `data/sources.jsonl` `{"name","url","page","title"}` (`"force": true` to re-download) → workflow `data`.
+- Result: Release `data-<name>` (original file) + `data/<name>/meta.json` (status, bytes, sha256, zip file list, asset URL).
+- Project fetch tasks (spec section 15) download the asset from the Release and clip to the study area; never store national files in project folders.
+- Current: `tripscelular_1819` — cellular OD survey 2018–19 v1.3 (Ministry of Transport); its data dictionary PDF is a normal document (requests/od-meta-001.txt).
+
 ## Maintain the repo (needs push: add_repo owner=guyergas repo=transport-planning-knowledge access=push)
 Every push below triggers workflow `fetch`; it ends with the `index` job (dedupe, sheet join, sections, search, Issue).
 Poll `https://api.github.com/repos/guyergas/transport-planning-knowledge/actions/runs?per_page=1`, then `git pull`.
