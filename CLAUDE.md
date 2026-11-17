@@ -76,6 +76,7 @@ document · front (edition/date/publisher candidates) · chapter · section (map
 ## National datasets (not documents)
 Rule (Guy, 17.11.2026): every national dataset (not project-specific) lives here, never fetched by a project task directly.
 Big data files (CSV/ZIP/PBF/XLSX) that projects clip locally — no OCR, no index, not in the map.
+- Files behind a login (e.data.gov.il → Google sign-in) are detected; CKAN datastore resources fall back to `datastore_search` paging (CSV). `"mirrors"` = alternative URLs. Remove `"force"` after the run.
 - Add: append a line to `data/sources.jsonl`: `{"name","title","page"}` + `"url"` (one file) or `"ckan"` (data.gov.il package; `"match"` regex on resource name/url; `"search"` words used if the package name is wrong → `candidates` in meta). Optional `"refresh_days"`, `"force": true`.
 - Workflow `data`: on push of that file + weekly (Monday) for sources whose `refresh_days` passed.
 - Result: Release `data-<name>` (latest file, same name each time) + `data/<name>/meta.json` (status, checked, bytes, sha256, zip file list, asset URL; for ckan: per resource).
