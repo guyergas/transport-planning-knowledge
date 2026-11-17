@@ -82,7 +82,7 @@ Big data files (CSV/ZIP/PBF/XLSX) that projects clip locally — no OCR, no inde
 - Result: Release `data-<name>` (latest file, same name each time) + `data/<name>/meta.json` (status, checked, bytes, sha256, zip file list, asset URL; for ckan: per resource).
 - Project fetch tasks (spec section 15) download the asset and clip to the study area; never store national files in project folders. Record `checked` + `sha256` from meta.json as the source version.
 - Query services stay in the project task (area query, no national file): Open Bus Stride API, iplan ArcGIS, GovMap, street-imagery APIs.
-- Current: `tripscelular_1819` (cellular OD 2018–19 v1.3), `gtfs`, `cbs_accidents_puf`, `cbs_localities`, `osm_israel`. Data dictionaries/reports (PDF) go through the normal document pipeline (requests/).
+- Current: `tripscelular_1819` (cellular OD 2018–19 v1.3), `gtfs`, `cbs_accidents_puf`, `cbs_localities`, `osm_israel`, bicycle: `bike_infra_plan`, `bike_infra_exist`, `bike_ofneidan`, `bike_metrofan`, `bike_net_tlv`. Data dictionaries/reports (PDF) go through the normal document pipeline (requests/).
 
 ## Maintain the repo (needs push: add_repo owner=guyergas repo=transport-planning-knowledge access=push)
 Every push below triggers workflow `fetch`; it ends with the `index` job (dedupe, sheet join, sections, search, Issue).
