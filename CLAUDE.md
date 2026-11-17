@@ -80,7 +80,7 @@ Big data files (CSV/ZIP/PBF/XLSX) that projects clip locally — no OCR, no inde
 - Add: append a line to `data/sources.jsonl`: `{"name","title","page"}` + `"url"` (one file) or `"ckan"` (data.gov.il package; `"match"` regex on resource name/url; `"search"` words used if the package name is wrong → `candidates` in meta). Optional `"refresh_days"`, `"force": true`.
 - Workflow `data`: on push of that file + weekly (Monday) for sources whose `refresh_days` passed.
 - Result: Release `data-<name>` (latest file, same name each time) + `data/<name>/meta.json` (status, checked, bytes, sha256, zip file list, asset URL; for ckan: per resource).
-- Project fetch tasks (spec section 15) download the asset and clip to the study area; never store national files in project folders. Record `checked` + `sha256` from meta.json as the source version.
+- Project fetch tasks (spec section 15) download the asset and clip to the study area; never store national files in project folders. Record `checked` + `sha256` from meta.json as the source version. In reports, cite the ORIGINAL source (publisher, dataset, `url`/`page`, retrieval date, version), never the repo.
 - Query services stay in the project task (area query, no national file): Open Bus Stride API, iplan ArcGIS, GovMap, street-imagery APIs.
 - Current: `tripscelular_1819` (cellular OD 2018–19 v1.3), `gtfs`, `cbs_accidents_puf`, `cbs_localities`, `osm_israel`, bicycle: `bike_infra_plan`, `bike_infra_exist`, `bike_ofneidan`, `bike_metrofan`, `bike_net_tlv`. Data dictionaries/reports (PDF) go through the normal document pipeline (requests/).
 
