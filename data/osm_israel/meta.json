@@ -4,7 +4,18 @@
  "page": "https://download.geofabrik.de/asia/israel-and-palestine.html",
  "url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf",
  "refresh_days": 7,
- "checked": "2026-11-17T04:58:45Z",
+ "force": true,
+ "mirrors": [
+  "https://download.openstreetmap.fr/extracts/asia/israel_and_palestine-latest.osm.pbf"
+ ],
+ "checked": "2026-11-17T05:06:00Z",
  "file": "israel-and-palestine-latest.osm.pbf",
- "status": 0
+ "status": 200,
+ "errors": [
+  "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf: 0 curl: (7) Failed to connect to download.geofabrik.de port 443 after 528 ms: Couldn't connect to server"
+ ],
+ "via": "https://download.openstreetmap.fr/extracts/asia/israel_and_palestine-latest.osm.pbf",
+ "bytes": 153224996,
+ "sha256": "a4bb855683c5693a503b3838f4edd7ef3c52cea920c597958098edabe434045a",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-osm_israel/israel-and-palestine-latest.osm.pbf"
 }
