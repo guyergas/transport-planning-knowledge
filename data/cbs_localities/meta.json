@@ -1,0 +1,115 @@
+{
+ "name": "cbs_localities",
+ "title": "קובץ יישובים 2025 – הלמ\"ס (ארצי)",
+ "page": "https://www.cbs.gov.il/he/publications/Pages/2019/%D7%99%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C.aspx",
+ "url": "https://www.cbs.gov.il/he/publications/doclib/2019/ishuvim/bycode2025.xlsx",
+ "refresh_days": 180,
+ "checked": "2026-11-17T04:58:41Z",
+ "file": "bycode2025.xlsx",
+ "status": 200,
+ "bytes": 314028,
+ "sha256": "f7b3409af6631baaf40020aa1530c3dab2bea73ffb49fc86877d9d32ef68ca8c",
+ "files": [
+  {
+   "name": "[Content_Types].xml",
+   "bytes": 1805
+  },
+  {
+   "name": "_rels/.rels",
+   "bytes": 735
+  },
+  {
+   "name": "xl/_rels/workbook.xml.rels",
+   "bytes": 1124
+  },
+  {
+   "name": "xl/workbook.xml",
+   "bytes": 2006
+  },
+  {
+   "name": "xl/sharedStrings.xml",
+   "bytes": 119303
+  },
+  {
+   "name": "xl/worksheets/_rels/sheet1.xml.rels",
+   "bytes": 322
+  },
+  {
+   "name": "xl/theme/theme1.xml",
+   "bytes": 8390
+  },
+  {
+   "name": "xl/styles.xml",
+   "bytes": 3801
+  },
+  {
+   "name": "xl/worksheets/sheet1.xml",
+   "bytes": 1537003
+  },
+  {
+   "name": "docProps/core.xml",
+   "bytes": 676
+  },
+  {
+   "name": "xl/printerSettings/printerSettings1.bin",
+   "bytes": 7436
+  },
+  {
+   "name": "docProps/app.xml",
+   "bytes": 810
+  },
+  {
+   "name": "customXml/item1.xml",
+   "bytes": 17652
+  },
+  {
+   "name": "customXml/_rels/item1.xml.rels",
+   "bytes": 296
+  },
+  {
+   "name": "customXml/itemProps2.xml",
+   "bytes": 201
+  },
+  {
+   "name": "customXml/item2.xml",
+   "bytes": 219
+  },
+  {
+   "name": "customXml/itemProps1.xml",
+   "bytes": 201
+  },
+  {
+   "name": "customXml/_rels/item2.xml.rels",
+   "bytes": 296
+  },
+  {
+   "name": "[trash]/0000.dat",
+   "bytes": 639
+  },
+  {
+   "name": "customXml/itemProps3.xml",
+   "bytes": 201
+  },
+  {
+   "name": "[trash]/0001.dat",
+   "bytes": 586
+  },
+  {
+   "name": "customXml/_rels/item3.xml.rels",
+   "bytes": 296
+  },
+  {
+   "name": "[trash]/0002.dat",
+   "bytes": 870
+  },
+  {
+   "name": "docProps/custom.xml",
+   "bytes": 4321
+  },
+  {
+   "name": "customXml/item3.xml",
+   "bytes": 3023
+  }
+ ],
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_localities/bycode2025.xlsx"
+}

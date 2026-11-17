@@ -1,0 +1,55 @@
+{
+ "name": "gtfs",
+ "title": "GTFS תחבורה ציבורית – משרד התחבורה (ארצי)",
+ "page": "https://gtfs.mot.gov.il/gtfsfiles/",
+ "url": "https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip",
+ "refresh_days": 7,
+ "checked": "2026-11-17T04:57:57Z",
+ "file": "israel-public-transportation.zip",
+ "status": 200,
+ "bytes": 135178879,
+ "sha256": "674b00fc58dca5c24e1bee9800c168cc53331cca5d6e0a30f6133d1eb73c97b0",
+ "files": [
+  {
+   "name": "agency.txt",
+   "bytes": 2962
+  },
+  {
+   "name": "calendar.txt",
+   "bytes": 1138853
+  },
+  {
+   "name": "fare_attributes.txt",
+   "bytes": 398
+  },
+  {
+   "name": "fare_rules.txt",
+   "bytes": 18010531
+  },
+  {
+   "name": "routes.txt",
+   "bytes": 959568
+  },
+  {
+   "name": "shapes.txt",
+   "bytes": 223393223
+  },
+  {
+   "name": "stop_times.txt",
+   "bytes": 491909336
+  },
+  {
+   "name": "stops.txt",
+   "bytes": 5031725
+  },
+  {
+   "name": "translations.txt",
+   "bytes": 6216230
+  },
+  {
+   "name": "trips.txt",
+   "bytes": 16802809
+  }
+ ],
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-gtfs/israel-public-transportation.zip"
+}

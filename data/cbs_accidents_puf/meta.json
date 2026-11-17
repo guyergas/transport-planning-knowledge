@@ -1,0 +1,175 @@
+{
+ "name": "cbs_accidents_puf",
+ "title": "תאונות דרכים עם נפגעים – קובצי PUF של הלמ\"ס (ארצי)",
+ "page": "https://data.gov.il/",
+ "ckan": "2023-puf",
+ "search": "תאונות דרכים נפגעים",
+ "refresh_days": 90,
+ "checked": "2026-11-17T04:58:16Z",
+ "metadata_modified": "2026-03-16T10:44:55.593047",
+ "resources": [
+  {
+   "name": "מבוא.docx",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/46284f0c-ef59-4b63-b1a4-c93aafddf91a/download/intro.docx",
+   "file": "46284f0c_מבוא.docx.docx",
+   "status": 200,
+   "bytes": 1277561,
+   "sha256": "5d62d7cb77a3ae549a6f86859578a3de9bf5833d2c4c4ccfbad4b0b2aa2025e1",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/46284f0c_מבוא.docx.docx"
+  },
+  {
+   "name": "methodology",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/3938e598-2ccd-4451-99a4-72ecd083c194/download/.docx",
+   "file": "3938e598_methodology.bin",
+   "status": 200,
+   "bytes": 1277486,
+   "sha256": "3466adc6bd79aab69fa6a81daf79824bd503c517eca15afec74036dca8cd0b57",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/3938e598_methodology.bin"
+  },
+  {
+   "name": "summary",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/07483656-039c-4efb-9726-cf1b97f7d12b/download/.docx",
+   "file": "07483656_summary.bin",
+   "status": 200,
+   "bytes": 1277011,
+   "sha256": "424bfc4ebb227aaa6c9322c5ca9859c4f1880da7d7dbb413d68d24b359edb6e8",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/07483656_summary.bin"
+  },
+  {
+   "name": "Codebook - 2024",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/16e2b661-2c27-4dee-a068-f664ba8602ec/download/h20241331codebook.xlsx",
+   "file": "16e2b661_Codebook_-_2024.xlsx",
+   "status": 200,
+   "bytes": 1277351,
+   "sha256": "ee2cc806c2e8287be40f6719d3e238a3274919b2605f3d738115df2cd182601e",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/16e2b661_Codebook_-_2024.xlsx"
+  },
+  {
+   "name": "data - 2024",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/05d14adb-fe54-49f7-b7ce-f30348e2d959/download/h20241331data.csv",
+   "file": "05d14adb_data_-_2024.csv",
+   "status": 200,
+   "bytes": 1277489,
+   "sha256": "e08f9192ba76bce67631011537017582bb0d42213ba7c937ba62910b5537de76",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/05d14adb_data_-_2024.csv"
+  },
+  {
+   "name": "Dictionary - 2024",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/c557fe0c-5f18-41ff-b756-44d26ed4aee4/download/h20241331dictionary.csv",
+   "file": "c557fe0c_Dictionary_-_2024.csv",
+   "status": 200,
+   "bytes": 1277925,
+   "sha256": "a6af813fbbb551cf9ec22a08ad9d1929cb907d84448e107e6954d1967d330b86",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/c557fe0c_Dictionary_-_2024.csv"
+  },
+  {
+   "name": "Codebook - 2023",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/9280f580-1b18-4f92-a61b-84e5dd1554ec/download/h20231331codebook.xlsx",
+   "file": "9280f580_Codebook_-_2023.xlsx",
+   "status": 200,
+   "bytes": 1277481,
+   "sha256": "6c1eaaadf227b14c8302971b45675d73e261b44ec6b4e21941a2de7d320ef630",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/9280f580_Codebook_-_2023.xlsx"
+  },
+  {
+   "name": "data - 2023",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/ae0f1679-139f-4e69-a869-a60d5d76518b/download/h20231331data.csv",
+   "file": "ae0f1679_data_-_2023.csv",
+   "status": 200,
+   "bytes": 1279276,
+   "sha256": "7cb8f1c456354c8353dabf12b45682bee0da3fcf000f2877f1120ee3101f0326",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/ae0f1679_data_-_2023.csv"
+  },
+  {
+   "name": "Dictionary - 2023",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/6ba1e593-36c6-48e0-9913-46afc1493102/download/h20231331dictionary.csv",
+   "file": "6ba1e593_Dictionary_-_2023.csv",
+   "status": 200,
+   "bytes": 1278451,
+   "sha256": "e62aaac6a447ce6bf284a9726630dc7b3f6e8748da172e8458ac1f68f47c4e5f",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/6ba1e593_Dictionary_-_2023.csv"
+  },
+  {
+   "name": "Codebook - 2022",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/b290e263-81d3-4607-a557-f4ad6ab05b05/download/h20221331codebook.xlsx",
+   "file": "b290e263_Codebook_-_2022.xlsx",
+   "status": 200,
+   "bytes": 1278828,
+   "sha256": "592d9bc9af084aacf9b039e1dfaced08d379846cebddb49c815e9584107a7b64",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/b290e263_Codebook_-_2022.xlsx"
+  },
+  {
+   "name": "data - 2022",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/ede3f02a-f9aa-4a6f-9eca-4c11a06f0043/download/h20221331data.csv",
+   "file": "ede3f02a_data_-_2022.csv",
+   "status": 200,
+   "bytes": 1277534,
+   "sha256": "08979d04d2180b900f6a58399774ac58eda339c256657ad53841a15e681dde88",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/ede3f02a_data_-_2022.csv"
+  },
+  {
+   "name": "Dictionary - 2022",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/0bc58775-fed9-4ec2-bd8a-208c4a6c6f53/download/h20221331dictionary.csv",
+   "file": "0bc58775_Dictionary_-_2022.csv",
+   "status": 200,
+   "bytes": 1277664,
+   "sha256": "a87205de0dff87415d8a368d875889206e9da2be4322c3a65492d80d3fe7d5dc",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/0bc58775_Dictionary_-_2022.csv"
+  },
+  {
+   "name": "Codebook - 2021",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/c8d83288-eea5-49a5-b9fe-2d632f10d1bb/download/h20211332codebook.xlsx",
+   "file": "c8d83288_Codebook_-_2021.xlsx",
+   "status": 200,
+   "bytes": 1325788,
+   "sha256": "c8f0bae4844c35e82a920a27967c0ae5b0f72755091704a12cb6cdb98afaaa4d",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/c8d83288_Codebook_-_2021.xlsx"
+  },
+  {
+   "name": "data - 2021",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/6957e7c2-6d68-4332-bbc8-2ee8d5ba6bd6/download/h20211332data.csv",
+   "file": "6957e7c2_data_-_2021.csv",
+   "status": 200,
+   "bytes": 1277442,
+   "sha256": "6cd52b2aa57ab86fd1128751e244ad584a6f89bf7366f3302a030adc207469f5",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/6957e7c2_data_-_2021.csv"
+  },
+  {
+   "name": "Dictionary - 2021",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/589eda92-7c09-4e43-a553-db5e8e8c31a4/download/h20211332dictionary.csv",
+   "file": "589eda92_Dictionary_-_2021.csv",
+   "status": 200,
+   "bytes": 1277968,
+   "sha256": "5a6ad1c10bb8f1649dacbf96fcd4106062c739f9d38dd78b0e41e87e88beee6a",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/589eda92_Dictionary_-_2021.csv"
+  },
+  {
+   "name": "Codebook - 2020",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/882ebc3f-765b-4cd3-8883-5ad66e95d9b8/download/h20201332codebook.xlsx",
+   "file": "882ebc3f_Codebook_-_2020.xlsx",
+   "status": 200,
+   "bytes": 1277475,
+   "sha256": "3ff938536a8f629ab8212359dfce723627f111e84c8e2027fb630c5752e67c76",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/882ebc3f_Codebook_-_2020.xlsx"
+  },
+  {
+   "name": "data - 2020",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/70a93f04-2ffe-4b02-a062-a818600a5b67/download/h20201332data.csv",
+   "file": "70a93f04_data_-_2020.csv",
+   "status": 200,
+   "bytes": 1278179,
+   "sha256": "84bce8d6ace98ed6afe1ffbaf1352d13dc5cc6c69e4529a913ec2382e9045dfb",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/70a93f04_data_-_2020.csv"
+  },
+  {
+   "name": "Dictionary - 2020",
+   "url": "https://e.data.gov.il/dataset/02789da8-7a3e-4bfc-b771-1732b1cf403c/resource/b1b7b2b1-e04b-4704-a929-792f19c6019b/download/h20201332dictionary.csv",
+   "file": "b1b7b2b1_Dictionary_-_2020.csv",
+   "status": 200,
+   "bytes": 1277658,
+   "sha256": "8de5f357d949b0e6c22422c5032ce17bf6c407ab54056574c1febc4421b56593",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-cbs_accidents_puf/b1b7b2b1_Dictionary_-_2020.csv"
+  }
+ ],
+ "status": 200
+}

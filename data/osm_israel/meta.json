@@ -1,0 +1,10 @@
+{
+ "name": "osm_israel",
+ "title": "OpenStreetMap – ישראל ופלסטין, Geofabrik (ארצי, לא רשמי)",
+ "page": "https://download.geofabrik.de/asia/israel-and-palestine.html",
+ "url": "https://download.geofabrik.de/asia/israel-and-palestine-latest.osm.pbf",
+ "refresh_days": 7,
+ "checked": "2026-11-17T04:58:45Z",
+ "file": "israel-and-palestine-latest.osm.pbf",
+ "status": 0
+}
