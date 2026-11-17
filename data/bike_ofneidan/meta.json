@@ -1,0 +1,197 @@
+{
+ "name": "bike_ofneidan",
+ "title": "אופנידן – רשת אופניים מטרופולינית",
+ "page": "https://data.gov.il/",
+ "ckan": "ofneidan",
+ "checked": "2026-11-17T05:20:37Z",
+ "metadata_modified": "2025-09-01T17:11:38.399548",
+ "resources": [
+  {
+   "name": "OFNEIDAN_SHP",
+   "url": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/06cf6cd4-32d2-424b-ae41-5236b14b3c35/download/ofneidan.zip",
+   "file": "06cf6cd4_OFNEIDAN_SHP.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/06cf6cd4-32d2-424b-ae41-5236b14b3c35/download/ofneidan.zip",
+   "bytes": 175520,
+   "sha256": "dbb03784eedbb3eda4ac8c601a9a0238be4986c1bfcec7fd072d29ac30aa1a5f",
+   "files": [
+    {
+     "name": "OFNEIDAN.shp",
+     "bytes": 219176
+    },
+    {
+     "name": "OFNEIDAN.shx",
+     "bytes": 1644
+    },
+    {
+     "name": "OFNEIDAN.lyr",
+     "bytes": 52736
+    },
+    {
+     "name": "OFNEIDAN.cpg",
+     "bytes": 5
+    },
+    {
+     "name": "OFNEIDAN.dbf",
+     "bytes": 136966
+    },
+    {
+     "name": "OFNEIDAN.prj",
+     "bytes": 428
+    },
+    {
+     "name": "OFNEIDAN.sbn",
+     "bytes": 2060
+    },
+    {
+     "name": "OFNEIDAN.sbx",
+     "bytes": 268
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_ofneidan/06cf6cd4_OFNEIDAN_SHP.zip"
+  },
+  {
+   "name": "OFNEIDAN_KML",
+   "url": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/91d6ae23-492f-48e9-8825-28adc0c0c8b3/download/ofneidan_kmz.zip",
+   "file": "91d6ae23_OFNEIDAN_KML.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/91d6ae23-492f-48e9-8825-28adc0c0c8b3/download/ofneidan_kmz.zip",
+   "bytes": 544,
+   "sha256": "12d767877bfd624ac9449444523ea58ece8bb047c83b863e9434368e5730ada6",
+   "files": [
+    {
+     "name": "OFNEIDAN.kmz",
+     "bytes": 371
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_ofneidan/91d6ae23_OFNEIDAN_KML.zip"
+  },
+  {
+   "name": "OFNEIDAN_CSV",
+   "url": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/94c34998-b8fe-414b-94d8-23e92299ed4a/download/ofneidan.csv",
+   "file": "94c34998_OFNEIDAN_CSV.csv",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/94c34998-b8fe-414b-94d8-23e92299ed4a/download/ofneidan.csv",
+   "bytes": 32701,
+   "sha256": "fdab6312a0cb6522dba54424b0451d4d98df74bff96f371b8ea598a8cc6f3a44",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_ofneidan/94c34998_OFNEIDAN_CSV.csv"
+  },
+  {
+   "name": "מטאדאטה",
+   "url": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/c59bb482-384e-4981-9527-5af08c4c4e4d/download/ofneidan_metadata.xlsx",
+   "file": "c59bb482_מטאדאטה.xlsx",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/0ec0c9e6-36f0-4ca2-8e93-c9a394786455/resource/c59bb482-384e-4981-9527-5af08c4c4e4d/download/ofneidan_metadata.xlsx",
+   "bytes": 17028,
+   "sha256": "bb5513535c1b256af9c442779ee1be90f90052e5c3a8f7841ff6d7fff5ec925a",
+   "files": [
+    {
+     "name": "[trash]/0000.dat",
+     "bytes": 340
+    },
+    {
+     "name": "[trash]/0002.dat",
+     "bytes": 229
+    },
+    {
+     "name": "[trash]/0001.dat",
+     "bytes": 244
+    },
+    {
+     "name": "xl/worksheets/sheet1.xml",
+     "bytes": 5565
+    },
+    {
+     "name": "xl/workbook.xml",
+     "bytes": 551
+    },
+    {
+     "name": "xl/sharedStrings.xml",
+     "bytes": 3010
+    },
+    {
+     "name": "xl/styles.xml",
+     "bytes": 2152
+    },
+    {
+     "name": "xl/theme/theme1.xml",
+     "bytes": 6995
+    },
+    {
+     "name": "xl/worksheets/_rels/sheet1.xml.rels",
+     "bytes": 517
+    },
+    {
+     "name": "[trash]/0003.dat",
+     "bytes": 297
+    },
+    {
+     "name": "docProps/app.xml",
+     "bytes": 785
+    },
+    {
+     "name": "customXml/item1.xml",
+     "bytes": 14922
+    },
+    {
+     "name": "customXml/itemProps1.xml",
+     "bytes": 201
+    },
+    {
+     "name": "customXml/item2.xml",
+     "bytes": 219
+    },
+    {
+     "name": "customXml/itemProps2.xml",
+     "bytes": 201
+    },
+    {
+     "name": "customXml/_rels/item1.xml.rels",
+     "bytes": 296
+    },
+    {
+     "name": "customXml/_rels/item2.xml.rels",
+     "bytes": 296
+    },
+    {
+     "name": "[trash]/0004.dat",
+     "bytes": 368
+    },
+    {
+     "name": "xl/_rels/workbook.xml.rels",
+     "bytes": 1124
+    },
+    {
+     "name": "customXml/item3.xml",
+     "bytes": 587
+    },
+    {
+     "name": "customXml/itemProps3.xml",
+     "bytes": 201
+    },
+    {
+     "name": "docProps/custom.xml",
+     "bytes": 402
+    },
+    {
+     "name": "customXml/_rels/item3.xml.rels",
+     "bytes": 296
+    },
+    {
+     "name": "_rels/.rels",
+     "bytes": 735
+    },
+    {
+     "name": "docProps/core.xml",
+     "bytes": 593
+    },
+    {
+     "name": "[Content_Types].xml",
+     "bytes": 1689
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_ofneidan/c59bb482_מטאדאטה.xlsx"
+  }
+ ],
+ "status": 200
+}

@@ -1,0 +1,87 @@
+{
+ "name": "bike_metrofan",
+ "title": "מטרופן",
+ "page": "https://data.gov.il/",
+ "ckan": "metrofan",
+ "checked": "2026-11-17T05:20:44Z",
+ "metadata_modified": "2024-11-24T15:20:10.420720",
+ "resources": [
+  {
+   "name": "METROFAN_SHP",
+   "url": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/5f6cfbd5-f733-4f3b-ba8f-1c7b6e4f031b/download/metrofan.zip",
+   "file": "5f6cfbd5_METROFAN_SHP.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/5f6cfbd5-f733-4f3b-ba8f-1c7b6e4f031b/download/metrofan.zip",
+   "bytes": 111130,
+   "sha256": "89e521973c692ba1a164b9b3a30618b909a7ae72eb6a13fe447e699da6046e5f",
+   "files": [
+    {
+     "name": "METROFAN.cpg",
+     "bytes": 5
+    },
+    {
+     "name": "METROFAN.dbf",
+     "bytes": 139272
+    },
+    {
+     "name": "METROFAN.prj",
+     "bytes": 428
+    },
+    {
+     "name": "METROFAN.sbn",
+     "bytes": 4196
+    },
+    {
+     "name": "METROFAN.sbx",
+     "bytes": 404
+    },
+    {
+     "name": "METROFAN.shp",
+     "bytes": 144540
+    },
+    {
+     "name": "METROFAN.shx",
+     "bytes": 3388
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_metrofan/5f6cfbd5_METROFAN_SHP.zip"
+  },
+  {
+   "name": "METROFAN_KMZ",
+   "url": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/c2585f87-b07f-42d9-ac05-09c3c42fc89b/download/metrofan_kmz.zip",
+   "file": "c2585f87_METROFAN_KMZ.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/c2585f87-b07f-42d9-ac05-09c3c42fc89b/download/metrofan_kmz.zip",
+   "bytes": 139900,
+   "sha256": "61571bafe350403908a0ab84f422d533deb8af8bc99cd8d446bf30767bb27e1e",
+   "files": [
+    {
+     "name": "METROFAN.kmz",
+     "bytes": 139825
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_metrofan/c2585f87_METROFAN_KMZ.zip"
+  },
+  {
+   "name": "METROFAN_CSV",
+   "url": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/6ac4334d-808a-4ee6-8ef8-6a2f129256ea/download/metrofan.csv",
+   "file": "6ac4334d_METROFAN_CSV.csv",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/6ac4334d-808a-4ee6-8ef8-6a2f129256ea/download/metrofan.csv",
+   "bytes": 32419,
+   "sha256": "3cc729ac3da7e9d46cfd33288ed6bb45968a9cfffe31d873a731dbc630943308",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_metrofan/6ac4334d_METROFAN_CSV.csv"
+  },
+  {
+   "name": "מטאדאטה",
+   "url": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/64b4c129-330d-47e0-9e0a-3136d526c1f0/download/metrofan.pdf",
+   "file": "64b4c129_מטאדאטה.pdf",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/ce345e12-77fc-4fcb-9cb3-a369b5f87709/resource/64b4c129-330d-47e0-9e0a-3136d526c1f0/download/metrofan.pdf",
+   "bytes": 234026,
+   "sha256": "b96287561f8e8c891a86cfdc50bd54eda6b31026de55de0903f6731f3c618b46",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_metrofan/64b4c129_מטאדאטה.pdf"
+  }
+ ],
+ "status": 200
+}

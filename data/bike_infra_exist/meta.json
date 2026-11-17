@@ -1,0 +1,137 @@
+{
+ "name": "bike_infra_exist",
+ "title": "שבילי אופניים – תשתית רכיבה קיימת, משרד התחבורה (ארצי)",
+ "page": "https://data.gov.il/",
+ "ckan": "bph_infra_exist",
+ "checked": "2026-11-17T05:20:23Z",
+ "metadata_modified": "2026-10-22T06:24:06.897674",
+ "resources": [
+  {
+   "name": "BPH_INFRA_EXIST_SHP",
+   "url": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/abb1f19f-4482-40df-9da8-bf0bf126bf9e/download/bph_infra_exist.zip",
+   "file": "abb1f19f_BPH_INFRA_EXIST_SHP.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/abb1f19f-4482-40df-9da8-bf0bf126bf9e/download/bph_infra_exist.zip",
+   "bytes": 3002432,
+   "sha256": "a51e5d21f75a434e02f9056fba6d64e051f389c7efef1bc610cb167648ce70bb",
+   "files": [
+    {
+     "name": "BPH_Infra_Exist.dbf",
+     "bytes": 76213182
+    },
+    {
+     "name": "BPH_Infra_Exist.sbn",
+     "bytes": 131700
+    },
+    {
+     "name": "BPH_Infra_Exist.sbx",
+     "bytes": 2564
+    },
+    {
+     "name": "BPH_Infra_Exist.shp",
+     "bytes": 2498100
+    },
+    {
+     "name": "BPH_Infra_Exist.shx",
+     "bytes": 113300
+    },
+    {
+     "name": "BPH_Infra_Exist.lyr",
+     "bytes": 16896
+    },
+    {
+     "name": "BPH_Infra_Exist.prj",
+     "bytes": 428
+    },
+    {
+     "name": "BPH_Infra_Exist.cpg",
+     "bytes": 5
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_exist/abb1f19f_BPH_INFRA_EXIST_SHP.zip"
+  },
+  {
+   "name": "BPH_INFRA_EXIST_KMZ",
+   "url": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/eaa9f579-05c9-435f-b5af-a25be63b91ba/download/bph_infra_exist_kmz.zip",
+   "file": "eaa9f579_BPH_INFRA_EXIST_KMZ.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/eaa9f579-05c9-435f-b5af-a25be63b91ba/download/bph_infra_exist_kmz.zip",
+   "bytes": 3034188,
+   "sha256": "7cad22631b2ec824212976ecf73e4b28966f06c5788b24516fe78767c0e30f76",
+   "files": [
+    {
+     "name": "BPH_Infra_Exist.kmz",
+     "bytes": 3067577
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_exist/eaa9f579_BPH_INFRA_EXIST_KMZ.zip"
+  },
+  {
+   "name": "BPH_INFRA_EXIST_CSV",
+   "url": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/6c6f191a-0839-411d-ac4f-59abe36a3593/download/bph_infra_exist.csv",
+   "file": "6c6f191a_BPH_INFRA_EXIST_CSV.csv",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/6c6f191a-0839-411d-ac4f-59abe36a3593/download/bph_infra_exist.csv",
+   "bytes": 8503874,
+   "sha256": "5c588e90d9ba3f7a72e71b81e7b02483b2f0854d0d9084987d1d02d44f115a14",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_exist/6c6f191a_BPH_INFRA_EXIST_CSV.csv"
+  },
+  {
+   "name": "מטאדאטה",
+   "url": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/9a975431-705b-4f22-9f0d-a483c718da67/download/bph_infra_exist_metadata.xlsx",
+   "file": "9a975431_מטאדאטה.xlsx",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/c425e549-60b4-4523-badd-de6886d81306/resource/9a975431-705b-4f22-9f0d-a483c718da67/download/bph_infra_exist_metadata.xlsx",
+   "bytes": 10514,
+   "sha256": "54f380bd4a6fa0d0a6ea451c37e74da695c3bda07a09fc615db52ab8db13199f",
+   "files": [
+    {
+     "name": "[Content_Types].xml",
+     "bytes": 1168
+    },
+    {
+     "name": "_rels/.rels",
+     "bytes": 588
+    },
+    {
+     "name": "xl/_rels/workbook.xml.rels",
+     "bytes": 698
+    },
+    {
+     "name": "xl/worksheets/sheet1.xml",
+     "bytes": 17048
+    },
+    {
+     "name": "xl/workbook.xml",
+     "bytes": 551
+    },
+    {
+     "name": "xl/sharedStrings.xml",
+     "bytes": 10009
+    },
+    {
+     "name": "xl/styles.xml",
+     "bytes": 2152
+    },
+    {
+     "name": "xl/theme/theme1.xml",
+     "bytes": 6995
+    },
+    {
+     "name": "xl/worksheets/_rels/sheet1.xml.rels",
+     "bytes": 756
+    },
+    {
+     "name": "docProps/core.xml",
+     "bytes": 593
+    },
+    {
+     "name": "docProps/app.xml",
+     "bytes": 785
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_exist/9a975431_מטאדאטה.xlsx"
+  }
+ ],
+ "status": 200
+}

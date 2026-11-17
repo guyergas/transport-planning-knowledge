@@ -1,0 +1,107 @@
+{
+ "name": "bike_net_tlv",
+ "title": "רשת רכיבה מחוז תל אביב",
+ "page": "https://data.gov.il/",
+ "ckan": "bike_net_tlv",
+ "checked": "2026-11-17T05:20:53Z",
+ "metadata_modified": "2024-08-01T13:54:56.397184",
+ "resources": [
+  {
+   "name": "BIKE_NET_TLV.zip",
+   "url": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/51c76a6c-49f8-4995-81e7-503cdf4243b2/download/bike_net_tlv.zip",
+   "file": "51c76a6c_BIKE_NET_TLV.zip.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/51c76a6c-49f8-4995-81e7-503cdf4243b2/download/bike_net_tlv.zip",
+   "bytes": 158562,
+   "sha256": "9ace9314b656adfb68d2c3733e82bd3431187865cc6b526d390b4dcbc4a69dc7",
+   "files": [
+    {
+     "name": "BIKE_NET_TLV.cpg",
+     "bytes": 5
+    },
+    {
+     "name": "BIKE_NET_TLV.dbf",
+     "bytes": 153842
+    },
+    {
+     "name": "BIKE_NET_TLV.lyr",
+     "bytes": 9728
+    },
+    {
+     "name": "BIKE_NET_TLV.prj",
+     "bytes": 428
+    },
+    {
+     "name": "BIKE_NET_TLV.sbn",
+     "bytes": 17404
+    },
+    {
+     "name": "BIKE_NET_TLV.sbx",
+     "bytes": 1396
+    },
+    {
+     "name": "BIKE_NET_TLV.shp",
+     "bytes": 241588
+    },
+    {
+     "name": "BIKE_NET_TLV.shx",
+     "bytes": 14068
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_net_tlv/51c76a6c_BIKE_NET_TLV.zip.zip"
+  },
+  {
+   "name": "BIKE_NET_TLV_KMZ.zip",
+   "url": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/c2c8ab2e-f7db-45f0-9b1f-b273ee13894d/download/bike_net_tlv_kmz.zip",
+   "file": "c2c8ab2e_BIKE_NET_TLV_KMZ.zip.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/c2c8ab2e-f7db-45f0-9b1f-b273ee13894d/download/bike_net_tlv_kmz.zip",
+   "bytes": 159422,
+   "sha256": "1252cdabc6a5b64c2f8f65a03bf330a3ac6f9fb8f98e5391b814f35c85661e43",
+   "files": [
+    {
+     "name": "BIKE_NET_TLV.kmz",
+     "bytes": 161918
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_net_tlv/c2c8ab2e_BIKE_NET_TLV_KMZ.zip.zip"
+  },
+  {
+   "name": "BIKE_NET_TLV.CSV",
+   "url": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/d45559c9-2c81-483c-9b86-4ebde6c646b2/download/bike_net_tlv.csv",
+   "file": "d45559c9_BIKE_NET_TLV.CSV.csv",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/d45559c9-2c81-483c-9b86-4ebde6c646b2/download/bike_net_tlv.csv",
+   "bytes": 118656,
+   "sha256": "8e92307375b033cfaf77a38315006f3d3b3d537003479805e23c82d8a4603bd7",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_net_tlv/d45559c9_BIKE_NET_TLV.CSV.csv"
+  },
+  {
+   "name": "BIKE_NET_TLV_DXF.zip",
+   "url": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/e8fe7c01-6e5d-4550-a3e4-a6baf123c7b9/download/bike_net_tlv_dxf.zip",
+   "file": "e8fe7c01_BIKE_NET_TLV_DXF.zip.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/e8fe7c01-6e5d-4550-a3e4-a6baf123c7b9/download/bike_net_tlv_dxf.zip",
+   "bytes": 122660,
+   "sha256": "53d5978901ad5ec2e4a47d840720689a6a28ab648c0e6e873d17f3681331fd21",
+   "files": [
+    {
+     "name": "TADCN_020522.dxf",
+     "bytes": 501816
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_net_tlv/e8fe7c01_BIKE_NET_TLV_DXF.zip.zip"
+  },
+  {
+   "name": "BIKE_NET_TLV.pdf",
+   "url": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/553d45bb-27cb-4a13-9cb7-fb0936d191ec/download/bike_net_tlv.pdf",
+   "file": "553d45bb_BIKE_NET_TLV.pdf.pdf",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/65e88686-422a-4ea6-a73b-ed848ae6f219/resource/553d45bb-27cb-4a13-9cb7-fb0936d191ec/download/bike_net_tlv.pdf",
+   "bytes": 220581,
+   "sha256": "a8cddb2bce7606f791a1516afdea924ce975e9584afb80e783754f3d60bf4930",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_net_tlv/553d45bb_BIKE_NET_TLV.pdf.pdf"
+  }
+ ],
+ "status": 200
+}
