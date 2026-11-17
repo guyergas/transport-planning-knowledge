@@ -1,0 +1,153 @@
+{
+ "name": "tripscelular_1819",
+ "url": "https://data.gov.il/dataset/cc26b13e-8490-449e-ad58-f949daa25bd3/resource/c2004caa-a9b2-4790-81e8-6b144ce227b8/download/celular1819_v1.3.zip",
+ "page": "https://data.gov.il/he/datasets/ministry_of_transport/tripscelular_1819",
+ "title": "סקר מוצא-יעד סלולרי 2018-2019, משרד התחבורה, v1.3",
+ "checked": "2026-11-17T04:43:55Z",
+ "status": 200,
+ "bytes": 466703820,
+ "sha256": "0d8717b25f2d6a04f5ece931dae274b69677bfaccb1ee0aef57f7ad5263e5336",
+ "files": [
+  {
+   "name": "celular1819v1.3_meta.xlsx",
+   "bytes": 19216
+  },
+  {
+   "name": "דוח_מסכם_פיילוט_סלולר_2019.pdf",
+   "bytes": 519937
+  },
+  {
+   "name": "AvgDayHourlyTrips201819_1270_weekday_arrival_v1.2.csv",
+   "bytes": 273394759
+  },
+  {
+   "name": "AvgDailyTrips2019_1270_Tourist_v1.2.csv",
+   "bytes": 11270880
+  },
+  {
+   "name": "AvgDayHalfHour6_20Trips201819_1270_weekday_v1.2.csv",
+   "bytes": 302589260
+  },
+  {
+   "name": "summary_check.csv",
+   "bytes": 978
+  },
+  {
+   "name": "מאפייני אזורי_תנועה_-_ספטמבר_2021.xlsx",
+   "bytes": 2151942
+  },
+  {
+   "name": "אספקת_מידע_סלולרי_דוח_סופי_2021.pdf",
+   "bytes": 1123472
+  },
+  {
+   "name": "היקף_ופילוג_הנסיעות_בארץ_בשנים_2018-19_דוח_מסכם_2021.pdf",
+   "bytes": 6715290
+  },
+  {
+   "name": "AvgDayHourlyTrips201819_1270_saturday_v1.csv",
+   "bytes": 172034123
+  },
+  {
+   "name": "AvgDayHourlyTrips201819_1270_friday_v1.csv",
+   "bytes": 182382458
+  },
+  {
+   "name": "AvgDayHourlyTrips201819_1270_weekday_v1.csv",
+   "bytes": 255843186
+  },
+  {
+   "name": "Shape_files/",
+   "bytes": 0
+  },
+  {
+   "name": "Shape_files/1270_02.09.2021.dbf",
+   "bytes": 427042
+  },
+  {
+   "name": "Shape_files/1270_02.09.2021.prj",
+   "bytes": 442
+  },
+  {
+   "name": "Shape_files/1270_02.09.2021.qpj",
+   "bytes": 688
+  },
+  {
+   "name": "Shape_files/1270_02.09.2021.shp",
+   "bytes": 3220836
+  },
+  {
+   "name": "Shape_files/1270_02.09.2021.shx",
+   "bytes": 10260
+  },
+  {
+   "name": "Shape_files/250_02.09.2021.dbf",
+   "bytes": 19162
+  },
+  {
+   "name": "Shape_files/250_02.09.2021.prj",
+   "bytes": 442
+  },
+  {
+   "name": "Shape_files/250_02.09.2021.qpj",
+   "bytes": 688
+  },
+  {
+   "name": "Shape_files/250_02.09.2021.shp",
+   "bytes": 1679140
+  },
+  {
+   "name": "Shape_files/250_02.09.2021.shx",
+   "bytes": 2100
+  },
+  {
+   "name": "Shape_files/33_02.09.2021.dbf",
+   "bytes": 1978
+  },
+  {
+   "name": "Shape_files/33_02.09.2021.prj",
+   "bytes": 442
+  },
+  {
+   "name": "Shape_files/33_02.09.2021.qpj",
+   "bytes": 688
+  },
+  {
+   "name": "Shape_files/33_02.09.2021.shp",
+   "bytes": 666124
+  },
+  {
+   "name": "Shape_files/33_02.09.2021.shx",
+   "bytes": 364
+  },
+  {
+   "name": "Aggregated matrices/",
+   "bytes": 0
+  },
+  {
+   "name": "Aggregated matrices/AvgDayHourlyTrips201819_250_friday_v1.xlsx",
+   "bytes": 14898079
+  },
+  {
+   "name": "Aggregated matrices/AvgDayHourlyTrips201819_250_saturday_v1.xlsx",
+   "bytes": 14453793
+  },
+  {
+   "name": "Aggregated matrices/AvgDayHourlyTrips201819_250_weekday_v1.xlsx",
+   "bytes": 15642444
+  },
+  {
+   "name": "Aggregated matrices/AvgDayHourlyTrips201819_33_friday_v1.xlsx",
+   "bytes": 334966
+  },
+  {
+   "name": "Aggregated matrices/AvgDayHourlyTrips201819_33_saturday_v1.xlsx",
+   "bytes": 333134
+  },
+  {
+   "name": "Aggregated matrices/AvgDayHourlyTrips201819_33_weekday_v1.xlsx",
+   "bytes": 356746
+  }
+ ],
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-tripscelular_1819/celular1819_v1.3.zip"
+}
