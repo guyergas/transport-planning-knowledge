@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
     paths: ['data/sources.jsonl']
+  schedule:
+    - cron: '47 2 * * 1'   # Monday: re-download sources whose refresh_days passed
   workflow_dispatch:
 permissions:
   contents: write

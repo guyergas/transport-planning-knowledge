@@ -74,11 +74,14 @@ document · front (edition/date/publisher candidates) · chapter · section (map
 - Edition/date from text are candidates: confirm on the cover page image before stating them. Read the heading on the page itself when map and nearest heading disagree.
 
 ## National datasets (not documents)
-Big data files (CSV/ZIP) that projects clip locally — no OCR, no index, not in the map.
-- Add: append a line to `data/sources.jsonl` `{"name","url","page","title"}` (`"force": true` to re-download) → workflow `data`.
-- Result: Release `data-<name>` (original file) + `data/<name>/meta.json` (status, bytes, sha256, zip file list, asset URL).
-- Project fetch tasks (spec section 15) download the asset from the Release and clip to the study area; never store national files in project folders.
-- Current: `tripscelular_1819` — cellular OD survey 2018–19 v1.3 (Ministry of Transport); its data dictionary PDF is a normal document (requests/od-meta-001.txt).
+Rule (Guy, 17.11.2026): every national dataset (not project-specific) lives here, never fetched by a project task directly.
+Big data files (CSV/ZIP/PBF/XLSX) that projects clip locally — no OCR, no index, not in the map.
+- Add: append a line to `data/sources.jsonl`: `{"name","title","page"}` + `"url"` (one file) or `"ckan"` (data.gov.il package; `"match"` regex on resource name/url; `"search"` words used if the package name is wrong → `candidates` in meta). Optional `"refresh_days"`, `"force": true`.
+- Workflow `data`: on push of that file + weekly (Monday) for sources whose `refresh_days` passed.
+- Result: Release `data-<name>` (latest file, same name each time) + `data/<name>/meta.json` (status, checked, bytes, sha256, zip file list, asset URL; for ckan: per resource).
+- Project fetch tasks (spec section 15) download the asset and clip to the study area; never store national files in project folders. Record `checked` + `sha256` from meta.json as the source version.
+- Query services stay in the project task (area query, no national file): Open Bus Stride API, iplan ArcGIS, GovMap, street-imagery APIs.
+- Current: `tripscelular_1819` (cellular OD 2018–19 v1.3), `gtfs`, `cbs_accidents_puf`, `cbs_localities`, `osm_israel`. Data dictionaries/reports (PDF) go through the normal document pipeline (requests/).
 
 ## Maintain the repo (needs push: add_repo owner=guyergas repo=transport-planning-knowledge access=push)
 Every push below triggers workflow `fetch`; it ends with the `index` job (dedupe, sheet join, sections, search, Issue).
