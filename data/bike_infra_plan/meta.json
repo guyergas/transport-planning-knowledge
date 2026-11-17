@@ -1,0 +1,198 @@
+{
+ "name": "bike_infra_plan",
+ "title": "שבילי אופניים – תשתית רכיבה מתוכננת, משרד התחבורה (ארצי)",
+ "page": "https://data.gov.il/",
+ "ckan": "bph_infra_plan",
+ "search": "אופניים",
+ "checked": "2026-11-17T05:18:35Z",
+ "metadata_modified": "2026-08-12T09:52:35.232394",
+ "resources": [
+  {
+   "name": "BPH_INFRA_PLAN_SHP",
+   "url": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/2868b53e-5edb-4b9b-8dd0-abd793eac974/download/bph_infra_plan.zip",
+   "file": "2868b53e_BPH_INFRA_PLAN_SHP.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/2868b53e-5edb-4b9b-8dd0-abd793eac974/download/bph_infra_plan.zip",
+   "bytes": 616834,
+   "sha256": "c5c4b3bd9f4ac7a58f42f4a837f4e2ba7b9429550aaa8106c3c2f608dec6b75b",
+   "files": [
+    {
+     "name": "BPH_INFRA_PLAN.lyr",
+     "bytes": 23040
+    },
+    {
+     "name": "BPH_INFRA_PLAN.prj",
+     "bytes": 428
+    },
+    {
+     "name": "BPH_INFRA_PLAN.sbn",
+     "bytes": 29404
+    },
+    {
+     "name": "BPH_INFRA_PLAN.sbx",
+     "bytes": 660
+    },
+    {
+     "name": "BPH_INFRA_PLAN.shp",
+     "bytes": 587476
+    },
+    {
+     "name": "BPH_INFRA_PLAN.shx",
+     "bytes": 24900
+    },
+    {
+     "name": "BPH_INFRA_PLAN.cpg",
+     "bytes": 5
+    },
+    {
+     "name": "BPH_INFRA_PLAN.dbf",
+     "bytes": 16158674
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_plan/2868b53e_BPH_INFRA_PLAN_SHP.zip"
+  },
+  {
+   "name": "BPH_INFRA_PLAN_KMZ",
+   "url": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/5ded24ee-4793-4dcb-8824-6a6db7d89c3c/download/bph_infra_plan_kmz.zip",
+   "file": "5ded24ee_BPH_INFRA_PLAN_KMZ.zip",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/5ded24ee-4793-4dcb-8824-6a6db7d89c3c/download/bph_infra_plan_kmz.zip",
+   "bytes": 642600,
+   "sha256": "2f5d22c684e3a429477584d3adfae1ad76df6fc93d71a02804d45b0586d96af6",
+   "files": [
+    {
+     "name": "BPH_INFRA_PLAN.kmz",
+     "bytes": 661278
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_plan/5ded24ee_BPH_INFRA_PLAN_KMZ.zip"
+  },
+  {
+   "name": "BPH_INFRA_PLAN_CSV",
+   "url": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/560aff58-62b2-4853-b8c8-bab0069a736f/download/bph_infra_plan.csv",
+   "file": "560aff58_BPH_INFRA_PLAN_CSV.csv",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/560aff58-62b2-4853-b8c8-bab0069a736f/download/bph_infra_plan.csv",
+   "bytes": 1615707,
+   "sha256": "2fa1d865b0b1c6205b0ebc87b7823eddb94f39dbe83ad3ff56e2c22fce4f0d92",
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_plan/560aff58_BPH_INFRA_PLAN_CSV.csv"
+  },
+  {
+   "name": "מטאדאטה",
+   "url": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/e8b4ac2f-8c99-4b3c-8275-2b24a368db86/download/bph_infra_plan_metadata.xlsx",
+   "file": "e8b4ac2f_מטאדאטה.xlsx",
+   "status": 200,
+   "via": "https://e.data.gov.il/dataset/6c31fbf5-69f7-4aac-b61f-43c8c4a2768e/resource/e8b4ac2f-8c99-4b3c-8275-2b24a368db86/download/bph_infra_plan_metadata.xlsx",
+   "bytes": 20835,
+   "sha256": "95d114865e7e6e0bb1d2a4cd4e14950d4b096e9386057fdb626d867782620a12",
+   "files": [
+    {
+     "name": "[trash]/0000.dat",
+     "bytes": 340
+    },
+    {
+     "name": "[trash]/0002.dat",
+     "bytes": 229
+    },
+    {
+     "name": "[trash]/0001.dat",
+     "bytes": 244
+    },
+    {
+     "name": "xl/worksheets/sheet1.xml",
+     "bytes": 21312
+    },
+    {
+     "name": "xl/workbook.xml",
+     "bytes": 551
+    },
+    {
+     "name": "xl/sharedStrings.xml",
+     "bytes": 11885
+    },
+    {
+     "name": "xl/styles.xml",
+     "bytes": 2152
+    },
+    {
+     "name": "xl/theme/theme1.xml",
+     "bytes": 6995
+    },
+    {
+     "name": "xl/worksheets/_rels/sheet1.xml.rels",
+     "bytes": 755
+    },
+    {
+     "name": "[trash]/0003.dat",
+     "bytes": 296
+    },
+    {
+     "name": "docProps/app.xml",
+     "bytes": 785
+    },
+    {
+     "name": "customXml/item1.xml",
+     "bytes": 14922
+    },
+    {
+     "name": "customXml/itemProps1.xml",
+     "bytes": 201
+    },
+    {
+     "name": "customXml/item2.xml",
+     "bytes": 219
+    },
+    {
+     "name": "customXml/itemProps2.xml",
+     "bytes": 201
+    },
+    {
+     "name": "customXml/_rels/item1.xml.rels",
+     "bytes": 296
+    },
+    {
+     "name": "customXml/_rels/item2.xml.rels",
+     "bytes": 296
+    },
+    {
+     "name": "[trash]/0004.dat",
+     "bytes": 368
+    },
+    {
+     "name": "xl/_rels/workbook.xml.rels",
+     "bytes": 1124
+    },
+    {
+     "name": "customXml/item3.xml",
+     "bytes": 587
+    },
+    {
+     "name": "customXml/itemProps3.xml",
+     "bytes": 201
+    },
+    {
+     "name": "docProps/custom.xml",
+     "bytes": 402
+    },
+    {
+     "name": "customXml/_rels/item3.xml.rels",
+     "bytes": 296
+    },
+    {
+     "name": "_rels/.rels",
+     "bytes": 735
+    },
+    {
+     "name": "docProps/core.xml",
+     "bytes": 593
+    },
+    {
+     "name": "[Content_Types].xml",
+     "bytes": 1689
+    }
+   ],
+   "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/data-bike_infra_plan/e8b4ac2f_מטאדאטה.xlsx"
+  }
+ ],
+ "status": 200
+}
