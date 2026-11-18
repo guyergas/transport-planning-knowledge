@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_12-3.12.pdf",
+ "checked": "2026-11-18T13:24:49Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_12-3.12.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 126403,
+ "secs": 0.337262,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "5d252b9aa8bd",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 1,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "ViewCompanion",
+  "Creator": "",
+  "CreationDate": "éåí€øàùåï 08 àôøéì 2018 09:39:32",
+  "ModDate": "Wed Oct 23 05:44:06 2019 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "425c93d539557ec731747d27a193bdc49a656ad4ed63f2a6fc73b0a82a0f94fd",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/5d252b9aa8bd.pdf",
+ "fix_log": [
+  "words=70 unknown=37 fixed=1"
+ ],
+ "image_pages": 0,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 62,
+ "lowconf_pages": [
+  1
+ ],
+ "text_pages": 1,
+ "ocr_pages": 1,
+ "layer": "broken"
+}

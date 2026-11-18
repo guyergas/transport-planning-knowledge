@@ -1,0 +1,203 @@
+{
+ "front": {
+  "dates": [
+   "2018",
+   "2004"
+  ],
+  "publisher": [
+   "נתיבי\nישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  1
+ ],
+ "sections": [
+  {
+   "num": "15.1",
+   "title": "תאורה באזורי התקשורת",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "2",
+   "title": "מערכות התקשורת Pra — טלפונים",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "3",
+   "title": "חדר תקשורת ומרכיבי מתקני טלפוניה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "4",
+   "title": "מרכיבי מתקן המחשוב",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "5",
+   "title": "מרכיבי מתקן כיבוי אש והגילוי האוטומטי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "6",
+   "title": "מרכיבי המתקן הסלולארי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "7",
+   "title": "מרכיבי מתקן מוטורולה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 2
+  },
+  {
+   "num": "8",
+   "title": "מרכיבי מתקן הגנה כנגד מכרסמים",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 25
+  },
+  {
+   "num": "6.1",
+   "title": "נתונים גיאומטריים ותנועתיים לתכנון תאורה",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "6.2",
+   "title": "אחוז השמיים בכניסה למנהרה",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "6.4",
+   "title": "עצמת ההארה במנהרה בזמן אור יום",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "6.5",
+   "title": "הצללה ופורטלים",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "6.6",
+   "title": "שיטות התאורה במנהרה",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "6.7",
+   "title": "מטלות תכנוניות נוספות",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.8",
+   "title": "אחידות התאורה ()uniformity of luminance",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.9",
+   "title": "קביעת גורם הבהוב וגורם סינוור",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.10",
+   "title": "תאורה כללית במנהרה – שיטת הדלקה ובקרת תאורה",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "6.11",
+   "title": "תאורה בזמן לילה",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "6.12",
+   "title": "תאורת חירום ()emergency lighting",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 14
+  },
+  {
+   "num": "6.13",
+   "title": "הספקת חשמל וחלוקת אנרגיה",
+   "chapter": null,
+   "start": 15,
+   "level": 2,
+   "end": 17
+  },
+  {
+   "num": "6.14",
+   "title": "מערכת גלאי אש ועשן",
+   "chapter": null,
+   "start": 18,
+   "level": 2,
+   "end": 18
+  },
+  {
+   "num": "6.15",
+   "title": "מרכיבי מערכות התקשורת",
+   "chapter": null,
+   "start": 19,
+   "level": 2,
+   "end": 21
+  },
+  {
+   "num": "6.16",
+   "title": "אחזקת מתקני כח ותאורה",
+   "chapter": null,
+   "start": 22,
+   "level": 2,
+   "end": 25
+  }
+ ],
+ "coverage": "sections"
+}

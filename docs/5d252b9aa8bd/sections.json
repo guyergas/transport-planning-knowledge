@@ -1,0 +1,23 @@
+{
+ "front": {
+  "dates": [
+   "2016"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "V"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "23",
+   "title": "ו 02 69",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  }
+ ],
+ "coverage": "page-only"
+}

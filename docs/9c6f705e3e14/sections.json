@@ -1,0 +1,31 @@
+{
+ "front": {
+  "dates": [
+   "2017"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "1"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "ו | Cad ו",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  },
+  {
+   "num": "6",
+   "title": "ה | 5 0 | !",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  }
+ ],
+ "coverage": "page-only"
+}
