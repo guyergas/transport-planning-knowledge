@@ -1,0 +1,24 @@
+{
+ "front": {
+  "dates": [
+   "2011",
+   "2017"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "4"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "6",
+   "title": "ם= = =",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  }
+ ],
+ "coverage": "page-only"
+}

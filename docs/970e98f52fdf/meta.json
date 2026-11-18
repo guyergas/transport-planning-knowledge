@@ -1,0 +1,40 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_bibliography.pdf",
+ "checked": "2026-11-18T13:32:48Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_bibliography.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 648788,
+ "secs": 6.702268,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "970e98f52fdf",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 15,
+ "pdf_meta": {
+  "Title": "Author:          BM",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Mon May 14 05:12:01 2018 UTC",
+  "ModDate": "Mon May 14 05:12:01 2018 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "61310b40b65fe21d5b4c5977b227c4d92d6a5be280976ac40225abc216be1b12",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/970e98f52fdf.pdf",
+ "fix_log": [
+  "words=170 unknown=20 fixed=2"
+ ],
+ "image_pages": 15,
+ "table_pages": 1,
+ "figure_ocr_pages": 7,
+ "table_ocr_pages": 1,
+ "ocr_conf_mean": 94,
+ "lowconf_pages": [],
+ "text_pages": 15,
+ "ocr_pages": 8,
+ "layer": "mixed"
+}

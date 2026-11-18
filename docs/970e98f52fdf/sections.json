@@ -1,0 +1,45 @@
+{
+ "front": {
+  "dates": [
+   "2012",
+   "2009",
+   "1988",
+   "2007",
+   "1997"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "נתיבי\nשי eran NI‏"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "4",
+   "title": "נתיבי",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 11
+  },
+  {
+   "num": "5",
+   "title": "ו4 רשימת מקורות לפרקים",
+   "chapter": null,
+   "start": 12,
+   "level": 1,
+   "end": 12
+  },
+  {
+   "num": "6",
+   "title": "רשימת מקורות לפרק",
+   "chapter": null,
+   "start": 13,
+   "level": 1,
+   "end": 15
+  }
+ ],
+ "coverage": "sections"
+}
