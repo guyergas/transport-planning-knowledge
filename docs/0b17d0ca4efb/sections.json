@@ -1,0 +1,11 @@
+{
+ "front": {
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "5"
+ },
+ "toc_pages": [],
+ "sections": [],
+ "coverage": "page-only"
+}
