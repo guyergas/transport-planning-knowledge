@@ -1,0 +1,18 @@
+{
+ "front": {
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "בו ווה",
+   "chapter": null,
+   "start": 1,
+   "level": 1,
+   "end": 1
+  }
+ ],
+ "coverage": "page-only"
+}

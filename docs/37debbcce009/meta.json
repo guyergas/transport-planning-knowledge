@@ -1,0 +1,42 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_opening.pdf",
+ "checked": "2026-11-18T13:23:09Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_opening.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 481584,
+ "secs": 0.766237,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "37debbcce009",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 6,
+ "pdf_meta": {
+  "Title": "דפי_פתיחה_מנהרות_מעודכן 2018",
+  "Producer": "PDFCreator 2.2.2.0",
+  "Creator": "PDFCreator 2.2.2.0",
+  "CreationDate": "Sun Nov 25 07:15:09 2018 UTC",
+  "ModDate": "Wed Oct 23 05:42:06 2019 UTC"
+ },
+ "fonts_uni_no": 4,
+ "sha256": "5c64bcf6867a4f9488ce4f83ec92dc442ac6a3bf2f3957ce143d11e8cc703363",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/37debbcce009.pdf",
+ "fix_log": [
+  "words=481 unknown=68 fixed=1"
+ ],
+ "image_pages": 6,
+ "table_pages": 0,
+ "figure_ocr_pages": 4,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 71,
+ "lowconf_pages": [
+  4
+ ],
+ "text_pages": 6,
+ "ocr_pages": 2,
+ "layer": "mixed"
+}
