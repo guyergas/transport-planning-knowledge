@@ -36,6 +36,9 @@ sections 1 and 8) points here. When repo logic changes, update this file in the 
 - index.jsonl per doc joins these: `sheet_records`, `sheet_desc`, `edition_status`, `newer_in_record`; titles fall back to the record title.
 (`tools/sheet_import.py` is kept only for re-importing an old export.)
 
+## Reference files (not documents)
+- `reference/Eshed_Document_Audit.tsv` — audit of the Eshed catalog (id, type, title, publisher, date, edition, filters, record target, open result, pages). Moved from Drive (folder הנחיות תכנון, deleted 18.11.2026).
+
 ## Quality flags
 - OCR pages: `conf=NN` in the page header (mean tesseract word confidence); `lowconf` if <75 → read from the page image.
   meta.json: `ocr_conf_mean`, `lowconf_pages`.
