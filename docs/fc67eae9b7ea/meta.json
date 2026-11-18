@@ -24,7 +24,7 @@
  },
  "fonts_uni_no": 4,
  "sha256": "6be89133a48021610f023a9db7b28d60ea8a7d94fc4bd8546f0a0b0b55afe09f",
- "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/fc67eae9b7ea.pdf",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a3cf8dfe421b.pdf",
  "image_pages": 15,
  "table_pages": 0,
  "figure_ocr_pages": 15,
@@ -33,5 +33,6 @@
  "lowconf_pages": [],
  "text_pages": 15,
  "ocr_pages": 0,
- "layer": "ok"
+ "layer": "ok",
+ "duplicate_of": "a3cf8dfe421b"
 }

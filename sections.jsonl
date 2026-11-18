@@ -3081,6 +3081,63 @@
 {"id": "53f10064d875", "num": "2.13.1", "title": "מיקום הפנסים ביחס לדרך", "chapter": "פרק 2 — הנחיות לתכנון מאור בדרכים בין עירוניות", "start": 68, "level": 3, "end": 72}
 {"id": "53f10064d875", "num": "2.16.1", "title": "סווג עמודי תאורה לפי חומרים", "chapter": "פרק 2 — הנחיות לתכנון מאור בדרכים בין עירוניות", "start": 73, "level": 3, "end": 73}
 {"id": "53f10064d875", "num": "2.16.2", "title": "בסיסים לעמודי תאורה", "chapter": "פרק 2 — הנחיות לתכנון מאור בדרכים בין עירוניות", "start": 74, "level": 3, "end": 85}
+{"id": "54eb9c8ca368", "num": "1", "title": "תימרור וסימון - כללי .3-35", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "54eb9c8ca368", "num": "2", "title": "אמצעי בקרת תנועה בכניסה למנהרה .3-35", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "54eb9c8ca368", "num": "3", "title": "מחסומים ומגבילי גובה בכניסה למנהרה ... ..3-36", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "54eb9c8ca368", "num": "4", "title": "מנהרות אחודות (דו-נתיביות דו-סיטריות)", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "54eb9c8ca368", "num": "3.1", "title": "הגדרות ושיקולים כלליים", "chapter": null, "start": 3, "level": 2, "end": 3}
+{"id": "54eb9c8ca368", "num": "3", "title": "תכן גיאומטרי", "chapter": "פרק 3 — תכן גיאומטרי", "start": 3, "level": 0, "end": 83}
+{"id": "54eb9c8ca368", "num": "1", "title": "הגדרות ושיקולים כלליים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 3, "level": 1, "end": 39}
+{"id": "54eb9c8ca368", "num": "3.2", "title": "סיווג המנהרה הגיאומטרי-תנועתי ומדיניות התכן", "chapter": "פרק 3 — תכן גיאומטרי", "start": 7, "level": 2, "end": 7}
+{"id": "54eb9c8ca368", "num": "3.1", "title": "60-80            דו-                אזורית               בינעירוני", "chapter": "פרק 3 — תכן גיאומטרי", "start": 8, "level": 2, "end": 8}
+{"id": "54eb9c8ca368", "num": "3.5", "title": "40-80           חד-                               בינעירוני/עירוני", "chapter": "פרק 3 — תכן גיאומטרי", "start": 8, "level": 2, "end": 8}
+{"id": "54eb9c8ca368", "num": "3.3", "title": "החתך לרוחב", "chapter": "פרק 3 — תכן גיאומטרי", "start": 8, "level": 2, "end": 12}
+{"id": "54eb9c8ca368", "num": "3.3.5.1", "title": "הגדרות", "chapter": "פרק 3 — תכן גיאומטרי", "start": 11, "level": 4, "end": 11}
+{"id": "54eb9c8ca368", "num": "3.3.5.2", "title": "מרווח אנכי מעל נתיבי הנסיעה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 11, "level": 4, "end": 11}
+{"id": "54eb9c8ca368", "num": "3.3.5.3", "title": "מרווח אנכי לאורך השול המוגבה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 12, "level": 4, "end": 12}
+{"id": "54eb9c8ca368", "num": "3.3.7.1", "title": "חתכים אובליים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 12, "level": 4, "end": 12}
+{"id": "54eb9c8ca368", "num": "3.5", "title": "מנהרה לכיוון אחד כדרך חד-סיטרית עבור רמפות", "chapter": "פרק 3 — תכן גיאומטרי", "start": 13, "level": 2, "end": 17}
+{"id": "54eb9c8ca368", "num": "3.2", "title": "תרשים  3.8א': חתך אובלי מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 18, "level": 2, "end": 18}
+{"id": "54eb9c8ca368", "num": "3.3", "title": "תרשים  3.8ב': חתך אובלי מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 19, "level": 2, "end": 19}
+{"id": "54eb9c8ca368", "num": "3.2", "title": "תרשים  3.9א': חתך אובלי מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 20, "level": 2, "end": 20}
+{"id": "54eb9c8ca368", "num": "3.3", "title": "תרשים  3.9ב': חתך אובלי מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 21, "level": 2, "end": 22}
+{"id": "54eb9c8ca368", "num": "3.3.7.2", "title": "חתכים מלבניים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 21, "level": 4, "end": 21}
+{"id": "54eb9c8ca368", "num": "3.3.9.1", "title": "היבטי בטיחות לשול המוגבה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 22, "level": 4, "end": 22}
+{"id": "54eb9c8ca368", "num": "3.2", "title": "תרשים  3.10א': חתך מלבני מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 23, "level": 2, "end": 23}
+{"id": "54eb9c8ca368", "num": "3.3", "title": "תרשים  3.10ב': חתך מלבני מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 24, "level": 2, "end": 24}
+{"id": "54eb9c8ca368", "num": "3.2", "title": "תרשים  3.11א': חתך מלבני מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 25, "level": 2, "end": 25}
+{"id": "54eb9c8ca368", "num": "3.3", "title": "תרשים  3.11ב': חתך מלבני מלא לרב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 26, "level": 2, "end": 27}
+{"id": "54eb9c8ca368", "num": "3.3.9.2", "title": "מעקה בטיחות במנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 27, "level": 4, "end": 27}
+{"id": "54eb9c8ca368", "num": "3.3.9.3", "title": "הולכי-רגל ואופניים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 27, "level": 4, "end": 27}
+{"id": "54eb9c8ca368", "num": "3.4", "title": "דרישות גיאומטריות ותנועתיות משלימות בתוך המנהרה לתחזוקה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 28, "level": 2, "end": 39}
+{"id": "54eb9c8ca368", "num": "3.5.5.2", "title": "השפעת תצורת חתך המנהרה על תכנון השילוט", "chapter": "פרק 3 — תכן גיאומטרי", "start": 40, "level": 4, "end": 40}
+{"id": "54eb9c8ca368", "num": "2", "title": "השפעת תצורת חתך המנהרה על תכנון השילוט", "chapter": "פרק 3 — תכן גיאומטרי", "start": 40, "level": 1, "end": 48}
+{"id": "54eb9c8ca368", "num": "3.6", "title": "קיבולת ורמת-שירות במנהרות", "chapter": "פרק 3 — תכן גיאומטרי", "start": 44, "level": 2, "end": 48}
+{"id": "54eb9c8ca368", "num": "3", "title": "הפחתת נפחי השירות", "chapter": "פרק 3 — תכן גיאומטרי", "start": 49, "level": 1, "end": 75}
+{"id": "54eb9c8ca368", "num": "3.7", "title": "פורטלים: תכנון גיאומטרי", "chapter": "פרק 3 — תכן גיאומטרי", "start": 53, "level": 2, "end": 54}
+{"id": "54eb9c8ca368", "num": "3.7.1.2", "title": "מעבר חירום לרכב לפני המנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 53, "level": 4, "end": 53}
+{"id": "54eb9c8ca368", "num": "3.7.1.3", "title": "שול מורחב לחירום ולתחזוקה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 54, "level": 4, "end": 54}
+{"id": "54eb9c8ca368", "num": "3.7.1.4", "title": "מחסומים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 54, "level": 4, "end": 54}
+{"id": "54eb9c8ca368", "num": "3.8", "title": "תכנון תוואי הכביש במנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 55, "level": 2, "end": 60}
+{"id": "54eb9c8ca368", "num": "3.8.2.1", "title": "עקרונות בסיסיים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 59, "level": 4, "end": 59}
+{"id": "54eb9c8ca368", "num": "3.8.2.2", "title": "אורך מרבי לשיפוע האורכי לקטע ספציפי במנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 59, "level": 4, "end": 60}
+{"id": "54eb9c8ca368", "num": "3.8.3.1", "title": "אופן החישוב", "chapter": "פרק 3 — תכן גיאומטרי", "start": 61, "level": 4, "end": 61}
+{"id": "54eb9c8ca368", "num": "3.22", "title": "לרמת-שירות 5. הערכים מוצגים בטבלה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 61, "level": 2, "end": 75}
+{"id": "54eb9c8ca368", "num": "3.8.3.2", "title": "תכנון לרכב כבד", "chapter": "פרק 3 — תכן גיאומטרי", "start": 64, "level": 4, "end": 65}
+{"id": "54eb9c8ca368", "num": "3.8.4.1", "title": "תכן עקום אנכי קמור", "chapter": "פרק 3 — תכן גיאומטרי", "start": 66, "level": 4, "end": 67}
+{"id": "54eb9c8ca368", "num": "3.8.5.1", "title": "ההגבהה הצידית המרבית", "chapter": "פרק 3 — תכן גיאומטרי", "start": 68, "level": 4, "end": 68}
+{"id": "54eb9c8ca368", "num": "3.8.5.2", "title": "הרדיוסים המזעריים בעקום האופקי משיקולי שווי משקל", "chapter": "פרק 3 — תכן גיאומטרי", "start": 68, "level": 4, "end": 68}
+{"id": "54eb9c8ca368", "num": "3.8.5.3", "title": "גורם החיכוך הצידי למנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 69, "level": 4, "end": 69}
+{"id": "54eb9c8ca368", "num": "3.8.5.4", "title": "הרדיוסים המזעריים בעקום האופקי משיקולי מרחק ראות לעצירה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 69, "level": 4, "end": 74}
+{"id": "54eb9c8ca368", "num": "3.8.7.1", "title": "עקרונות החישוב", "chapter": "פרק 3 — תכן גיאומטרי", "start": 75, "level": 4, "end": 75}
+{"id": "54eb9c8ca368", "num": "3.8.7.2", "title": "מעבר שיפועים מופחת", "chapter": "פרק 3 — תכן גיאומטרי", "start": 75, "level": 4, "end": 75}
+{"id": "54eb9c8ca368", "num": "3.8.7.3", "title": "מקדמי תיקון ל Δn-במנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 76, "level": 4, "end": 76}
+{"id": "54eb9c8ca368", "num": "3.8.7.4", "title": "ערכי Δn", "chapter": "פרק 3 — תכן גיאומטרי", "start": 76, "level": 4, "end": 76}
+{"id": "54eb9c8ca368", "num": "4", "title": "ערכי ות", "chapter": "פרק 3 — תכן גיאומטרי", "start": 76, "level": 1, "end": 83}
+{"id": "54eb9c8ca368", "num": "3.8.7.5", "title": "ערכי התכן של מעבר ההגבהה ומעבר המשיק במנהרה", "chapter": "פרק 3 — תכן גיאומטרי", "start": 77, "level": 4, "end": 78}
+{"id": "54eb9c8ca368", "num": "3.10", "title": "צמתים ומחלפים במנהרות", "chapter": "פרק 3 — תכן גיאומטרי", "start": 79, "level": 2, "end": 81}
+{"id": "54eb9c8ca368", "num": "3.4", "title": "תרשים נ :3.1.חתך אובלי מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 82, "level": 2, "end": 82}
+{"id": "54eb9c8ca368", "num": "3.4", "title": "תרשים נ :3.2.חתך מלבני מלא לרוחב מתאים לתרשים", "chapter": "פרק 3 — תכן גיאומטרי", "start": 83, "level": 2, "end": 83}
 {"id": "54f76852a80d", "num": "6", "title": "=0= 5 = כ=סב= 5", "chapter": null, "start": 5, "level": 1, "end": 65}
 {"id": "54f76852a80d", "num": "1.4", "title": "מתודולוגיה לפיתוח חלופות", "chapter": null, "start": 7, "level": 2, "end": 16}
 {"id": "54f76852a80d", "num": "4.3", "title": "ניתוח ישובי", "chapter": null, "start": 17, "level": 2, "end": 27}
@@ -3717,6 +3774,7 @@
 {"id": "5931f10f4280", "num": "שנ", "title": "י", "chapter": "פרק שנ — י", "start": 114, "level": 0, "end": 329}
 {"id": "5931f10f4280", "num": "של", "title": "ישי", "chapter": "פרק של — ישי", "start": 330, "level": 0, "end": 401}
 {"id": "5931f10f4280", "num": "רב", "title": "יעי", "chapter": "פרק רב — יעי", "start": 402, "level": 0, "end": 405}
+{"id": "5d252b9aa8bd", "num": "23", "title": "ו 02 69", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "5d5a949b1a3b", "num": "1", "title": "סגירה על ידי המשטרה:", "chapter": null, "start": 6, "level": 1, "end": 6}
 {"id": "5d5a949b1a3b", "num": "2", "title": "כדי להסדיר ות הנוש נדון", "chapter": null, "start": 7, "level": 1, "end": 17}
 {"id": "5e5b1b582906", "num": "14", "title": "תכנית אסטרטגית למצרכת תחבור", "chapter": null, "start": 9, "level": 1, "end": 13}
@@ -4464,6 +4522,33 @@
 {"id": "771d6ccfd29e", "num": "2.00", "title": "רצועת חניה", "chapter": null, "start": 138, "level": 2, "end": 138}
 {"id": "771d6ccfd29e", "num": "2.50", "title": "נתיב תנועה", "chapter": null, "start": 138, "level": 2, "end": 138}
 {"id": "771d6ccfd29e", "num": "0.30", "title": "רצועת דופן", "chapter": null, "start": 138, "level": 2, "end": 156}
+{"id": "79072b8838b4", "num": "2.1", "title": "חתך המנהרה", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "79072b8838b4", "num": "2", "title": "היבטים הנדסיים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 2, "level": 0, "end": 34}
+{"id": "79072b8838b4", "num": "2.2", "title": "סיווג מנהרות לפי שיטת הביצוע", "chapter": "פרק 2 — היבטים הנדסיים", "start": 5, "level": 2, "end": 5}
+{"id": "79072b8838b4", "num": "2.3", "title": "מערכות וקריטריונים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 5, "level": 2, "end": 6}
+{"id": "79072b8838b4", "num": "2.4", "title": "נתונים גיאו-הנדסיים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 7, "level": 2, "end": 9}
+{"id": "79072b8838b4", "num": "2.5", "title": "יציבות וכשל מנהרות בסלע", "chapter": "פרק 2 — היבטים הנדסיים", "start": 10, "level": 2, "end": 11}
+{"id": "79072b8838b4", "num": "2.6", "title": "שיטות כרייה בסלע", "chapter": "פרק 2 — היבטים הנדסיים", "start": 12, "level": 2, "end": 13}
+{"id": "79072b8838b4", "num": "2.7", "title": "אמצעי תימוך בסלע", "chapter": "פרק 2 — היבטים הנדסיים", "start": 14, "level": 2, "end": 15}
+{"id": "79072b8838b4", "num": "2.8", "title": "שיטות חישוב (תכנון)", "chapter": "פרק 2 — היבטים הנדסיים", "start": 16, "level": 2, "end": 16}
+{"id": "79072b8838b4", "num": "2.9", "title": "טיפול במים תת-קרקעיים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 17, "level": 2, "end": 17}
+{"id": "79072b8838b4", "num": "2.10", "title": "מנהור בקרקע רכה", "chapter": "פרק 2 — היבטים הנדסיים", "start": 18, "level": 2, "end": 18}
+{"id": "79072b8838b4", "num": "2.11", "title": "ניטור גיאו-הנדסי", "chapter": "פרק 2 — היבטים הנדסיים", "start": 19, "level": 2, "end": 19}
+{"id": "79072b8838b4", "num": "3", "title": "bulkhead to ב-תזמנגגם © shary", "chapter": "פרק 2 — היבטים הנדסיים", "start": 20, "level": 1, "end": 31}
+{"id": "79072b8838b4", "num": "2.12", "title": "מערכת כיבוי אש", "chapter": "פרק 2 — היבטים הנדסיים", "start": 21, "level": 2, "end": 21}
+{"id": "79072b8838b4", "num": "2.13", "title": "קביעת מספר המנהרות", "chapter": "פרק 2 — היבטים הנדסיים", "start": 22, "level": 2, "end": 22}
+{"id": "79072b8838b4", "num": "2.14", "title": "מנהרות ופירי מילוט", "chapter": "פרק 2 — היבטים הנדסיים", "start": 23, "level": 2, "end": 23}
+{"id": "79072b8838b4", "num": "2.15", "title": "השפעת מנהרות על מבנים סמוכים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 23, "level": 2, "end": 23}
+{"id": "79072b8838b4", "num": "2.16", "title": "אפשרות הרחבת מנהרה", "chapter": "פרק 2 — היבטים הנדסיים", "start": 24, "level": 2, "end": 24}
+{"id": "79072b8838b4", "num": "2.17", "title": "תכנון לתחזוקה", "chapter": "פרק 2 — היבטים הנדסיים", "start": 25, "level": 2, "end": 25}
+{"id": "79072b8838b4", "num": "2.18", "title": "שילוב מערכות תשתית זרות", "chapter": "פרק 2 — היבטים הנדסיים", "start": 25, "level": 2, "end": 25}
+{"id": "79072b8838b4", "num": "2.19", "title": "פורטלים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 26, "level": 2, "end": 28}
+{"id": "79072b8838b4", "num": "2.20", "title": "דיוס", "chapter": "פרק 2 — היבטים הנדסיים", "start": 29, "level": 2, "end": 30}
+{"id": "79072b8838b4", "num": "2.21", "title": "שיקולי איכות הסביבה", "chapter": "פרק 2 — היבטים הנדסיים", "start": 31, "level": 2, "end": 31}
+{"id": "79072b8838b4", "num": "2.22", "title": "שיקולי תפעול", "chapter": "פרק 2 — היבטים הנדסיים", "start": 31, "level": 2, "end": 31}
+{"id": "79072b8838b4", "num": "2.23", "title": "סיכונים בשלב הביצוע", "chapter": "פרק 2 — היבטים הנדסיים", "start": 32, "level": 2, "end": 32}
+{"id": "79072b8838b4", "num": "2.24", "title": "מרכיבי עלות המנהרה", "chapter": "פרק 2 — היבטים הנדסיים", "start": 32, "level": 2, "end": 32}
+{"id": "79072b8838b4", "num": "4", "title": "מרכיבי עלות המנהרה", "chapter": "פרק 2 — היבטים הנדסיים", "start": 32, "level": 1, "end": 34}
 {"id": "795edcbfca50", "num": "6", "title": "הערות סיום", "chapter": null, "start": 12, "level": 1, "end": 12}
 {"id": "7a7c3119c29b", "num": "0", "title": "( - מינהל תכנון", "chapter": null, "start": 4, "level": 1, "end": 8}
 {"id": "7a7c3119c29b", "num": "1", "title": "מבוא", "chapter": "פרק 1 — מבוא", "start": 9, "level": 0, "end": 18}
@@ -4496,6 +4581,15 @@
 {"id": "7b68ecd98b95", "num": "3.5", "title": "סימון ותיעוד שרשרת אספקה", "chapter": null, "start": 15, "level": 2, "end": 15}
 {"id": "7b68ecd98b95", "num": "3.6", "title": "מכתב מינוי ספק והתחייבות לתמיכה טכנית", "chapter": null, "start": 15, "level": 2, "end": 15}
 {"id": "7b68ecd98b95", "num": "4", "title": "סיכום", "chapter": null, "start": 16, "level": 1, "end": 16}
+{"id": "7c1d8659eb79", "num": "7.1", "title": "שיקולים כלליים", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "7c1d8659eb79", "num": "7.2", "title": "שילוב תשתיות בחתך לרוחב", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "7c1d8659eb79", "num": "1", "title": "שיקולים כלליים", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "7c1d8659eb79", "num": "7", "title": "שילוב מערכות תשתית במנהרות", "chapter": "פרק 7 — שילוב מערכות תשתית במנהרות", "start": 3, "level": 0, "end": 21}
+{"id": "7c1d8659eb79", "num": "7.3", "title": "מרכז אנרגיה", "chapter": "פרק 7 — שילוב מערכות תשתית במנהרות", "start": 4, "level": 2, "end": 4}
+{"id": "7c1d8659eb79", "num": "7.4", "title": "חדר טכני", "chapter": "פרק 7 — שילוב מערכות תשתית במנהרות", "start": 4, "level": 2, "end": 5}
+{"id": "7c1d8659eb79", "num": "12", "title": "מגוף התאורה לתעלה תת", "chapter": "פרק 7 — שילוב מערכות תשתית במנהרות", "start": 6, "level": 1, "end": 21}
+{"id": "7c1d8659eb79", "num": "7.5", "title": "מרכז בקרה ()traffic control center", "chapter": "פרק 7 — שילוב מערכות תשתית במנהרות", "start": 17, "level": 2, "end": 17}
+{"id": "7c1d8659eb79", "num": "7.6", "title": "ניקוז ותשתיות רטובות", "chapter": "פרק 7 — שילוב מערכות תשתית במנהרות", "start": 18, "level": 2, "end": 21}
 {"id": "7c36ed724458", "num": "5", "title": "Tem Nm חבנת", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "7cbb8344b4f3", "num": "2.4", "title": "מאפייני הולכי רגל", "chapter": null, "start": 5, "level": 2, "end": 5}
 {"id": "7cbb8344b4f3", "num": "2.4.1", "title": "חציית המסילה ע\"י הולכי רגל", "chapter": null, "start": 5, "level": 3, "end": 5}
@@ -4611,6 +4705,29 @@
 {"id": "81159e39f6c6", "num": "6.5", "title": "מנהרות", "chapter": null, "start": 103, "level": 2, "end": 103}
 {"id": "81159e39f6c6", "num": "6.6", "title": "תחנות רכבת", "chapter": null, "start": 104, "level": 2, "end": 135}
 {"id": "81159e39f6c6", "num": "02", "title": "וב Lod", "chapter": null, "start": 136, "level": 1, "end": 136}
+{"id": "8315b65edcf5", "num": "15.1", "title": "תאורה באזורי התקשורת", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "8315b65edcf5", "num": "2", "title": "מערכות התקשורת Pra — טלפונים", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "8315b65edcf5", "num": "3", "title": "חדר תקשורת ומרכיבי מתקני טלפוניה", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "8315b65edcf5", "num": "4", "title": "מרכיבי מתקן המחשוב", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "8315b65edcf5", "num": "5", "title": "מרכיבי מתקן כיבוי אש והגילוי האוטומטי", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "8315b65edcf5", "num": "6", "title": "מרכיבי המתקן הסלולארי", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "8315b65edcf5", "num": "7", "title": "מרכיבי מתקן מוטורולה", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "8315b65edcf5", "num": "8", "title": "מרכיבי מתקן הגנה כנגד מכרסמים", "chapter": null, "start": 2, "level": 1, "end": 25}
+{"id": "8315b65edcf5", "num": "6.1", "title": "נתונים גיאומטריים ותנועתיים לתכנון תאורה", "chapter": null, "start": 3, "level": 2, "end": 3}
+{"id": "8315b65edcf5", "num": "6.2", "title": "אחוז השמיים בכניסה למנהרה", "chapter": null, "start": 3, "level": 2, "end": 3}
+{"id": "8315b65edcf5", "num": "6.4", "title": "עצמת ההארה במנהרה בזמן אור יום", "chapter": null, "start": 4, "level": 2, "end": 7}
+{"id": "8315b65edcf5", "num": "6.5", "title": "הצללה ופורטלים", "chapter": null, "start": 8, "level": 2, "end": 9}
+{"id": "8315b65edcf5", "num": "6.6", "title": "שיטות התאורה במנהרה", "chapter": null, "start": 10, "level": 2, "end": 10}
+{"id": "8315b65edcf5", "num": "6.7", "title": "מטלות תכנוניות נוספות", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "8315b65edcf5", "num": "6.8", "title": "אחידות התאורה ()uniformity of luminance", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "8315b65edcf5", "num": "6.9", "title": "קביעת גורם הבהוב וגורם סינוור", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "8315b65edcf5", "num": "6.10", "title": "תאורה כללית במנהרה – שיטת הדלקה ובקרת תאורה", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "8315b65edcf5", "num": "6.11", "title": "תאורה בזמן לילה", "chapter": null, "start": 12, "level": 2, "end": 12}
+{"id": "8315b65edcf5", "num": "6.12", "title": "תאורת חירום ()emergency lighting", "chapter": null, "start": 12, "level": 2, "end": 14}
+{"id": "8315b65edcf5", "num": "6.13", "title": "הספקת חשמל וחלוקת אנרגיה", "chapter": null, "start": 15, "level": 2, "end": 17}
+{"id": "8315b65edcf5", "num": "6.14", "title": "מערכת גלאי אש ועשן", "chapter": null, "start": 18, "level": 2, "end": 18}
+{"id": "8315b65edcf5", "num": "6.15", "title": "מרכיבי מערכות התקשורת", "chapter": null, "start": 19, "level": 2, "end": 21}
+{"id": "8315b65edcf5", "num": "6.16", "title": "אחזקת מתקני כח ותאורה", "chapter": null, "start": 22, "level": 2, "end": 25}
 {"id": "84243a4913ef", "num": "1.1", "title": "רקע", "chapter": null, "start": 19, "level": 2, "end": 19}
 {"id": "84243a4913ef", "num": "1.2", "title": "מטרת ותכולת ההנחיות", "chapter": null, "start": 20, "level": 2, "end": 20}
 {"id": "84243a4913ef", "num": "1.3", "title": "הגדרות", "chapter": null, "start": 20, "level": 2, "end": 21}
@@ -5243,6 +5360,10 @@
 {"id": "967499ec148b", "num": "4.4.4", "title": "מיקום מעקה הבטיחות במפרדה", "chapter": null, "start": 23, "level": 3, "end": 29}
 {"id": "967499ec148b", "num": "5.1", "title": "כללי", "chapter": null, "start": 30, "level": 2, "end": 30}
 {"id": "967499ec148b", "num": "5.3", "title": "בחירת סוג סופג האנרגיה להתקנה", "chapter": null, "start": 31, "level": 2, "end": 34}
+{"id": "970e98f52fdf", "num": "4", "title": "נתיבי", "chapter": null, "start": 4, "level": 1, "end": 11}
+{"id": "970e98f52fdf", "num": "5", "title": "ו4 רשימת מקורות לפרקים", "chapter": null, "start": 12, "level": 1, "end": 12}
+{"id": "970e98f52fdf", "num": "6", "title": "רשימת מקורות לפרק", "chapter": null, "start": 13, "level": 1, "end": 15}
+{"id": "980918265c04", "num": "5", "title": "בו ווה", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "983a2c6b6987", "num": "5", "title": "התווית דרך ציבורית מאושרת וקביעתה לדרך במבוי", "chapter": null, "start": 8, "level": 1, "end": 8}
 {"id": "983a2c6b6987", "num": "6", "title": "הרחבת דרכים. . התנגדות במשרדי הועדה המקומית TTR", "chapter": null, "start": 8, "level": 1, "end": 25}
 {"id": "983a2c6b6987", "num": "08.80", "title": "באוקטובר בשעה", "chapter": null, "start": 19, "level": 2, "end": 20}
@@ -5256,6 +5377,9 @@
 {"id": "9af7024ed6fb", "num": "7.6", "title": "אפיון מכשירי המדידה", "chapter": "פרק 7", "start": 3, "level": 2, "end": 3}
 {"id": "9af7024ed6fb", "num": "7.7", "title": "מראי מקום", "chapter": "פרק 7", "start": 3, "level": 2, "end": 5}
 {"id": "9af7024ed6fb", "num": "20", "title": "קמ\"ש", "chapter": "פרק 7", "start": 6, "level": 1, "end": 18}
+{"id": "9b0adaa52b2f", "num": "3", "title": "שש ב", "chapter": null, "start": 1, "level": 1, "end": 1}
+{"id": "9c6f705e3e14", "num": "5", "title": "ו | Cad ו", "chapter": null, "start": 1, "level": 1, "end": 1}
+{"id": "9c6f705e3e14", "num": "6", "title": "ה | 5 0 | !", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "9d1b591859c5", "num": "1", "title": "מבוא", "chapter": null, "start": 4, "level": 1, "end": 4}
 {"id": "9d1b591859c5", "num": "2", "title": "תיאור מערכת התראה", "chapter": null, "start": 5, "level": 1, "end": 5}
 {"id": "9d1b591859c5", "num": "3", "title": "דרישות למערכת התראה", "chapter": null, "start": 6, "level": 1, "end": 6}
@@ -5290,6 +5414,17 @@
 {"id": "9df671fa4316", "num": "13.00", "title": "\"Wa הצדדים", "chapter": null, "start": 44, "level": 2, "end": 44}
 {"id": "9df671fa4316", "num": "18.00", "title": "בצד האחר", "chapter": null, "start": 44, "level": 2, "end": 58}
 {"id": "9df671fa4316", "num": "16.60", "title": "ויותך | בשי הצדדים 20 =", "chapter": null, "start": 59, "level": 2, "end": 61}
+{"id": "9e02366ea0e8", "num": "4.1", "title": "מושגי יסוד ועקרונות למערכות האיוורור", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "9e02366ea0e8", "num": "1", "title": "מושגי יסוד ועקרונות למערכות האיוורור", "chapter": null, "start": 2, "level": 1, "end": 2}
+{"id": "9e02366ea0e8", "num": "4", "title": "מערכות איוורור במנהרות", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 3, "level": 0, "end": 22}
+{"id": "9e02366ea0e8", "num": "4.2", "title": "תקנים חלים ומומלצים", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 4, "level": 2, "end": 4}
+{"id": "9e02366ea0e8", "num": "4.3", "title": "דרישות מזעריות למערכות איוורור מנהרות", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 5, "level": 2, "end": 5}
+{"id": "9e02366ea0e8", "num": "2", "title": "המלצות בנוגע לבחירת מנהרות חד-כיווניות או דו-כיווניו", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 5, "level": 1, "end": 22}
+{"id": "9e02366ea0e8", "num": "4.4", "title": "חישובי ספיקות אוויר", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 7, "level": 2, "end": 7}
+{"id": "9e02366ea0e8", "num": "4.2", "title": "Ccריכוז  COמותר לפי טבלה", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 8, "level": 2, "end": 8}
+{"id": "9e02366ea0e8", "num": "4.2", "title": "ריכוז CO מותר לפי טבלה", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 8, "level": 2, "end": 13}
+{"id": "9e02366ea0e8", "num": "4.5", "title": "הנחיות למיתקון מערכות האיוורור", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 14, "level": 2, "end": 21}
+{"id": "9e02366ea0e8", "num": "4.6", "title": "מיזוג אוויר ומערכות היקפיות", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 22, "level": 2, "end": 22}
 {"id": "9e3562c13409", "num": "3", "title": "מאפייני איכות", "chapter": null, "start": 25, "level": 1, "end": 31}
 {"id": "9f27c0dca435", "num": "11.1", "title": "מבוא", "chapter": null, "start": 2, "level": 2, "end": 2}
 {"id": "9f27c0dca435", "num": "1", "title": "מבוא", "chapter": null, "start": 2, "level": 1, "end": 4}
@@ -5363,6 +5498,18 @@
 {"id": "a32ea49cb117", "num": "5", "title": "תיית", "chapter": "פרק 8", "start": 119, "level": 1, "end": 120}
 {"id": "a41d299d141a", "num": "8", "title": "המוצב לפני הכניסה", "chapter": null, "start": 20, "level": 1, "end": 94}
 {"id": "a700d3e7652b", "num": "8", "title": "מינהל תכנון", "chapter": null, "start": 3, "level": 1, "end": 3}
+{"id": "a72ac43dd87e", "num": "1.1", "title": "הקדמה", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "a72ac43dd87e", "num": "1", "title": "מבוא", "chapter": "פרק 1 — מבוא", "start": 2, "level": 0, "end": 10}
+{"id": "a72ac43dd87e", "num": "1", "title": "הקדמה", "chapter": "פרק 1 — מבוא", "start": 2, "level": 1, "end": 2}
+{"id": "a72ac43dd87e", "num": "1.2", "title": "מטרת ההנחיות וייעודן", "chapter": "פרק 1 — מבוא", "start": 3, "level": 2, "end": 3}
+{"id": "a72ac43dd87e", "num": "2", "title": "מטרת ההנחיות וייעודן", "chapter": "פרק 1 — מבוא", "start": 3, "level": 1, "end": 10}
+{"id": "a72ac43dd87e", "num": "1.4", "title": "מבנה ההנחיות", "chapter": "פרק 1 — מבוא", "start": 4, "level": 2, "end": 4}
+{"id": "a72ac43dd87e", "num": "1.5", "title": "מונחים בסיסיים: מנהרות רכב", "chapter": "פרק 1 — מבוא", "start": 5, "level": 2, "end": 8}
+{"id": "a72ac43dd87e", "num": "1.7", "title": "תחולת ההנחיות ותקפותן", "chapter": "פרק 1 — מבוא", "start": 9, "level": 2, "end": 10}
+{"id": "a72ac43dd87e", "num": "2", "title": "היבטים הנדסיים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 11, "level": 0, "end": 11}
+{"id": "a72ac43dd87e", "num": "3", "title": "תכן גיאומטרי", "chapter": "פרק 3 — תכן גיאומטרי", "start": 11, "level": 0, "end": 12}
+{"id": "a72ac43dd87e", "num": "4", "title": "מערכות איוורור במנהרות", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 13, "level": 0, "end": 13}
+{"id": "a72ac43dd87e", "num": "פ", "title": "בטיחות אש", "chapter": "פרק פ — בטיחות אש", "start": 13, "level": 0, "end": 14}
 {"id": "a7a31aa29b26", "num": "0", "title": "מ\"מ לכבילה", "chapter": null, "start": 14, "level": 1, "end": 15}
 {"id": "a7a730a5df4e", "num": "3", "title": "הנחיות להצבה - באתרי עבודת", "chapter": null, "start": 7, "level": 1, "end": 39}
 {"id": "a7a730a5df4e", "num": "3.2", "title": "מישור אופקי ):(Horizontal Plane", "chapter": null, "start": 21, "level": 2, "end": 21}
@@ -5418,18 +5565,6 @@
 {"id": "a9635995b775", "num": "של", "title": "ישי", "chapter": "פרק של — ישי", "start": 321, "level": 0, "end": 358}
 {"id": "a9635995b775", "num": "רב", "title": "יעי", "chapter": "פרק רב — יעי", "start": 359, "level": 0, "end": 787}
 {"id": "a9635995b775", "num": "הס", "title": "דרת הפיקוח הווטרינרי. בפרק זה ניתן מענה", "chapter": "פרק הס — דרת הפיקוח הווטרינרי. בפרק זה ניתן מענה", "start": 788, "level": 0, "end": 860}
-{"id": "ab0d4c11e4c8", "num": "1.1", "title": "הקדמה", "chapter": null, "start": 2, "level": 2, "end": 2}
-{"id": "ab0d4c11e4c8", "num": "1", "title": "מבוא", "chapter": "פרק 1 — מבוא", "start": 2, "level": 0, "end": 10}
-{"id": "ab0d4c11e4c8", "num": "1", "title": "הקדמה", "chapter": "פרק 1 — מבוא", "start": 2, "level": 1, "end": 2}
-{"id": "ab0d4c11e4c8", "num": "1.2", "title": "מטרת ההנחיות וייעודן", "chapter": "פרק 1 — מבוא", "start": 3, "level": 2, "end": 3}
-{"id": "ab0d4c11e4c8", "num": "2", "title": "מטרת ההנחיות וייעודן", "chapter": "פרק 1 — מבוא", "start": 3, "level": 1, "end": 10}
-{"id": "ab0d4c11e4c8", "num": "1.4", "title": "מבנה ההנחיות", "chapter": "פרק 1 — מבוא", "start": 4, "level": 2, "end": 4}
-{"id": "ab0d4c11e4c8", "num": "1.5", "title": "מונחים בסיסיים: מנהרות רכב", "chapter": "פרק 1 — מבוא", "start": 5, "level": 2, "end": 8}
-{"id": "ab0d4c11e4c8", "num": "1.7", "title": "תחולת ההנחיות ותקפותן", "chapter": "פרק 1 — מבוא", "start": 9, "level": 2, "end": 10}
-{"id": "ab0d4c11e4c8", "num": "2", "title": "היבטים הנדסיים", "chapter": "פרק 2 — היבטים הנדסיים", "start": 11, "level": 0, "end": 11}
-{"id": "ab0d4c11e4c8", "num": "3", "title": "תכן גיאומטרי", "chapter": "פרק 3 — תכן גיאומטרי", "start": 11, "level": 0, "end": 12}
-{"id": "ab0d4c11e4c8", "num": "4", "title": "מערכות איוורור במנהרות", "chapter": "פרק 4 — מערכות איוורור במנהרות", "start": 13, "level": 0, "end": 13}
-{"id": "ab0d4c11e4c8", "num": "פ", "title": "בטיחות אש", "chapter": "פרק פ — בטיחות אש", "start": 13, "level": 0, "end": 14}
 {"id": "ad728778bcbd", "num": "3.5", "title": "צמתים סמוכים", "chapter": null, "start": 7, "level": 2, "end": 7}
 {"id": "ad728778bcbd", "num": "3.6", "title": "ככר", "chapter": null, "start": 7, "level": 2, "end": 7}
 {"id": "ad728778bcbd", "num": "3.7", "title": "הסדרים אחרים", "chapter": null, "start": 7, "level": 2, "end": 7}
@@ -6583,6 +6718,7 @@
 {"id": "dce058d2831a", "num": "10.4.2", "title": "בתוך המנהרה 10-13", "chapter": null, "start": 58, "level": 3, "end": 58}
 {"id": "dce058d2831a", "num": "10.3.3", "title": "בגישה ובכניסה למנהרה שח | ה", "chapter": null, "start": 58, "level": 3, "end": 74}
 {"id": "dce058d2831a", "num": "4.2", "title": "גודש", "chapter": null, "start": 75, "level": 2, "end": 91}
+{"id": "de0ee2c786f9", "num": "6", "title": "ם= = =", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "de5339879cb6", "num": "1", "title": "הבדיקה התנועתית", "chapter": null, "start": 13, "level": 1, "end": 30}
 {"id": "de5339879cb6", "num": "1.2", "title": "מדד הביצוע", "chapter": null, "start": 13, "level": 2, "end": 13}
 {"id": "de5339879cb6", "num": "1.3", "title": "מתודולוגית העבודה", "chapter": null, "start": 13, "level": 2, "end": 13}
@@ -7230,6 +7366,40 @@
 {"id": "eddd9a68c7e3", "num": "6.3.7", "title": "נתוני איי תנועה ואיים משולשים", "chapter": "פרק 6 — / מקומות חצ", "start": 134, "level": 3, "end": 134}
 {"id": "eddd9a68c7e3", "num": "6.4", "title": "חציית הולכי-רגל בדרכים בין עירוניות", "chapter": "פרק 6 — / מקומות חצ", "start": 135, "level": 2, "end": 143}
 {"id": "eddd9a68c7e3", "num": "7", "title": "נכון                                            לא נכון", "chapter": "פרק 6 — / מקומות חצ", "start": 144, "level": 1, "end": 159}
+{"id": "ef584f4d831c", "num": "8.1", "title": "רקע", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "ef584f4d831c", "num": "8", "title": "היבטים סביבתיים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 2, "level": 0, "end": 22}
+{"id": "ef584f4d831c", "num": "1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 2, "level": 1, "end": 5}
+{"id": "ef584f4d831c", "num": "8.2", "title": "מפגעים בשלב ההקמה", "chapter": "פרק 8 — היבטים סביבתיים", "start": 4, "level": 2, "end": 5}
+{"id": "ef584f4d831c", "num": "8.2.1.1", "title": "קריטריונים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 4, "level": 4, "end": 4}
+{"id": "ef584f4d831c", "num": "8.2.1.2", "title": "מודלים של חיזוי רעש בשלב ההקמה", "chapter": "פרק 8 — היבטים סביבתיים", "start": 5, "level": 4, "end": 5}
+{"id": "ef584f4d831c", "num": "8.2.1.3", "title": "אמצעים למניעת מפגעי הרעש", "chapter": "פרק 8 — היבטים סביבתיים", "start": 5, "level": 4, "end": 5}
+{"id": "ef584f4d831c", "num": "8.2.2.1", "title": "קריטריונים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 5, "level": 4, "end": 5}
+{"id": "ef584f4d831c", "num": "8.2.2.2", "title": "מודלים של חיזוי בשלב ההקמה", "chapter": "פרק 8 — היבטים סביבתיים", "start": 5, "level": 4, "end": 5}
+{"id": "ef584f4d831c", "num": "8.2.2.3", "title": "אמצעים למניעת מפגעי רעידות", "chapter": "פרק 8 — היבטים סביבתיים", "start": 6, "level": 4, "end": 6}
+{"id": "ef584f4d831c", "num": "8.2.3.1", "title": "קריטריונים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 6, "level": 4, "end": 6}
+{"id": "ef584f4d831c", "num": "8.2.3.2", "title": "מודלים לחיזוי", "chapter": "פרק 8 — היבטים סביבתיים", "start": 6, "level": 4, "end": 6}
+{"id": "ef584f4d831c", "num": "8.2.3.3", "title": "אמצעים למניעת מפגעי אבק", "chapter": "פרק 8 — היבטים סביבתיים", "start": 6, "level": 4, "end": 6}
+{"id": "ef584f4d831c", "num": "2", "title": "מודלים לחיזוי", "chapter": "פרק 8 — היבטים סביבתיים", "start": 6, "level": 1, "end": 16}
+{"id": "ef584f4d831c", "num": "8.2.4.1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 7, "level": 4, "end": 7}
+{"id": "ef584f4d831c", "num": "8.2.4.2", "title": "אמצעים לטיפול בעודפי עפר", "chapter": "פרק 8 — היבטים סביבתיים", "start": 7, "level": 4, "end": 7}
+{"id": "ef584f4d831c", "num": "8.2.5.1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 7, "level": 4, "end": 7}
+{"id": "ef584f4d831c", "num": "8.2.5.2", "title": "שיטות לטיפול במים שאובים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 8, "level": 4, "end": 8}
+{"id": "ef584f4d831c", "num": "8.2.6.1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 8, "level": 4, "end": 8}
+{"id": "ef584f4d831c", "num": "8.2.6.2", "title": "אמצעים לצמצום הפגיעה", "chapter": "פרק 8 — היבטים סביבתיים", "start": 8, "level": 4, "end": 8}
+{"id": "ef584f4d831c", "num": "8.3", "title": "מפגעים בשלב הקבע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 9, "level": 2, "end": 16}
+{"id": "ef584f4d831c", "num": "8.3.1.1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 9, "level": 4, "end": 9}
+{"id": "ef584f4d831c", "num": "8.3.1.2", "title": "קריטריונים לרעש", "chapter": "פרק 8 — היבטים סביבתיים", "start": 9, "level": 4, "end": 9}
+{"id": "ef584f4d831c", "num": "8.3.1.3", "title": "מודל חיזוי", "chapter": "פרק 8 — היבטים סביבתיים", "start": 10, "level": 4, "end": 11}
+{"id": "ef584f4d831c", "num": "8.3.1.4", "title": "אמצעים להפחתת הרעש", "chapter": "פרק 8 — היבטים סביבתיים", "start": 12, "level": 4, "end": 14}
+{"id": "ef584f4d831c", "num": "8.3.1.5", "title": "מודל החיזוי", "chapter": "פרק 8 — היבטים סביבתיים", "start": 15, "level": 4, "end": 15}
+{"id": "ef584f4d831c", "num": "8.3.1.6", "title": "אמצעים להקטנת ריכוזי זיהום האוויר", "chapter": "פרק 8 — היבטים סביבתיים", "start": 15, "level": 4, "end": 15}
+{"id": "ef584f4d831c", "num": "8.3.2.1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 16, "level": 4, "end": 16}
+{"id": "ef584f4d831c", "num": "8.3.2.2", "title": "אמצעים למניעת זיהום אור", "chapter": "פרק 8 — היבטים סביבתיים", "start": 16, "level": 4, "end": 16}
+{"id": "ef584f4d831c", "num": "8.3.3.1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 16, "level": 4, "end": 16}
+{"id": "ef584f4d831c", "num": "8.3.3.2", "title": "הפרמטרים המשפיעים על עיצוב הפורטלים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 17, "level": 4, "end": 17}
+{"id": "ef584f4d831c", "num": "8.3.3.3", "title": "אמצעים לשיפור החזות", "chapter": "פרק 8 — היבטים סביבתיים", "start": 17, "level": 4, "end": 17}
+{"id": "ef584f4d831c", "num": "3", "title": "אמצעים לשיפור החזות", "chapter": "פרק 8 — היבטים סביבתיים", "start": 17, "level": 1, "end": 22}
+{"id": "ef584f4d831c", "num": "8.4", "title": "למנהרה מרווחת (תמונות .)8.6", "chapter": "פרק 8 — היבטים סביבתיים", "start": 18, "level": 2, "end": 22}
 {"id": "f00ad495d89d", "num": "1.1", "title": "כללי", "chapter": null, "start": 6, "level": 2, "end": 6}
 {"id": "f00ad495d89d", "num": "1", "title": "מפרט לחומר הגוונה אדום בנתיבי תחבורה ציבורית", "chapter": null, "start": 6, "level": 1, "end": 6}
 {"id": "f00ad495d89d", "num": "1.2", "title": "מטרת המפרט", "chapter": null, "start": 7, "level": 2, "end": 7}
@@ -7272,6 +7442,7 @@
 {"id": "f00ad495d89d", "num": "32", "title": "מפרט לחומר הגוונה אדום בנתיבי תחבורה ציבורית", "chapter": null, "start": 37, "level": 1, "end": 37}
 {"id": "f00ad495d89d", "num": "33", "title": "מפרט לחומר הגוונה אדום בנתיבי תחבורה ציבורית", "chapter": null, "start": 38, "level": 1, "end": 38}
 {"id": "f00ad495d89d", "num": "34", "title": "מפרט לחומר הגוונה אדום בנתיבי תחבורה ציבורית", "chapter": null, "start": 39, "level": 1, "end": 44}
+{"id": "f02930214c85", "num": "3", "title": "48 מו", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "f19e958e14da", "num": "1", "title": "בללי", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "f19e958e14da", "num": "2", "title": "מטרה", "chapter": null, "start": 1, "level": 1, "end": 10}
 {"id": "f19e958e14da", "num": "3", "title": "עקביות התכנון", "chapter": null, "start": 11, "level": 1, "end": 23}

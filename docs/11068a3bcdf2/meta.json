@@ -36,5 +36,8 @@
  "lowconf_pages": [],
  "text_pages": 21,
  "ocr_pages": 1,
- "layer": "mixed"
+ "layer": "mixed",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_fire_saftey.pdf"
+ ]
 }
