@@ -8,6 +8,7 @@ Outputs:
   docs/<docid>/text.md         text with '=== PAGE N ===' markers and per-page method
   index.jsonl                  one line per document (rebuilt)
 """
+import collections
 import hashlib, html, json, os, random, re, shutil, subprocess, sys, tempfile, time, glob, urllib.parse
 from html.parser import HTMLParser
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -570,6 +571,7 @@ def build_index():
         r['_year'] = years[-1] if years else None
         rows.append(r)
     # edition status: only what the sheet text says explicitly (no guessing across different documents of one record)
+    GENERIC_DESC = re.compile(r'דף הפרסום|הפניה מקורית|הפניה באקסל|^קישור')
     NEWER = re.compile(r'מהדורה (רשמית )?מאוחרת|מהדורה עדכנית|מחליפ|עדכון (מס[\'׳]?\s*)?\d|מהדורה אחרונה')
     OLDER = re.compile(r'(עותק|נוסח|מקור|כרך) היסטורי|מהדורה קודמת|הוחלפ|בוטל')
     newest = {}
@@ -577,6 +579,8 @@ def build_index():
         if any(NEWER.search(d) for d in r['_sheet']['desc']):
             for rec in r['_sheet']['records']:
                 newest.setdefault(rec['id'], []).append(r['id'])
+    base_titles = collections.Counter(r['_sheet']['records'][0]['title'] for r in rows
+                                      if r['_sheet']['records'] and not r.get('title'))
     with open(os.path.join(ROOT, 'index.jsonl'), 'w', encoding='utf-8') as f:
         for r in rows:
             keep = {k: r.get(k) for k in ('id', 'url', 'final_url', 'kind', 'title', 'pages', 'layer', 'text_pages', 'ocr_pages', 'image_pages', 'table_pages', 'asset', 'sha256', 'checked')}
@@ -584,7 +588,11 @@ def build_index():
             sheet = r['_sheet']
             keep.update(sheet_records=sheet['records'], sheet_desc=sheet['desc'], sheet_rows=sheet['rows'], year=r['_year'])
             if sheet['records'] and not keep.get('title'):
-                keep['title'] = sheet['records'][0]['title']
+                rt = sheet['records'][0]['title']
+                # a record with several documents: add this document's own link description, so each title is distinct
+                d = [x for x in sheet['desc'] if not GENERIC_DESC.search(x)]
+                clash = base_titles.get(rt, 0) > 1  # several documents would otherwise show the same title
+                keep['title'] = f"{rt} – {d[0]}" if clash and len(d) == 1 and d[0] not in rt else rt
             if r.get('kind') == 'pdf':
                 desc = sheet['desc']
                 keep['edition_status'] = ('newer' if any(NEWER.search(d) for d in desc) else

@@ -33,7 +33,7 @@ sections 1 and 8) points here. When repo logic changes, update this file in the 
 - `sheet/records.jsonl` — 223 records: id ("שורה N" / "מקור נוסף NNN"), title, section, status.
 - `sheet/links.jsonl` — every link of every record (record, desc, url; `replaced` = old URL + decision). Edit THIS file to add/fix links.
 - `sheet/replacements.jsonl` — log of Guy's replacement decisions (old → new, kind, who/when).
-- index.jsonl per doc joins these: `sheet_records`, `sheet_desc`, `edition_status`, `newer_in_record`; titles fall back to the record title.
+- index.jsonl per doc joins these: `sheet_records`, `sheet_desc`, `edition_status`, `newer_in_record`; titles fall back to the record title; when several documents of one record would share it, the document's own link description is appended (`<record title> – <desc>`).
 (`tools/sheet_import.py` is kept only for re-importing an old export.)
 
 ## Reference files (not documents)
