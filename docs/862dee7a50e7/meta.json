@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/metropolitan_tel_aviv/he/development_of_public_transport-metropolitan_tel_aviv.pdf",
- "checked": "2026-11-15T14:51:55Z",
+ "checked": "2026-11-22T08:05:43Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/metropolitan_tel_aviv/he/development_of_public_transport-metropolitan_tel_aviv.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 6440994,
- "secs": 13.747745,
+ "secs": 23.764032,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 2,
  "sha256": "edd8f2e7671cdf8735ae5f52c235f1d0f06c4f8f436301dacd5c17beefbd107a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/862dee7a50e7.pdf",
+ "text_pages": 51,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 48,
  "table_pages": 14,
  "figure_ocr_pages": 48,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 51,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

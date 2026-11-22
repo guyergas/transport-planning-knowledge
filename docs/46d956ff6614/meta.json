@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_for_new_parking_regulations_2016/he/guidelines_for_new_parking_regulations_2016.pdf",
- "checked": "2026-11-15T14:52:57Z",
+ "checked": "2026-11-22T08:05:45Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_for_new_parking_regulations_2016/he/guidelines_for_new_parking_regulations_2016.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 729686,
- "secs": 1.768358,
+ "secs": 2.143653,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 9,
  "sha256": "3056d131f8c6b6e99a41d1204f9e9ed11bb5cf6dae1b716aa783ddc14d7dbd20",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/46d956ff6614.pdf",
+ "text_pages": 26,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 6,
  "table_pages": 5,
  "figure_ocr_pages": 6,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 26,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

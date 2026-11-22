@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/road_examinations_protocol/he/2023-new.pdf",
- "checked": "2026-11-15T15:08:23Z",
+ "checked": "2026-11-22T08:08:10Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/road_examinations_protocol/he/2023-new.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1581211,
- "secs": 2.85448,
+ "secs": 1.886585,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "aca6a5ee2b57a262c595cc4c673335bdb129e0ffcbc119bad6f349a83a8c5452",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/1f8b3a6637e6.pdf",
+ "text_pages": 18,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 5,
  "table_pages": 0,
  "figure_ocr_pages": 5,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 18,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

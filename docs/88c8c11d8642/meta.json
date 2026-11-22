@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/road_engineering_guide.pdf",
- "checked": "2026-11-15T15:04:53Z",
+ "checked": "2026-11-22T08:09:43Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/guide-public-transport-dec2018/he/road_engineering_guide.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 34268963,
- "secs": 35.73311,
+ "secs": 83.308182,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 9,
  "sha256": "bee3b3b2430d59fdd4c9748a44de121e9672bd057c5686140d2fb4ce588b7b5d",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/88c8c11d8642.pdf",
- "fix_log": [
-  "words=11877 unknown=1819 fixed=312"
- ],
+ "text_pages": 511,
+ "ocr_pages": 307,
+ "layer": "mixed",
  "image_pages": 418,
  "table_pages": 45,
  "figure_ocr_pages": 112,
@@ -69,7 +69,5 @@
   395,
   415
  ],
- "text_pages": 511,
- "ocr_pages": 307,
- "layer": "mixed"
+ "change": "unchanged"
 }

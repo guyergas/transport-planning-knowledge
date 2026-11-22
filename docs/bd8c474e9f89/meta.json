@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/the-headlight-system-3.2.pdf",
- "checked": "2026-11-15T15:13:59Z",
+ "checked": "2026-11-22T08:10:03Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/ar/the-headlight-system-3.2.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 987882,
- "secs": 3.451839,
+ "secs": 1.404729,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "bd8c474e9f89",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 30,
  "pdf_meta": {
   "Title": "סעיף 3.2-מערכת הפנסים",
@@ -25,7 +24,7 @@
  },
  "fonts_uni_no": 7,
  "sha256": "11227ef1a1b8535a8052269a4c4e96c2b6fe50190c7a01925d48f17edf167ee8",
- "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3f248f1b22cb.pdf",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/bd8c474e9f89.pdf",
  "fix_log": [
   "words=1716 unknown=91 fixed=6"
  ],
@@ -38,5 +37,5 @@
  "text_pages": 30,
  "ocr_pages": 1,
  "layer": "mixed",
- "duplicate_of": "3f248f1b22cb"
+ "change": "reprocessed"
 }

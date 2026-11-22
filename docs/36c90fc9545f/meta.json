@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/TRAFFIC_PLANNING_MaterialRoadMarkingTest-2007.pdf",
- "checked": "2026-11-15T15:38:25Z",
+ "checked": "2026-11-22T08:09:59Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/TRAFFIC_PLANNING_MaterialRoadMarkingTest-2007.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 5574903,
- "secs": 8.791735,
+ "secs": 3.787576,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 14,
  "sha256": "ff3a67cee2ed8d49bbf803be49b556ebd49c206c8c79f7c850dbea1e6c714fc5",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/36c90fc9545f.pdf",
- "fix_log": [
-  "words=2356 unknown=152 fixed=5"
- ],
+ "text_pages": 67,
+ "ocr_pages": 67,
+ "layer": "broken",
  "image_pages": 17,
  "table_pages": 4,
  "figure_ocr_pages": 0,
@@ -37,7 +37,5 @@
   31,
   33
  ],
- "text_pages": 67,
- "ocr_pages": 67,
- "layer": "broken"
+ "change": "unchanged"
 }

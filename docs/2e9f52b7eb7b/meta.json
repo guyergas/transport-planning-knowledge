@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94%20%D7%96%D7%9E%D7%A0%D7%99%D7%99%D7%9D%20%D7%91%D7%90%D7%AA%D7%A8%D7%99%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20-%202023.pdf",
- "checked": "2026-11-15T14:54:14Z",
+ "checked": "2026-11-22T08:07:05Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94%20%D7%96%D7%9E%D7%A0%D7%99%D7%99%D7%9D%20%D7%91%D7%90%D7%AA%D7%A8%D7%99%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20-%202023.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 35909887,
- "secs": 49.183872,
+ "secs": 70.772739,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 10,
  "sha256": "1a11df52c54305e52a37cf8e18b47c1758e9a64cdfdfe3cf45c2d7b6a6d5497d",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/2e9f52b7eb7b.pdf",
- "fix_log": [
-  "words=10170 unknown=1754 fixed=247"
- ],
+ "text_pages": 491,
+ "ocr_pages": 307,
+ "layer": "mixed",
  "image_pages": 454,
  "table_pages": 15,
  "figure_ocr_pages": 148,
@@ -171,7 +171,5 @@
   465,
   484
  ],
- "text_pages": 491,
- "ocr_pages": 307,
- "layer": "mixed"
+ "change": "unchanged"
 }

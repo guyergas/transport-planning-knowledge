@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/nov-2024/he/%D7%A1%D7%99%D7%9E%D7%95%D7%9F%20%D7%AA%D7%A4%D7%95%D7%A1%D7%94%20%D7%91%D7%A0%D7%A8%D7%AA_%D7%9E%D7%A4%D7%A8%D7%98_%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8%202024.pdf",
- "checked": "2026-11-15T15:25:14Z",
+ "checked": "2026-11-22T08:10:33Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/nov-2024/he/%D7%A1%D7%99%D7%9E%D7%95%D7%9F%20%D7%AA%D7%A4%D7%95%D7%A1%D7%94%20%D7%91%D7%A0%D7%A8%D7%AA_%D7%9E%D7%A4%D7%A8%D7%98_%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8%202024.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1042449,
- "secs": 1.371907,
+ "secs": 1.464357,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 8,
  "sha256": "2707a2a28c8f3bccc4abcd7e93b0f9a38cda2bd6bc1a1ccc305bb73eb6bec0b7",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f8f74f9412ed.pdf",
+ "text_pages": 17,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 10,
  "table_pages": 1,
  "figure_ocr_pages": 10,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 17,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

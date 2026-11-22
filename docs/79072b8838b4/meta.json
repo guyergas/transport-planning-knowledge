@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_engineering_aspects.pdf",
- "checked": "2026-11-18T13:23:17Z",
+ "checked": "2026-11-22T08:10:40Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_engineering_aspects.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2308450,
- "secs": 6.326099,
+ "secs": 2.565554,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 5,
  "sha256": "11c794b34779ce69cb976647bceb317d8b7b57e8ba6690b75ebeb92eb0864eab",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/79072b8838b4.pdf",
+ "text_pages": 34,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 34,
  "table_pages": 0,
  "figure_ocr_pages": 34,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 34,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }
