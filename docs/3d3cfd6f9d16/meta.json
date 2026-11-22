@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/rules_motorcycles/he/rules_combining_motorcycles.pdf",
- "checked": "2026-11-15T15:03:40Z",
+ "checked": "2026-11-22T08:07:39Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/rules_motorcycles/he/rules_combining_motorcycles.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1125972,
- "secs": 1.945056,
+ "secs": 2.544194,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 8,
  "sha256": "a0ec49f3649b3165e93401bd6abf380544ddb80efbf5f90d671a70c0c821b76e",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3d3cfd6f9d16.pdf",
- "fix_log": [
-  "words=1156 unknown=74 fixed=4"
- ],
+ "text_pages": 11,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 3,
  "table_pages": 0,
  "figure_ocr_pages": 2,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 88,
  "lowconf_pages": [],
- "text_pages": 11,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

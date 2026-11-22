@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/planning_open_public_transit_routes/he/nohal-mankal.pdf",
- "checked": "2026-11-15T15:03:51Z",
+ "checked": "2026-11-22T08:07:42Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/planning_open_public_transit_routes/he/nohal-mankal.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 221562,
- "secs": 0.352874,
+ "secs": 0.479138,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 5,
  "sha256": "c5cea04c7358d69780f1a40d320ea1bd4bff7ceacb99a4c12765e2aa77ea3107",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d9a66cb72a16.pdf",
+ "text_pages": 2,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 0,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 2,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%A9%D7%99%D7%9C%D7%95%D7%98%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA-%D7%A4%D7%A8%D7%A7%20%D7%A9%D7%99%D7%9C%D7%95%D7%98%20%D7%A0%D7%AA%D7%99%D7%91%D7%99%20%D7%94%D7%A2%D7%93%D7%A4%D7%94%20%D7%95%D7%A0%D7%AA%D7%99%D7%91%D7%99%D7%9D%20%D7%9E%D7%A0%D7%95%D7%94%D7%9C%D7%99%D7%9D%20-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%202.1_%20%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8%202024.pdf",
- "checked": "2026-11-15T15:50:58Z",
+ "checked": "2026-11-22T08:07:29Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_interurban_roads/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%A9%D7%99%D7%9C%D7%95%D7%98%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA-%D7%A4%D7%A8%D7%A7%20%D7%A9%D7%99%D7%9C%D7%95%D7%98%20%D7%A0%D7%AA%D7%99%D7%91%D7%99%20%D7%94%D7%A2%D7%93%D7%A4%D7%94%20%D7%95%D7%A0%D7%AA%D7%99%D7%91%D7%99%D7%9D%20%D7%9E%D7%A0%D7%95%D7%94%D7%9C%D7%99%D7%9D%20-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%202.1_%20%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8%202024.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3036590,
- "secs": 13.332991,
+ "secs": 6.331863,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 19,
  "sha256": "a222803354b8f6d0a23487ad0822aecae045a7bcd67dc76e372652f602e63153",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b976c00d8049.pdf",
+ "text_pages": 74,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 31,
  "table_pages": 0,
  "figure_ocr_pages": 31,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 74,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

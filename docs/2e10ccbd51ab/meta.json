@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/00017216.pdf",
- "checked": "2026-11-15T15:06:55Z",
+ "checked": "2026-11-22T08:07:59Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/00017216.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2167347,
- "secs": 4.08719,
+ "secs": 5.112443,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "2e10ccbd51ab",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 39,
  "pdf_meta": {
   "Title": "",
@@ -26,13 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "5ad98e35987309bdd45f5e3cc1c2968562c13329386b0a3648176a4b4a76cccf",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/2e10ccbd51ab.pdf",
+ "text_pages": 39,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 17,
  "table_pages": 0,
  "figure_ocr_pages": 17,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 39,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

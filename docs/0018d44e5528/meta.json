@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_marking_routes_preference_public_transportation/he/guidelines_marking_routes_preference_public_transportation-2019.pdf",
- "checked": "2026-11-15T15:51:42Z",
+ "checked": "2026-11-22T08:07:36Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_marking_routes_preference_public_transportation/he/guidelines_marking_routes_preference_public_transportation-2019.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2914219,
- "secs": 8.027743,
+ "secs": 6.6162,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "b7f5f725eace66258a67ea7f18fec4b19fdb76edbae4bdb13af7f74fa25c1387",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0018d44e5528.pdf",
- "fix_log": [
-  "words=1394 unknown=82 fixed=12"
- ],
+ "text_pages": 33,
+ "ocr_pages": 4,
+ "layer": "mixed",
  "image_pages": 28,
  "table_pages": 0,
  "figure_ocr_pages": 24,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 78,
  "lowconf_pages": [],
- "text_pages": 33,
- "ocr_pages": 4,
- "layer": "mixed"
+ "change": "unchanged"
 }

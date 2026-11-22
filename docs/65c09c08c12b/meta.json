@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/land_transport_development_policy/he/Land%20transport%20development%20policy.pdf",
- "checked": "2026-11-15T14:52:52Z",
+ "checked": "2026-11-22T08:06:12Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/land_transport_development_policy/he/Land%20transport%20development%20policy.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 33798616,
- "secs": 50.026803,
+ "secs": 76.574962,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 151,
  "sha256": "342a79ef9242d4e19c045425ea2e855ab2ad75426e3814699c2ad866a160f72f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/65c09c08c12b.pdf",
- "fix_log": [
-  "words=11913 unknown=977 fixed=169"
- ],
+ "text_pages": 279,
+ "ocr_pages": 117,
+ "layer": "mixed",
  "image_pages": 116,
  "table_pages": 64,
  "figure_ocr_pages": 1,
@@ -38,7 +38,5 @@
   137,
   239
  ],
- "text_pages": 279,
- "ocr_pages": 117,
- "layer": "mixed"
+ "change": "unchanged"
 }

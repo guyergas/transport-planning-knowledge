@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/ar/roads_tunnels_planning_insturactions_introduction.pdf",
- "checked": "2026-11-15T14:55:50Z",
+ "checked": "2026-11-22T08:06:51Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/ar/roads_tunnels_planning_insturactions_introduction.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 162267,
- "secs": 0.672755,
+ "secs": 0.685643,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "ab0d4c11e4c8",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 14,
  "pdf_meta": {
   "Title": "פרק_1 11-18",
@@ -25,7 +24,7 @@
  },
  "fonts_uni_no": 5,
  "sha256": "ad775cce2d50cab7af9b03d8b22c71cc1e9623f1577957d359faa2ecd07506e2",
- "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a72ac43dd87e.pdf",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ab0d4c11e4c8.pdf",
  "image_pages": 14,
  "table_pages": 3,
  "figure_ocr_pages": 14,
@@ -35,5 +34,5 @@
  "text_pages": 14,
  "ocr_pages": 0,
  "layer": "ok",
- "duplicate_of": "a72ac43dd87e"
+ "change": "reprocessed"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HighwayCapacityManual.pdf",
- "checked": "2026-11-15T14:57:04Z",
+ "checked": "2026-11-22T08:07:23Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/world_guide_hcm/he/HighwayCapacityManual.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 7904839,
- "secs": 7.001998,
+ "secs": 10.646402,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "e8ffd46e8738",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 678,
  "pdf_meta": {
   "Title": "(Microsoft Word - \\367\\345\\341\\365 \\364\\372\\351\\347\\344.doc)",
@@ -26,9 +25,9 @@
  "fonts_uni_no": 418,
  "sha256": "445d65437fef1bb1291ca06e58bd28ee104b5ac10e35bb4961c205b7d42c5a88",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/e8ffd46e8738.pdf",
- "fix_log": [
-  "words=13964 unknown=1171 fixed=146"
- ],
+ "text_pages": 678,
+ "ocr_pages": 678,
+ "layer": "broken",
  "image_pages": 145,
  "table_pages": 113,
  "figure_ocr_pages": 0,
@@ -50,7 +49,5 @@
   407,
   408
  ],
- "text_pages": 678,
- "ocr_pages": 678,
- "layer": "broken"
+ "change": "unchanged"
 }

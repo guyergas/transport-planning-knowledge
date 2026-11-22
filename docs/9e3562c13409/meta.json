@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/detectors_identification_preferred_vehicles/he/FavoriteVehicleSensors.pdf",
- "checked": "2026-11-15T15:34:01Z",
+ "checked": "2026-11-22T08:08:14Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/detectors_identification_preferred_vehicles/he/FavoriteVehicleSensors.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 667206,
- "secs": 0.90483,
+ "secs": 1.504161,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 26,
  "sha256": "31b22e4c72f5eefd4fa554bae76e80476eb59b8ec35e00ca69ca3925b8eeae40",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9e3562c13409.pdf",
- "fix_log": [
-  "words=1607 unknown=44 fixed=3"
- ],
+ "text_pages": 31,
+ "ocr_pages": 4,
+ "layer": "mixed",
  "image_pages": 4,
  "table_pages": 5,
  "figure_ocr_pages": 1,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   7
  ],
- "text_pages": 31,
- "ocr_pages": 4,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/traffic-light-plans/he/traffic%20light%20plans.pdf",
- "checked": "2026-11-15T15:01:49Z",
+ "checked": "2026-11-22T08:08:01Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/traffic-light-plans/he/traffic%20light%20plans.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 290176,
- "secs": 1.500323,
+ "secs": 0.899873,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 6,
  "sha256": "9ab0b3a2fcc9261b901e066ef8423305734d26f743aeece6002032c99a9e0862",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/e5aeaea95fca.pdf",
+ "text_pages": 5,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 3,
  "table_pages": 0,
  "figure_ocr_pages": 3,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 5,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }
