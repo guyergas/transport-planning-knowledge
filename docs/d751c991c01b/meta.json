@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_school/he/TRAFFIC_PLANNING_TihnunTahanotSchool.pdf",
- "checked": "2026-11-15T14:56:43Z",
+ "checked": "2026-11-22T08:05:31Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/tihnun_tahanot_school/he/TRAFFIC_PLANNING_TihnunTahanotSchool.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 5275943,
- "secs": 8.307329,
+ "secs": 11.209172,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "c5fd6290cd2b637e24e0af8399976fcdcbde9a9c0f52f55fa3f29af8dc2c996e",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d751c991c01b.pdf",
- "fix_log": [
-  "words=3865 unknown=242 fixed=34"
- ],
+ "text_pages": 67,
+ "ocr_pages": 67,
+ "layer": "broken",
  "image_pages": 67,
  "table_pages": 6,
  "figure_ocr_pages": 0,
@@ -48,7 +48,5 @@
   45,
   46
  ],
- "text_pages": 67,
- "ocr_pages": 67,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/destination_names_for_directions_signage/he/MOTWebsiteUpdate%40mot.gov_.il_4561_Attachment1%20%282%29.pdf",
- "checked": "2026-11-15T16:02:25Z",
+ "checked": "2026-11-22T08:05:57Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/destination_names_for_directions_signage/he/MOTWebsiteUpdate%40mot.gov_.il_4561_Attachment1%20%282%29.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3243116,
- "secs": 23.420676,
+ "secs": 7.079549,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 11,
  "sha256": "3989203080bc8b521bd37ad1c7a8709a06300c3255d3cc79e3a3c4c595d0f6ab",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/81159e39f6c6.pdf",
- "fix_log": [
-  "words=4566 unknown=875 fixed=31"
- ],
+ "text_pages": 136,
+ "ocr_pages": 10,
+ "layer": "mixed",
  "image_pages": 13,
  "table_pages": 33,
  "figure_ocr_pages": 3,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   136
  ],
- "text_pages": 136,
- "ocr_pages": 10,
- "layer": "mixed"
+ "change": "unchanged"
 }

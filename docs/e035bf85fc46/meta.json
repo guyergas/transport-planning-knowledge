@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/Departments/General/public_transportation_development_ashkelon_sub-district",
- "checked": "2026-11-15T14:59:46Z",
+ "checked": "2026-11-22T08:11:05Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/public_transportation_development_ashkelon_sub-district",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5186,
- "secs": 0.041179,
+ "bytes": 5187,
+ "secs": 0.289286,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [

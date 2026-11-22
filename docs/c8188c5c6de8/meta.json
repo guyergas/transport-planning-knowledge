@@ -1,12 +1,12 @@
 {
  "url": "https://www.nevo.co.il/law_html/Law01/044_102.htm",
- "checked": "2026-11-15T14:54:11Z",
+ "checked": "2026-11-22T08:04:50Z",
  "status": 200,
  "final_url": "https://www.nevo.co.il/law_html/law00/74651.htm",
  "content_type": "text/html; charset=utf-8",
  "redirects": 1,
  "bytes": 66892,
- "secs": 1.366751,
+ "secs": 1.867443,
  "server": "microsoft-iis/8.5",
  "tries": [
   200

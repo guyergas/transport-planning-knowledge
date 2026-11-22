@@ -1,12 +1,12 @@
 {
  "url": "https://apps.land.gov.il/IturTabotData/tma/%D7%AA%D7%9E%D7%90%2023/%D7%AA%D7%9E%D7%90%2023%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%209.pdf",
- "checked": "2026-11-15T14:53:03Z",
+ "checked": "2026-11-22T08:04:53Z",
  "status": 200,
  "final_url": "https://apps.land.gov.il/IturTabotData/tma/%D7%AA%D7%9E%D7%90%2023/%D7%AA%D7%9E%D7%90%2023%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%209.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 319217,
- "secs": 1.996134,
+ "secs": 3.450625,
  "server": "",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "1472337c23d1ad5d842daa97ed080a9075a87db1fc3e3a52ac1f1952ee0da8d7",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/e573a6cb38e7.pdf",
- "fix_log": [
-  "words=1166 unknown=102 fixed=20"
- ],
+ "text_pages": 11,
+ "ocr_pages": 11,
+ "layer": "broken",
  "image_pages": 11,
  "table_pages": 1,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 11,
- "ocr_pages": 11,
- "layer": "broken"
+ "change": "unchanged"
 }

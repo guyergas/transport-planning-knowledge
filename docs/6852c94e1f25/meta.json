@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningChapterB.pdf",
- "checked": "2026-11-15T15:36:03Z",
+ "checked": "2026-11-22T08:05:40Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/separator_planning_guidelines/he/SeparatorPlanningChapterB.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1306304,
- "secs": 3.373968,
+ "secs": 2.074461,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 5,
  "sha256": "007fc32bc0f18bd06702323d5dbb3c0cf8e55b98d05d445be6b63da516a64078",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/6852c94e1f25.pdf",
+ "text_pages": 102,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 19,
  "table_pages": 13,
  "figure_ocr_pages": 19,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 102,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }
