@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/hibur-zmatim.pdf",
- "checked": "2026-11-15T15:07:58Z",
+ "checked": "2026-11-22T08:07:23Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/hibur-zmatim.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2454207,
- "secs": 5.854903,
+ "secs": 5.750269,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "2ff7e7972f04bcf705f7703debd779269e8bdc3dfe572adae6feb118fd6fde2a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/40552962ea36.pdf",
- "fix_log": [
-  "words=2484 unknown=384 fixed=15"
- ],
+ "text_pages": 57,
+ "ocr_pages": 57,
+ "layer": "broken",
  "image_pages": 57,
  "table_pages": 11,
  "figure_ocr_pages": 0,
@@ -47,7 +47,5 @@
   55,
   57
  ],
- "text_pages": 57,
- "ocr_pages": 57,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/Departments/legalInfo/building_and_planning_parking_regulations",
- "checked": "2026-11-15T15:05:28Z",
+ "checked": "2026-11-22T08:11:00Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/building_and_planning_parking_regulations",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5187,
- "secs": 0.15367,
+ "bytes": 5189,
+ "secs": 0.107075,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/MifratAmudimSalhanim.pdf",
- "checked": "2026-11-15T15:11:31Z",
+ "checked": "2026-11-22T08:07:00Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/MifratAmudimSalhanim.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 932047,
- "secs": 1.354622,
+ "secs": 1.967048,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "68e1d7ef210019c86a4850bb7a7d65f6594f62961c5a947369fd88ab0e25db4e",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/7cbc7890ff96.pdf",
- "fix_log": [
-  "words=1412 unknown=90 fixed=13"
- ],
+ "text_pages": 26,
+ "ocr_pages": 26,
+ "layer": "broken",
  "image_pages": 6,
  "table_pages": 6,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 6,
  "ocr_conf_mean": 89,
  "lowconf_pages": [],
- "text_pages": 26,
- "ocr_pages": 26,
- "layer": "broken"
+ "change": "unchanged"
 }

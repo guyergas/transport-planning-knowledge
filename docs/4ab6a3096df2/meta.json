@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/SilutBadrahim08_2009.pdf",
- "checked": "2026-11-15T16:04:05Z",
+ "checked": "2026-11-22T08:06:08Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/SilutBadrahim08_2009.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1697138,
- "secs": 6.626313,
+ "secs": 1.919602,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "4ab6a3096df2",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 98,
  "pdf_meta": {
   "Title": "(Microsoft Word - \\371\\351\\354\\345\\350 \\356\\372\\347\\354\\363 190809)",
@@ -26,13 +25,14 @@
  "fonts_uni_no": 3,
  "sha256": "7019d8bcb0f3776adf9755ad210f48d1d4261162586b5223db140f16e6f0330d",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/4ab6a3096df2.pdf",
+ "text_pages": 98,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 12,
  "table_pages": 9,
  "figure_ocr_pages": 12,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 98,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/tama_18_4/he/tama18_4_1.pdf",
- "checked": "2026-11-15T14:54:58Z",
+ "checked": "2026-11-22T08:05:17Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/tama_18_4/he/tama18_4_1.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 638690,
- "secs": 1.666213,
+ "secs": 1.34007,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 7,
  "sha256": "28ca12d6498c7268e0493f6c0256f6230bab25cfc6b0205b51a4ff170a8e5a72",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8007a56e37c0.pdf",
+ "text_pages": 11,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 0,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 11,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }
