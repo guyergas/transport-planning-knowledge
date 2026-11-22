@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/FlickeringMobileBoard.pdf",
- "checked": "2026-11-15T15:30:02Z",
+ "checked": "2026-11-22T08:06:46Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/FlickeringMobileBoard.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 938453,
- "secs": 1.631271,
+ "secs": 2.135002,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 14,
  "sha256": "00d07f26ac9d09272aa3988883834fc65bca828f38000e6150af545833cf413c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a7a730a5df4e.pdf",
- "fix_log": [
-  "words=1938 unknown=98 fixed=6"
- ],
+ "text_pages": 39,
+ "ocr_pages": 7,
+ "layer": "mixed",
  "image_pages": 14,
  "table_pages": 4,
  "figure_ocr_pages": 12,
  "table_ocr_pages": 3,
  "ocr_conf_mean": 91,
  "lowconf_pages": [],
- "text_pages": 39,
- "ocr_pages": 7,
- "layer": "mixed"
+ "change": "unchanged"
 }

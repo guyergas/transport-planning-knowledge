@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/09-04-24/he/%D7%AA%D7%99%D7%A7%D7%95%D7%9F%20%D7%AA%D7%A7%D7%A0%D7%95%D7%AA%2017%20%D7%95-18%20%D7%9C%D7%AA%D7%A7%D7%A0%D7%95%D7%AA%20%D7%94%D7%AA%D7%A2%D7%91%D7%95%D7%A8%D7%94%20-%20%D7%97%D7%95%D7%96%D7%A8%20%D7%9C%D7%A8%D7%A9%D7%95%D7%99%D7%95%D7%AA%20%D7%94%D7%AA%D7%9E%D7%A8%D7%95%D7%A8%20%D7%94%D7%9E%D7%A7%D7%95%D7%9E%D7%99%D7%95%D7%AA.pdf",
- "checked": "2026-11-15T15:28:30Z",
+ "checked": "2026-11-22T08:06:22Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/09-04-24/he/%D7%AA%D7%99%D7%A7%D7%95%D7%9F%20%D7%AA%D7%A7%D7%A0%D7%95%D7%AA%2017%20%D7%95-18%20%D7%9C%D7%AA%D7%A7%D7%A0%D7%95%D7%AA%20%D7%94%D7%AA%D7%A2%D7%91%D7%95%D7%A8%D7%94%20-%20%D7%97%D7%95%D7%96%D7%A8%20%D7%9C%D7%A8%D7%A9%D7%95%D7%99%D7%95%D7%AA%20%D7%94%D7%AA%D7%9E%D7%A8%D7%95%D7%A8%20%D7%94%D7%9E%D7%A7%D7%95%D7%9E%D7%99%D7%95%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 814781,
- "secs": 0.54963,
+ "secs": 2.441063,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 10,
  "sha256": "ef5c771158b5a4d94146b0b86d2699569f663d6d6caac73f10d269e7b434e0f1",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/fe202389a8c5.pdf",
+ "text_pages": 13,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 5,
  "table_pages": 0,
  "figure_ocr_pages": 5,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 13,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/202409_ktziney_tahbura/he/publications_202409_ktziney_tahbura.pdf",
- "checked": "2026-11-15T15:19:04Z",
+ "checked": "2026-11-22T08:07:29Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/202409_ktziney_tahbura/he/publications_202409_ktziney_tahbura.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 679310,
- "secs": 0.792761,
+ "secs": 3.543396,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "12b52ed16d91",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 20,
  "pdf_meta": {
   "Title": "",
@@ -26,16 +25,14 @@
  "fonts_uni_no": 6,
  "sha256": "7f588bf1aee36631489b3f68c22a6ed5fad2b9c6f1443d7af16c21488f533110",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/12b52ed16d91.pdf",
- "fix_log": [
-  "words=1939 unknown=51 fixed=4"
- ],
+ "text_pages": 20,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 20,
  "table_pages": 0,
  "figure_ocr_pages": 19,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 94,
  "lowconf_pages": [],
- "text_pages": 20,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

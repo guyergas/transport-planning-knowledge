@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/departments/policies/principles_preparing_transport_appendix_12_2017",
- "checked": "2026-11-15T15:00:25Z",
+ "checked": "2026-11-22T08:11:22Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/principles_preparing_transport_appendix_12_2017",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5187,
- "secs": 0.043685,
+ "bytes": 5186,
+ "secs": 0.180506,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -35,6 +35,7 @@
   }
  ],
  "all_links": 46,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/policy/principles_preparing_transport_appendix_12_2017/he/עקרונות_להכנת_נספח_תחבורה _26_12_17.pdf",

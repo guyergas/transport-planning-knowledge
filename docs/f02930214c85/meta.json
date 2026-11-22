@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16%20B-3.16B.pdf",
- "checked": "2026-11-18T13:24:56Z",
+ "checked": "2026-11-22T08:07:32Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_16%20B-3.16B.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 124265,
- "secs": 0.346157,
+ "secs": 0.46884,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "87c8dabf48e94e42d6aefba2ae0ef8d8f3eca4bf7a76606f4ed1ddbc288e00e6",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f02930214c85.pdf",
- "fix_log": [
-  "words=12 unknown=7 fixed=0"
- ],
+ "text_pages": 1,
+ "ocr_pages": 1,
+ "layer": "broken",
  "image_pages": 0,
  "table_pages": 0,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 1,
- "ocr_pages": 1,
- "layer": "broken"
+ "change": "unchanged"
 }
