@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/departments/general/cycling-infrastructure",
- "checked": "2026-11-15T15:07:36Z",
+ "checked": "2026-11-22T08:14:09Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/cycling-infrastructure",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5187,
- "secs": 0.042178,
+ "bytes": 5186,
+ "secs": 0.045899,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -51,6 +51,7 @@
   }
  ],
  "all_links": 48,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/he/CyclingInfrastructure.zip",

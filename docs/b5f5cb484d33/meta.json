@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/legalinfo/israeli_accessibility_standards/he/sitedocs_tekenyisraeli5990helek2.pdf",
- "checked": "2026-11-15T15:07:57Z",
+ "checked": "2026-11-22T08:10:08Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/legalinfo/israeli_accessibility_standards/he/sitedocs_tekenyisraeli5990helek2.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1358076,
- "secs": 1.83014,
+ "secs": 2.660194,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 31,
  "sha256": "9a4e828c5be7a7907c9a690183e4e5f04553ba60a1a82d6b8c059dd171d476d8",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b5f5cb484d33.pdf",
- "fix_log": [
-  "words=891 unknown=74 fixed=2"
- ],
+ "text_pages": 14,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 11,
  "table_pages": 0,
  "figure_ocr_pages": 9,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   4
  ],
- "text_pages": 14,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

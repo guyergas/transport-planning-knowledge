@@ -1,12 +1,12 @@
 {
  "url": "https://apps.land.gov.il/IturTabotData/takanonim/merkaz/4023785.pdf",
- "checked": "2026-11-15T14:52:16Z",
+ "checked": "2026-11-22T08:04:53Z",
  "status": 200,
  "final_url": "https://apps.land.gov.il/IturTabotData/takanonim/merkaz/4023785.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 172564,
- "secs": 2.397598,
+ "secs": 1.225061,
  "server": "",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "19427b8425ee",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 19,
  "pdf_meta": {
   "Title": "Subject:",
@@ -26,13 +25,14 @@
  "fonts_uni_no": 4,
  "sha256": "f31e641cdb0fc8741b593d43574db8c7b81d75c43cc3f887909232bdd118fb25",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/19427b8425ee.pdf",
+ "text_pages": 19,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 1,
  "table_pages": 6,
  "figure_ocr_pages": 1,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 19,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

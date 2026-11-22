@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/departments/publications/reports/strategic_plan_december_2012",
- "checked": "2026-11-15T15:08:43Z",
+ "checked": "2026-11-22T08:13:48Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/strategic_plan_december_2012",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5186,
- "secs": 0.03881,
+ "secs": 0.044995,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [

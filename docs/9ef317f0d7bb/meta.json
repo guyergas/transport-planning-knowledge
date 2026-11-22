@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_operational_geometric_planning_integrated_transportation_centers/he/CombinedTrafficCentersPlanning.pdf",
- "checked": "2026-11-15T15:04:30Z",
+ "checked": "2026-11-22T08:06:07Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_operational_geometric_planning_integrated_transportation_centers/he/CombinedTrafficCentersPlanning.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 4130737,
- "secs": 7.814373,
+ "secs": 7.851661,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "9ef317f0d7bb",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 409,
  "pdf_meta": {
   "Title": "Untitled-2",
@@ -25,9 +24,9 @@
  },
  "fonts_uni_no": 220,
  "sha256": "e3f2ecb8bc240a9d85cb033929b142aa5ebb538c849aa90828f912c2558f4f8e",
- "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/57c3baf7c723.pdf",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9ef317f0d7bb.pdf",
  "fix_log": [
-  "words=10518 unknown=517 fixed=19"
+  "words=10519 unknown=518 fixed=19"
  ],
  "image_pages": 47,
  "table_pages": 48,
@@ -58,5 +57,5 @@
  "text_pages": 409,
  "ocr_pages": 48,
  "layer": "mixed",
- "duplicate_of": "57c3baf7c723"
+ "change": "reprocessed"
 }

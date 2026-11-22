@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/trends_2022/ar/publications_trends_2022.pdf",
- "checked": "2026-11-15T15:05:45Z",
+ "checked": "2026-11-22T08:10:20Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/trends_2022/ar/publications_trends_2022.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2526805,
- "secs": 6.906993,
+ "secs": 3.172099,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 39,
  "sha256": "81e1180b5dc7def392cdd0eaf5c647294baf5fc8fb32d23b3b33b50e51171297",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/dbe952e263b9.pdf",
- "fix_log": [
-  "words=3086 unknown=208 fixed=7"
- ],
+ "text_pages": 110,
+ "ocr_pages": 16,
+ "layer": "mixed",
  "image_pages": 12,
  "table_pages": 49,
  "figure_ocr_pages": 12,
@@ -43,7 +43,5 @@
   106,
   107
  ],
- "text_pages": 110,
- "ocr_pages": 16,
- "layer": "mixed"
+ "change": "unchanged"
 }

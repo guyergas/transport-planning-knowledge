@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/procedure_priority_axis/he/Procedure%20for%20promoting%20a%20program%20for%20a%20priority%20axis%20in%20the%20urban%20area%20-%20final.pdf",
- "checked": "2026-11-15T15:05:35Z",
+ "checked": "2026-11-22T08:10:12Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/procedure_priority_axis/he/Procedure%20for%20promoting%20a%20program%20for%20a%20priority%20axis%20in%20the%20urban%20area%20-%20final.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 404790,
- "secs": 3.058726,
+ "secs": 0.775035,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "39ee6aaedff74e60987af862b172f045c2393c42b35a03e295944cc6727ca3c0",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/623065e6d5bd.pdf",
+ "text_pages": 16,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 0,
  "table_pages": 1,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 16,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

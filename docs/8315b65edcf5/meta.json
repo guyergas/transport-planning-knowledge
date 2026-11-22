@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_lights_electricity_communication.pdf",
- "checked": "2026-11-18T13:24:08Z",
+ "checked": "2026-11-22T08:10:27Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_lights_electricity_communication.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2218646,
- "secs": 3.925038,
+ "secs": 4.002293,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 7,
  "sha256": "07ee33e7a74e0cb5c1d4382b7b9e72d9330eef3b2df55fbfb2caf5875a7b7ba5",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8315b65edcf5.pdf",
- "fix_log": [
-  "words=1565 unknown=92 fixed=1"
- ],
+ "text_pages": 25,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 25,
  "table_pages": 2,
  "figure_ocr_pages": 24,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   24
  ],
- "text_pages": 25,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

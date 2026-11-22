@@ -1,12 +1,12 @@
 {
  "url": "https://next.obudget.org/i/gov_decisions/43809754-b78c-4340-9101-5d2a4d80b69b",
- "checked": "2026-11-15T14:57:29Z",
+ "checked": "2026-11-22T08:04:54Z",
  "status": 200,
  "final_url": "https://next.obudget.org/i/gov_decisions/43809754-b78c-4340-9101-5d2a4d80b69b",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
- "bytes": 39260,
- "secs": 0.662354,
+ "bytes": 77865,
+ "secs": 0.524335,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,9 +14,9 @@
  "id": "f1f79070e281",
  "kind": "html",
  "result": "ok",
- "title": "מפתח התקציב",
+ "title": "מפתח התקציב - פרסומי הממשלה - הכרה במומחיות בתחום הנדסת תנועה ותחבורה",
  "file_links": [],
- "all_links": 20,
+ "all_links": 23,
  "new_file_links": [],
  "unknown_file_links": []
 }
