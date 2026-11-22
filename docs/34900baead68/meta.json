@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%91%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%AA%D7%A0%D7%95%D7%A2%D7%94---%D7%9E%D7%99%D7%AA%D7%95%D7%9F-%D7%AA%D7%A0%D7%95%D7%A2%D7%94-%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94-3--%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-2024",
- "checked": "2026-11-15T15:23:25Z",
+ "checked": "2026-11-22T08:05:39Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%91%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%AA%D7%A0%D7%95%D7%A2%D7%94---%D7%9E%D7%99%D7%AA%D7%95%D7%9F-%D7%AA%D7%A0%D7%95%D7%A2%D7%94-%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94-3--%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-2024",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 45559,
- "secs": 1.023611,
+ "secs": 0.819743,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -17,5 +17,6 @@
  "title": "אשד - המינהלת לתכנון תחבורתי",
  "file_links": [],
  "all_links": 44,
+ "new_file_links": [],
  "unknown_file_links": []
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/principles_integrating_light_rail_urban_traffic_arrangements/he/TRAFFIC_PLANNING_%D7%A8%D7%9B%D7%91%D7%AA_%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%AA.pdf",
- "checked": "2026-11-15T16:10:21Z",
+ "checked": "2026-11-22T08:07:02Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/principles_integrating_light_rail_urban_traffic_arrangements/he/TRAFFIC_PLANNING_%D7%A8%D7%9B%D7%91%D7%AA_%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 11347041,
- "secs": 11.533061,
+ "secs": 9.34775,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 16,
  "sha256": "b42ec1b1dbad3f9ef6b28c4e5daec6977aaa491569a4ec3dd7d2ec37659d947a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/db315c9225d9.pdf",
- "fix_log": [
-  "words=4980 unknown=256 fixed=12"
- ],
+ "text_pages": 130,
+ "ocr_pages": 21,
+ "layer": "mixed",
  "image_pages": 52,
  "table_pages": 11,
  "figure_ocr_pages": 49,
  "table_ocr_pages": 2,
  "ocr_conf_mean": 90,
  "lowconf_pages": [],
- "text_pages": 130,
- "ocr_pages": 21,
- "layer": "mixed"
+ "change": "unchanged"
 }

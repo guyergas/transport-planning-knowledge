@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/ar/MOT_BPH_FORMAT_KAYAN_1.52-1.pdf",
- "checked": "2026-11-15T15:09:35Z",
+ "checked": "2026-11-22T08:05:28Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/cycling-infrastructure/ar/MOT_BPH_FORMAT_KAYAN_1.52-1.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2154002,
- "secs": 5.948299,
+ "secs": 9.140152,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "1ff421580dd4ef6f12a6647388f005baa2a91547406484a98e2171deb65ac97f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d4ce208b83a3.pdf",
- "fix_log": [
-  "words=1297 unknown=84 fixed=7"
- ],
+ "text_pages": 35,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 35,
  "table_pages": 1,
  "figure_ocr_pages": 34,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 89,
  "lowconf_pages": [],
- "text_pages": 35,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

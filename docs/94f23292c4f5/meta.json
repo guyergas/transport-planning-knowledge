@@ -1,12 +1,12 @@
 {
  "url": "https://data.gov.il/he/datasets/ministry_of_transport/speed_survey_2022",
- "checked": "2026-11-15T15:06:37Z",
+ "checked": "2026-11-22T08:05:43Z",
  "status": 200,
  "final_url": "https://data.gov.il/he/datasets/ministry_of_transport/speed_survey_2022",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
- "bytes": 23215,
- "secs": 0.852254,
+ "bytes": 23214,
+ "secs": 0.179719,
  "server": "",
  "tries": [
   200
@@ -17,5 +17,6 @@
  "title": "",
  "file_links": [],
  "all_links": 9,
+ "new_file_links": [],
  "unknown_file_links": []
 }

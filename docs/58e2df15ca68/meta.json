@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_for_public_transport_planning/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
- "checked": "2026-11-15T16:07:37Z",
+ "checked": "2026-11-22T08:06:53Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_for_public_transport_planning/he/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 12386850,
- "secs": 17.286382,
+ "secs": 12.431118,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "4da1368ee898d129d3ebd3ec91216e8711151df9ab13394c3f164ae8e1887e29",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/58e2df15ca68.pdf",
- "fix_log": [
-  "words=7068 unknown=243 fixed=6"
- ],
+ "text_pages": 211,
+ "ocr_pages": 16,
+ "layer": "mixed",
  "image_pages": 47,
  "table_pages": 12,
  "figure_ocr_pages": 39,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 211,
- "ocr_pages": 16,
- "layer": "mixed"
+ "change": "unchanged"
 }

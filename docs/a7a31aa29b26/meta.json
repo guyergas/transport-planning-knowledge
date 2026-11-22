@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/detectors_specifications.pdf",
- "checked": "2026-11-15T15:01:56Z",
+ "checked": "2026-11-22T08:07:15Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/detectors_specifications.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 533763,
- "secs": 1.560097,
+ "secs": 0.627737,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 6,
  "sha256": "9f125fe4636aa580a1a508d5367b7e44777a940523eeb04a9eccc7a8f04a6a1d",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a7a31aa29b26.pdf",
- "fix_log": [
-  "words=836 unknown=52 fixed=1"
- ],
+ "text_pages": 15,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 2,
  "table_pages": 0,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   14
  ],
- "text_pages": 15,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

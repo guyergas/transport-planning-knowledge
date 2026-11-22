@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_environmental_aspects.pdf",
- "checked": "2026-11-18T13:24:22Z",
+ "checked": "2026-11-22T08:07:27Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_environmental_aspects.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1575269,
- "secs": 2.784407,
+ "secs": 1.349184,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 7,
  "sha256": "880877921d0d0d546e6ea2326e64edacbfae4d341663b4cbc07324d4aa43da98",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ef584f4d831c.pdf",
+ "text_pages": 22,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 22,
  "table_pages": 1,
  "figure_ocr_pages": 22,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 22,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }
