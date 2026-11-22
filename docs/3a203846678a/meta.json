@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/eometric-design-guidelines/he/%D7%A4%D7%A8%D7%A7%2014%20-%20%D7%9E%D7%A2%D7%91%D7%A8%D7%99%D7%9D%20%D7%90%D7%A7%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20-%20%D7%A1%D7%95%D7%A4%D7%99%20-%20%D7%9E%D7%A2%D7%95%D7%93%D7%9B%D7%9F%20%D7%9C%D7%AA%D7%90%D7%A8%D7%99%D7%9A%20%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98%2025.pdf",
- "checked": "2026-11-15T14:56:14Z",
+ "checked": "2026-11-22T08:05:54Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/eometric-design-guidelines/he/%D7%A4%D7%A8%D7%A7%2014%20-%20%D7%9E%D7%A2%D7%91%D7%A8%D7%99%D7%9D%20%D7%90%D7%A7%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20-%20%D7%A1%D7%95%D7%A4%D7%99%20-%20%D7%9E%D7%A2%D7%95%D7%93%D7%9B%D7%9F%20%D7%9C%D7%AA%D7%90%D7%A8%D7%99%D7%9A%20%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98%2025.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3023358,
- "secs": 6.589252,
+ "secs": 4.849212,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "f5488b1f8461671c5295340ee2644d27a6b1cfe655e2b88957bf9a669c5b1d9c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3a203846678a.pdf",
- "fix_log": [
-  "words=3576 unknown=208 fixed=10"
- ],
+ "text_pages": 67,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 31,
  "table_pages": 3,
  "figure_ocr_pages": 30,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 90,
  "lowconf_pages": [],
- "text_pages": 67,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

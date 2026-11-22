@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/pages/tama_iframe",
- "checked": "2026-11-15T16:06:44Z",
+ "checked": "2026-11-22T08:11:20Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/tama_iframe",
  "content_type": "text/html",
  "redirects": 0,
  "bytes": 5186,
- "secs": 0.056988,
+ "secs": 0.037521,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -163,6 +163,7 @@
   }
  ],
  "all_links": 82,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_01.zip",
@@ -300,7 +301,5 @@
    "url": "https://www.gov.il/files/iplan/meda_tichnon/תכניות%20מתאר%20ארציות/tama_47.zip",
    "text": "קישור"
   }
- ],
- "duplicate_of": "120eca5a0e0e",
- "asset": null
+ ]
 }

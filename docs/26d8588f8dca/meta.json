@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/7-9-2023/he/%D7%91%D7%94%D7%AA%204.1.24.pdf",
- "checked": "2026-11-15T14:52:03Z",
+ "checked": "2026-11-22T08:05:16Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/7-9-2023/he/%D7%91%D7%94%D7%AA%204.1.24.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 4116640,
- "secs": 8.11411,
+ "secs": 7.54023,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "26d8588f8dca",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 61,
  "pdf_meta": {
   "Title": "כלים לייעול ניידות במרחבים עירוניים: תוספת למערך בה\"ת",
@@ -26,16 +25,14 @@
  "fonts_uni_no": 12,
  "sha256": "ea59f2f3e3df0733f5a92f4c87deb2f65b4b78ddac3d0f3d9a3f469860d40dec",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/26d8588f8dca.pdf",
- "fix_log": [
-  "words=4094 unknown=254 fixed=13"
- ],
+ "text_pages": 61,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 30,
  "table_pages": 3,
  "figure_ocr_pages": 28,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 88,
  "lowconf_pages": [],
- "text_pages": 61,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

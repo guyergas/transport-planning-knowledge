@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/Departments/Guides/design_traffic_devices?chapterIndex=1",
- "checked": "2026-11-15T15:12:24Z",
+ "checked": "2026-11-22T08:14:44Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/design_traffic_devices?chapterindex=1",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5186,
- "secs": 0.044777,
+ "secs": 0.029187,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -47,6 +47,7 @@
   }
  ],
  "all_links": 51,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/חוברת התקנים אוקטובר 2026.pdf",

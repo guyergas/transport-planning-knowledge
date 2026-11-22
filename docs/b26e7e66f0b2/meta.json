@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/2023_template/he/publications_2023_template.pdf",
- "checked": "2026-11-15T15:20:30Z",
+ "checked": "2026-11-22T08:08:16Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/2023_template/he/publications_2023_template.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 682250,
- "secs": 0.91159,
+ "secs": 1.033427,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 16,
  "sha256": "6669b72308baaa97d4fc34d7521062fb5849869995295aaeeb0b672b5a0d898b",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b26e7e66f0b2.pdf",
- "fix_log": [
-  "words=1354 unknown=72 fixed=5"
- ],
+ "text_pages": 15,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 15,
  "table_pages": 0,
  "figure_ocr_pages": 14,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 87,
  "lowconf_pages": [],
- "text_pages": 15,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

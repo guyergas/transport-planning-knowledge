@@ -1,12 +1,12 @@
 {
  "url": "https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry-tzmatim.pdf",
- "checked": "2026-11-15T14:56:53Z",
+ "checked": "2026-11-22T08:05:18Z",
  "status": 200,
  "final_url": "https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry-tzmatim.pdf",
  "content_type": "",
  "redirects": 0,
  "bytes": 62276841,
- "secs": 3.674794,
+ "secs": 2.035357,
  "server": "",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "b733b73e26b956c7da602a1c0f42a13acfe7514dbe70eab3e1dc9216439c685e",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-ams3-digitaloceanspaces-com/30e040d1ac60.pdf",
- "fix_log": [
-  "words=9167 unknown=1147 fixed=205"
- ],
+ "text_pages": 356,
+ "ocr_pages": 356,
+ "layer": "broken",
  "image_pages": 356,
  "table_pages": 52,
  "figure_ocr_pages": 0,
@@ -86,7 +86,5 @@
   315,
   321
  ],
- "text_pages": 356,
- "ocr_pages": 356,
- "layer": "broken"
+ "change": "unchanged"
 }

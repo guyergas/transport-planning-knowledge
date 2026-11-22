@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/rechev_menoy_2020.pdf",
- "checked": "2026-11-15T14:54:37Z",
+ "checked": "2026-11-22T08:05:37Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/rechev_menoy_2020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 12189328,
- "secs": 17.075183,
+ "secs": 14.618952,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "3ae174b5c4dff28dc5f89eb2cfff92b38b85440635bc52baa926dca602f79d87",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/937e21153c93.pdf",
- "fix_log": [
-  "words=4736 unknown=228 fixed=8"
- ],
+ "text_pages": 125,
+ "ocr_pages": 9,
+ "layer": "mixed",
  "image_pages": 54,
  "table_pages": 5,
  "figure_ocr_pages": 51,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   125
  ],
- "text_pages": 125,
- "ocr_pages": 9,
- "layer": "mixed"
+ "change": "unchanged"
 }

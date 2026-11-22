@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/Departments/policies/guidelines_planning_traffic_recessions",
- "checked": "2026-11-15T16:12:08Z",
+ "checked": "2026-11-22T08:11:44Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/guidelines_planning_traffic_recessions",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5186,
- "secs": 0.223582,
+ "secs": 0.032256,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -83,5 +83,6 @@
   }
  ],
  "all_links": 59,
+ "new_file_links": [],
  "unknown_file_links": []
 }

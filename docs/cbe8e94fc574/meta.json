@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/%D7%A0%D7%95%D7%94%D7%9C%20%D7%90%D7%99%D7%A9%D7%95%D7%A8%20%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D-%20%D7%A0%D7%A1%D7%A4%D7%97%201-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%204-%20%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA-%20%D7%9C%D7%94%D7%A4%D7%A6%D7%94.pdf",
- "checked": "2026-11-15T15:33:09Z",
+ "checked": "2026-11-22T08:07:47Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_using_software_plan_traffic_lights/he/%D7%A0%D7%95%D7%94%D7%9C%20%D7%90%D7%99%D7%A9%D7%95%D7%A8%20%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A8%D7%9E%D7%96%D7%95%D7%A8%D7%99%D7%9D-%20%D7%A0%D7%A1%D7%A4%D7%97%201-%20%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%204-%20%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA-%20%D7%9C%D7%94%D7%A4%D7%A6%D7%94.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1138275,
- "secs": 2.311821,
+ "secs": 2.301995,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 15,
  "sha256": "32ddc81c2fc8d1d5ee92ed81fda0b12f7ad493d8ea13ff1a31375596e546cf5f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/cbe8e94fc574.pdf",
- "fix_log": [
-  "words=32 unknown=14 fixed=0"
- ],
+ "text_pages": 50,
+ "ocr_pages": 50,
+ "layer": "broken",
  "image_pages": 1,
  "table_pages": 5,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 5,
  "ocr_conf_mean": 93,
  "lowconf_pages": [],
- "text_pages": 50,
- "ocr_pages": 50,
- "layer": "broken"
+ "change": "unchanged"
 }
