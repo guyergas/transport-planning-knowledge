@@ -1,12 +1,12 @@
 {
  "url": "https://www.tabainfo.co.il/meeting/5000039129",
- "checked": "2026-11-15T14:51:53Z",
+ "checked": "2026-11-22T08:05:18Z",
  "status": 200,
  "final_url": "https://www.tabainfo.co.il/meeting/5000039129",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 15341,
- "secs": 0.458775,
+ "secs": 0.517695,
  "server": "cloudflare",
  "tries": [
   200

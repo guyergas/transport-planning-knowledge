@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/design_high_demand_crossings/he/TihnunMavarHazaya.pdf",
- "checked": "2026-11-15T14:54:50Z",
+ "checked": "2026-11-22T08:05:42Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/design_high_demand_crossings/he/TihnunMavarHazaya.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2518242,
- "secs": 4.983302,
+ "secs": 5.363635,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 10,
  "sha256": "00198bb30d96de9f2818803b668492138e9209b167e7b914dab52a7d30963e24",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0ee9af2c957f.pdf",
- "fix_log": [
-  "words=2156 unknown=185 fixed=11"
- ],
+ "text_pages": 58,
+ "ocr_pages": 5,
+ "layer": "mixed",
  "image_pages": 10,
  "table_pages": 4,
  "figure_ocr_pages": 9,
@@ -37,7 +37,5 @@
   4,
   58
  ],
- "text_pages": 58,
- "ocr_pages": 5,
- "layer": "mixed"
+ "change": "unchanged"
 }

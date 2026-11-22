@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/migun-ofnoim.pdf",
- "checked": "2026-11-15T15:01:10Z",
+ "checked": "2026-11-22T08:07:19Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/migun-ofnoim.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2020629,
- "secs": 8.155396,
+ "secs": 2.794036,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "abb1ca7767354b7382dbbd382aef19a0384e4b8000bf3f1eb0997da3c6c6431c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/64b9515382df.pdf",
- "fix_log": [
-  "words=2234 unknown=94 fixed=7"
- ],
+ "text_pages": 42,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 19,
  "table_pages": 4,
  "figure_ocr_pages": 18,
  "table_ocr_pages": 1,
  "ocr_conf_mean": 91,
  "lowconf_pages": [],
- "text_pages": 42,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

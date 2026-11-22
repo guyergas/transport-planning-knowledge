@@ -1,12 +1,12 @@
 {
  "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9609905.pdf",
- "checked": "2026-11-15T14:52:26Z",
+ "checked": "2026-11-22T08:05:20Z",
  "status": 200,
  "final_url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9609905.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 133236,
- "secs": 2.60336,
+ "secs": 2.077354,
  "server": "",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "71906e8f769588bdbdf10b5ba0b308e523f088cf3fa3c221dd1ac9386130f640",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/ea3620911a55.pdf",
- "fix_log": [
-  "words=321 unknown=53 fixed=11"
- ],
+ "text_pages": 6,
+ "ocr_pages": 6,
+ "layer": "broken",
  "image_pages": 6,
  "table_pages": 3,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 6,
- "ocr_pages": 6,
- "layer": "broken"
+ "change": "unchanged"
 }

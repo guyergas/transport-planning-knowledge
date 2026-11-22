@@ -1,14 +1,28 @@
 {
  "url": "https://www.gov.il/he/pages/planning_speed_bumps",
- "checked": "2026-11-15T17:45:12Z",
+ "checked": "2026-11-22T08:12:11Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/planning_speed_bumps",
  "content_type": "text/html",
  "redirects": 0,
- "via": "browser (render)",
+ "bytes": 5186,
+ "secs": 0.077171,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
  "id": "71f89c67014b",
  "kind": "html",
  "result": "ok",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
  "title": "הנחיות לתכנון וביצוע פסי האטה משרד התחבורה והבטיחות בדרכים",
  "file_links": [
   {
@@ -53,12 +67,11 @@
   }
  ],
  "all_links": 54,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/MAREI.pdf",
    "text": "מראי מקום"
   }
- ],
- "duplicate_of": "6513261ca101",
- "asset": null
+ ]
 }
