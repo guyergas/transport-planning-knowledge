@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_train_stations/he/tahanot-rachevet.pdf",
- "checked": "2026-11-15T15:04:51Z",
+ "checked": "2026-11-22T08:06:29Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_integrating_train_stations/he/tahanot-rachevet.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 906605,
- "secs": 1.843507,
+ "secs": 6.398068,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "2e476a2957eeac98ae32d6dd7ba09d87f95640453001affdf89b9f05816fec90",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/61ecbb38b69f.pdf",
- "fix_log": [
-  "words=1663 unknown=209 fixed=41"
- ],
+ "text_pages": 32,
+ "ocr_pages": 32,
+ "layer": "broken",
  "image_pages": 32,
  "table_pages": 6,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   2
  ],
- "text_pages": 32,
- "ocr_pages": 32,
- "layer": "broken"
+ "change": "unchanged"
 }

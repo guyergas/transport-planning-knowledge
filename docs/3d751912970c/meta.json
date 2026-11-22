@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_10-1%29_-_%D7%A9%D7%99%D7%9C%D7%95%D7%91_%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
- "checked": "2026-11-15T15:03:26Z",
+ "checked": "2026-11-22T08:05:49Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/planning_infrastructure_storage_depot/he/planning_development_geometry_guidelines_%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA_%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%92%D7%99%D7%90%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%94_%28%D7%9B%D7%A8%D7%9A_10-1%29_-_%D7%A9%D7%99%D7%9C%D7%95%D7%91_%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1632806,
- "secs": 5.52615,
+ "secs": 2.873917,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 6,
  "sha256": "d77d761f8bfa6771ea46bd655f9ad163d823445c16a8547c2b48ea5751292dc9",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3d751912970c.pdf",
+ "text_pages": 24,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 24,
  "table_pages": 1,
  "figure_ocr_pages": 24,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 24,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

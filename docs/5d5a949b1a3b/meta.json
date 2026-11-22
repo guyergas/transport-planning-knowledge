@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/roads_closure/he/roads.pdf",
- "checked": "2026-11-15T15:01:16Z",
+ "checked": "2026-11-22T08:06:12Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/roads_closure/he/roads.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 817669,
- "secs": 2.749555,
+ "secs": 1.884655,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 5,
  "sha256": "d046f05244ed9c6109676e9eb67ca2b9b2e362c9dbbf61496c809b775bb35657",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/5d5a949b1a3b.pdf",
- "fix_log": [
-  "words=1088 unknown=259 fixed=11"
- ],
+ "text_pages": 17,
+ "ocr_pages": 12,
+ "layer": "mixed",
  "image_pages": 13,
  "table_pages": 1,
  "figure_ocr_pages": 1,
@@ -40,7 +40,5 @@
   10,
   17
  ],
- "text_pages": 17,
- "ocr_pages": 12,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/electric_bus_program/he/%D7%94%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%20%D7%9C%D7%97%D7%99%D7%A9%D7%9E%D7%95%D7%9C%20%D7%94%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
- "checked": "2026-11-15T15:43:46Z",
+ "checked": "2026-11-22T08:07:37Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/electric_bus_program/he/%D7%94%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%20%D7%9C%D7%97%D7%99%D7%A9%D7%9E%D7%95%D7%9C%20%D7%94%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94%20%D7%94%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2886155,
- "secs": 6.543655,
+ "secs": 7.160495,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 12,
  "sha256": "4bd268745064ce53c7356cc5bebd7d17734f251e6a81c2c801a892221b981e5e",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/c0bc86b4874e.pdf",
- "fix_log": [
-  "words=4276 unknown=234 fixed=19"
- ],
+ "text_pages": 57,
+ "ocr_pages": 3,
+ "layer": "mixed",
  "image_pages": 31,
  "table_pages": 3,
  "figure_ocr_pages": 28,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   49
  ],
- "text_pages": 57,
- "ocr_pages": 3,
- "layer": "mixed"
+ "change": "unchanged"
 }

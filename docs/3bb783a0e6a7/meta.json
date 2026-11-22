@@ -1,12 +1,12 @@
 {
  "url": "https://next.obudget.org/i/gov_decisions/7b259e00-67af-4820-99a4-d5d6705c5aed",
- "checked": "2026-11-15T14:57:28Z",
+ "checked": "2026-11-22T08:05:14Z",
  "status": 200,
  "final_url": "https://next.obudget.org/i/gov_decisions/7b259e00-67af-4820-99a4-d5d6705c5aed",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
- "bytes": 39260,
- "secs": 0.67663,
+ "bytes": 80967,
+ "secs": 0.872884,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,9 +14,9 @@
  "id": "3bb783a0e6a7",
  "kind": "html",
  "result": "ok",
- "title": "מפתח התקציב",
+ "title": "מפתח התקציב - פרסומי הממשלה - הקמה ועדכון הסמכות של רשות תימרור מקומית שלבים, תהליכים ומסמכים להגשה",
  "file_links": [],
- "all_links": 20,
+ "all_links": 23,
  "new_file_links": [],
  "unknown_file_links": []
 }

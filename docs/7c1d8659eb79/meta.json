@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_integration_of_infrastructure_in_tunnels.pdf",
- "checked": "2026-11-18T13:25:16Z",
+ "checked": "2026-11-22T08:07:48Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_integration_of_infrastructure_in_tunnels.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3051096,
- "secs": 3.508901,
+ "secs": 5.199864,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 5,
  "sha256": "4c81eed45ecc7f236c9d316fc19ef7be307130ece73ff47c4290fac28d9d85b3",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/7c1d8659eb79.pdf",
+ "text_pages": 21,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 21,
  "table_pages": 0,
  "figure_ocr_pages": 21,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 21,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

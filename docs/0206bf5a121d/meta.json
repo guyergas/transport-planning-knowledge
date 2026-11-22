@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/strategic_plan_december_2012/he/development_of_public_transport-strategic_plan_december_2012.pdf",
- "checked": "2026-11-15T14:51:55Z",
+ "checked": "2026-11-22T08:05:10Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/strategic_plan_december_2012/he/development_of_public_transport-strategic_plan_december_2012.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 10372142,
- "secs": 14.769802,
+ "secs": 17.7395,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 9,
  "sha256": "f54422042c37146e74e6253c5748ee82497b69d956340b8e9ac8a1b068281061",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0206bf5a121d.pdf",
- "fix_log": [
-  "words=5218 unknown=382 fixed=88"
- ],
+ "text_pages": 64,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 31,
  "table_pages": 15,
  "figure_ocr_pages": 30,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 92,
  "lowconf_pages": [],
- "text_pages": 64,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://apps.land.gov.il/IturTabotData/download/Artzi/9606701.zip",
- "checked": "2026-11-15T14:52:52Z",
+ "checked": "2026-11-22T08:05:13Z",
  "status": 200,
  "final_url": "https://apps.land.gov.il/IturTabotData/download/Artzi/9606701.zip",
  "content_type": "application/x-zip-compressed",
  "redirects": 0,
  "bytes": 223018,
- "secs": 1.864477,
+ "secs": 2.06698,
  "server": "",
  "tries": [
   200
