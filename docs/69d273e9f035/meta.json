@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/total_area/he/rz_installation_parking_spaces.pdf",
- "checked": "2026-11-15T14:52:13Z",
+ "checked": "2026-11-22T08:05:43Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/total_area/he/rz_installation_parking_spaces.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2172289,
- "secs": 4.228501,
+ "secs": 4.050153,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "a2ce7eb79a1534ed000cec958f9d7d2ca31db2342f50c05ee57facb7b1872ed9",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/69d273e9f035.pdf",
- "fix_log": [
-  "words=378 unknown=93 fixed=18"
- ],
+ "text_pages": 10,
+ "ocr_pages": 10,
+ "layer": "broken",
  "image_pages": 10,
  "table_pages": 9,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   7
  ],
- "text_pages": 10,
- "ocr_pages": 10,
- "layer": "broken"
+ "change": "unchanged"
 }

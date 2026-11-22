@@ -1,12 +1,12 @@
 {
  "url": "https://www.engineering.org.il/download/files/MOT_CAD_Manual_2021-08-19.pdf",
- "checked": "2026-11-15T14:56:12Z",
+ "checked": "2026-11-22T08:17:21Z",
  "status": 200,
  "final_url": "https://www.engineering.org.il/download/files/MOT_CAD_Manual_2021-08-19.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 9307021,
- "secs": 0.238731,
+ "secs": 20.654609,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "f35cd7cf450cd26ab8bf0b4479fb4b424f16d795b0ff37ef16e226e21f3514be",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-engineering-org-il/d44a9971848b.pdf",
- "fix_log": [
-  "words=2492 unknown=192 fixed=5"
- ],
+ "text_pages": 64,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 18,
  "table_pages": 6,
  "figure_ocr_pages": 18,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 85,
  "lowconf_pages": [],
- "text_pages": 64,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

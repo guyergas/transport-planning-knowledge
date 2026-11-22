@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2020_TRAFFIC_PLANNING_guideslines_092020.pdf",
- "checked": "2026-11-15T15:20:10Z",
+ "checked": "2026-11-22T08:18:19Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2020_TRAFFIC_PLANNING_guideslines_092020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3516448,
- "secs": 6.431724,
+ "secs": 5.838937,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 11,
  "sha256": "c48c27ad097df91a84fb6d164a3613c90dfa65e634192b15fc0e2fa933a19aa0",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/6a315a1a1ddd.pdf",
- "fix_log": [
-  "words=4255 unknown=200 fixed=23"
- ],
+ "text_pages": 94,
+ "ocr_pages": 5,
+ "layer": "mixed",
  "image_pages": 38,
  "table_pages": 6,
  "figure_ocr_pages": 37,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 93,
  "lowconf_pages": [],
- "text_pages": 94,
- "ocr_pages": 5,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_7.pdf",
- "checked": "2026-11-15T15:48:28Z",
+ "checked": "2026-11-22T08:17:00Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_traffic_recessions/he/MT7_7.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2065799,
- "secs": 5.317029,
+ "secs": 3.951088,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 33,
  "sha256": "8d65770bbda02c0009c2576e48c44bdc471dc7d24b1ac83d18407a195ff51abf",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/7b2342520c33.pdf",
- "fix_log": [
-  "words=920 unknown=91 fixed=8"
- ],
+ "text_pages": 23,
+ "ocr_pages": 23,
+ "layer": "broken",
  "image_pages": 22,
  "table_pages": 1,
  "figure_ocr_pages": 0,
@@ -39,7 +39,5 @@
   12,
   19
  ],
- "text_pages": 23,
- "ocr_pages": 23,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/parking-plan/he/2412-23.pdf",
- "checked": "2026-11-15T16:40:47Z",
+ "checked": "2026-11-22T08:18:35Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/parking-plan/he/2412-23.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3319853,
- "secs": 6.553725,
+ "secs": 2.976443,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "92ecada7adf85250aa9b8a90934abb9fcbf0a7a6c7bdaed5491080cb00a903ae",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/db7081241678.pdf",
+ "text_pages": 148,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 22,
  "table_pages": 10,
  "figure_ocr_pages": 22,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 148,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

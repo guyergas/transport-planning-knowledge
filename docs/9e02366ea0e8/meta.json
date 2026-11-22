@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_ventilation_systems_in_tunnels.pdf",
- "checked": "2026-11-18T13:23:48Z",
+ "checked": "2026-11-22T08:18:40Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_ventilation_systems_in_tunnels.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1188427,
- "secs": 2.587942,
+ "secs": 2.059223,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 4,
  "sha256": "1150f53b9408f66a2d51a73bf94f2c11bd34c4594c8375bdee4fbc481d93a54c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9e02366ea0e8.pdf",
+ "text_pages": 22,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 22,
  "table_pages": 2,
  "figure_ocr_pages": 22,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 22,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

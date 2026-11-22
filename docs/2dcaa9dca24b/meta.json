@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%97%D7%A0%D7%99%D7%94%20-%202025.pdf",
- "checked": "2026-11-15T14:54:06Z",
+ "checked": "2026-11-22T08:16:56Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/instructors_in_traffic_engineering/he/%D7%97%D7%A0%D7%99%D7%94%20-%202025.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 40742339,
- "secs": 48.994369,
+ "secs": 73.035935,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 15,
  "sha256": "0de552a49f798a80e8a5f97ff41a4800ea197955ac8dc52e562835b9d6640770",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/2dcaa9dca24b.pdf",
- "fix_log": [
-  "words=17524 unknown=3087 fixed=456"
- ],
+ "text_pages": 571,
+ "ocr_pages": 331,
+ "layer": "mixed",
  "image_pages": 463,
  "table_pages": 40,
  "figure_ocr_pages": 139,
@@ -62,7 +62,5 @@
   532,
   541
  ],
- "text_pages": 571,
- "ocr_pages": 331,
- "layer": "mixed"
+ "change": "unchanged"
 }

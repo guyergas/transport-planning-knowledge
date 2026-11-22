@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/hanhayot_b56/he/HanhayotB56.pdf",
- "checked": "2026-11-15T15:18:05Z",
+ "checked": "2026-11-22T08:17:47Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/hanhayot_b56/he/HanhayotB56.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 845475,
- "secs": 2.508636,
+ "secs": 1.696167,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "5530b31abbd9",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 5,
  "pdf_meta": {
   "Title": "<4D6963726F736F667420576F7264202D2030353436363430365FE0E9E7E5E320FAF9FAE9E5FA20E4F0E7E9E5FA20ECE4EBF0FA20FAEEF8E5F820E12D353620E0E9F0E8F8F0E820E2F8F1E42030382E323030352E646F63>",
@@ -26,13 +25,14 @@
  "fonts_uni_no": 6,
  "sha256": "73e4fe89d9c06251bbe3007ae9f2070edd6cdfaca7e16bfb1891b8081c5ff176",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/5530b31abbd9.pdf",
+ "text_pages": 5,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 1,
  "table_pages": 0,
  "figure_ocr_pages": 1,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 5,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

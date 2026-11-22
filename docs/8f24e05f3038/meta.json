@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf",
- "checked": "2026-11-15T16:56:32Z",
+ "checked": "2026-11-22T08:05:39Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/ar/Tashtiyot_public%20transportation%20development%202015.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 10450368,
- "secs": 15.440781,
+ "secs": 30.14707,
  "server": "cloudflare",
  "tries": [
   200
@@ -39,8 +39,5 @@
   42,
   43
  ],
- "change": "unchanged",
- "aliases": [
-  "https://www.gov.il/BlobFolder/generalpage/public_transportation_development_2015/he/Tashtiyot_public%20transportation%20development%202015.pdf"
- ]
+ "change": "unchanged"
 }

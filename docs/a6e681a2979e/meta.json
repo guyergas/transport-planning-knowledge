@@ -1,12 +1,12 @@
 {
  "url": "https://www.infocenters.co.il/rsa/multimedia/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/%D7%94%D7%9E%D7%93%D7%A8%D7%99%D7%9A%20%D7%9C%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94%20%D7%91%D7%90%D7%AA%D7%A8%D7%99%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA.pdf",
- "checked": "2026-11-15T14:53:10Z",
+ "checked": "2026-11-22T08:05:49Z",
  "status": 200,
  "final_url": "https://www.infocenters.co.il/rsa/multimedia/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/%D7%94%D7%9E%D7%93%D7%A8%D7%99%D7%9A%20%D7%9C%D7%94%D7%A1%D7%93%D7%A8%D7%99%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94%20%D7%91%D7%90%D7%AA%D7%A8%D7%99%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%20%D7%91%D7%99%D7%9F%20%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99%D7%95%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 22637977,
- "secs": 3.251318,
+ "secs": 5.241375,
  "server": "iserver",
  "tries": [
   200
@@ -24,9 +24,9 @@
  },
  "fonts_uni_no": 115,
  "sha256": "ef51154d562e3387c9d8f3c32f54e429a7812c69e599d0585497fdf90a7049a0",
- "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0d5e5dedb9c3.pdf",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-infocenters-co-il/a6e681a2979e.pdf",
  "fix_log": [
-  "words=3215 unknown=491 fixed=29"
+  "words=3213 unknown=490 fixed=29"
  ],
  "image_pages": 4,
  "table_pages": 41,
@@ -64,5 +64,5 @@
  "text_pages": 131,
  "ocr_pages": 107,
  "layer": "mixed",
- "duplicate_of": "0d5e5dedb9c3"
+ "change": "reprocessed"
 }
