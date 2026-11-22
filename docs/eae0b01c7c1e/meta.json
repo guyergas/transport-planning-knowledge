@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Samanim.pdf",
- "checked": "2026-11-15T15:09:31Z",
+ "checked": "2026-11-22T08:07:14Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Samanim.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 753382,
- "secs": 1.684246,
+ "secs": 1.859948,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 9,
  "sha256": "c833c3af0a2b146cb884066f3bad5568689e20cff8c79902ff8f87ea77c844d2",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/eae0b01c7c1e.pdf",
- "fix_log": [
-  "words=497 unknown=43 fixed=1"
- ],
+ "text_pages": 12,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 4,
  "table_pages": 2,
  "figure_ocr_pages": 3,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 84,
  "lowconf_pages": [],
- "text_pages": 12,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

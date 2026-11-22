@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/2025_status_accidents/he/publications_2025_status_accidents.pdf",
- "checked": "2026-11-15T15:09:46Z",
+ "checked": "2026-11-22T08:07:37Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/2025_status_accidents/he/publications_2025_status_accidents.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 732922,
- "secs": 0.930793,
+ "secs": 0.92501,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 4,
  "sha256": "efd813ee4bd7a2be2488234b23413c70e20d799b95b3bfa1e70b1e752c0f104d",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/1fc49afa94b8.pdf",
- "fix_log": [
-  "words=1909 unknown=60 fixed=6"
- ],
+ "text_pages": 23,
+ "ocr_pages": 3,
+ "layer": "mixed",
  "image_pages": 23,
  "table_pages": 2,
  "figure_ocr_pages": 20,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 91,
  "lowconf_pages": [],
- "text_pages": 23,
- "ocr_pages": 3,
- "layer": "mixed"
+ "change": "unchanged"
 }

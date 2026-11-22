@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/road-signs.pdf",
- "checked": "2026-11-15T15:28:41Z",
+ "checked": "2026-11-22T08:06:43Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_planning_signs_roads_alternating_traffic_messages/he/road-signs.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 297852,
- "secs": 0.75793,
+ "secs": 0.706715,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 6,
  "sha256": "ada5d793e281e11c103edae6af36710e433b5a250ec4aa289f99c0b256e1613a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/27a3a38b7edf.pdf",
- "fix_log": [
-  "words=85 unknown=3 fixed=0"
- ],
+ "text_pages": 2,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 1,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 87,
  "lowconf_pages": [],
- "text_pages": 2,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

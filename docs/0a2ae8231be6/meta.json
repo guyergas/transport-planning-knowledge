@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/MifratRamzorimKlali.pdf",
- "checked": "2026-11-15T16:05:40Z",
+ "checked": "2026-11-22T08:07:28Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/MifratRamzorimKlali.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2983887,
- "secs": 7.27269,
+ "secs": 4.041558,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "8fa88bf24ef8481dc15c77d7a0c18708ee315915240e7e1af33c9b5a5d1b62a7",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/0a2ae8231be6.pdf",
- "fix_log": [
-  "words=5150 unknown=620 fixed=36"
- ],
+ "text_pages": 133,
+ "ocr_pages": 133,
+ "layer": "broken",
  "image_pages": 0,
  "table_pages": 11,
  "figure_ocr_pages": 0,
@@ -65,7 +65,5 @@
   116,
   117
  ],
- "text_pages": 133,
- "ocr_pages": 133,
- "layer": "broken"
+ "change": "unchanged"
 }

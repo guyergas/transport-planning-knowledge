@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/merchav_harchov_2020.pdf",
- "checked": "2026-11-15T14:55:22Z",
+ "checked": "2026-11-22T08:05:57Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/merchav_harchov_2020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 11636449,
- "secs": 10.89034,
+ "secs": 17.595845,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "6a25e29a160186e2e5086c7e013bb0e99e3353def88747934805186aa6642b1c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d922af008c12.pdf",
- "fix_log": [
-  "words=6831 unknown=355 fixed=6"
- ],
+ "text_pages": 179,
+ "ocr_pages": 11,
+ "layer": "mixed",
  "image_pages": 72,
  "table_pages": 15,
  "figure_ocr_pages": 70,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   179
  ],
- "text_pages": 179,
- "ocr_pages": 11,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_bus_sheds/he/Shed%20Design%20Procedure10.06.20.pdf",
- "checked": "2026-11-15T15:09:10Z",
+ "checked": "2026-11-22T08:07:33Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_bus_sheds/he/Shed%20Design%20Procedure10.06.20.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2325815,
- "secs": 2.369793,
+ "secs": 2.819725,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 7,
  "sha256": "648d7ba2b41a25174f22327054c4c9fe51ee3bed1f5472550922cd450672e96a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/74f6e703a639.pdf",
+ "text_pages": 40,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 40,
  "table_pages": 0,
  "figure_ocr_pages": 40,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 40,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

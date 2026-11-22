@@ -1,12 +1,12 @@
 {
  "url": "http://www.tabainfo.co.il/entity/%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%D7%9E%D7%AA%D7%90%D7%A8%20%D7%90%D7%A8%D7%A6%D7%99%D7%AA%20-%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%201%20%D7%9C%D7%AA%D7%9E%D7%90%20%2023%20%20%D7%90%20%204%20-%D7%94%D7%A2%D7%91%D7%A8%D7%AA%20%D7%A1%D7%9E%D7%9B%D7%95%D7%99%D7%95%D7%AA%20%D7%91%D7%AA%D7%9E%D7%90%D7%95%22%D7%AA-99000233313",
- "checked": "2026-11-15T14:52:16Z",
+ "checked": "2026-11-22T08:05:31Z",
  "status": 200,
  "final_url": "https://www.tabainfo.co.il/",
  "content_type": "text/html; charset=utf-8",
  "redirects": 3,
- "bytes": 122891,
- "secs": 1.073816,
+ "bytes": 124511,
+ "secs": 1.269654,
  "server": "cloudflare",
  "tries": [
   200
@@ -16,6 +16,7 @@
  "result": "redirect",
  "title": "תב\"ע, גוש חלקה ותכניות בניין עיר | Tabainfo",
  "file_links": [],
- "all_links": 903,
+ "all_links": 905,
+ "new_file_links": [],
  "unknown_file_links": []
 }
