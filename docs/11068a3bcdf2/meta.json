@@ -34,5 +34,8 @@
  "table_ocr_pages": 0,
  "ocr_conf_mean": 78,
  "lowconf_pages": [],
- "change": "unchanged"
+ "change": "unchanged",
+ "aliases": [
+  "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_fire_saftey.pdf"
+ ]
 }

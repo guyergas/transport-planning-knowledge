@@ -34,5 +34,8 @@
  "table_ocr_pages": 1,
  "ocr_conf_mean": 91,
  "lowconf_pages": [],
- "change": "unchanged"
+ "change": "unchanged",
+ "aliases": [
+  "https://www.eshed-mtl.co.il/uploads/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/hanhayot%20letaskirey%20betihut%207%2026.pdf"
+ ]
 }
