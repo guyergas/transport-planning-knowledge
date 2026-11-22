@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/ViewArticle.aspx?articleID=40",
- "checked": "2026-11-15T14:52:02Z",
+ "checked": "2026-11-22T08:05:31Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/ViewArticle.aspx?articleID=40",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 43430,
- "secs": 0.875354,
+ "secs": 1.980213,
  "server": "microsoft-iis/10.0",
  "tries": [
   200

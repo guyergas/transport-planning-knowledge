@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/planning_dimensions_parking_spaces_streets_residential_areas/he/Rechovot_lomuza_1977.pdf",
- "checked": "2026-11-15T15:16:22Z",
+ "checked": "2026-11-22T08:05:57Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/planning_dimensions_parking_spaces_streets_residential_areas/he/Rechovot_lomuza_1977.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3908738,
- "secs": 5.85471,
+ "secs": 9.856364,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "998e44b0e1723400500acac8d8f9c89db663e6169c214482fd7fc61238f8b033",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f8f7b780c0fb.pdf",
- "fix_log": [
-  "words=612 unknown=72 fixed=7"
- ],
+ "text_pages": 11,
+ "ocr_pages": 11,
+ "layer": "broken",
  "image_pages": 11,
  "table_pages": 1,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   11
  ],
- "text_pages": 11,
- "ocr_pages": 11,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.architecture.org.il/wp-content/uploads/2022/12/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94-%D7%94%D7%AA%D7%A7%D7%A0%D7%AA-%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA-%D7%97%D7%A0%D7%99%D7%94.pdf",
- "checked": "2026-11-15T14:52:48Z",
+ "checked": "2026-11-22T08:05:18Z",
  "status": 200,
  "final_url": "https://www.architecture.org.il/wp-content/uploads/2022/12/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA-%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F-%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94-%D7%94%D7%AA%D7%A7%D7%A0%D7%AA-%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA-%D7%97%D7%A0%D7%99%D7%94.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 719483,
- "secs": 1.711369,
+ "secs": 2.015675,
  "server": "nginx",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 7,
  "sha256": "fb11fe906712c1a7b35d13003b1ff79eeae0703f7233160f77b3b4f106c377bf",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-architecture-org-il/211ba7329849.pdf",
+ "text_pages": 10,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 0,
  "table_pages": 1,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 10,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

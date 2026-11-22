@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/departments/general/guide_to_traffic_arrangements_for_interurban_work_sites",
- "checked": "2026-11-15T15:12:30Z",
+ "checked": "2026-11-22T08:12:21Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/guide_to_traffic_arrangements_for_interurban_work_sites",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5186,
- "secs": 0.046619,
+ "secs": 0.029818,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [

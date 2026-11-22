@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_geomatric_designer.pdf",
- "checked": "2026-11-18T13:23:47Z",
+ "checked": "2026-11-22T08:07:09Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/roads_tunnels_planning_insturactions_geomatric_designer.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 5819750,
- "secs": 18.806711,
+ "secs": 5.396616,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 5,
  "sha256": "4306d41dd0b2974bee36809d88ee3700696223aa20b5d69c840273f3662121cc",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/54eb9c8ca368.pdf",
- "fix_log": [
-  "words=3150 unknown=188 fixed=12"
- ],
+ "text_pages": 83,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 83,
  "table_pages": 22,
  "figure_ocr_pages": 82,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 88,
  "lowconf_pages": [],
- "text_pages": 83,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }
