@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/national_master_plan_traffic_management_control/he/BakaratTnuah.pdf",
- "checked": "2026-11-15T15:31:19Z",
+ "checked": "2026-11-22T08:07:58Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/national_master_plan_traffic_management_control/he/BakaratTnuah.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 322034,
- "secs": 0.997275,
+ "secs": 0.491494,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 4,
  "sha256": "881a0597733e1b246b0089fc582becb62c93c5b8987dd9b1857ffe142245c66f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/af7322558aaf.pdf",
- "fix_log": [
-  "words=688 unknown=34 fixed=2"
- ],
+ "text_pages": 18,
+ "ocr_pages": 7,
+ "layer": "mixed",
  "image_pages": 7,
  "table_pages": 0,
  "figure_ocr_pages": 0,
@@ -40,7 +40,5 @@
   14,
   16
  ],
- "text_pages": 18,
- "ocr_pages": 7,
- "layer": "mixed"
+ "change": "unchanged"
 }

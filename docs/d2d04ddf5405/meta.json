@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/traffic_circle_planning_guidelines/he/MaagalieTnuaa.pdf",
- "checked": "2026-11-15T14:55:13Z",
+ "checked": "2026-11-22T08:05:47Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/traffic_circle_planning_guidelines/he/MaagalieTnuaa.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 337528,
- "secs": 1.072717,
+ "secs": 0.620343,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "d2d04ddf5405",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 12,
  "pdf_meta": {
   "Title": "ֳ§ֳ¥ֳ¡ֳ¸ֳ÷ג‚¬ֳ®ֳ©ֳ÷ֳ¥ֳ¯ג‚¬ֳ÷ֳ°ֳ¥ֳ²ֳ₪",
@@ -26,9 +25,9 @@
  "fonts_uni_no": 15,
  "sha256": "129b168ac7daf844f241ac0618fd93baae7a10b90ca6f4f34cd7d4f955fa8d21",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/d2d04ddf5405.pdf",
- "fix_log": [
-  "words=637 unknown=70 fixed=8"
- ],
+ "text_pages": 12,
+ "ocr_pages": 12,
+ "layer": "broken",
  "image_pages": 9,
  "table_pages": 0,
  "figure_ocr_pages": 0,
@@ -38,7 +37,5 @@
   3,
   4
  ],
- "text_pages": 12,
- "ocr_pages": 12,
- "layer": "broken"
+ "change": "unchanged"
 }

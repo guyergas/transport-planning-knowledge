@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/BetihutSofgeyEnergia.pdf",
- "checked": "2026-11-15T15:42:35Z",
+ "checked": "2026-11-22T08:07:40Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/BetihutSofgeyEnergia.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3142367,
- "secs": 8.270557,
+ "secs": 12.041696,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "75150df6f16d852aa4597baa6415702a0337c54b1c94c4f3923d74288f13969c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/432fc5b522f7.pdf",
- "fix_log": [
-  "words=2746 unknown=102 fixed=5"
- ],
+ "text_pages": 40,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 18,
  "table_pages": 9,
  "figure_ocr_pages": 17,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 86,
  "lowconf_pages": [],
- "text_pages": 40,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

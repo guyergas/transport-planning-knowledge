@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/%D7%A4%D7%95%D7%A8%D7%9E%D7%98%20%D7%90%D7%97%D7%95%D7%93%20%D7%A1%D7%A4%D7%99%D7%A8%D7%95%D7%AA%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%92%D7%A8%D7%A1%D7%94_3.1.pdf",
- "checked": "2026-11-15T16:57:27Z",
+ "checked": "2026-11-22T08:07:50Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/uniform_format_traffic_counts/he/%D7%A4%D7%95%D7%A8%D7%9E%D7%98%20%D7%90%D7%97%D7%95%D7%93%20%D7%A1%D7%A4%D7%99%D7%A8%D7%95%D7%AA%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%92%D7%A8%D7%A1%D7%94_3.1.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 3149704,
- "secs": 4.082918,
+ "secs": 4.331638,
  "server": "cloudflare",
  "tries": [
   200

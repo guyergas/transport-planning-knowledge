@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/ViewArticle.aspx?articleID=42",
- "checked": "2026-11-15T14:53:47Z",
+ "checked": "2026-11-22T08:05:48Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/ViewArticle.aspx?articleID=42",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 50598,
- "secs": 0.942164,
+ "secs": 1.380296,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -17,5 +17,6 @@
  "title": "תכן גיאומטרי של צמתים בדרכים בין עירוניות נובמבר 23",
  "file_links": [],
  "all_links": 46,
+ "new_file_links": [],
  "unknown_file_links": []
 }

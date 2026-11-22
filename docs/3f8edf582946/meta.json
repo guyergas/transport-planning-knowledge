@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tihnon-tzimhiya.pdf",
- "checked": "2026-11-15T14:53:22Z",
+ "checked": "2026-11-22T08:05:46Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tihnon-tzimhiya.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 11932408,
- "secs": 15.218266,
+ "secs": 25.64789,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "3f8edf582946",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 192,
  "pdf_meta": {
   "Title": "hanchayot-atzamin-sofi.indd",
@@ -26,16 +25,14 @@
  "fonts_uni_no": 12,
  "sha256": "59768c621d3fbb520e481acfa129fc96dde00d16814cdcea83e2a2ea82a01abe",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3f8edf582946.pdf",
- "fix_log": [
-  "words=6488 unknown=390 fixed=11"
- ],
+ "text_pages": 192,
+ "ocr_pages": 16,
+ "layer": "mixed",
  "image_pages": 117,
  "table_pages": 4,
  "figure_ocr_pages": 115,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 91,
  "lowconf_pages": [],
- "text_pages": 192,
- "ocr_pages": 16,
- "layer": "mixed"
+ "change": "unchanged"
 }

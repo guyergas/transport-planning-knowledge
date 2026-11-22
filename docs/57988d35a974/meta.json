@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/traffic_arrangements_work_sites_roads/he/hesder-tnuah-barzel.pdf",
- "checked": "2026-11-15T15:02:22Z",
+ "checked": "2026-11-22T08:07:16Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/traffic_arrangements_work_sites_roads/he/hesder-tnuah-barzel.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 18734831,
- "secs": 23.45071,
+ "secs": 38.310269,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 85,
  "sha256": "92f2981ff7968a3a09895cf32a90a645be0dcf1d20c48d4730c3d8b12b98a00b",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/57988d35a974.pdf",
- "fix_log": [
-  "words=3438 unknown=413 fixed=30"
- ],
+ "text_pages": 114,
+ "ocr_pages": 66,
+ "layer": "mixed",
  "image_pages": 9,
  "table_pages": 20,
  "figure_ocr_pages": 3,
@@ -79,7 +79,5 @@
   69,
   70
  ],
- "text_pages": 114,
- "ocr_pages": 66,
- "layer": "mixed"
+ "change": "unchanged"
 }
