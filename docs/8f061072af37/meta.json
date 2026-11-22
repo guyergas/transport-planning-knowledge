@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/pages/geometric_design_interurban_roads",
- "checked": "2026-11-15T15:11:22Z",
+ "checked": "2026-11-22T08:12:01Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/geometric_design_interurban_roads",
  "content_type": "text/html",
  "redirects": 0,
- "bytes": 5186,
- "secs": 0.246285,
+ "bytes": 5185,
+ "secs": 0.032123,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -47,20 +47,7 @@
   }
  ],
  "all_links": 49,
- "new_file_links": [
-  {
-   "url": "http://www.gov.il/he/Departments/General/road_tunnel_guidelines",
-   "text": "להורדה"
-  },
-  {
-   "url": "http://www.gov.il/he/Departments/General/geometry_guidelines",
-   "text": "להורדה"
-  },
-  {
-   "url": "https://www.gov.il/he/pages/geometric-design-guidelines",
-   "text": "להורדה"
-  }
- ],
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "http://www.gov.il/he/Departments/General/road_tunnel_guidelines",
@@ -78,8 +65,5 @@
    "url": "https://www.gov.il/he/pages/geometric-design-guidelines",
    "text": "להורדה"
   }
- ],
- "aliases": [
-  "https://www.gov.il/he/departments/policies/geometric_design_interurban_roads"
  ]
 }

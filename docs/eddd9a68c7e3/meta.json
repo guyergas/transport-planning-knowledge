@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/holchey_regel_2020.pdf",
- "checked": "2026-11-15T14:53:33Z",
+ "checked": "2026-11-22T08:05:53Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/holchey_regel_2020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 15140398,
- "secs": 24.751825,
+ "secs": 21.648431,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "eddd9a68c7e3",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 159,
  "pdf_meta": {
   "Title": "",
@@ -26,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "0535a75b93998382a3c70614fb71161f6f52083d3fb06aa8f93f4566bd3a8bba",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/eddd9a68c7e3.pdf",
- "fix_log": [
-  "words=6123 unknown=240 fixed=3"
- ],
+ "text_pages": 159,
+ "ocr_pages": 11,
+ "layer": "mixed",
  "image_pages": 73,
  "table_pages": 2,
  "figure_ocr_pages": 71,
@@ -37,7 +36,5 @@
  "lowconf_pages": [
   159
  ],
- "text_pages": 159,
- "ocr_pages": 11,
- "layer": "mixed"
+ "change": "unchanged"
 }

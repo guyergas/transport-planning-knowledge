@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/survey-routes-public-transportation/he/MOT_PTL_FORMAT_1.47.pdf",
- "checked": "2026-11-15T15:36:57Z",
+ "checked": "2026-11-22T08:07:01Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/survey-routes-public-transportation/he/MOT_PTL_FORMAT_1.47.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 814106,
- "secs": 2.931618,
+ "secs": 0.783933,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 9,
  "sha256": "2fbaac29f0561ddf4d0465ccd8f71e34b5c661ec2b9800eb34a1e0ec639bb17b",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/2f2a3969ab5e.pdf",
+ "text_pages": 45,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 45,
  "table_pages": 1,
  "figure_ocr_pages": 45,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 45,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

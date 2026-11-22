@@ -1,12 +1,12 @@
 {
  "url": "https://data.gov.il/he/datasets/ministry_of_transport/tma_23",
- "checked": "2026-11-15T14:52:18Z",
+ "checked": "2026-11-22T08:05:31Z",
  "status": 200,
  "final_url": "https://data.gov.il/he/datasets/ministry_of_transport/tma_23",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
- "bytes": 23182,
- "secs": 0.471286,
+ "bytes": 23183,
+ "secs": 0.853534,
  "server": "",
  "tries": [
   200

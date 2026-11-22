@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/strategic-plan-2050/he/program.pdf",
- "checked": "2026-11-15T15:47:52Z",
+ "checked": "2026-11-22T08:07:46Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/strategic-plan-2050/he/program.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 11835444,
- "secs": 22.916968,
+ "secs": 15.781971,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 2,
  "sha256": "3d47bab30ab0f2f0b43dc2759becbdeb85dc93431868e88ef3675e9d95043820",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b75d22a1831f.pdf",
- "fix_log": [
-  "words=5325 unknown=275 fixed=9"
- ],
+ "text_pages": 114,
+ "ocr_pages": 15,
+ "layer": "mixed",
  "image_pages": 59,
  "table_pages": 18,
  "figure_ocr_pages": 48,
@@ -38,7 +38,5 @@
   64,
   99
  ],
- "text_pages": 114,
- "ocr_pages": 15,
- "layer": "mixed"
+ "change": "unchanged"
 }
