@@ -1,12 +1,12 @@
 {
  "url": "https://ramibox.com/taba/9508072/",
- "checked": "2026-11-15T14:52:17Z",
+ "checked": "2026-11-22T08:05:20Z",
  "status": 200,
  "final_url": "https://ramibox.com/taba/9508072/",
  "content_type": "text/html; charset=UTF-8",
  "redirects": 0,
  "bytes": 61797,
- "secs": 1.498636,
+ "secs": 1.490837,
  "server": "cloudflare",
  "tries": [
   200
@@ -58,6 +58,7 @@
   }
  ],
  "all_links": 16,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9508072.pdf",

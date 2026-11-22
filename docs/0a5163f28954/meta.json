@@ -1,12 +1,12 @@
 {
  "url": "https://olaw.org.il/yalkut/yalkut-3366.pdf",
- "checked": "2026-11-15T14:54:27Z",
+ "checked": "2026-11-22T08:05:21Z",
  "status": 200,
  "final_url": "https://olaw.org.il/yalkut/yalkut-3366.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 392089,
- "secs": 0.960003,
+ "secs": 1.016942,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 1,
  "sha256": "3c1e34c910c57d3c53b415399e6d7018fa45afa2b62e7e95868700d51a810dfb",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-olaw-org-il/0a5163f28954.pdf",
- "fix_log": [
-  "words=817 unknown=153 fixed=8"
- ],
+ "text_pages": 9,
+ "ocr_pages": 9,
+ "layer": "broken",
  "image_pages": 9,
  "table_pages": 7,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 9,
- "ocr_pages": 9,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingE.pdf",
- "checked": "2026-11-15T14:58:58Z",
+ "checked": "2026-11-22T08:05:34Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/parking_planning_guidelines/he/parkingE.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 4645617,
- "secs": 6.720411,
+ "secs": 12.625016,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 16,
  "sha256": "290152ecd1143f605e7b141a33677e37c0a072f067850fe8c2154c81e79a436f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/564543ee6e23.pdf",
- "fix_log": [
-  "words=2656 unknown=240 fixed=35"
- ],
+ "text_pages": 46,
+ "ocr_pages": 46,
+ "layer": "broken",
  "image_pages": 6,
  "table_pages": 4,
  "figure_ocr_pages": 0,
@@ -39,7 +39,5 @@
   33,
   43
  ],
- "text_pages": 46,
- "ocr_pages": 46,
- "layer": "broken"
+ "change": "unchanged"
 }

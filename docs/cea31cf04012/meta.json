@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/2025_behavior/he/publications_2025_behavior.pdf",
- "checked": "2026-11-15T16:00:28Z",
+ "checked": "2026-11-22T08:07:05Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/2025_behavior/he/publications_2025_behavior.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1790350,
- "secs": 3.823062,
+ "secs": 2.570424,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "cea31cf04012",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 32,
  "pdf_meta": {
   "Title": "",
@@ -26,9 +25,9 @@
  "fonts_uni_no": 12,
  "sha256": "3ab35a0faad148442ebb838f0dab26fb67b5c0343b6274d5de3026aa68cce9ac",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/cea31cf04012.pdf",
- "fix_log": [
-  "words=1801 unknown=198 fixed=29"
- ],
+ "text_pages": 32,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 32,
  "table_pages": 15,
  "figure_ocr_pages": 31,
@@ -37,7 +36,5 @@
  "lowconf_pages": [
   32
  ],
- "text_pages": 32,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

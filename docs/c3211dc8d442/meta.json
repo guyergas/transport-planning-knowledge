@@ -1,13 +1,13 @@
 {
  "url": "https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
- "checked": "2026-11-15T14:52:16Z",
+ "checked": "2026-11-22T08:05:19Z",
  "status": 200,
  "final_url": "https://he.wikisource.org/wiki/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
  "content_type": "text/html; charset=UTF-8",
  "redirects": 0,
- "bytes": 144531,
- "secs": 0.36325,
- "server": "mw-web.codfw.main-5757f89b77-tfmnl",
+ "bytes": 144539,
+ "secs": 0.441275,
+ "server": "mw-web.codfw.main-5b7f67875c-vr9qm",
  "tries": [
   200
  ],
@@ -50,12 +50,7 @@
   }
  ],
  "all_links": 170,
- "new_file_links": [
-  {
-   "url": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",
-   "text": "הורדה"
-  }
- ],
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%95%D7%94%D7%91%D7%A0%D7%99%D7%94_%28%D7%94%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%95%D7%AA_%D7%97%D7%A0%D7%99%D7%94%29",

@@ -1,12 +1,12 @@
 {
  "url": "https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry.pdf",
- "checked": "2026-11-15T15:04:20Z",
+ "checked": "2026-11-22T08:05:50Z",
  "status": 200,
  "final_url": "https://ams3.digitaloceanspaces.com/budgetkey-files/government_decisions/techen-geometry.pdf",
  "content_type": "",
  "redirects": 0,
  "bytes": 10491592,
- "secs": 2.142702,
+ "secs": 2.124444,
  "server": "",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "04ae4d7a7a3c",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 313,
  "pdf_meta": {
   "Title": "(Microsoft Word - \\343\\364\\351 \\364\\372\\351\\347\\344.doc)",
@@ -26,16 +25,14 @@
  "fonts_uni_no": 120,
  "sha256": "861d1e1a5fb25c30c64a234bb28dfb7451006f33ff4d6f47e9ce9cefae82a953",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-ams3-digitaloceanspaces-com/04ae4d7a7a3c.pdf",
- "fix_log": [
-  "words=8049 unknown=372 fixed=12"
- ],
+ "text_pages": 313,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 87,
  "table_pages": 43,
  "figure_ocr_pages": 86,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 84,
  "lowconf_pages": [],
- "text_pages": 313,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }
