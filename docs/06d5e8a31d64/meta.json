@@ -1,12 +1,12 @@
 {
  "url": "https://www.magalim.co.il/wp-content/uploads/2024/01/%D7%AA%D7%9E%D7%90_-1_%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA.pdf",
- "checked": "2026-11-15T14:51:48Z",
+ "checked": "2026-11-22T08:05:18Z",
  "status": 200,
  "final_url": "https://www.magalim.co.il/wp-content/uploads/2024/01/%D7%AA%D7%9E%D7%90_-1_%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 977064,
- "secs": 1.539206,
+ "secs": 2.278264,
  "server": "nginx",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "06d5e8a31d64",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 175,
  "pdf_meta": {
   "Title": "",
@@ -26,9 +25,9 @@
  "fonts_uni_no": 4,
  "sha256": "268c2d10e33ed46d9afc61bda5a827fddccbed6514a193b5a66d999b1714ccb9",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-magalim-co-il/06d5e8a31d64.pdf",
- "fix_log": [
-  "words=7095 unknown=376 fixed=9"
- ],
+ "text_pages": 175,
+ "ocr_pages": 64,
+ "layer": "mixed",
  "image_pages": 4,
  "table_pages": 12,
  "figure_ocr_pages": 3,
@@ -37,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 175,
- "ocr_pages": 64,
- "layer": "mixed"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tzmatim_2020.pdf",
- "checked": "2026-11-15T14:54:35Z",
+ "checked": "2026-11-22T08:05:50Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tzmatim_2020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 13828090,
- "secs": 14.715318,
+ "secs": 27.973515,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "c6aee708903cec4d5a5582447156c784a66d27d656944805cbe240a3491f5ebf",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/771d6ccfd29e.pdf",
- "fix_log": [
-  "words=5968 unknown=276 fixed=4"
- ],
+ "text_pages": 156,
+ "ocr_pages": 9,
+ "layer": "mixed",
  "image_pages": 58,
  "table_pages": 10,
  "figure_ocr_pages": 57,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   7
  ],
- "text_pages": 156,
- "ocr_pages": 9,
- "layer": "mixed"
+ "change": "unchanged"
 }

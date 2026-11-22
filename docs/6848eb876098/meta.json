@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15%20G-100.pdf",
- "checked": "2026-11-18T13:25:13Z",
+ "checked": "2026-11-22T08:07:39Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/road_tunnel_guidelines/he/planning_development_chart_3_15%20G-100.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 114629,
- "secs": 0.462602,
+ "secs": 0.507159,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "576166ba9f5f426e692636f870c975c96c22658bfd0501233b83485c7113424a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/6848eb876098.pdf",
- "fix_log": [
-  "words=19 unknown=3 fixed=1"
- ],
+ "text_pages": 1,
+ "ocr_pages": 1,
+ "layer": "broken",
  "image_pages": 0,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 85,
  "lowconf_pages": [],
- "text_pages": 1,
- "ocr_pages": 1,
- "layer": "broken"
+ "change": "unchanged"
 }

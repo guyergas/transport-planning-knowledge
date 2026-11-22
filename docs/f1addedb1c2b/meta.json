@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_table_of_contents_3.pdf",
- "checked": "2026-11-15T14:56:16Z",
+ "checked": "2026-11-22T08:06:04Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/geometry_guidelines/he/planning_development_geometry_guidelines_Intercity%20roads_%20intersections%20_%20interchanges_table_of_contents_3.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 222879,
- "secs": 1.930105,
+ "secs": 0.69729,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 4,
  "sha256": "ae8a2e4b7a0343b74def117e5ad70b33d6f2048cf8f99433f248bb284135dcce",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f1addedb1c2b.pdf",
+ "text_pages": 17,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 17,
  "table_pages": 0,
  "figure_ocr_pages": 17,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 17,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

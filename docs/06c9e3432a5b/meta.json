@@ -1,12 +1,12 @@
 {
  "url": "https://eshed-mtl.co.il/documents/266/view",
- "checked": "2026-11-15T15:18:36Z",
+ "checked": "2026-11-22T08:05:57Z",
  "status": 200,
  "final_url": "https://eshed-mtl.co.il/documents/266/view",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 45231,
- "secs": 0.872898,
+ "secs": 1.212603,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -34,6 +34,7 @@
   }
  ],
  "all_links": 43,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/he/pages/design_traffic_devices?chapterIndex=3",

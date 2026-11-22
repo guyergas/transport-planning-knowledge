@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/hanhayot-samanim.pdf",
- "checked": "2026-11-15T15:32:51Z",
+ "checked": "2026-11-22T08:07:25Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/hanhayot-samanim.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 4954739,
- "secs": 7.704056,
+ "secs": 5.167296,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 4,
  "sha256": "335982c93f29f432d3fe8c4e68f4f2e76e7d093e15d27bcf39da4bbdea9bec90",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/20cb32c5d99e.pdf",
+ "text_pages": 35,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 21,
  "table_pages": 4,
  "figure_ocr_pages": 21,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 35,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }
