@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/reports/202306_crossroad_research/he/research_202306_crossroad_research_.pdf",
- "checked": "2026-11-15T15:34:43Z",
+ "checked": "2026-11-22T08:09:41Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/reports/202306_crossroad_research/he/research_202306_crossroad_research_.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 1931912,
- "secs": 4.676941,
+ "secs": 3.300018,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 1,
  "sha256": "89aca1fb2002e0e1f0e3fb1066f9c9b814109bfcdd940f650e99d006766ee3f0",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/134d4dbbb48a.pdf",
- "fix_log": [
-  "words=1523 unknown=34 fixed=0"
- ],
+ "text_pages": 22,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 22,
  "table_pages": 1,
  "figure_ocr_pages": 20,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 92,
  "lowconf_pages": [],
- "text_pages": 22,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }

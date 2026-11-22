@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/hazara_lamerhav_haziburi/he/TRAFFIC_PLANNING_hazara_lamerhav_haziburi.pdf",
- "checked": "2026-11-15T15:16:26Z",
+ "checked": "2026-11-22T08:05:45Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/hazara_lamerhav_haziburi/he/TRAFFIC_PLANNING_hazara_lamerhav_haziburi.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 575660,
- "secs": 1.383877,
+ "secs": 1.531487,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "4478df9d0a76c132d2a9fec050c0821727f2ca2c81a2542a8006c3c11d047284",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/c50c9699f5e7.pdf",
+ "text_pages": 4,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 1,
  "table_pages": 0,
  "figure_ocr_pages": 1,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 4,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

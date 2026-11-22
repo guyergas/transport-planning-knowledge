@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/determination_traffic_arrangements_local_permission_authority/he/18-09.pdf",
- "checked": "2026-11-15T16:07:05Z",
+ "checked": "2026-11-22T08:06:49Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/determination_traffic_arrangements_local_permission_authority/he/18-09.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 834423,
- "secs": 3.478764,
+ "secs": 1.736672,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 8,
  "sha256": "7089e09ee3f9662d9729c5aee89dfb98bdd3b129e4bf645c6d2d8c9cbc9d7c59",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/3b5808b96e14.pdf",
+ "text_pages": 18,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 4,
  "table_pages": 0,
  "figure_ocr_pages": 4,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 18,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

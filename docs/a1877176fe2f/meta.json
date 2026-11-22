@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/planning_guidelines_bus_station_clusters/he/tahanot-otobus.pdf",
- "checked": "2026-11-15T15:52:35Z",
+ "checked": "2026-11-22T08:07:06Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/planning_guidelines_bus_station_clusters/he/tahanot-otobus.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 420393,
- "secs": 1.389058,
+ "secs": 0.90169,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "4fcf9c26969428ba98ce9149e48043a2277a3927b2d371479f9841de94890cd7",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/a1877176fe2f.pdf",
- "fix_log": [
-  "words=1104 unknown=114 fixed=20"
- ],
+ "text_pages": 18,
+ "ocr_pages": 18,
+ "layer": "broken",
  "image_pages": 18,
  "table_pages": 2,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 2,
  "ocr_conf_mean": 88,
  "lowconf_pages": [],
- "text_pages": 18,
- "ocr_pages": 18,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/traffic_lights_detector.pdf",
- "checked": "2026-11-15T15:07:04Z",
+ "checked": "2026-11-22T08:08:47Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/planning_traffic_lights/he/traffic_lights_detector.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 217901,
- "secs": 0.46492,
+ "secs": 1.514041,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,13 +25,14 @@
  "fonts_uni_no": 10,
  "sha256": "11800d71d7ae08fc111bf7dd39c81055117e5532fa947e71c486cae35a72bd8e",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9af7024ed6fb.pdf",
+ "text_pages": 18,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 2,
  "table_pages": 3,
  "figure_ocr_pages": 2,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 18,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

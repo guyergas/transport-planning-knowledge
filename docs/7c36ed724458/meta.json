@@ -1,12 +1,12 @@
 {
  "url": "https://apps.land.gov.il/IturTabotData/tabot/Artzi/9606701.pdf",
- "checked": "2026-11-15T15:11:44Z",
+ "checked": "2026-11-22T08:05:43Z",
  "status": 200,
  "final_url": "https://apps.land.gov.il/IturTabotData/tabot/Artzi/9606701.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 9083579,
- "secs": 27.982197,
+ "secs": 28.872574,
  "server": "",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "a71164636bd9026b52bb5719c58cc28d3048fff13d7ab45629f5801aad071d3b",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-apps-land-gov-il/7c36ed724458.pdf",
- "fix_log": [
-  "words=768 unknown=364 fixed=19"
- ],
+ "text_pages": 1,
+ "ocr_pages": 1,
+ "layer": "broken",
  "image_pages": 1,
  "table_pages": 1,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 1,
- "ocr_pages": 1,
- "layer": "broken"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/guide_shading-trees/he/binder_instructions_national_guide_shading_trees.pdf",
- "checked": "2026-11-15T15:34:25Z",
+ "checked": "2026-11-22T08:09:32Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/guide_shading-trees/he/binder_instructions_national_guide_shading_trees.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 12814197,
- "secs": 16.955193,
+ "secs": 39.748267,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 0,
  "sha256": "ff36841bf407dbf12e47bd2ad28c7219d1b149e4e374560788ce526282362e4f",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8c27b4cfa803.pdf",
- "fix_log": [
-  "words=2271 unknown=153 fixed=8"
- ],
+ "text_pages": 24,
+ "ocr_pages": 1,
+ "layer": "mixed",
  "image_pages": 10,
  "table_pages": 0,
  "figure_ocr_pages": 10,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 94,
  "lowconf_pages": [],
- "text_pages": 24,
- "ocr_pages": 1,
- "layer": "mixed"
+ "change": "unchanged"
 }

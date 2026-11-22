@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/specifications_for_the_placement_and_maintenance_of-traffic_signal.pdf",
- "checked": "2026-11-15T15:43:08Z",
+ "checked": "2026-11-22T08:08:34Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/specifications_for_the_placement_and_maintenance_of-traffic_signal.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 285848,
- "secs": 2.353714,
+ "secs": 0.696197,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 6,
  "sha256": "6e931a31af41fb9ab0a648caa8267c886a53f638fcff43c9879ff84daf1fed76",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/fa875493c0b7.pdf",
- "fix_log": [
-  "words=2 unknown=1 fixed=0"
- ],
+ "text_pages": 13,
+ "ocr_pages": 13,
+ "layer": "broken",
  "image_pages": 0,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 94,
  "lowconf_pages": [],
- "text_pages": 13,
- "ocr_pages": 13,
- "layer": "broken"
+ "change": "unchanged"
 }
