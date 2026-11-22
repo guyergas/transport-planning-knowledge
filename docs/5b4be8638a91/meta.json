@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/departments/policies/klalim_matan_ptor_tamrurim",
- "checked": "2026-11-15T15:42:08Z",
+ "checked": "2026-11-22T08:11:53Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/klalim_matan_ptor_tamrurim",
  "content_type": "text/html",
  "redirects": 1,
- "bytes": 5188,
- "secs": 0.083271,
+ "bytes": 5186,
+ "secs": 0.267216,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -35,6 +35,7 @@
   }
  ],
  "all_links": 48,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/policy/klalim_matan_ptor_tamrurim/he/כללים מנחים למתן פטור - 0726.pdf",

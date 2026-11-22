@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/he/Departments/General/destination_names_for_directions_signage",
- "checked": "2026-11-15T15:24:55Z",
+ "checked": "2026-11-22T08:11:59Z",
  "status": 200,
  "final_url": "https://www.gov.il/he/pages/destination_names_for_directions_signage",
  "content_type": "text/html",
  "redirects": 1,
  "bytes": 5186,
- "secs": 0.041232,
+ "secs": 0.050046,
  "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
  "server": "cloudflare",
  "tries": [
@@ -35,6 +35,7 @@
   }
  ],
  "all_links": 48,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://www.gov.il/BlobFolder/generalpage/destination_names_for_directions_signage/he/MOTWebsiteUpdate@mot.gov_.il_4561_Attachment1 (2).pdf",

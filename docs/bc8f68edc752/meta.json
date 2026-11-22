@@ -1,12 +1,12 @@
 {
  "url": "https://www.tabanow.co.il/%D7%AA%D7%91%D7%A2/%D7%9B%D7%9C%20%D7%9E%D7%97%D7%95%D7%96%20%D7%AA%22%D7%90/%D7%AA%D7%9E%22%D7%90%2023/%D7%90/4%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%202",
- "checked": "2026-11-15T14:54:26Z",
+ "checked": "2026-11-22T08:05:22Z",
  "status": 200,
  "final_url": "https://www.tabanow.co.il/%D7%AA%D7%91%D7%A2/%D7%9B%D7%9C%20%D7%9E%D7%97%D7%95%D7%96%20%D7%AA%22%D7%90/%D7%AA%D7%9E%22%D7%90%2023/%D7%90/4%20%D7%A9%D7%99%D7%A0%D7%95%D7%99%202",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
  "bytes": 11708,
- "secs": 0.923189,
+ "secs": 0.889958,
  "server": "",
  "tries": [
   200
@@ -22,6 +22,7 @@
   }
  ],
  "all_links": 19,
+ "new_file_links": [],
  "unknown_file_links": [
   {
    "url": "https://apps.land.gov.il/IturTabotData/takanonim/Artzi/9508887.pdf",

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/crosroad_warnning.pdf",
- "checked": "2026-11-15T16:04:44Z",
+ "checked": "2026-11-22T08:06:32Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/crosroad_warnning.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 170581,
- "secs": 0.89042,
+ "secs": 0.504338,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,16 +25,14 @@
  "fonts_uni_no": 13,
  "sha256": "eefca9d821385c0f7498b3afe1e6dad04b4c792259d11cd5b5b9840c538bc3a3",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/9d1b591859c5.pdf",
- "fix_log": [
-  "words=1047 unknown=84 fixed=23"
- ],
+ "text_pages": 12,
+ "ocr_pages": 11,
+ "layer": "mixed",
  "image_pages": 0,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 87,
  "lowconf_pages": [],
- "text_pages": 12,
- "ocr_pages": 11,
- "layer": "mixed"
+ "change": "unchanged"
 }

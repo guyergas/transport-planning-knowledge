@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/NISPAH.pdf",
- "checked": "2026-11-15T15:18:59Z",
+ "checked": "2026-11-22T08:05:36Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/planning_speed_bumps/he/NISPAH.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 179362,
- "secs": 0.353317,
+ "secs": 0.744361,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 9,
  "sha256": "eb987f531b8f493a33fc1747774a020241509da61790b98e5994c70093465b1c",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/e31f40aa4730.pdf",
- "fix_log": [
-  "words=367 unknown=16 fixed=7"
- ],
+ "text_pages": 6,
+ "ocr_pages": 6,
+ "layer": "broken",
  "image_pages": 6,
  "table_pages": 2,
  "figure_ocr_pages": 0,
@@ -36,7 +36,5 @@
  "lowconf_pages": [
   1
  ],
- "text_pages": 6,
- "ocr_pages": 6,
- "layer": "broken"
+ "change": "unchanged"
 }

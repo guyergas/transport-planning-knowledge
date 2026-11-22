@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/pt-preference-arrangements-procedure/he/pt-preference-arrangements-procedure-0126.pdf",
- "checked": "2026-11-15T16:04:23Z",
+ "checked": "2026-11-22T08:06:15Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/pt-preference-arrangements-procedure/he/pt-preference-arrangements-procedure-0126.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 475205,
- "secs": 1.243645,
+ "secs": 0.974325,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "8b731360a9f9",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 8,
  "pdf_meta": {
   "Title": "נוהל לקידום הסדרי העדפה לתחבורה ציבורית",
@@ -26,16 +25,14 @@
  "fonts_uni_no": 8,
  "sha256": "eb3f834ea95767394521ac963d097320fd75a957948032b29c84bf447f710411",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/8b731360a9f9.pdf",
- "fix_log": [
-  "words=579 unknown=32 fixed=2"
- ],
+ "text_pages": 8,
+ "ocr_pages": 2,
+ "layer": "mixed",
  "image_pages": 2,
  "table_pages": 0,
  "figure_ocr_pages": 0,
  "table_ocr_pages": 0,
  "ocr_conf_mean": 90,
  "lowconf_pages": [],
- "text_pages": 8,
- "ocr_pages": 2,
- "layer": "mixed"
+ "change": "unchanged"
 }
