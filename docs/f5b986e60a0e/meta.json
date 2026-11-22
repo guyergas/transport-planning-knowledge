@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/generalpage/railroad_crossing/he/RailroadCrossing_planning_instructions.pdf",
- "checked": "2026-11-15T14:58:23Z",
+ "checked": "2026-11-22T08:08:37Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/generalpage/railroad_crossing/he/RailroadCrossing_planning_instructions.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 33891525,
- "secs": 42.588345,
+ "secs": 24.939105,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 0,
  "sha256": "57b3da3786bd74b2650514dadd9cb741678abafcb6e3986af74772c3cc22814a",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f5b986e60a0e.pdf",
- "fix_log": [
-  "words=4205 unknown=390 fixed=82"
- ],
+ "text_pages": 145,
+ "ocr_pages": 145,
+ "layer": "broken",
  "image_pages": 145,
  "table_pages": 7,
  "figure_ocr_pages": 0,
@@ -48,7 +48,5 @@
   132,
   145
  ],
- "text_pages": 145,
- "ocr_pages": 145,
- "layer": "broken"
+ "change": "unchanged"
 }

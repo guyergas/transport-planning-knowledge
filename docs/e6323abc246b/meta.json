@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2020_HetkeneyTnuaMakotKvuimBenIroni_2020.pdf",
- "checked": "2026-11-15T15:12:10Z",
+ "checked": "2026-11-22T08:08:48Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/Traffic_and_safety_devices_Committee_publications_2020_HetkeneyTnuaMakotKvuimBenIroni_2020.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 4332093,
- "secs": 11.636001,
+ "secs": 11.731587,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,7 +14,6 @@
  "id": "e6323abc246b",
  "kind": "pdf",
  "result": "ok",
- "change": "changed",
  "pages": 98,
  "pdf_meta": {
   "Title": "?????? ?????? ?????? ?? ????? ?????? - ????",
@@ -26,13 +25,14 @@
  "fonts_uni_no": 4,
  "sha256": "51a113e5d5c10b14b72ef6140a1e6e7872f5b7848bc04ab61d2702274a00d008",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/e6323abc246b.pdf",
+ "text_pages": 98,
+ "ocr_pages": 0,
+ "layer": "ok",
  "image_pages": 31,
  "table_pages": 15,
  "figure_ocr_pages": 31,
  "table_ocr_pages": 0,
  "ocr_conf_mean": null,
  "lowconf_pages": [],
- "text_pages": 98,
- "ocr_pages": 0,
- "layer": "ok"
+ "change": "unchanged"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/policy/design_tests_minimizing_damage_soil_environment_urban_roads/he/07075810-461.pdf",
- "checked": "2026-11-15T15:24:09Z",
+ "checked": "2026-11-22T08:07:48Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/policy/design_tests_minimizing_damage_soil_environment_urban_roads/he/07075810-461.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 9482989,
- "secs": 17.307544,
+ "secs": 10.450156,
  "server": "cloudflare",
  "tries": [
   200
@@ -25,9 +25,9 @@
  "fonts_uni_no": 5,
  "sha256": "5595160deb6d0d4486402fd64b263306e9c950d66a0db9cf720ac2687c426eb8",
  "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/07d496a41944.pdf",
- "fix_log": [
-  "words=7526 unknown=1829 fixed=116"
- ],
+ "text_pages": 119,
+ "ocr_pages": 119,
+ "layer": "broken",
  "image_pages": 119,
  "table_pages": 10,
  "figure_ocr_pages": 0,
@@ -43,7 +43,5 @@
   108,
   111
  ],
- "text_pages": 119,
- "ocr_pages": 119,
- "layer": "broken"
+ "change": "unchanged"
 }

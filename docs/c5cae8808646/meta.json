@@ -1,12 +1,12 @@
 {
  "url": "https://www.eshed-mtl.co.il/uploads/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/hanhayot%20letaskirey%20betihut%207%2026.pdf",
- "checked": "2026-11-15T17:45:14Z",
+ "checked": "2026-11-22T08:06:44Z",
  "status": 200,
  "final_url": "https://www.eshed-mtl.co.il/uploads/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA/hanhayot%20letaskirey%20betihut%207%2026.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2214853,
- "secs": 1.356281,
+ "secs": 3.385582,
  "server": "microsoft-iis/10.0",
  "tries": [
   200
@@ -24,7 +24,7 @@
  },
  "fonts_uni_no": 11,
  "sha256": "af6458652b11d10966499b8da53fcf166456ca2282faecadc4f011c9b13bd67f",
- "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-eshed-mtl-co-il/4ec970d26cdd.pdf",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-eshed-mtl-co-il/c5cae8808646.pdf",
  "fix_log": [
   "words=3748 unknown=152 fixed=16"
  ],
@@ -37,5 +37,5 @@
  "text_pages": 86,
  "ocr_pages": 3,
  "layer": "mixed",
- "duplicate_of": "4ec970d26cdd"
+ "change": "reprocessed"
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://next.obudget.org/i/gov_decisions/2e46848c-fa7a-4a74-9750-e0c575c31ef0",
- "checked": "2026-11-15T14:53:48Z",
+ "checked": "2026-11-22T08:07:19Z",
  "status": 200,
  "final_url": "https://next.obudget.org/i/gov_decisions/2e46848c-fa7a-4a74-9750-e0c575c31ef0",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
- "bytes": 39260,
- "secs": 0.610642,
+ "bytes": 85131,
+ "secs": 11.167895,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,8 +14,9 @@
  "id": "1ab33feb7a5c",
  "kind": "html",
  "result": "ok",
- "title": "מפתח התקציב",
+ "title": "מפתח התקציב - פרסומי הממשלה - מפרט תיב\"מ (CAD) להכנת תוכניות תחבורתיות",
  "file_links": [],
- "all_links": 20,
+ "all_links": 23,
+ "new_file_links": [],
  "unknown_file_links": []
 }

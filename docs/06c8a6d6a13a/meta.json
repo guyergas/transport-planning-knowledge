@@ -1,12 +1,12 @@
 {
  "url": "https://next.obudget.org/i/gov_decisions/8446773e-ce7d-4e0e-8c99-9f33befe1bdf",
- "checked": "2026-11-15T14:52:27Z",
+ "checked": "2026-11-22T08:06:41Z",
  "status": 200,
  "final_url": "https://next.obudget.org/i/gov_decisions/8446773e-ce7d-4e0e-8c99-9f33befe1bdf",
  "content_type": "text/html; charset=utf-8",
  "redirects": 0,
- "bytes": 39260,
- "secs": 1.736705,
+ "bytes": 81189,
+ "secs": 0.872076,
  "server": "cloudflare",
  "tries": [
   200
@@ -14,9 +14,9 @@
  "id": "06c8a6d6a13a",
  "kind": "html",
  "result": "ok",
- "title": "מפתח התקציב",
+ "title": "מפתח התקציב - פרסומי הממשלה - הנחיות לתכנון הסדרי תנועה זמניים באתרי עבודה עירוניים",
  "file_links": [],
- "all_links": 20,
+ "all_links": 25,
  "new_file_links": [],
  "unknown_file_links": []
 }

@@ -1,12 +1,12 @@
 {
  "url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/469cee15-72fe-4bfb-b807-188220289c44.pdf",
- "checked": "2026-11-15T16:57:20Z",
+ "checked": "2026-11-22T08:08:51Z",
  "status": 200,
  "final_url": "https://www.gov.il/BlobFolder/guide/design_traffic_devices/he/469cee15-72fe-4bfb-b807-188220289c44.pdf",
  "content_type": "application/pdf",
  "redirects": 0,
  "bytes": 2505275,
- "secs": 3.224059,
+ "secs": 3.029241,
  "server": "cloudflare",
  "tries": [
   200
