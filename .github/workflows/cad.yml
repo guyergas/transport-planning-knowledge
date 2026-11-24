@@ -23,10 +23,10 @@ jobs:
         run: |
           sudo apt-get update -q
           sudo apt-get install -y -q librsvg2-bin unzip
-          pip install -q ezdxf matplotlib
+          pip install -q ezdxf matplotlib || pip install -q --break-system-packages ezdxf matplotlib
           sudo apt-get install -y -q libredwg-tools || sudo apt-get install -y -q libredwg-utils || {
             sudo apt-get install -y -q build-essential
-            curl -sSL -o /tmp/lr.tar.xz https://github.com/LibreDWG/libredwg/releases/download/0.13.3/libredwg-0.13.3.tar.xz
+            curl -sSL --retry 4 --retry-delay 10 -o /tmp/lr.tar.xz https://github.com/LibreDWG/libredwg/releases/download/0.13.3/libredwg-0.13.3.tar.xz
             tar -xf /tmp/lr.tar.xz -C /tmp && cd /tmp/libredwg-0.13.3 && ./configure -q --disable-python --disable-bindings >/dev/null && make -j4 -s >/dev/null && sudo make install -s >/dev/null && sudo ldconfig; }
           which dwg2SVG dwgread dwg2dxf
       - name: Collect inputs
