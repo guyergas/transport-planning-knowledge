@@ -30,7 +30,7 @@ newer doc in record) · snippet. Then read the hit pages (and the page image whe
 The Google Sheet Transport_Planning_Records_Index and the guide doc Transport_Planning_Knowledge_Index were retired on 16.11.2026 (Guy).
 This file is the only guide; the repo is the only source of truth. The project spec (Google Doc 1sLjsTAN_ESW3tVmxxfpehCXMSwnOcADuAySq8wXlW4Q,
 sections 1 and 8) points here. When repo logic changes, update this file in the same commit.
-- `sheet/records.jsonl` — 223 records: id ("שורה N" / "מקור נוסף NNN"), title, section, status.
+- `sheet/records.jsonl` — 224 records: id ("שורה N" / "מקור נוסף NNN"), title, section, status (+ `status_note`, `status_checked` when reviewed against the repo).
 - `sheet/links.jsonl` — every link of every record (record, desc, url; `replaced` = old URL + decision). Edit THIS file to add/fix links.
 - `sheet/replacements.jsonl` — log of Guy's replacement decisions (old → new, kind, who/when).
 - index.jsonl per doc joins these: `sheet_records`, `sheet_desc`, `edition_status`, `newer_in_record`; titles fall back to the record title; when several documents of one record would share it, the document's own link description is appended (`<record title> – <desc>`).
@@ -106,6 +106,7 @@ Results: `results/<name>[.<shard>].jsonl` (status; result ok / redirect / error 
 A request name is processed once; to re-run, use a new name. Never edit derived files (index.jsonl, sections, search.json).
 
 ## Pipeline (tools/fetch.py)
+Excel workbooks (.xlsx) → one page per sheet, rows as `a | b | c` (openpyxl), original in Releases as `<id>.xlsx`.
 A cut-off transfer (curl error with HTTP 200) counts as transient and is retried; a PDF with 0 pages never replaces the stored copy (`error (unreadable pdf)`).
 curl (browser UA) → on 403/challenge: headless Chromium (Playwright) → PDF: pdffonts + per-page text-layer check
 (reversed / junk / dropped final letters / empty → OCR) → tesseract tessdata_best heb+eng psm4 150dpi + refine.py → heb_ocr_fix.py (hunspell he_IL).

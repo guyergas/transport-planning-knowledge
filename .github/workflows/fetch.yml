@@ -55,7 +55,7 @@ jobs:
         run: |
           sudo apt-get update -q
           sudo apt-get install -y -q poppler-utils tesseract-ocr hunspell hunspell-he hunspell-en-us python3-pil
-          pip install -q playwright
+          pip install -q playwright openpyxl
           python3 -m playwright install --with-deps chromium >/dev/null
       - uses: actions/cache@v4
         with:

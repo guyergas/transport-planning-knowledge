@@ -116,6 +116,13 @@ def classify(rec, path):
     """Accessible / error / redirect / login-required, plus kind."""
     head = open(path, 'rb').read(2048) if os.path.exists(path) else b''
     rec['kind'] = 'pdf' if head.startswith(b'%PDF') else 'zip' if head.startswith(b'PK') else 'html' if b'<' in head[:200] else 'other'
+    if rec['kind'] == 'zip':
+        try:
+            import zipfile
+            if 'xl/workbook.xml' in zipfile.ZipFile(path).namelist():
+                rec['kind'] = 'xlsx'
+        except Exception:
+            pass
     s = rec.get('status', 0)
     final = rec.get('final_url', '')
     moved = final and urllib.parse.urlsplit(final).path != urllib.parse.urlsplit(rec['url']).path
@@ -263,6 +270,39 @@ def unchanged(path, did):
     old = json.load(open(mf))
     new = hashlib.sha256(open(path, 'rb').read()).hexdigest()
     return old if old.get('sha256') == new else None
+
+
+def upload_asset(rec, path, did, ext):
+    """Original file -> Release src-<host> as <docid>.<ext>."""
+    host = re.sub(r'[^a-z0-9]+', '-', urllib.parse.urlsplit(rec['url']).netloc.lower()).strip('-') or 'inbox'
+    tag = f'src-{host}'
+    ensure_release(tag)
+    named = os.path.join(os.path.dirname(path), f'{did}.{ext}')
+    if not os.path.exists(named):
+        os.link(path, named)
+    up = sh(['gh', 'release', 'upload', tag, named, '--clobber', '-R', REPO])
+    if up.returncode:
+        rec['release_error'] = up.stderr.strip()[-200:]
+    else:
+        rec['asset'] = f'https://github.com/{REPO}/releases/download/{tag}/{did}.{ext}'
+
+
+def process_xlsx(rec, path, did):
+    """Excel workbook -> one page per sheet, rows as ' | '-joined cells (text only; no OCR needed)."""
+    import openpyxl
+    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
+    pages = []
+    for i, ws in enumerate(wb.worksheets, 1):
+        lines = []
+        for row in ws.iter_rows(values_only=True):
+            cells = [re.sub(r'\s+', ' ', str(c)).strip() for c in row if c is not None and str(c).strip()]
+            if cells:
+                lines.append(' | '.join(cells))
+        pages.append(f'=== PAGE {i} === [text-layer; sheet={ws.title}]\n' + '\n'.join(lines) + '\n')
+    rec.update(pages=len(pages), sheets=[ws.title for ws in wb.worksheets], text_pages=len(pages), ocr_pages=0, layer='ok',
+               sha256=hashlib.sha256(open(path, 'rb').read()).hexdigest())
+    upload_asset(rec, path, did, 'xlsx')
+    return '\n'.join(pages)
 
 
 def process_pdf(rec, path, pages_spec, did):
@@ -784,6 +824,8 @@ def finalize(rec, path, opts, did, req, text):
         if old:
             rec.update({k: old.get(k) for k in ('pages', 'pdf_meta', 'fonts_uni_no', 'sha256', 'asset', 'text_pages', 'ocr_pages', 'layer', 'image_pages', 'table_pages', 'figure_ocr_pages', 'table_ocr_pages', 'ocr_conf_mean', 'lowconf_pages')}, change='unchanged')
             text = None  # keep existing text.md / sections.json
+        elif rec['kind'] == 'xlsx' and rec.get('status') == 200:
+            text = process_xlsx(rec, path, did)
         elif rec['kind'] == 'pdf' and rec.get('status') == 200:
             prev = json.load(open(os.path.join(d, 'meta.json'))).get('sha256') if os.path.exists(os.path.join(d, 'meta.json')) else None
             text = process_pdf(rec, path, opts.get('pages'), did)
@@ -804,9 +846,9 @@ def finalize(rec, path, opts, did, req, text):
         if prev is not None:
             rec['new_file_links'] = [x for x in rec['file_links'] if x['url'] not in prev]
         rec['unknown_file_links'] = [x for x in rec['file_links'] if x['url'].split('#')[0] not in KNOWN]
-    if rec.get('process_error') and rec['kind'] == 'pdf':
-        rec['result'] = 'error (unreadable pdf)'  # keep the previous meta.json / text.md / asset untouched
-    elif rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
+    if rec.get('process_error') and rec['kind'] in ('pdf', 'xlsx'):
+        rec['result'] = f"error (unreadable {rec['kind']})"  # keep the previous meta.json / text.md / asset untouched
+    elif rec['kind'] in ('pdf', 'xlsx', 'html', 'zip') and rec.get('status') == 200:
         os.makedirs(d, exist_ok=True)
         json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)
 
