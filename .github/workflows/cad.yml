@@ -4,7 +4,7 @@ name: cad
 on:
   push:
     branches: [main]
-    paths: ['cad/in/**', 'cad/sources.txt', '.github/workflows/cad.yml']
+    paths: ['cad/in/**', 'cad/sources.txt', '.github/workflows/cad.yml', 'tools/cad_render.py']
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,11 +23,12 @@ jobs:
         run: |
           sudo apt-get update -q
           sudo apt-get install -y -q librsvg2-bin unzip
+          pip install -q ezdxf matplotlib
           sudo apt-get install -y -q libredwg-tools || sudo apt-get install -y -q libredwg-utils || {
             sudo apt-get install -y -q build-essential
             curl -sSL -o /tmp/lr.tar.xz https://github.com/LibreDWG/libredwg/releases/download/0.13.3/libredwg-0.13.3.tar.xz
             tar -xf /tmp/lr.tar.xz -C /tmp && cd /tmp/libredwg-0.13.3 && ./configure -q --disable-python --disable-bindings >/dev/null && make -j4 -s >/dev/null && sudo make install -s >/dev/null && sudo ldconfig; }
-          which dwg2SVG dwgread
+          which dwg2SVG dwgread dwg2dxf
       - name: Collect inputs
         shell: bash {0}
         run: |
@@ -52,8 +53,8 @@ jobs:
           for f in /tmp/cad/*.dwg /tmp/cad/*.DWG; do
             [ -f "$f" ] || continue
             n=$(basename "${f%.*}" | tr ' /' '__')
-            if timeout 300 dwg2SVG "$f" > "cad/out/$n.svg" 2> "cad/out/$n.log" && [ -s "cad/out/$n.svg" ]; then
-              rsvg-convert -w 2400 -b white "cad/out/$n.svg" -o "cad/out/$n.png" 2>> "cad/out/$n.log" || true
+            rm -f "cad/out/$n.svg"
+            if timeout 300 dwg2dxf -y -o "/tmp/$n.dxf" "$f" > "cad/out/$n.log" 2>&1 && timeout 600 python3 tools/cad_render.py "/tmp/$n.dxf" "cad/out/$n" >> "cad/out/$n.log" 2>&1; then
               timeout 300 dwgread -O JSON -o "/tmp/$n.json" "$f" 2>/dev/null && python3 - "$n" "/tmp/$n.json" >> cad/out/index.tsv <<'PY' || printf '%s\tok\t\n' "$n" >> cad/out/index.tsv
           import json, sys
           n, p = sys.argv[1], sys.argv[2]

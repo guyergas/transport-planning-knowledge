@@ -89,7 +89,7 @@ Big data files (CSV/ZIP/PBF/XLSX) that projects clip locally — no OCR, no inde
 - Current: `tripscelular_1819` (cellular OD 2018–19 v1.3), `gtfs`, `cbs_accidents_puf`, `cbs_localities`, `osm_israel`, bicycle: `bike_infra_plan`, `bike_infra_exist`, `bike_ofneidan`, `bike_metrofan`, `bike_net_tlv`. Data dictionaries/reports (PDF) go through the normal document pipeline (requests/).
 
 ## CAD previews (DWG → SVG/PNG)
-Workflow `cad`: `cad/in/*.dwg` + `cad/sources.txt` (URLs of .dwg/.zip) → LibreDWG `dwg2SVG` → `cad/out/<name>.svg|png` +
+Workflow `cad`: `cad/in/*.dwg` + `cad/sources.txt` (URLs of .dwg/.zip) → LibreDWG `dwg2dxf` → `tools/cad_render.py` (ezdxf + matplotlib) → `cad/out/<name>.png` + `<name>.txt` (texts/blocks with layer and position) +
 `cad/out/index.tsv` (block names + texts per drawing). Used to see official MOT symbols (legends, blocks) for the report schematics.
 Source: MOT CAD spec package (draft 2021-08-19, record שורה 169); 2024 blocks/production files from gov.il/he/pages/cad and /production_files.
 
