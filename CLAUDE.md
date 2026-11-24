@@ -111,6 +111,7 @@ Results: `results/<name>[.<shard>].jsonl` (status; result ok / redirect / error 
 A request name is processed once; to re-run, use a new name. Never edit derived files (index.jsonl, sections, search.json).
 
 ## Pipeline (tools/fetch.py)
+Zip files → kept as Release asset `<id>.zip` + `zip_files` list in meta.json (not indexed).
 Excel workbooks (.xlsx) → one page per sheet, rows as `a | b | c` (openpyxl), original in Releases as `<id>.xlsx`; cell hyperlinks → `file_links` (same discovery as HTML pages).
 A cut-off transfer (curl error with HTTP 200) or an empty 200 (0 bytes) counts as transient and is retried; a PDF with 0 pages never replaces the stored copy (`error (unreadable pdf)`).
 curl (browser UA) → on 403/challenge: headless Chromium (Playwright) → PDF: pdffonts + per-page text-layer check

@@ -835,6 +835,14 @@ def finalize(rec, path, opts, did, req, text):
             text = None  # keep existing text.md / sections.json
         elif rec['kind'] == 'xlsx' and rec.get('status') == 200:
             text = process_xlsx(rec, path, did)
+        elif rec['kind'] == 'zip' and rec.get('status') == 200:  # archives (e.g. CAD packages): keep the file, list its contents
+            import zipfile
+            rec['sha256'] = hashlib.sha256(open(path, 'rb').read()).hexdigest()
+            try:
+                rec['zip_files'] = zipfile.ZipFile(path).namelist()[:2000]
+            except Exception as e:
+                rec['zip_error'] = repr(e)[:120]
+            upload_asset(rec, path, did, 'zip')
         elif rec['kind'] == 'pdf' and rec.get('status') == 200:
             prev = json.load(open(os.path.join(d, 'meta.json'))).get('sha256') if os.path.exists(os.path.join(d, 'meta.json')) else None
             text = process_pdf(rec, path, opts.get('pages'), did)
