@@ -343,6 +343,27 @@
 {"id": "08159f39b56f", "num": "2.3", "title": "מאפייני הדרכים השונות", "chapter": "פרק 2 — מדיניות תכן בסיסית", "start": 11, "level": 2, "end": 18}
 {"id": "08159f39b56f", "num": "2.3.1", "title": "מאפיינים נוספים בהתאם לחלוקה התפקודית", "chapter": "פרק 2 — מדיניות תכן בסיסית", "start": 11, "level": 3, "end": 12}
 {"id": "08159f39b56f", "num": "2.3.2", "title": "תיאור הדרכים השונות בסיווג התפקודי", "chapter": "פרק 2 — מדיניות תכן בסיסית", "start": 13, "level": 3, "end": 18}
+{"id": "0992f412cfab", "num": "4", "title": "פתח דבר", "chapter": null, "start": 6, "level": 1, "end": 6}
+{"id": "0992f412cfab", "num": "5", "title": "הקדמה", "chapter": null, "start": 6, "level": 1, "end": 6}
+{"id": "0992f412cfab", "num": "6", "title": "תכן העניינים", "chapter": null, "start": 6, "level": 1, "end": 250}
+{"id": "0992f412cfab", "num": "3.1", "title": "השיקולים", "chapter": null, "start": 18, "level": 2, "end": 18}
+{"id": "0992f412cfab", "num": "3.2", "title": "המידות", "chapter": null, "start": 18, "level": 2, "end": 18}
+{"id": "0992f412cfab", "num": "3.3", "title": "אופן המדידה", "chapter": null, "start": 18, "level": 2, "end": 250}
+{"id": "0992f412cfab", "num": "7", "title": "במצב זה אין מנוס", "chapter": null, "start": 251, "level": 1, "end": 556}
+{"id": "0992f412cfab", "num": "1.0", "title": "רכב מנועי עד  4 טון", "chapter": null, "start": 325, "level": 2, "end": 325}
+{"id": "0992f412cfab", "num": "1.5", "title": "תלת אופנוע", "chapter": null, "start": 325, "level": 2, "end": 325}
+{"id": "0992f412cfab", "num": "3.0", "title": "תלת אופנים", "chapter": null, "start": 325, "level": 2, "end": 325}
+{"id": "0992f412cfab", "num": "1.8", "title": "משאית בעלת  2 צירים", "chapter": null, "start": 325, "level": 2, "end": 325}
+{"id": "0992f412cfab", "num": "2.7", "title": "רכב מורכב/מחובר", "chapter": null, "start": 325, "level": 2, "end": 325}
+{"id": "0992f412cfab", "num": "2.0", "title": "רכב מיוחד", "chapter": null, "start": 325, "level": 2, "end": 325}
+{"id": "0992f412cfab", "num": "1.8", "title": "אוטובוס", "chapter": null, "start": 325, "level": 2, "end": 358}
+{"id": "0992f412cfab", "num": "2.70", "title": "במקביל                   3.50                           אזורי מיתון", "chapter": null, "start": 359, "level": 2, "end": 448}
+{"id": "0992f412cfab", "num": "2.30", "title": "2.50מ'             -לנתיב חניה יהיה בתחום של", "chapter": null, "start": 449, "level": 2, "end": 449}
+{"id": "0992f412cfab", "num": "2.70", "title": "3.00מ'                         -לתחנת אוטובוס", "chapter": null, "start": 449, "level": 2, "end": 556}
+{"id": "0992f412cfab", "num": "א'", "title": "הגדרות", "chapter": "פרק א' — הגדרות", "start": 557, "level": 0, "end": 557}
+{"id": "0992f412cfab", "num": "ב'", "title": "שלט עסקי", "chapter": "פרק ב' — שלט עסקי", "start": 557, "level": 0, "end": 558}
+{"id": "0992f412cfab", "num": "ד'", "title": "כללי", "chapter": "פרק ד' — כללי", "start": 559, "level": 0, "end": 578}
+{"id": "0992f412cfab", "num": "40", "title": "ס\"מ בחלק הרחב", "chapter": "פרק ד' — כללי", "start": 561, "level": 1, "end": 578}
 {"id": "09bfdc235d85", "num": "0", "title": "תחומי אחריות והדדיות", "chapter": "פרק 0 — תחומי אחריות והדדיות", "start": 1, "level": 0, "end": 8}
 {"id": "0a2ae8231be6", "num": "1", "title": "כללי. 1", "chapter": null, "start": 4, "level": 1, "end": 4}
 {"id": "0a2ae8231be6", "num": "2", "title": "שלבי העבודה. 2", "chapter": null, "start": 4, "level": 1, "end": 4}
@@ -7905,6 +7926,7 @@
 {"id": "f31deb3fe044", "num": "4", "title": "בביצוע", "chapter": null, "start": 26, "level": 1, "end": 26}
 {"id": "f31deb3fe044", "num": "5", "title": "בוצע", "chapter": null, "start": 26, "level": 1, "end": 27}
 {"id": "f31deb3fe044", "num": "6", "title": "רחוב עירוני משני (ללא מפרדה בין כיווני הנסיעה)", "chapter": null, "start": 28, "level": 1, "end": 38}
+{"id": "f42b49fa9c2a", "num": "12", "title": "Meters הו Length", "chapter": null, "start": 34, "level": 1, "end": 93}
 {"id": "f4b24f2bb67d", "num": "5", "title": "שילוב הליכה במדיניות מקדמת בריאות (לאומית ומקומית) וכן", "chapter": null, "start": 7, "level": 1, "end": 9}
 {"id": "f4b24f2bb67d", "num": "2", "title": "מפרט את המורכבות האינהרנטית של", "chapter": "פרק 2 — מפרט את המורכבות האינהרנטית של", "start": 10, "level": 0, "end": 46}
 {"id": "f4b24f2bb67d", "num": "4", "title": "מציג בקצרה חלק מהפעילות בישראל בנושא", "chapter": "פרק 2 — מפרט את המורכבות האינהרנטית של", "start": 10, "level": 1, "end": 29}
