@@ -290,7 +290,7 @@ def upload_asset(rec, path, did, ext):
 def process_xlsx(rec, path, did):
     """Excel workbook -> one page per sheet, rows as ' | '-joined cells (text only; no OCR needed)."""
     import openpyxl
-    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
+    wb = openpyxl.load_workbook(open(path, 'rb'), read_only=True, data_only=True)  # file object: temp path has no .xlsx extension
     pages = []
     for i, ws in enumerate(wb.worksheets, 1):
         lines = []
