@@ -54,6 +54,8 @@ def fetch(url, dest):
     rec.update(status=int(code), final_url=final, content_type=ctype, redirects=int(nred), bytes=int(float(size)), secs=float(t))
     if r.returncode:
         rec['error'] = r.stderr.strip()[-300:]
+        if rec['status'] < 400:  # transfer cut off mid-file (e.g. curl 18/56): treat as transient, never as a good file
+            rec['http_status'], rec['status'] = rec['status'], 0
     if rec['status'] >= 400 and os.path.exists(dest):
         rec['body_head'] = re.sub(r'\s+', ' ', open(dest, 'rb').read(3000).decode('utf-8', 'replace'))[:400]
     try:
@@ -269,6 +271,8 @@ def process_pdf(rec, path, pages_spec, did):
     meta = {k: (re.findall(rf'^{k}:\s+(.+)$', info, re.M) or [''])[0].strip() for k in ('Title', 'Producer', 'Creator', 'CreationDate', 'ModDate')}
     fonts = sh(['pdffonts', path]).stdout
     uni_no = sum(1 for l in fonts.splitlines()[2:] if re.search(r'\s(yes|no)\s+(yes|no)\s+(yes|no)\s+\d+\s+\d+\s*$', l) and l.split()[-3] == 'no')
+    if n == 0:  # truncated or broken file: stop before it replaces the stored copy
+        raise ValueError('unreadable PDF (pdfinfo: 0 pages): ' + sh(['pdfinfo', path]).stderr.strip()[-120:])
     rec.update(pages=n, pdf_meta=meta, fonts_uni_no=uni_no, sha256=hashlib.sha256(open(path, 'rb').read()).hexdigest())
     # Release asset (originals; repo itself keeps only text)
     host = re.sub(r'[^a-z0-9]+', '-', urllib.parse.urlsplit(rec['url']).netloc.lower()).strip('-') or 'inbox'
@@ -800,7 +804,9 @@ def finalize(rec, path, opts, did, req, text):
         if prev is not None:
             rec['new_file_links'] = [x for x in rec['file_links'] if x['url'] not in prev]
         rec['unknown_file_links'] = [x for x in rec['file_links'] if x['url'].split('#')[0] not in KNOWN]
-    if rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
+    if rec.get('process_error') and rec['kind'] == 'pdf':
+        rec['result'] = 'error (unreadable pdf)'  # keep the previous meta.json / text.md / asset untouched
+    elif rec['kind'] in ('pdf', 'html', 'zip') and rec.get('status') == 200:
         os.makedirs(d, exist_ok=True)
         json.dump(rec, open(os.path.join(d, 'meta.json'), 'w'), ensure_ascii=False, indent=1)
 
