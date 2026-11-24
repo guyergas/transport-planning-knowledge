@@ -56,6 +56,8 @@ def fetch(url, dest):
         rec['error'] = r.stderr.strip()[-300:]
         if rec['status'] < 400:  # transfer cut off mid-file (e.g. curl 18/56): treat as transient, never as a good file
             rec['http_status'], rec['status'] = rec['status'], 0
+    if rec['status'] == 200 and rec['bytes'] == 0:  # empty 200 (gov.il soft block): transient, then browser / mirrors / archive
+        rec['http_status'], rec['status'], rec['error'] = 200, 0, 'empty body (0 bytes)'
     if rec['status'] >= 400 and os.path.exists(dest):
         rec['body_head'] = re.sub(r'\s+', ' ', open(dest, 'rb').read(3000).decode('utf-8', 'replace'))[:400]
     try:
