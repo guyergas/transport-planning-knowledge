@@ -27,6 +27,10 @@
 {"id": "0206bf5a121d", "num": "7.3", "title": "תקציב ומימון", "chapter": null, "start": 37, "level": 2, "end": 37}
 {"id": "0206bf5a121d", "num": "7.9", "title": "המלצות", "chapter": null, "start": 38, "level": 2, "end": 54}
 {"id": "0206bf5a121d", "num": "3", "title": "רכבות", "chapter": null, "start": 55, "level": 1, "end": 64}
+{"id": "0267d3c4cc53", "num": "20", "title": "נגישות", "chapter": "פרק 20 — נגישות", "start": 1, "level": 0, "end": 22}
+{"id": "02a59eb57387", "num": "17", "title": "זיהום אויר", "chapter": "פרק 17 — זיהום אויר", "start": 1, "level": 0, "end": 8}
+{"id": "030271bbe536", "num": "18", "title": "זיהום קרקע ומים", "chapter": "פרק 18 — זיהום קרקע ומים", "start": 1, "level": 0, "end": 9}
+{"id": "030271bbe536", "num": "2", "title": "ניתוח רמת מורכבות", "chapter": "פרק 18 — זיהום קרקע ומים", "start": 3, "level": 1, "end": 9}
 {"id": "038f349a8070", "num": "1.0", "title": "מהדורה", "chapter": null, "start": 1, "level": 2, "end": 6}
 {"id": "038f349a8070", "num": "0", "title": "הקדמה ודרישות כלליות", "chapter": "פרק 0 — הקדמה ודרישות כלליות", "start": 7, "level": 0, "end": 8}
 {"id": "038f349a8070", "num": "1", "title": "תשתיות למערכת רמזור בצומת", "chapter": "פרק 1 — תשתיות למערכת רמזור בצומת", "start": 9, "level": 0, "end": 32}
@@ -339,6 +343,7 @@
 {"id": "08159f39b56f", "num": "2.3", "title": "מאפייני הדרכים השונות", "chapter": "פרק 2 — מדיניות תכן בסיסית", "start": 11, "level": 2, "end": 18}
 {"id": "08159f39b56f", "num": "2.3.1", "title": "מאפיינים נוספים בהתאם לחלוקה התפקודית", "chapter": "פרק 2 — מדיניות תכן בסיסית", "start": 11, "level": 3, "end": 12}
 {"id": "08159f39b56f", "num": "2.3.2", "title": "תיאור הדרכים השונות בסיווג התפקודי", "chapter": "פרק 2 — מדיניות תכן בסיסית", "start": 13, "level": 3, "end": 18}
+{"id": "09bfdc235d85", "num": "0", "title": "תחומי אחריות והדדיות", "chapter": "פרק 0 — תחומי אחריות והדדיות", "start": 1, "level": 0, "end": 8}
 {"id": "0a2ae8231be6", "num": "1", "title": "כללי. 1", "chapter": null, "start": 4, "level": 1, "end": 4}
 {"id": "0a2ae8231be6", "num": "2", "title": "שלבי העבודה. 2", "chapter": null, "start": 4, "level": 1, "end": 4}
 {"id": "0a2ae8231be6", "num": "3", "title": "מחירי העבודה. 4", "chapter": null, "start": 4, "level": 1, "end": 4}
@@ -561,6 +566,7 @@
 {"id": "0f184443ca74", "num": "4.4.3", "title": "שילוב אופניים במעברים עיליים ותחתיים", "chapter": "פרק 4 — / רמות", "start": 85, "level": 3, "end": 98}
 {"id": "0f184443ca74", "num": "1", "title": "! רוחב שביל האופניים", "chapter": "פרק 4 — / רמות", "start": 99, "level": 1, "end": 116}
 {"id": "0f184443ca74", "num": "2", "title": "במידה וניתן להרחיב את", "chapter": "פרק 4 — / רמות", "start": 117, "level": 1, "end": 195}
+{"id": "0f22891438fd", "num": "27", "title": "אדריכלות גשרים ומבנים", "chapter": "פרק 27 — אדריכלות גשרים ומבנים", "start": 1, "level": 0, "end": 20}
 {"id": "0f919100a5ee", "num": "1.1", "title": "כללי", "chapter": null, "start": 6, "level": 2, "end": 6}
 {"id": "0f919100a5ee", "num": "1.2", "title": "מטרת ההנחיות", "chapter": null, "start": 7, "level": 2, "end": 7}
 {"id": "0f919100a5ee", "num": "1.3", "title": "מונחים והגדרות", "chapter": null, "start": 7, "level": 2, "end": 8}
@@ -655,6 +661,8 @@
 {"id": "134d4dbbb48a", "num": "א'", "title": "זיהוי הולכי רגל", "chapter": "פרק א' — זיהוי הולכי רגל", "start": 5, "level": 0, "end": 11}
 {"id": "134d4dbbb48a", "num": "ב'", "title": "חיווי להולכי רגל", "chapter": "פרק ב' — חיווי להולכי רגל", "start": 12, "level": 0, "end": 14}
 {"id": "134d4dbbb48a", "num": "ג'", "title": "חיווי אזהרה לנהגים", "chapter": "פרק ג' — חיווי אזהרה לנהגים", "start": 15, "level": 0, "end": 22}
+{"id": "150ea99cb0ef", "num": "21", "title": "גיאולוגיה הנדסית", "chapter": "פרק 21 — גיאולוגיה הנדסית", "start": 1, "level": 0, "end": 4}
+{"id": "150ea99cb0ef", "num": "סי", "title": "יסמולוגיה בחינה של גורמי הסיכון על פי", "chapter": "פרק סי — יסמולוגיה בחינה של גורמי הסיכון על פי", "start": 5, "level": 0, "end": 12}
 {"id": "162d585b6c2b", "num": "2", "title": "oמופעי הולכי רגל", "chapter": null, "start": 11, "level": 1, "end": 39}
 {"id": "168358a81605", "num": "2.1.1", "title": "בניית תיק תחנה", "chapter": null, "start": 6, "level": 3, "end": 6}
 {"id": "168358a81605", "num": "2.1.2", "title": "הקמת ועדת היגוי", "chapter": null, "start": 7, "level": 3, "end": 7}
@@ -689,6 +697,12 @@
 {"id": "17bfe9eab7d5", "num": "4", "title": "מצבת הרמזורים בישראל       הרמזור                       5", "chapter": null, "start": 36, "level": 1, "end": 46}
 {"id": "17bfe9eab7d5", "num": "3.1", "title": "הוספת תקנה 16א בענין ביצוע ניסויים              סעיף", "chapter": null, "start": 45, "level": 2, "end": 46}
 {"id": "17bfe9eab7d5", "num": "3.3.7", "title": "עדכון מספר המינויים לרשות תימרור             סעיף", "chapter": null, "start": 45, "level": 3, "end": 46}
+{"id": "185d5a2b40ed", "num": "28.1", "title": "מגדיר משימות", "chapter": null, "start": 2, "level": 2, "end": 3}
+{"id": "185d5a2b40ed", "num": "28.1.1", "title": "תכנון ראשוני תאורה ואספקת אנרגיה למערכות", "chapter": null, "start": 2, "level": 3, "end": 2}
+{"id": "185d5a2b40ed", "num": "28.1.2", "title": "תכנון מוקדם תאורה ואספקת אנרגיה למערכות", "chapter": null, "start": 2, "level": 3, "end": 3}
+{"id": "185d5a2b40ed", "num": "10.5", "title": "• אומדן תאורה לשלב סופי", "chapter": null, "start": 4, "level": 2, "end": 15}
+{"id": "185d5a2b40ed", "num": "28.1.4", "title": "תכנון מוקדם – העתקת מערכות חשמל (חח\"י)", "chapter": null, "start": 6, "level": 3, "end": 6}
+{"id": "185d5a2b40ed", "num": "28.1.5", "title": "תכנון מפורט להעתקת מערכות חשמל (חח\"י)", "chapter": null, "start": 7, "level": 3, "end": 15}
 {"id": "190523ca5099", "num": "4", "title": "תנןפסיהאטה", "chapter": null, "start": 2, "level": 1, "end": 23}
 {"id": "190523ca5099", "num": "4.2", "title": "בחירת סוגי הפסים להתקנה - פרמטרים מומלצים", "chapter": null, "start": 7, "level": 2, "end": 15}
 {"id": "190523ca5099", "num": "4.3", "title": "ניקוז ברחובות בהם מותקנים פסי האטה", "chapter": null, "start": 16, "level": 2, "end": 16}
@@ -808,6 +822,7 @@
 {"id": "1cdfb6e16924", "num": "6.4.7.1", "title": "תכולת התיעוד", "chapter": "פרק 6 — בקר הרמזור", "start": 45, "level": 4, "end": 45}
 {"id": "1cdfb6e16924", "num": "6.4.7.2", "title": "ספר המפעיל", "chapter": "פרק 6 — בקר הרמזור", "start": 45, "level": 4, "end": 46}
 {"id": "1cdfb6e16924", "num": "6.4.8", "title": "סימון", "chapter": "פרק 6 — בקר הרמזור", "start": 47, "level": 3, "end": 90}
+{"id": "1d6ad2ccf7ee", "num": "5", "title": "תכנון הסדרי תנועה בזמן ביצוע", "chapter": "פרק 5 — תכנון הסדרי תנועה בזמן ביצוע", "start": 1, "level": 0, "end": 8}
 {"id": "1ed378b1acb1", "num": "ד'", "title": "תכנון חניונים", "chapter": "פרק ד' — תכנון חניונים", "start": 1, "level": 0, "end": 84}
 {"id": "1ed378b1acb1", "num": "4", "title": "מידות משטחי חניה נצבת בין עמודים וקירות יי", "chapter": "פרק ד' — תכנון חניונים", "start": 5, "level": 1, "end": 5}
 {"id": "1ed378b1acb1", "num": "5", "title": "מדדות משטחי חניה אלכסונית PI עמודים וקירות הייו", "chapter": "פרק ד' — תכנון חניונים", "start": 5, "level": 1, "end": 84}
@@ -1999,6 +2014,8 @@
 {"id": "3a203846678a", "num": "14.6.3", "title": "חתכי ביניים", "chapter": "פרק 14 — מעברים אקולוגים בדרכים", "start": 49, "level": 3, "end": 49}
 {"id": "3a203846678a", "num": "14.6.4", "title": "דרך דו-מסלולית", "chapter": "פרק 14 — מעברים אקולוגים בדרכים", "start": 49, "level": 3, "end": 55}
 {"id": "3a203846678a", "num": "14", "title": "מעברים אקולוגים בדרכים 14-47", "chapter": "פרק 14 — מעברים אקולוגים בדרכים 14-47", "start": 56, "level": 0, "end": 67}
+{"id": "3af7c74ac807", "num": "12", "title": "אגרונום", "chapter": "פרק 12 — אגרונום", "start": 1, "level": 0, "end": 11}
+{"id": "3af7c74ac807", "num": "10", "title": "הנחיות לתחזוקה שוטפת של", "chapter": "פרק 12 — אגרונום", "start": 8, "level": 1, "end": 11}
 {"id": "3b5808b96e14", "num": "3.5.1", "title": "רשות תימרור מרכזית", "chapter": null, "start": 8, "level": 3, "end": 8}
 {"id": "3b5808b96e14", "num": "3.5.2", "title": "רשות תמרור מקומית לניהול תנועה", "chapter": null, "start": 8, "level": 3, "end": 8}
 {"id": "3b5808b96e14", "num": "3.5.3", "title": "רשות תימרור מקומית", "chapter": null, "start": 8, "level": 3, "end": 8}
@@ -2388,6 +2405,17 @@
 {"id": "432fc5b522f7", "num": "3.2.3", "title": "תסקירי בטיחות )(Road Safety Audit", "chapter": null, "start": 29, "level": 3, "end": 29}
 {"id": "432fc5b522f7", "num": "3.4", "title": "עקרונות לבחירת סוג סופג האנרגיה להתקנה", "chapter": null, "start": 30, "level": 2, "end": 32}
 {"id": "432fc5b522f7", "num": "3.5", "title": "עקרונות ההצבה", "chapter": null, "start": 33, "level": 2, "end": 40}
+{"id": "460383e6dfeb", "num": "36", "title": "תכנון אוורור מנהרות", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 1, "level": 0, "end": 12}
+{"id": "460383e6dfeb", "num": "36.1.1", "title": "שלב תכנון מוקדם", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 2, "level": 3, "end": 5}
+{"id": "460383e6dfeb", "num": "36.1.1.1", "title": "איסוף מידע", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 2, "level": 4, "end": 3}
+{"id": "460383e6dfeb", "num": "36.1.1.2", "title": "תכנון החלופה הנבחרת", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 4, "level": 4, "end": 5}
+{"id": "460383e6dfeb", "num": "36.1.2", "title": "שלב תכנון מפורט", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 6, "level": 3, "end": 7}
+{"id": "460383e6dfeb", "num": "36.1.2.1", "title": "איסוף מידע", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 6, "level": 4, "end": 6}
+{"id": "460383e6dfeb", "num": "36.1.2.2", "title": "פעולות תכנון", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 6, "level": 4, "end": 7}
+{"id": "460383e6dfeb", "num": "36.1.3", "title": "תכנון מפורט למכרז \"תכנון ביצוע\"", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 8, "level": 3, "end": 9}
+{"id": "460383e6dfeb", "num": "36.1.3.1", "title": "איסוף מידע", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 8, "level": 4, "end": 8}
+{"id": "460383e6dfeb", "num": "36.1.3.2", "title": "פעולות תכנון", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 8, "level": 4, "end": 9}
+{"id": "460383e6dfeb", "num": "36.1.4", "title": "פיקוח עליון בזמן הביצוע (בהתאם לנוהל פיקוח עליון)", "chapter": "פרק 36 — תכנון אוורור מנהרות", "start": 10, "level": 3, "end": 12}
 {"id": "461d40ebae0c", "num": "1", "title": "מבוא", "chapter": null, "start": 2, "level": 1, "end": 2}
 {"id": "461d40ebae0c", "num": "2", "title": "עוצמת המעורבות", "chapter": null, "start": 3, "level": 1, "end": 3}
 {"id": "461d40ebae0c", "num": "3", "title": "מעורבות הציבור בשלבי התכנון השונים", "chapter": null, "start": 3, "level": 1, "end": 9}
@@ -2411,6 +2439,7 @@
 {"id": "48da3b7647b2", "num": "1", "title": "מבוא", "chapter": null, "start": 6, "level": 1, "end": 68}
 {"id": "49bca64c0e53", "num": "9.3", "title": "דיון חוזר בהחלטת הוועדה", "chapter": null, "start": 9, "level": 2, "end": 11}
 {"id": "49d5b550599e", "num": "10", "title": "לנספח .)1", "chapter": null, "start": 9, "level": 1, "end": 9}
+{"id": "49d630a5f636", "num": "19", "title": "סקר ארכיאולוגי", "chapter": "פרק 19 — סקר ארכיאולוגי", "start": 1, "level": 0, "end": 4}
 {"id": "4a794c7825a9", "num": "6", "title": "ביצוע פסי האטה", "chapter": null, "start": 2, "level": 1, "end": 7}
 {"id": "4a794c7825a9", "num": "6.1", "title": "בטון אספלט (איור", "chapter": null, "start": 3, "level": 2, "end": 7}
 {"id": "4ab6a3096df2", "num": "1.1", "title": "רקע", "chapter": null, "start": 8, "level": 2, "end": 8}
@@ -3151,6 +3180,11 @@
 {"id": "5530b31abbd9", "num": "4.2", "title": "כיתוב על רצועת הקו", "chapter": null, "start": 2, "level": 2, "end": 2}
 {"id": "5530b31abbd9", "num": "6.1", "title": "כותרת תמרור", "chapter": null, "start": 2, "level": 2, "end": 2}
 {"id": "5530b31abbd9", "num": "6.2", "title": "רצועות הקווים", "chapter": null, "start": 3, "level": 2, "end": 5}
+{"id": "5548e3a07262", "num": "24", "title": "הנדסת קרקע וביסוס", "chapter": "פרק 24 — הנדסת קרקע וביסוס", "start": 1, "level": 0, "end": 13}
+{"id": "55c459e7adc5", "num": "23.1.1", "title": "שלב תכנון מוקדם", "chapter": null, "start": 2, "level": 3, "end": 2}
+{"id": "55c459e7adc5", "num": "23.1.2", "title": "שלב תכנון מפורט", "chapter": null, "start": 2, "level": 3, "end": 5}
+{"id": "55c459e7adc5", "num": "23.1.2.1", "title": "איסוף חומר תכנוני", "chapter": null, "start": 2, "level": 4, "end": 2}
+{"id": "55c459e7adc5", "num": "23.1.2.2", "title": "תכנון מבנה עליון", "chapter": null, "start": 3, "level": 4, "end": 5}
 {"id": "564543ee6e23", "num": "ה", "title": "!: מתקנים מכניים בחניונים", "chapter": "פרק ה — !: מתקנים מכניים בחניונים", "start": 1, "level": 0, "end": 2}
 {"id": "564543ee6e23", "num": "1", "title": "DAGESH ENGINEERING | דגש הנדסה", "chapter": "פרק ה — !: מתקנים מכניים בחניונים", "start": 1, "level": 1, "end": 2}
 {"id": "564543ee6e23", "num": "ה", "title": "מתקנים מכניים לחניה", "chapter": "פרק ה — מתקנים מכניים לחניה", "start": 3, "level": 0, "end": 3}
@@ -3777,6 +3811,7 @@
 {"id": "5d252b9aa8bd", "num": "23", "title": "ו 02 69", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "5d5a949b1a3b", "num": "1", "title": "סגירה על ידי המשטרה:", "chapter": null, "start": 6, "level": 1, "end": 6}
 {"id": "5d5a949b1a3b", "num": "2", "title": "כדי להסדיר ות הנוש נדון", "chapter": null, "start": 7, "level": 1, "end": 17}
+{"id": "5e4de7f0a799", "num": "1", "title": "מתכנן מוביל", "chapter": "פרק 1 — מתכנן מוביל", "start": 1, "level": 0, "end": 31}
 {"id": "5e5b1b582906", "num": "14", "title": "תכנית אסטרטגית למצרכת תחבור", "chapter": null, "start": 9, "level": 1, "end": 13}
 {"id": "5e5b1b582906", "num": "1.3", "title": "ביצוצי יחס B/C גבוהים מ", "chapter": null, "start": 10, "level": 2, "end": 13}
 {"id": "5e626198fc85", "num": "1", "title": "מבוא", "chapter": null, "start": 4, "level": 1, "end": 12}
@@ -3791,6 +3826,9 @@
 {"id": "5e626198fc85", "num": "3", "title": "סטיית תקן", "chapter": "פרק 3 — שיטת הסקר", "start": 22, "level": 1, "end": 33}
 {"id": "5e626198fc85", "num": "6", "title": "> השוואה לנתוני השנים הקודמות", "chapter": "פרק 6 — > השוואה לנתוני השנים הקודמות", "start": 34, "level": 0, "end": 35}
 {"id": "5e626198fc85", "num": "7", "title": "דיון והמלצות", "chapter": "פרק 7 — דיון והמלצות", "start": 36, "level": 0, "end": 49}
+{"id": "600fc427c43a", "num": "32", "title": "תכנון מים וביוב", "chapter": "פרק 32 — תכנון מים וביוב", "start": 1, "level": 0, "end": 11}
+{"id": "600fc427c43a", "num": "22", "title": "חתכים לאורך", "chapter": "פרק 32 — תכנון מים וביוב", "start": 4, "level": 1, "end": 4}
+{"id": "600fc427c43a", "num": "23", "title": "פרטים סטנדרטים", "chapter": "פרק 32 — תכנון מים וביוב", "start": 4, "level": 1, "end": 11}
 {"id": "60a5d622e08b", "num": "3.0", "title": "תמרורי בקרת נתיבים", "chapter": null, "start": 12, "level": 2, "end": 12}
 {"id": "60a5d622e08b", "num": "3.3", "title": "תמרורי בקרה צידיים", "chapter": null, "start": 13, "level": 2, "end": 13}
 {"id": "60a5d622e08b", "num": "3.2", "title": "סוגי התמרורים המאושרים לשימוש בישראל", "chapter": null, "start": 14, "level": 2, "end": 14}
@@ -3817,6 +3855,9 @@
 {"id": "61ecbb38b69f", "num": "9", "title": "תזמון קווי תחבורה ציבורית לתחנת הרכבת", "chapter": null, "start": 15, "level": 1, "end": 32}
 {"id": "61ecbb38b69f", "num": "9.6", "title": "דוגמא לבדיקה ותכנון לוח זמנים מתוזמן", "chapter": null, "start": 16, "level": 2, "end": 16}
 {"id": "61ecbb38b69f", "num": "07.20", "title": "vas | ors [O68 oon | א", "chapter": null, "start": 16, "level": 2, "end": 32}
+{"id": "622caeeeb17b", "num": "26", "title": "שיקום גשרים ומבנים", "chapter": "פרק 26 — שיקום גשרים ומבנים", "start": 1, "level": 0, "end": 21}
+{"id": "622caeeeb17b", "num": "26.1.2", "title": "תכנון מפורט (גמר בשיפוט .)3", "chapter": "פרק 26 — שיקום גשרים ומבנים", "start": 2, "level": 3, "end": 5}
+{"id": "622caeeeb17b", "num": "2", "title": "הכולל בחירה של חלופת", "chapter": "פרק 26 — שיקום גשרים ומבנים", "start": 6, "level": 1, "end": 21}
 {"id": "623065e6d5bd", "num": "1", "title": "", "chapter": "פרק 1", "start": 3, "level": 0, "end": 5}
 {"id": "623065e6d5bd", "num": "1.1", "title": "כללי", "chapter": "פרק 1", "start": 3, "level": 2, "end": 3}
 {"id": "623065e6d5bd", "num": "1.2", "title": "מטרות", "chapter": "פרק 1", "start": 4, "level": 2, "end": 4}
@@ -3826,6 +3867,19 @@
 {"id": "623065e6d5bd", "num": "2.2", "title": "תכנית עבודה ותקצוב הפרוגרמה", "chapter": "פרק 2", "start": 6, "level": 2, "end": 6}
 {"id": "623065e6d5bd", "num": "2.3", "title": "גיבוש פרוגרמה לנתיב העדפה", "chapter": "פרק 2", "start": 7, "level": 2, "end": 10}
 {"id": "623065e6d5bd", "num": "3", "title": "", "chapter": "פרק 3", "start": 11, "level": 0, "end": 16}
+{"id": "63c7e1617d2e", "num": "16", "title": "תכנון אורבני", "chapter": "פרק 16 — תכנון אורבני", "start": 1, "level": 0, "end": 8}
+{"id": "63c7e1617d2e", "num": "16.1", "title": "שלב תכנון ראשוני", "chapter": "פרק 16 — תכנון אורבני", "start": 2, "level": 2, "end": 3}
+{"id": "63c7e1617d2e", "num": "16.1.1", "title": "איסוף מידע", "chapter": "פרק 16 — תכנון אורבני", "start": 2, "level": 3, "end": 3}
+{"id": "63c7e1617d2e", "num": "1", "title": "בתאום עם צוות", "chapter": "פרק 16 — תכנון אורבני", "start": 4, "level": 1, "end": 8}
+{"id": "63c7e1617d2e", "num": "16.2", "title": "שלב תכנון מוקדם", "chapter": "פרק 16 — תכנון אורבני", "start": 5, "level": 2, "end": 6}
+{"id": "63c7e1617d2e", "num": "16.2.1", "title": "פעולות מקדימות", "chapter": "פרק 16 — תכנון אורבני", "start": 5, "level": 3, "end": 5}
+{"id": "63c7e1617d2e", "num": "16.2.2", "title": "תכנון לחלופה הנבחרת", "chapter": "פרק 16 — תכנון אורבני", "start": 5, "level": 3, "end": 6}
+{"id": "63c7e1617d2e", "num": "16.3", "title": "תכנון מפורט למכרז \"תכנון ביצוע\"", "chapter": "פרק 16 — תכנון אורבני", "start": 7, "level": 2, "end": 7}
+{"id": "63c7e1617d2e", "num": "16.3.1", "title": "איסוף מידע", "chapter": "פרק 16 — תכנון אורבני", "start": 7, "level": 3, "end": 7}
+{"id": "63c7e1617d2e", "num": "16.3.2", "title": "פעולות תכנון", "chapter": "פרק 16 — תכנון אורבני", "start": 7, "level": 3, "end": 7}
+{"id": "63c7e1617d2e", "num": "16.4", "title": "שלב תכנון מפורט", "chapter": "פרק 16 — תכנון אורבני", "start": 8, "level": 2, "end": 8}
+{"id": "63c7e1617d2e", "num": "16.4.1", "title": "פעולות מקדימות", "chapter": "פרק 16 — תכנון אורבני", "start": 8, "level": 3, "end": 8}
+{"id": "63c7e1617d2e", "num": "16.4.2", "title": "פעולות התכנון", "chapter": "פרק 16 — תכנון אורבני", "start": 8, "level": 3, "end": 8}
 {"id": "64b9515382df", "num": "2.1", "title": "מבוא", "chapter": null, "start": 14, "level": 2, "end": 14}
 {"id": "64b9515382df", "num": "2.2", "title": "מבחני התנגשות ייעודיים למערכות מיגון לאופנועים", "chapter": null, "start": 15, "level": 2, "end": 15}
 {"id": "64b9515382df", "num": "0", "title": "ואד", "chapter": null, "start": 16, "level": 1, "end": 39}
@@ -4350,6 +4404,182 @@
 {"id": "74f6e703a639", "num": "7.1.9", "title": "עמדת כרטוס ()TVM", "chapter": null, "start": 17, "level": 3, "end": 19}
 {"id": "74f6e703a639", "num": "7.1.10", "title": "אמצעי אבטחה", "chapter": null, "start": 20, "level": 3, "end": 21}
 {"id": "74f6e703a639", "num": "7.1.11", "title": "דגם סככת המתנה רגילה", "chapter": null, "start": 22, "level": 3, "end": 40}
+{"id": "75f02d678a50", "num": "1", "title": "פתח דבר – מטרת המגדיר בשלבי התכנון השונים", "chapter": null, "start": 6, "level": 1, "end": 9}
+{"id": "75f02d678a50", "num": "1.1", "title": "מבוא", "chapter": null, "start": 6, "level": 2, "end": 6}
+{"id": "75f02d678a50", "num": "1.2", "title": "סדר הפעולות", "chapter": null, "start": 6, "level": 2, "end": 6}
+{"id": "75f02d678a50", "num": "1.3", "title": "הגדרת המושג קנ\"מ ברירת המחדל ודיוקים", "chapter": null, "start": 7, "level": 2, "end": 7}
+{"id": "75f02d678a50", "num": "1.4", "title": "בקרת\\הבטחת איכות במדידות לצרכי תכנון", "chapter": null, "start": 7, "level": 2, "end": 8}
+{"id": "75f02d678a50", "num": "1.6", "title": "רשימת מושגים וקיצורי דרך", "chapter": null, "start": 9, "level": 2, "end": 9}
+{"id": "75f02d678a50", "num": "2", "title": "פרק תכנון", "chapter": null, "start": 10, "level": 1, "end": 52}
+{"id": "75f02d678a50", "num": "2.1", "title": "מדידות לתכנון ראשוני", "chapter": null, "start": 10, "level": 2, "end": 25}
+{"id": "75f02d678a50", "num": "2.1.1", "title": "תוצרי המדידה הנדרשים בתכנון ראשוני", "chapter": null, "start": 11, "level": 3, "end": 11}
+{"id": "75f02d678a50", "num": "2.1.2", "title": "מיפוי פוטוגרמטרי", "chapter": null, "start": 11, "level": 3, "end": 12}
+{"id": "75f02d678a50", "num": "2.1.2.1", "title": "הנחייה כללית למיפוי פוטוגרמטרי", "chapter": null, "start": 11, "level": 4, "end": 11}
+{"id": "75f02d678a50", "num": "2.1.2.2", "title": "הגדרת תחום המיפוי הפוטוגרמטרי", "chapter": null, "start": 11, "level": 4, "end": 11}
+{"id": "75f02d678a50", "num": "2.1.2.3", "title": "טיסת צילום למיפוי פוטוגרמטרי", "chapter": null, "start": 11, "level": 4, "end": 11}
+{"id": "75f02d678a50", "num": "2.1.2.4", "title": "קנה המידה שהמפה/תצלום/גובה טיסה/צפיפות  DEMיהיה בהתאם לטבלה הבאה", "chapter": null, "start": 11, "level": 4, "end": 11}
+{"id": "75f02d678a50", "num": "2.1.2.5", "title": "נקודות בקרה לעיגון הצילומים במיפוי פוטוגרמטרי", "chapter": null, "start": 12, "level": 4, "end": 12}
+{"id": "75f02d678a50", "num": "2.1.2.6", "title": "עדכון מיפוי פוטוגרמטרי", "chapter": null, "start": 12, "level": 4, "end": 12}
+{"id": "75f02d678a50", "num": "2.1.3", "title": "תוצרי המדידה והמיפוי הפוטוגרמטרי", "chapter": null, "start": 13, "level": 3, "end": 15}
+{"id": "75f02d678a50", "num": "2.1.3.11", "title": "תצורת עריכה והגשת המיפוי הפוטוגרמטרי", "chapter": null, "start": 14, "level": 4, "end": 14}
+{"id": "75f02d678a50", "num": "2.1.3.12", "title": "מסירת תוצרי המיפוי הפוטוגרמטרי למזמין", "chapter": null, "start": 15, "level": 4, "end": 15}
+{"id": "75f02d678a50", "num": "2.1.4", "title": "בקרת איכות עצמית של המיפוי הפוטוגרמטרי", "chapter": null, "start": 16, "level": 3, "end": 17}
+{"id": "75f02d678a50", "num": "2.1.5", "title": "מיפוי אורתופוטו", "chapter": null, "start": 18, "level": 3, "end": 18}
+{"id": "75f02d678a50", "num": "2.1.6", "title": "רקע גושים וחלקות", "chapter": null, "start": 19, "level": 3, "end": 19}
+{"id": "75f02d678a50", "num": "2.1.6.3", "title": "הסבה ל:DWG", "chapter": null, "start": 19, "level": 4, "end": 19}
+{"id": "75f02d678a50", "num": "2.1.7", "title": "קומפילציה סטטוטורית", "chapter": null, "start": 20, "level": 3, "end": 20}
+{"id": "75f02d678a50", "num": "2.1.7.4", "title": "הסבת החומר לפורמט וקטורי", "chapter": null, "start": 21, "level": 4, "end": 21}
+{"id": "75f02d678a50", "num": "2.1.8", "title": "תוצרי הקומפילציה הסטטוטורית", "chapter": null, "start": 21, "level": 3, "end": 21}
+{"id": "75f02d678a50", "num": "2.1.8.2", "title": "עריכת הקומפילציה הסטטוטורית", "chapter": null, "start": 22, "level": 4, "end": 22}
+{"id": "75f02d678a50", "num": "2.1.9", "title": "מיפוי מבסיס הנתונים הטופוגרפי הלאומי (בנט\"ל)", "chapter": null, "start": 22, "level": 3, "end": 25}
+{"id": "75f02d678a50", "num": "2.2", "title": "מדידות לתכנון מוקדם", "chapter": null, "start": 26, "level": 2, "end": 32}
+{"id": "75f02d678a50", "num": "2.2.1", "title": "כללי", "chapter": null, "start": 26, "level": 3, "end": 26}
+{"id": "75f02d678a50", "num": "2.2.2", "title": "תוצרי מדידה נדרשים לתכנון מוקדם", "chapter": null, "start": 26, "level": 3, "end": 31}
+{"id": "75f02d678a50", "num": "2.2.2.1", "title": "מיפוי פוטוגרמטרי", "chapter": null, "start": 26, "level": 4, "end": 26}
+{"id": "75f02d678a50", "num": "2.2.2.2", "title": "רקע גושים וחלקות דיגיטלי ועדכניות החומר", "chapter": null, "start": 26, "level": 4, "end": 26}
+{"id": "75f02d678a50", "num": "2.2.2.4", "title": "מדידת עצים (תיקון  89 לחוק התכנון והבנייה)", "chapter": null, "start": 27, "level": 4, "end": 27}
+{"id": "75f02d678a50", "num": "2.2.2.5", "title": "מדידות מוקדמות לקירות אקוסטיים", "chapter": null, "start": 28, "level": 4, "end": 28}
+{"id": "75f02d678a50", "num": "2.2.2.7", "title": "הטמעת קו כחול אנליטי לתוך הרקע הדיגיטלי", "chapter": null, "start": 29, "level": 4, "end": 29}
+{"id": "75f02d678a50", "num": "2.2.2.8", "title": "תכנית הכרזה", "chapter": null, "start": 29, "level": 4, "end": 29}
+{"id": "75f02d678a50", "num": "2.2.2.9", "title": "מדידות לצורכי הפקעה", "chapter": null, "start": 29, "level": 4, "end": 29}
+{"id": "75f02d678a50", "num": "2.2.2.10", "title": "מדידת קווי חשמל מתח עליון ומתח גובה", "chapter": null, "start": 29, "level": 4, "end": 29}
+{"id": "75f02d678a50", "num": "2.2.2.11", "title": "מדידות לתכנון מוקדם ללא מדידות לתכנון ראשוני", "chapter": null, "start": 29, "level": 4, "end": 31}
+{"id": "75f02d678a50", "num": "2.2.4", "title": "הצהרת מודד בהעברת מסמכים סטטוטוריים למוסד תכנון", "chapter": null, "start": 32, "level": 3, "end": 32}
+{"id": "75f02d678a50", "num": "2.3", "title": "מדידות לתכנון מפורט", "chapter": null, "start": 33, "level": 2, "end": 52}
+{"id": "75f02d678a50", "num": "2.3.1", "title": "כללי", "chapter": null, "start": 33, "level": 3, "end": 33}
+{"id": "75f02d678a50", "num": "2.3.3", "title": "חזות המוצר", "chapter": null, "start": 34, "level": 3, "end": 34}
+{"id": "75f02d678a50", "num": "2.3.4", "title": "מסירת צלעונים וטופוגרפיה לקבלן הביצוע", "chapter": null, "start": 34, "level": 3, "end": 34}
+{"id": "75f02d678a50", "num": "2.3.5", "title": "בצוע בקרה עצמית\\הבטחת איכות", "chapter": null, "start": 34, "level": 3, "end": 34}
+{"id": "75f02d678a50", "num": "2.3.6", "title": "מכשירי המדידה וציוד נילווה", "chapter": null, "start": 34, "level": 3, "end": 34}
+{"id": "75f02d678a50", "num": "2.3.6.1", "title": "מאזנת מילימטרית", "chapter": null, "start": 34, "level": 4, "end": 34}
+{"id": "75f02d678a50", "num": "2.3.6.2", "title": "תחנת עבודה – (מד מרחק אלקטרוני/דיסטומט)", "chapter": null, "start": 34, "level": 4, "end": 34}
+{"id": "75f02d678a50", "num": "2.3.7", "title": "רשתות בקרה", "chapter": null, "start": 35, "level": 3, "end": 38}
+{"id": "75f02d678a50", "num": "2.3.7.1", "title": "רשת בקרה אופקית (בפרויקטים באורכים משתנים)", "chapter": null, "start": 35, "level": 4, "end": 35}
+{"id": "75f02d678a50", "num": "2.3.7.2", "title": "רשת בקרה אנכית", "chapter": null, "start": 36, "level": 4, "end": 37}
+{"id": "75f02d678a50", "num": "2.3.7.3", "title": "נקודות הבקרה", "chapter": null, "start": 38, "level": 4, "end": 38}
+{"id": "75f02d678a50", "num": "2.3.8", "title": "מדידה קרקעית טופוגרפית כללית", "chapter": null, "start": 39, "level": 3, "end": 39}
+{"id": "75f02d678a50", "num": "2.3.9", "title": "מדידה קרקעית לכבישים ודרכים", "chapter": null, "start": 40, "level": 3, "end": 42}
+{"id": "75f02d678a50", "num": "2.3.10", "title": "תיאור שימושי קרקע", "chapter": null, "start": 43, "level": 3, "end": 43}
+{"id": "75f02d678a50", "num": "2.3.11", "title": "איתור תשתיות  -מדידה מפורטת לתשתיות", "chapter": null, "start": 43, "level": 3, "end": 44}
+{"id": "75f02d678a50", "num": "2.3.12", "title": "עריכת מיפוי משלים פוטוגרמטרי כרקע למפת המדידה הקרקעית", "chapter": null, "start": 45, "level": 3, "end": 45}
+{"id": "75f02d678a50", "num": "2.3.13", "title": "תאום מדידה עם פרויקטים שכנים", "chapter": null, "start": 45, "level": 3, "end": 45}
+{"id": "75f02d678a50", "num": "2.3.14", "title": "מדידות ארכיאולוגיות", "chapter": null, "start": 45, "level": 3, "end": 45}
+{"id": "75f02d678a50", "num": "2.3.15", "title": "קידוחי קרקע", "chapter": null, "start": 46, "level": 3, "end": 46}
+{"id": "75f02d678a50", "num": "2.3.16", "title": "מדידות למיגון אקוסטי דירתי", "chapter": null, "start": 46, "level": 3, "end": 46}
+{"id": "75f02d678a50", "num": "2.3.17", "title": "תצורת עריכה והגשת המיפוי הקרקעי", "chapter": null, "start": 47, "level": 3, "end": 47}
+{"id": "75f02d678a50", "num": "2.3.18", "title": "עריכה קובץ עזר ליצירת קבצי REG + DIS", "chapter": null, "start": 48, "level": 3, "end": 48}
+{"id": "75f02d678a50", "num": "2.3.19.1", "title": "טבלת מכשירי מדידה ותעודות כיול", "chapter": null, "start": 49, "level": 4, "end": 49}
+{"id": "75f02d678a50", "num": "2.3.5", "title": "מכשירי מדידה", "chapter": null, "start": 49, "level": 3, "end": 49}
+{"id": "75f02d678a50", "num": "2.3.20", "title": "טבלת רשימת ביקורת למדידת צלעונים\\טופוגרפיה\\כבישים\\תשתיות\\הסדרי תנועה", "chapter": null, "start": 50, "level": 3, "end": 50}
+{"id": "75f02d678a50", "num": "2.3.6", "title": "רשת בקרה לפרויקט", "chapter": null, "start": 50, "level": 3, "end": 50}
+{"id": "75f02d678a50", "num": "2.3.7", "title": "מדידה טופוגרפית קרקעית", "chapter": null, "start": 50, "level": 3, "end": 50}
+{"id": "75f02d678a50", "num": "2.3.12", "title": "נכונות מיפוי הסדרי תנועה תמרור", "chapter": null, "start": 51, "level": 3, "end": 51}
+{"id": "75f02d678a50", "num": "2.3.13", "title": "עריכת מיפוי משלים", "chapter": null, "start": 51, "level": 3, "end": 51}
+{"id": "75f02d678a50", "num": "2.3.14", "title": "תיאום מדידה עם פרויקטים שכנים", "chapter": null, "start": 52, "level": 3, "end": 52}
+{"id": "75f02d678a50", "num": "2.3.15", "title": "מדידות ארכיאולוגיות", "chapter": null, "start": 52, "level": 3, "end": 52}
+{"id": "75f02d678a50", "num": "2.3.17", "title": "מדידות למיגון אקוסטי דירתי", "chapter": null, "start": 52, "level": 3, "end": 52}
+{"id": "75f02d678a50", "num": "3", "title": "פרק ביצוע עבודות סלילה תשתית ובטונים", "chapter": null, "start": 53, "level": 1, "end": 86}
+{"id": "75f02d678a50", "num": "3.1", "title": "כללי", "chapter": null, "start": 53, "level": 2, "end": 53}
+{"id": "75f02d678a50", "num": "3.2", "title": "מדידות לביצוע בקרת איכות והבטחת איכות", "chapter": null, "start": 54, "level": 2, "end": 54}
+{"id": "75f02d678a50", "num": "3.3", "title": "תהליך הביקורת ותזמונו במהלך הביצוע", "chapter": null, "start": 55, "level": 2, "end": 62}
+{"id": "75f02d678a50", "num": "3.3.1", "title": "תהליך ביקורת לפני תחילת העבודה", "chapter": null, "start": 56, "level": 3, "end": 56}
+{"id": "75f02d678a50", "num": "3.3.1.1", "title": "רשת בקרה", "chapter": null, "start": 56, "level": 4, "end": 56}
+{"id": "75f02d678a50", "num": "3.3.1.2", "title": "רשת איזון מילימטרית", "chapter": null, "start": 56, "level": 4, "end": 56}
+{"id": "75f02d678a50", "num": "3.3.1.3", "title": "מפה טופוגרפית ממדידה קרקעית", "chapter": null, "start": 56, "level": 4, "end": 56}
+{"id": "75f02d678a50", "num": "3.3.1.4", "title": "קבצי DIS+REG", "chapter": null, "start": 56, "level": 4, "end": 56}
+{"id": "75f02d678a50", "num": "3.3.2", "title": "עבודות מקדימות של מודד הקבלן", "chapter": null, "start": 56, "level": 3, "end": 56}
+{"id": "75f02d678a50", "num": "3.3.3", "title": "תהליך ביקורת במהלך העבודה", "chapter": null, "start": 57, "level": 3, "end": 57}
+{"id": "75f02d678a50", "num": "3.3.4", "title": "תהליך ביקורת עם תם העבודה", "chapter": null, "start": 57, "level": 3, "end": 57}
+{"id": "75f02d678a50", "num": "3.4.2", "title": "נוהל הביקורת", "chapter": null, "start": 58, "level": 3, "end": 58}
+{"id": "75f02d678a50", "num": "3.4.4", "title": "אופן הגשת המדידות – תוצרי המדידה", "chapter": null, "start": 59, "level": 3, "end": 59}
+{"id": "75f02d678a50", "num": "3.4.5", "title": "שימוש בGPS", "chapter": null, "start": 59, "level": 3, "end": 59}
+{"id": "75f02d678a50", "num": "3.4.6", "title": "טבלאות מנחות במדידת תשתיות", "chapter": null, "start": 60, "level": 3, "end": 61}
+{"id": "75f02d678a50", "num": "3.4.7", "title": "רשימת ביקורת לבקרת/הבטחת איכות  QC/QAבמדידות ביצוע", "chapter": null, "start": 62, "level": 3, "end": 62}
+{"id": "75f02d678a50", "num": "2.5.2", "title": "מכשירי מדידה", "chapter": null, "start": 62, "level": 3, "end": 62}
+{"id": "75f02d678a50", "num": "3.4.8", "title": "טבלת רשתות בקרה וחומר מדידה של מצב קיים", "chapter": null, "start": 63, "level": 3, "end": 63}
+{"id": "75f02d678a50", "num": "3.4", "title": "אספקת חומר ביסוס על ידי המזמין", "chapter": null, "start": 63, "level": 2, "end": 63}
+{"id": "75f02d678a50", "num": "3.8", "title": "רשת מיקרו טריאנגולציה לגשרים ומתקנים", "chapter": null, "start": 63, "level": 2, "end": 67}
+{"id": "75f02d678a50", "num": "3.3.4", "title": "מדידה טופוגרפית קרקעית", "chapter": null, "start": 63, "level": 3, "end": 63}
+{"id": "75f02d678a50", "num": "3.4.9", "title": "טבלת רשימת ביקורת במהלך הביצוע", "chapter": null, "start": 64, "level": 3, "end": 64}
+{"id": "75f02d678a50", "num": "3.3.7", "title": "עבודות שדה מקדימות", "chapter": null, "start": 64, "level": 3, "end": 64}
+{"id": "75f02d678a50", "num": "3.3.7.4", "title": "תיאום מדידה עם פרויקטים שכנים", "chapter": null, "start": 64, "level": 4, "end": 64}
+{"id": "75f02d678a50", "num": "3.3.8", "title": "ביקורת ע\"ע סלילה במהלך העבודה", "chapter": null, "start": 64, "level": 3, "end": 66}
+{"id": "75f02d678a50", "num": "3.4.4", "title": "מדידה מפורטת \"לאחר ביצוע\"", "chapter": null, "start": 67, "level": 3, "end": 67}
+{"id": "75f02d678a50", "num": "3.11", "title": "מדידת ביצוע גשרים", "chapter": null, "start": 68, "level": 2, "end": 86}
+{"id": "75f02d678a50", "num": "3.5.1", "title": "חתך לדוגמא עם מילוי וחפירה", "chapter": null, "start": 70, "level": 3, "end": 70}
+{"id": "75f02d678a50", "num": "3.5.2", "title": "חתך לדוגמא עם מילוי בלבד", "chapter": null, "start": 71, "level": 3, "end": 72}
+{"id": "75f02d678a50", "num": "3.5.4", "title": "טבלת דוגמא לבדיקת מצעים/אגו\"ם", "chapter": null, "start": 73, "level": 3, "end": 73}
+{"id": "75f02d678a50", "num": "3.5.5", "title": "טבלת דוגמא לבדיקת אספלטיים", "chapter": null, "start": 74, "level": 3, "end": 74}
+{"id": "75f02d678a50", "num": "3.5.6", "title": "סכמה וטבלת עזר לבדיקת כלונסאות", "chapter": null, "start": 75, "level": 3, "end": 75}
+{"id": "75f02d678a50", "num": "3.5.7", "title": "טבלת דוגמא לבדיקת כלונסאות", "chapter": null, "start": 75, "level": 3, "end": 76}
+{"id": "75f02d678a50", "num": "3.5.8", "title": "סכמה וטבלת עזר לבדיקת קירות/קירות תמך", "chapter": null, "start": 77, "level": 3, "end": 77}
+{"id": "75f02d678a50", "num": "3.5.9", "title": "טבלת דוגמא לבדיקת קירות/קירות תמך", "chapter": null, "start": 78, "level": 3, "end": 78}
+{"id": "75f02d678a50", "num": "3.5.10", "title": "סכמה וטבלת עזר לבדיקת תשתית רטובה", "chapter": null, "start": 79, "level": 3, "end": 79}
+{"id": "75f02d678a50", "num": "3.5.11", "title": "טבלת דוגמא לבדיקת תשתית רטובה גרביטציונית", "chapter": null, "start": 80, "level": 3, "end": 80}
+{"id": "75f02d678a50", "num": "3.5.12", "title": "סכמה וטבלת עזר לבדיקת תשתית יבשה", "chapter": null, "start": 81, "level": 3, "end": 81}
+{"id": "75f02d678a50", "num": "3.5.13", "title": "טבלת דוגמא לבדיקת תשתית יבשה", "chapter": null, "start": 82, "level": 3, "end": 82}
+{"id": "75f02d678a50", "num": "3.5.14", "title": "טבלת דוגמא לבדיקת תשתית רטובה לא גרביטציונית", "chapter": null, "start": 83, "level": 3, "end": 83}
+{"id": "75f02d678a50", "num": "3.6.1", "title": "סוגי הבדיקות ונוהל עבודה", "chapter": null, "start": 84, "level": 3, "end": 84}
+{"id": "75f02d678a50", "num": "3.6.1.1", "title": "בדיקת יסוד\\ ראש כלונס לגשר", "chapter": null, "start": 84, "level": 4, "end": 84}
+{"id": "75f02d678a50", "num": "3.6.2", "title": "סכמה וטבלת עזר לבדיקת יסוד\\ ראש כלונס לגשר", "chapter": null, "start": 85, "level": 3, "end": 85}
+{"id": "75f02d678a50", "num": "3.6.3", "title": "בדיקת ניצב הגשר", "chapter": null, "start": 86, "level": 3, "end": 86}
+{"id": "75f02d678a50", "num": "3.6.4", "title": "בדיקת קורת רוחב לגשר", "chapter": null, "start": 87, "level": 3, "end": 87}
+{"id": "75f02d678a50", "num": "4", "title": "בדיקת קורת רוחב לגשר", "chapter": null, "start": 87, "level": 1, "end": 87}
+{"id": "75f02d678a50", "num": "3.6.5", "title": "בדיקת תושבות בטון וסמכים בגשר", "chapter": null, "start": 88, "level": 3, "end": 88}
+{"id": "75f02d678a50", "num": "5", "title": "בדיקת תושבות NVI וסמכים בגשב", "chapter": null, "start": 88, "level": 1, "end": 114}
+{"id": "75f02d678a50", "num": "3.6.6", "title": "בדיקת קורות אורך לגשר", "chapter": null, "start": 89, "level": 3, "end": 89}
+{"id": "75f02d678a50", "num": "3.6.6.1", "title": "בדיקת קרומי הגשר (תשתית הבטון מתחת לאספלט)", "chapter": null, "start": 89, "level": 4, "end": 89}
+{"id": "75f02d678a50", "num": "3.7", "title": "רשת מיקרו טריאנגולציה  -רשת בקרה לגשרים ומתקנים הנדסיים", "chapter": null, "start": 90, "level": 2, "end": 90}
+{"id": "75f02d678a50", "num": "3.7.1", "title": "הקמת רשת מיקרו טריאנגולציה", "chapter": null, "start": 90, "level": 3, "end": 90}
+{"id": "75f02d678a50", "num": "3.7.2", "title": "הצבת נקודות הבקרה", "chapter": null, "start": 90, "level": 3, "end": 90}
+{"id": "75f02d678a50", "num": "3.7.3", "title": "שיטת המדידה", "chapter": null, "start": 90, "level": 3, "end": 90}
+{"id": "75f02d678a50", "num": "3.7.4", "title": "קשירה לרשת ארצית", "chapter": null, "start": 90, "level": 3, "end": 90}
+{"id": "75f02d678a50", "num": "3.7.5", "title": "מסירת חומר למנהל הבטחת איכות", "chapter": null, "start": 90, "level": 3, "end": 90}
+{"id": "75f02d678a50", "num": "4.1", "title": "כללי", "chapter": null, "start": 91, "level": 2, "end": 93}
+{"id": "75f02d678a50", "num": "4.2.1", "title": "כפיפות חוקית", "chapter": null, "start": 91, "level": 3, "end": 91}
+{"id": "75f02d678a50", "num": "4.2.2", "title": "כפיפות ארגונית", "chapter": null, "start": 91, "level": 3, "end": 91}
+{"id": "75f02d678a50", "num": "4.2.3", "title": "כפיפות מקצועית", "chapter": null, "start": 92, "level": 3, "end": 92}
+{"id": "75f02d678a50", "num": "4.2.4", "title": "תרשים זרימה לעבודת המודד בתהליך ההפקעות", "chapter": null, "start": 93, "level": 3, "end": 93}
+{"id": "75f02d678a50", "num": "4.3", "title": "מימוש תהליך ההפקעות הלכה למעשה בשטח", "chapter": null, "start": 94, "level": 2, "end": 94}
+{"id": "75f02d678a50", "num": "4.3.1", "title": "סוגי חומר הביסוס המסופק על ידי המזמין", "chapter": null, "start": 94, "level": 3, "end": 94}
+{"id": "75f02d678a50", "num": "4.4", "title": "תכניות ושירותים מודד הפקעות", "chapter": null, "start": 95, "level": 2, "end": 99}
+{"id": "75f02d678a50", "num": "4.4.1", "title": "עבודת משרד מקדימה", "chapter": null, "start": 95, "level": 3, "end": 95}
+{"id": "75f02d678a50", "num": "4.4.2", "title": "עבודות שדה מקדימות והכנות בשטח", "chapter": null, "start": 95, "level": 3, "end": 96}
+{"id": "75f02d678a50", "num": "4.4.2.1", "title": "הקמת רשת בקרה אופקית", "chapter": null, "start": 95, "level": 4, "end": 95}
+{"id": "75f02d678a50", "num": "4.4.2.2", "title": "מדידה באמצעות מערכת לוויינית GPS_RTK", "chapter": null, "start": 95, "level": 4, "end": 95}
+{"id": "75f02d678a50", "num": "4.4.3.1", "title": "מדידה קרקעית למצב הקיים", "chapter": null, "start": 96, "level": 4, "end": 96}
+{"id": "75f02d678a50", "num": "4.4.3.2", "title": "לצורך הכנת רקע מצב קיים ימדדו הפרטים הבאים", "chapter": null, "start": 97, "level": 4, "end": 97}
+{"id": "75f02d678a50", "num": "4.4.4", "title": "הכנת תכנית הפקעות לצורך הכנת אומדן", "chapter": null, "start": 97, "level": 3, "end": 98}
+{"id": "75f02d678a50", "num": "4.4.5", "title": "הכנת תשריט הפקעות פרטני", "chapter": null, "start": 99, "level": 3, "end": 99}
+{"id": "75f02d678a50", "num": "4.4.6", "title": "הכנת תשריט הפקעה תלת מימדי", "chapter": null, "start": 100, "level": 3, "end": 100}
+{"id": "75f02d678a50", "num": "4.4.7", "title": "סעיפים אופציונליים", "chapter": null, "start": 100, "level": 3, "end": 100}
+{"id": "75f02d678a50", "num": "4.5", "title": "מפת רמזור  -תרשים מעקב הפקעות כללי", "chapter": null, "start": 100, "level": 2, "end": 100}
+{"id": "75f02d678a50", "num": "4.6", "title": "עבודות סימון ותפיסת השטח", "chapter": null, "start": 100, "level": 2, "end": 101}
+{"id": "75f02d678a50", "num": "4.6.1", "title": "סימון ראשוני לגבולות הפקעה", "chapter": null, "start": 100, "level": 3, "end": 100}
+{"id": "75f02d678a50", "num": "4.6.2", "title": "סימון גבולות לקראת התפיסה", "chapter": null, "start": 101, "level": 3, "end": 101}
+{"id": "75f02d678a50", "num": "4.6.2.1", "title": "תכנית סימון התוואי ודיוק הסימונים", "chapter": null, "start": 101, "level": 4, "end": 101}
+{"id": "75f02d678a50", "num": "4.6.2.2", "title": "עבודות סימון הגידור והכנת תכניות תיעוד", "chapter": null, "start": 101, "level": 4, "end": 101}
+{"id": "75f02d678a50", "num": "4.7", "title": "הבטחת איכות מדידות לצרכי הפקעה – רשימת ביקורת", "chapter": null, "start": 102, "level": 2, "end": 102}
+{"id": "75f02d678a50", "num": "4.4.2.1", "title": "דיסטומט", "chapter": null, "start": 102, "level": 4, "end": 102}
+{"id": "75f02d678a50", "num": "4.4.2.2", "title": "GPSמכשיר לווייני", "chapter": null, "start": 102, "level": 4, "end": 102}
+{"id": "75f02d678a50", "num": "4.4.2.1", "title": "רשת בקרה אופקית (ראה גם )1.3.3.1", "chapter": null, "start": 102, "level": 4, "end": 102}
+{"id": "75f02d678a50", "num": "4.4.3", "title": "מדידה קרקעית והכנת מחסן נתונים", "chapter": null, "start": 102, "level": 3, "end": 102}
+{"id": "75f02d678a50", "num": "4.4.3.1", "title": "מדידת שטח הכביש הקיים נעשתה בהתאם", "chapter": null, "start": 102, "level": 4, "end": 102}
+{"id": "75f02d678a50", "num": "4.3.1.2", "title": "רקע גושים וחלקות ע\"פ ההנחיות", "chapter": null, "start": 103, "level": 4, "end": 103}
+{"id": "75f02d678a50", "num": "7.5.1", "title": "כל המחוברים מופיעים בתוכנית ובטבלת ההפקעות", "chapter": null, "start": 103, "level": 3, "end": 103}
+{"id": "75f02d678a50", "num": "7.5", "title": "קווי הכרזות (לפי דרישת מנהל הפרוייקט)", "chapter": null, "start": 103, "level": 2, "end": 103}
+{"id": "75f02d678a50", "num": "7.5.2", "title": "הפקעות עבר (לפי דרישת מנהל הפרוייקט)", "chapter": null, "start": 103, "level": 3, "end": 103}
+{"id": "75f02d678a50", "num": "7.8.2", "title": "מאפייני הקווים הם כפי שמופיעים בטבלה", "chapter": null, "start": 103, "level": 3, "end": 103}
+{"id": "75f02d678a50", "num": "7.5.1", "title": "הכנת טבלת הפקעות לפי דוגמא הפק.4", "chapter": null, "start": 104, "level": 3, "end": 104}
+{"id": "75f02d678a50", "num": "7.5", "title": "תחומי שיפוט וגבולות יישובים", "chapter": null, "start": 104, "level": 2, "end": 114}
+{"id": "75f02d678a50", "num": "7.8.2", "title": "דוגמא הפק.4", "chapter": null, "start": 104, "level": 3, "end": 104}
+{"id": "75f02d678a50", "num": "4.6.1", "title": "תכנית סימון ראשונית לפי דוגמא הפק .8-לאחר", "chapter": null, "start": 105, "level": 3, "end": 105}
+{"id": "75f02d678a50", "num": "4.6.2.3", "title": "סימון גדר ותכניות עדות", "chapter": null, "start": 105, "level": 4, "end": 105}
+{"id": "75f02d678a50", "num": "4.8.2", "title": "מאפייני הקווים והשכבות הם כפי שמופיעים בנספח", "chapter": null, "start": 105, "level": 3, "end": 109}
+{"id": "75f02d678a50", "num": "5.05.15", "title": "של המנהל מתאריד", "chapter": null, "start": 110, "level": 3, "end": 114}
+{"id": "75f02d678a50", "num": "תכ", "title": "נון ילף הלול", "chapter": "פרק תכ — נון ילף הלול", "start": 115, "level": 0, "end": 115}
+{"id": "75f02d678a50", "num": "הפ", "title": "קעות", "chapter": "פרק הפ — קעות", "start": 115, "level": 0, "end": 115}
+{"id": "75f02d678a50", "num": "בי", "title": "צוע", "chapter": "פרק בי — צוע", "start": 115, "level": 0, "end": 115}
 {"id": "7629e3479c73", "num": "1.1", "title": "רקע", "chapter": null, "start": 11, "level": 2, "end": 11}
 {"id": "7629e3479c73", "num": "1.2", "title": "ניהול מהירויות בישראל", "chapter": null, "start": 12, "level": 2, "end": 12}
 {"id": "7629e3479c73", "num": "1.3", "title": "מטרת העבודה", "chapter": null, "start": 13, "level": 2, "end": 13}
@@ -4616,6 +4846,9 @@
 {"id": "7cbc7890ff96", "num": "2", "title": "דרישות נוספות", "chapter": "פרק 6 — דרישות נוספות מהעמודים", "start": 25, "level": 1, "end": 25}
 {"id": "7cbc7890ff96", "num": "7", "title": "מסמכים נדרשים לבחינה ואישור של עמוד", "chapter": "פרק 7 — מסמכים נדרשים לבחינה ואישור של עמוד", "start": 26, "level": 0, "end": 26}
 {"id": "7cdb23b2f459", "num": "5", "title": "מתקנים בדרך", "chapter": null, "start": 2, "level": 1, "end": 6}
+{"id": "7d1e5ab81ff7", "num": "11", "title": "תכנון השקיה", "chapter": "פרק 11 — תכנון השקיה", "start": 1, "level": 0, "end": 11}
+{"id": "7e526d955ae8", "num": "33", "title": "מתאם מנהרות תשתית", "chapter": "פרק 33 — מתאם מנהרות תשתית", "start": 1, "level": 0, "end": 26}
+{"id": "7e526d955ae8", "num": "12", "title": "וחיווט לעבודות תשתית שמבוצעות ע\"י", "chapter": "פרק 33 — מתאם מנהרות תשתית", "start": 17, "level": 1, "end": 26}
 {"id": "7f4bc8875567", "num": "1", "title": "מבוא", "chapter": null, "start": 5, "level": 1, "end": 6}
 {"id": "7f4bc8875567", "num": "11.000", "title": "6ובם", "chapter": null, "start": 6, "level": 2, "end": 6}
 {"id": "7f4bc8875567", "num": "2.1", "title": "שכבות הרקע לתוכנית", "chapter": null, "start": 7, "level": 2, "end": 7}
@@ -4677,6 +4910,12 @@
 {"id": "8007a56e37c0", "num": "1.6", "title": "תחנת תדלוק מדרגה ג'", "chapter": null, "start": 5, "level": 2, "end": 5}
 {"id": "8007a56e37c0", "num": "1.5", "title": "תחנת תדלוק לצריכה עצמית", "chapter": null, "start": 5, "level": 2, "end": 5}
 {"id": "8007a56e37c0", "num": "6.4", "title": "חוו\"ד מפקח על התעבורה", "chapter": null, "start": 6, "level": 2, "end": 11}
+{"id": "801a5f06b2bb", "num": "25.1.6.1", "title": "אבני דרך לביצוע", "chapter": null, "start": 12, "level": 4, "end": 23}
+{"id": "801a5f06b2bb", "num": "25.2.2", "title": "שלב תכנון מוקדם", "chapter": null, "start": 24, "level": 3, "end": 54}
+{"id": "801a5f06b2bb", "num": "25.2.2.1", "title": "פעולות מקדימות ואיסוף מידע על חלופת התוואי הנבחרת", "chapter": null, "start": 24, "level": 4, "end": 24}
+{"id": "801a5f06b2bb", "num": "25.2.2.2", "title": "ליווי ההליך הסטטוטורי", "chapter": null, "start": 25, "level": 4, "end": 25}
+{"id": "801a5f06b2bb", "num": "25.2.2.3", "title": "בחינת חלופות מבניות", "chapter": null, "start": 26, "level": 4, "end": 29}
+{"id": "801a5f06b2bb", "num": "25.2.4.1", "title": "שלב תכנון מפורט", "chapter": null, "start": 30, "level": 4, "end": 54}
 {"id": "81159e39f6c6", "num": "2.3", "title": "שמות יישובים מאוחדים", "chapter": null, "start": 5, "level": 2, "end": 5}
 {"id": "81159e39f6c6", "num": "2.4", "title": "שמות יישובים ברשות הפלסטינית", "chapter": null, "start": 5, "level": 2, "end": 5}
 {"id": "81159e39f6c6", "num": "2.5", "title": "שינוי שמות יישובים", "chapter": null, "start": 5, "level": 2, "end": 7}
@@ -5259,6 +5498,11 @@
 {"id": "8f24e05f3038", "num": "2.2", "title": "חלופה 1 = = חומה = = nen", "chapter": null, "start": 56, "level": 2, "end": 72}
 {"id": "8f24e05f3038", "num": "0.2", "title": "רקע              בביצוע/חדשה", "chapter": null, "start": 73, "level": 2, "end": 76}
 {"id": "8f24e05f3038", "num": "0.2", "title": "חלופה", "chapter": null, "start": 77, "level": 2, "end": 108}
+{"id": "90938b1bfed9", "num": "9", "title": "סקר הידרולוגי", "chapter": "פרק 9 — סקר הידרולוגי", "start": 1, "level": 0, "end": 32}
+{"id": "90938b1bfed9", "num": "9.1.5.1", "title": "סקר הידרולוגי חדש בפורמט מלא (מפורט)", "chapter": "פרק 9 — סקר הידרולוגי", "start": 4, "level": 4, "end": 6}
+{"id": "90938b1bfed9", "num": "9.1.5.2", "title": "עדכון סקר הידרולוגי קיים", "chapter": "פרק 9 — סקר הידרולוגי", "start": 7, "level": 4, "end": 8}
+{"id": "90938b1bfed9", "num": "9.1.5.3", "title": "סקר הידרולוגי חלקי (ראשוני)", "chapter": "פרק 9 — סקר הידרולוגי", "start": 9, "level": 4, "end": 21}
+{"id": "90938b1bfed9", "num": "7", "title": "סיכום", "chapter": "פרק 9 — סקר הידרולוגי", "start": 22, "level": 1, "end": 32}
 {"id": "937e21153c93", "num": "1", "title": "פרק \u001a1", "chapter": null, "start": 22, "level": 1, "end": 35}
 {"id": "937e21153c93", "num": "1.1", "title": "התפישה שבבסיס ההנחיות", "chapter": null, "start": 22, "level": 2, "end": 22}
 {"id": "937e21153c93", "num": "1.2", "title": "מטרת מערכת ההנחיות לתכנון רחובות בערים", "chapter": null, "start": 23, "level": 2, "end": 23}
@@ -5361,6 +5605,9 @@
 {"id": "937e21153c93", "num": "4.4.3.1", "title": "הגדרה ויעד", "chapter": null, "start": 116, "level": 4, "end": 116}
 {"id": "937e21153c93", "num": "4.4.3.2", "title": "הפרשי שיפועים ללא עקום אנכי", "chapter": null, "start": 116, "level": 4, "end": 116}
 {"id": "937e21153c93", "num": "4.4.3.3", "title": "עקומים קמורים", "chapter": null, "start": 116, "level": 4, "end": 125}
+{"id": "95b2ad953e6f", "num": "6", "title": "תכנון שלבי ביצוע למסילות", "chapter": "פרק 6 — תכנון שלבי ביצוע למסילות", "start": 1, "level": 0, "end": 10}
+{"id": "95b2ad953e6f", "num": "6.1.1", "title": "תכנון ראשוני", "chapter": "פרק 6 — תכנון שלבי ביצוע למסילות", "start": 2, "level": 3, "end": 9}
+{"id": "95b2ad953e6f", "num": "6.1.6", "title": "תוצרי תכנון", "chapter": "פרק 6 — תכנון שלבי ביצוע למסילות", "start": 10, "level": 3, "end": 10}
 {"id": "967499ec148b", "num": "1.1", "title": "רקע", "chapter": null, "start": 6, "level": 2, "end": 7}
 {"id": "967499ec148b", "num": "1.2", "title": "תפקידם של התקני הבטיחות להגנה", "chapter": null, "start": 8, "level": 2, "end": 8}
 {"id": "967499ec148b", "num": "1.3", "title": "התקינה וההנחיות הקיימות", "chapter": null, "start": 9, "level": 2, "end": 9}
@@ -5383,11 +5630,23 @@
 {"id": "970e98f52fdf", "num": "4", "title": "נתיבי", "chapter": null, "start": 4, "level": 1, "end": 11}
 {"id": "970e98f52fdf", "num": "5", "title": "ו4 רשימת מקורות לפרקים", "chapter": null, "start": 12, "level": 1, "end": 12}
 {"id": "970e98f52fdf", "num": "6", "title": "רשימת מקורות לפרק", "chapter": null, "start": 13, "level": 1, "end": 15}
+{"id": "975597972cc9", "num": "40.1", "title": "מגדיר משימות", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "975597972cc9", "num": "6.3", "title": "אומדן לתשתיות התקשורת", "chapter": null, "start": 3, "level": 2, "end": 3}
+{"id": "975597972cc9", "num": "6.4", "title": "הדוח יכלול את הפרמטרים", "chapter": null, "start": 3, "level": 2, "end": 7}
+{"id": "975597972cc9", "num": "40.1.3", "title": "בקרת תכנון קבלן במסגרת מכרז תכנון ביצוע ופיקוח-על", "chapter": null, "start": 4, "level": 3, "end": 4}
+{"id": "975597972cc9", "num": "40.1.4", "title": "פיקוח עליון", "chapter": null, "start": 5, "level": 3, "end": 7}
 {"id": "980918265c04", "num": "5", "title": "בו ווה", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "983a2c6b6987", "num": "5", "title": "התווית דרך ציבורית מאושרת וקביעתה לדרך במבוי", "chapter": null, "start": 8, "level": 1, "end": 8}
 {"id": "983a2c6b6987", "num": "6", "title": "הרחבת דרכים. . התנגדות במשרדי הועדה המקומית TTR", "chapter": null, "start": 8, "level": 1, "end": 25}
 {"id": "983a2c6b6987", "num": "08.80", "title": "באוקטובר בשעה", "chapter": null, "start": 19, "level": 2, "end": 20}
 {"id": "983a2c6b6987", "num": "2.0", "title": "ראשנה", "chapter": null, "start": 21, "level": 2, "end": 25}
+{"id": "98e49d6ba0bd", "num": "7", "title": "תכנון שילוט", "chapter": "פרק 7 — תכנון שילוט", "start": 1, "level": 0, "end": 29}
+{"id": "98e49d6ba0bd", "num": "7.1.4.2.3", "title": "ובסעיף 7.2.2.2    ▪ תכנון מפורט לכל      במערכת  לרפרנט", "chapter": "פרק 7 — תכנון שילוט", "start": 18, "level": 5, "end": 18}
+{"id": "98e49d6ba0bd", "num": "7.1.4.2.3", "title": "ובסעיף 7.2.2.2      ▪ תכנון מפורט לכל              מניפה", "chapter": "פרק 7 — תכנון שילוט", "start": 18, "level": 5, "end": 19}
+{"id": "98e49d6ba0bd", "num": "7.1.4.2.4", "title": "השילוט העילי בקנ\"מ הגיאומטריה מסעיף", "chapter": "פרק 7 — תכנון שילוט", "start": 20, "level": 5, "end": 25}
+{"id": "98e49d6ba0bd", "num": "7.1.3", "title": "כולל", "chapter": "פרק 7 — תכנון שילוט", "start": 26, "level": 3, "end": 26}
+{"id": "98e49d6ba0bd", "num": "7.1.1", "title": "(תהליך מלא זהה        מלא זהה לסעיפים", "chapter": "פרק 7 — תכנון שילוט", "start": 26, "level": 3, "end": 26}
+{"id": "98e49d6ba0bd", "num": "7.1.6", "title": "עליון זהה לסעיף", "chapter": "פרק 7 — תכנון שילוט", "start": 27, "level": 3, "end": 29}
 {"id": "9a523260a303", "num": "2", "title": "דרכי יישום התוכנית", "chapter": null, "start": 4, "level": 1, "end": 12}
 {"id": "9af7024ed6fb", "num": "7", "title": "", "chapter": "פרק 7", "start": 3, "level": 0, "end": 18}
 {"id": "9af7024ed6fb", "num": "7.1", "title": "רשימת הגדרות ומונחים", "chapter": "פרק 7", "start": 3, "level": 2, "end": 3}
@@ -5460,6 +5719,18 @@
 {"id": "a0b2a05b9e55", "num": "2", "title": "מטרה", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "a0b2a05b9e55", "num": "3", "title": "הגדרות", "chapter": null, "start": 1, "level": 1, "end": 3}
 {"id": "a0b2a05b9e55", "num": "4", "title": "אישור התכניות והנחיות לביצוע =", "chapter": null, "start": 4, "level": 1, "end": 6}
+{"id": "a11df8390339", "num": "3", "title": "תכנון תנועתי", "chapter": "פרק 3 — תכנון תנועתי", "start": 1, "level": 0, "end": 29}
+{"id": "a11df8390339", "num": "3.1.1.2.8", "title": "בהמשך           במידת הצורך               להתייחסות מתכנן", "chapter": "פרק 3 — תכנון תנועתי", "start": 9, "level": 5, "end": 9}
+{"id": "a11df8390339", "num": "3.1.1.2.9", "title": "כולל ניתוח של                                            וחל עדכון", "chapter": "פרק 3 — תכנון תנועתי", "start": 9, "level": 5, "end": 11}
+{"id": "a11df8390339", "num": "3.1.1.2.8", "title": "הערות מוסדות התכנון              בהתאם להערות מוסדות", "chapter": "פרק 3 — תכנון תנועתי", "start": 12, "level": 5, "end": 12}
+{"id": "a11df8390339", "num": "3.1.1.2.8", "title": "שקודמו בשלב הליך", "chapter": "פרק 3 — תכנון תנועתי", "start": 13, "level": 5, "end": 14}
+{"id": "a11df8390339", "num": "3.1.1.2.8", "title": "לכל חלופה", "chapter": "פרק 3 — תכנון תנועתי", "start": 15, "level": 5, "end": 18}
+{"id": "a11df8390339", "num": "3.1.1.2.8", "title": "בהמשך", "chapter": "פרק 3 — תכנון תנועתי", "start": 19, "level": 5, "end": 19}
+{"id": "a11df8390339", "num": "3.1.3.2.7", "title": "כולל ניתוח של", "chapter": "פרק 3 — תכנון תנועתי", "start": 19, "level": 5, "end": 19}
+{"id": "a11df8390339", "num": "3.1.3.2.14", "title": "לפי סעיף", "chapter": "פרק 3 — תכנון תנועתי", "start": 19, "level": 5, "end": 27}
+{"id": "a11df8390339", "num": "3.1.4.2.3", "title": "לצורך הגשת תוצרים              ו/או בקנ\"מ", "chapter": "פרק 3 — תכנון תנועתי", "start": 28, "level": 5, "end": 29}
+{"id": "a13c4f70dcab", "num": "1", "title": "פרק  : 39 תכנון ויעוץ בנושא אקולוגיה", "chapter": null, "start": 2, "level": 1, "end": 8}
+{"id": "a13c4f70dcab", "num": "1.1", "title": "השוואת חלופות", "chapter": null, "start": 3, "level": 2, "end": 8}
 {"id": "a1877176fe2f", "num": "1", "title": "מבוא", "chapter": null, "start": 2, "level": 1, "end": 2}
 {"id": "a1877176fe2f", "num": "2", "title": "קביעת קיבולת עמדה", "chapter": null, "start": 2, "level": 1, "end": 2}
 {"id": "a1877176fe2f", "num": "3", "title": "תחנות באזור בנוי", "chapter": null, "start": 2, "level": 1, "end": 2}
@@ -5640,6 +5911,9 @@
 {"id": "b0d97ad00fce", "num": "9.6.10", "title": "חציות ברמפות מחלפים", "chapter": "פרק 9 — תנועת אופניים", "start": 18, "level": 3, "end": 18}
 {"id": "b0d97ad00fce", "num": "9.6.11", "title": "מעבר עילי או תחתי", "chapter": "פרק 9 — תנועת אופניים", "start": 19, "level": 3, "end": 19}
 {"id": "b0d97ad00fce", "num": "9.6.12", "title": "שימוש במעבר תחתי קיים", "chapter": "פרק 9 — תנועת אופניים", "start": 19, "level": 3, "end": 19}
+{"id": "b22080ce1c06", "num": "4", "title": "מיקרוסימולציה", "chapter": "פרק 4 — מיקרוסימולציה", "start": 1, "level": 0, "end": 3}
+{"id": "b22080ce1c06", "num": "4.1", "title": "פעולות מקדימות", "chapter": "פרק 4 — מיקרוסימולציה", "start": 2, "level": 2, "end": 2}
+{"id": "b22080ce1c06", "num": "4.4", "title": "פיתוח וניתוח חלופות", "chapter": "פרק 4 — מיקרוסימולציה", "start": 2, "level": 2, "end": 3}
 {"id": "b22aa0006b5c", "num": "7.11", "title": "וטבלה", "chapter": null, "start": 1, "level": 2, "end": 2}
 {"id": "b22aa0006b5c", "num": "2", "title": "", "chapter": "פרק 2", "start": 3, "level": 0, "end": 19}
 {"id": "b22aa0006b5c", "num": "4", "title": "הכרת הסדרי חד-סיטריות במתחם קיים", "chapter": "פרק 2", "start": 4, "level": 1, "end": 4}
@@ -5900,6 +6174,22 @@
 {"id": "bb040cf49f99", "num": "7.2.4", "title": "היבטים סביבתיים", "chapter": "פרק 7 — שילוב התוואי האופקי והתוואי האנכי", "start": 7, "level": 3, "end": 7}
 {"id": "bb040cf49f99", "num": "4", "title": "היבטים סביבתיים", "chapter": "פרק 7 — שילוב התוואי האופקי והתוואי האנכי", "start": 7, "level": 1, "end": 10}
 {"id": "bd5c019a942a", "num": "8.2.1", "title": "2 עדכון סעיף", "chapter": null, "start": 3, "level": 3, "end": 3}
+{"id": "bd6fb360d3c1", "num": "1.1", "title": "התנעה תכנון ראשוני", "chapter": null, "start": 1, "level": 2, "end": 1}
+{"id": "bd6fb360d3c1", "num": "1.2", "title": "הקמה -תכנון ראשוני", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "bd6fb360d3c1", "num": "1.3", "title": "שוטף -תכנון ראשוני", "chapter": null, "start": 3, "level": 2, "end": 4}
+{"id": "bd6fb360d3c1", "num": "2.2", "title": "הקמה תכנון סטטוטורי (אם הופעל מקדם תכנון סטטוטורי)", "chapter": null, "start": 5, "level": 2, "end": 5}
+{"id": "bd6fb360d3c1", "num": "2.3", "title": "שוטף  -תכנון סטטוטורי (אם הופעל מקדם תכנון סטטוטורי)", "chapter": null, "start": 6, "level": 2, "end": 7}
+{"id": "bd6fb360d3c1", "num": "3.1", "title": "התנעה תכנון מוקדם", "chapter": null, "start": 8, "level": 2, "end": 8}
+{"id": "bd6fb360d3c1", "num": "3.2", "title": "הקמת תכנון מוקדם", "chapter": null, "start": 9, "level": 2, "end": 9}
+{"id": "bd6fb360d3c1", "num": "3.3", "title": "שוטף תכנון מוקדם", "chapter": null, "start": 10, "level": 2, "end": 10}
+{"id": "bd6fb360d3c1", "num": "4.1", "title": "התנעת שלב תכנון מפורט או מפורט לDB", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "bd6fb360d3c1", "num": "4.2", "title": "הקמת שלב הקמת תכנון מפורט או מפורט לDB", "chapter": null, "start": 12, "level": 2, "end": 12}
+{"id": "bd6fb360d3c1", "num": "4.3", "title": "שוטף תכנון מפורט או מפורט לDB", "chapter": null, "start": 13, "level": 2, "end": 16}
+{"id": "bd6fb360d3c1", "num": "5", "title": "כללי", "chapter": "פרק 5 — כללי", "start": 17, "level": 0, "end": 17}
+{"id": "bd6fb360d3c1", "num": "5", "title": "מבנה וחלוקת אחריות", "chapter": "פרק 5 — מבנה וחלוקת אחריות", "start": 18, "level": 0, "end": 18}
+{"id": "bd6fb360d3c1", "num": "5", "title": "מטרות ה BIM-בפרויקט", "chapter": "פרק 5 — מטרות ה BIM-בפרויקט", "start": 19, "level": 0, "end": 19}
+{"id": "bd6fb360d3c1", "num": "5", "title": "ניהול המידע", "chapter": "פרק 5 — ניהול המידע", "start": 20, "level": 0, "end": 26}
+{"id": "bd6fb360d3c1", "num": "00", "title": "suronesk consTRucTION וסוס", "chapter": "פרק 5 — ניהול המידע", "start": 20, "level": 1, "end": 26}
 {"id": "bd8c474e9f89", "num": "22", "title": "ופיתוח תשתיות", "chapter": null, "start": 3, "level": 1, "end": 30}
 {"id": "bd8c474e9f89", "num": "3.2", "title": "מערכת הפנסים", "chapter": null, "start": 5, "level": 2, "end": 28}
 {"id": "bd8c474e9f89", "num": "3.2.1", "title": "כללי", "chapter": null, "start": 5, "level": 3, "end": 6}
@@ -5950,6 +6240,10 @@
 {"id": "bd8c474e9f89", "num": "3.3", "title": "בית נורה לנורת הלוגן במתח  10 וולט", "chapter": null, "start": 29, "level": 2, "end": 29}
 {"id": "bd8c474e9f89", "num": "3.4", "title": "שנאי לנורת הליבון במתח  24או  40 וולט", "chapter": null, "start": 30, "level": 2, "end": 30}
 {"id": "bd8c474e9f89", "num": "3.5", "title": "שנאי לנורת ההלוגן", "chapter": null, "start": 30, "level": 2, "end": 30}
+{"id": "bff22304d6ff", "num": "38", "title": "הדמיות", "chapter": "פרק 38 — הדמיות", "start": 1, "level": 0, "end": 3}
+{"id": "bff22304d6ff", "num": "38.1", "title": "פעולות מקדימות", "chapter": "פרק 38 — הדמיות", "start": 2, "level": 2, "end": 2}
+{"id": "bff22304d6ff", "num": "38.2", "title": "פיתוח הדמיה", "chapter": "פרק 38 — הדמיות", "start": 3, "level": 2, "end": 3}
+{"id": "bff22304d6ff", "num": "38.3", "title": "סרט תדמית לפרויקט", "chapter": "פרק 38 — הדמיות", "start": 3, "level": 2, "end": 3}
 {"id": "c0bc86b4874e", "num": "3.1", "title": "חשמל", "chapter": null, "start": 12, "level": 2, "end": 12}
 {"id": "c0bc86b4874e", "num": "12", "title": "במקרה הזה הדוגמה היא של חברת סימנס", "chapter": null, "start": 12, "level": 1, "end": 57}
 {"id": "c0bc86b4874e", "num": "3.2", "title": "מערכות מידע וניהול16", "chapter": null, "start": 15, "level": 2, "end": 15}
@@ -6010,6 +6304,13 @@
 {"id": "c277380abdcf", "num": "3.3", "title": "טבלה מס'", "chapter": "פרק ג' — מקדמי משיכה ויצירה של נסיעות", "start": 23, "level": 2, "end": 24}
 {"id": "c277380abdcf", "num": "3.4", "title": "טבלה מס'", "chapter": "פרק ג' — מקדמי משיכה ויצירה של נסיעות", "start": 25, "level": 2, "end": 25}
 {"id": "c277380abdcf", "num": "5", "title": "שימושי קרקע באזורים מיוחדים", "chapter": "פרק ג' — מקדמי משיכה ויצירה של נסיעות", "start": 26, "level": 1, "end": 30}
+{"id": "c7b6b5b73b4b", "num": "29", "title": "תכנון מערכות לחשמול מסילות", "chapter": "פרק 29 — תכנון מערכות לחשמול מסילות", "start": 1, "level": 0, "end": 9}
+{"id": "c8ba3fe1b1b1", "num": "39.1", "title": "מגדיר משימות", "chapter": null, "start": 2, "level": 2, "end": 7}
+{"id": "c8ba3fe1b1b1", "num": "39.1.1", "title": "תכנון ראשוני עמדות טעינה ואספקת אנרגיה למערכות", "chapter": null, "start": 2, "level": 3, "end": 2}
+{"id": "c8ba3fe1b1b1", "num": "39.1.2", "title": "תכנון מוקדם עמדות טעינה ואספקת אנרגיה למערכות", "chapter": null, "start": 2, "level": 3, "end": 4}
+{"id": "c8ba3fe1b1b1", "num": "28.1.5", "title": "תוך סימון והבחנה בין תשתיות המיועדת", "chapter": null, "start": 5, "level": 3, "end": 6}
+{"id": "c8ba3fe1b1b1", "num": "39.1.5", "title": "פיקוח עליון", "chapter": null, "start": 7, "level": 3, "end": 7}
+{"id": "c8ba3fe1b1b1", "num": "39.2", "title": "תכולת תיק תכנון מפורט", "chapter": null, "start": 8, "level": 2, "end": 14}
 {"id": "c94205ba36db", "num": "1", "title": "מבוא", "chapter": null, "start": 6, "level": 1, "end": 6}
 {"id": "c94205ba36db", "num": "2", "title": "מושגים והגדרות", "chapter": null, "start": 7, "level": 1, "end": 7}
 {"id": "c94205ba36db", "num": "3", "title": "מבנה ההנחיות", "chapter": null, "start": 8, "level": 1, "end": 13}
@@ -6067,6 +6368,11 @@
 {"id": "c94205ba36db", "num": "0.75", "title": "(מקדם מעבר לשכר נטו", "chapter": "פרק עמ — וד", "start": 199, "level": 2, "end": 199}
 {"id": "c94205ba36db", "num": "1.25", "title": "מקדם שעה ערך שלא בעינייני עבודה", "chapter": "פרק עמ — וד", "start": 199, "level": 2, "end": 204}
 {"id": "c94205ba36db", "num": "0.25", "title": "יפו 0.25 2.1", "chapter": "פרק עמ — וד", "start": 205, "level": 2, "end": 225}
+{"id": "cbabff52cd2a", "num": "8", "title": "תכנון ניקוז", "chapter": "פרק 8 — תכנון ניקוז", "start": 1, "level": 0, "end": 34}
+{"id": "cbabff52cd2a", "num": "8.1.4", "title": "תכנון מפורט למכרז \"תכנון בצוע\"", "chapter": "פרק 8 — תכנון ניקוז", "start": 19, "level": 3, "end": 32}
+{"id": "cbabff52cd2a", "num": "8.1.4.1", "title": "איסוף מידע", "chapter": "פרק 8 — תכנון ניקוז", "start": 19, "level": 4, "end": 32}
+{"id": "cbabff52cd2a", "num": "8.4", "title": "דו\"חות בפרויקט מסילה", "chapter": "פרק 8 — תכנון ניקוז", "start": 33, "level": 2, "end": 34}
+{"id": "cbabff52cd2a", "num": "8.4.1", "title": "דו\"ח ניקוז  -תכנון מוקדם", "chapter": "פרק 8 — תכנון ניקוז", "start": 33, "level": 3, "end": 34}
 {"id": "cbe8e94fc574", "num": "2", "title": "ET ה-א 17.5 85", "chapter": null, "start": 22, "level": 1, "end": 22}
 {"id": "cbe8e94fc574", "num": "3", "title": "ET דא 20 85", "chapter": null, "start": 22, "level": 1, "end": 22}
 {"id": "cbe8e94fc574", "num": "4", "title": "א -L ם -L 6 75", "chapter": null, "start": 22, "level": 1, "end": 22}
@@ -6229,6 +6535,11 @@
 {"id": "d4ce208b83a3", "num": "4", "title": "מעבר חציה", "chapter": null, "start": 25, "level": 1, "end": 25}
 {"id": "d4ce208b83a3", "num": "5", "title": "אחר (דיק לדוגמא)", "chapter": null, "start": 26, "level": 1, "end": 26}
 {"id": "d4ce208b83a3", "num": "6", "title": "רחוב עירוני משני (ללא מפרדה)", "chapter": null, "start": 26, "level": 1, "end": 35}
+{"id": "d503b53394ce", "num": "31.1", "title": "מבוא", "chapter": null, "start": 2, "level": 2, "end": 2}
+{"id": "d503b53394ce", "num": "31.2", "title": "מגדיר משימות", "chapter": null, "start": 3, "level": 2, "end": 10}
+{"id": "d503b53394ce", "num": "31.2.1", "title": "שלב תכנון מוקדם", "chapter": null, "start": 3, "level": 3, "end": 4}
+{"id": "d503b53394ce", "num": "31.2.2", "title": "שלב תכנון מפורט", "chapter": null, "start": 5, "level": 3, "end": 6}
+{"id": "d503b53394ce", "num": "31.2.3", "title": "שלב תכנון מפורט למכרז \"תכנון ביצוע\"", "chapter": null, "start": 7, "level": 3, "end": 10}
 {"id": "d61a9ea7e897", "num": "1", "title": "מבוא", "chapter": null, "start": 5, "level": 1, "end": 5}
 {"id": "d61a9ea7e897", "num": "2", "title": "שיטת המסמך", "chapter": null, "start": 5, "level": 1, "end": 5}
 {"id": "d61a9ea7e897", "num": "3", "title": "ממצאים ומסקנות", "chapter": null, "start": 5, "level": 1, "end": 5}
@@ -6789,6 +7100,12 @@
 {"id": "dce058d2831a", "num": "10.3.3", "title": "בגישה ובכניסה למנהרה שח | ה", "chapter": null, "start": 58, "level": 3, "end": 74}
 {"id": "dce058d2831a", "num": "4.2", "title": "גודש", "chapter": null, "start": 75, "level": 2, "end": 91}
 {"id": "de0ee2c786f9", "num": "6", "title": "ם= = =", "chapter": null, "start": 1, "level": 1, "end": 1}
+{"id": "de391996a51a", "num": "30", "title": "תכנון בקרת תנועה", "chapter": "פרק 30 — תכנון בקרת תנועה", "start": 1, "level": 0, "end": 7}
+{"id": "de391996a51a", "num": "30.1", "title": "מבוא", "chapter": "פרק 30 — תכנון בקרת תנועה", "start": 2, "level": 2, "end": 2}
+{"id": "de391996a51a", "num": "30.2", "title": "מגדיר משימות", "chapter": "פרק 30 — תכנון בקרת תנועה", "start": 3, "level": 2, "end": 7}
+{"id": "de391996a51a", "num": "30.2.1", "title": "שלב תכנון מוקדם", "chapter": "פרק 30 — תכנון בקרת תנועה", "start": 3, "level": 3, "end": 3}
+{"id": "de391996a51a", "num": "30.2.2", "title": "שלב תכנון מפורט", "chapter": "פרק 30 — תכנון בקרת תנועה", "start": 4, "level": 3, "end": 4}
+{"id": "de391996a51a", "num": "30.2.2", "title": "שלב תכנון מפורט למכרז \"תכנון ביצוע\"", "chapter": "פרק 30 — תכנון בקרת תנועה", "start": 5, "level": 3, "end": 7}
 {"id": "de5339879cb6", "num": "1", "title": "הבדיקה התנועתית", "chapter": null, "start": 13, "level": 1, "end": 30}
 {"id": "de5339879cb6", "num": "1.2", "title": "מדד הביצוע", "chapter": null, "start": 13, "level": 2, "end": 13}
 {"id": "de5339879cb6", "num": "1.3", "title": "מתודולוגית העבודה", "chapter": null, "start": 13, "level": 2, "end": 13}
@@ -6809,8 +7126,23 @@
 {"id": "de5339879cb6", "num": "2.4.2", "title": "צומת בן שלוש זרועות", "chapter": null, "start": 37, "level": 3, "end": 38}
 {"id": "de5339879cb6", "num": "3", "title": "מבחני רגישות", "chapter": null, "start": 39, "level": 1, "end": 55}
 {"id": "e1a74d7c9dcc", "num": "5.2", "title": "הקריטריונים הנדרשים מרשות תימרור מקומית לניהול תנועה", "chapter": null, "start": 7, "level": 2, "end": 11}
+{"id": "e2d5938daea2", "num": "2.1.4", "title": "תוצאות סימולציית CFD", "chapter": null, "start": 14, "level": 3, "end": 14}
+{"id": "e2d5938daea2", "num": "2.2.2.8", "title": "כל האמור מתבצע על בסיס סימולציית CFD", "chapter": null, "start": 14, "level": 4, "end": 14}
+{"id": "e2d5938daea2", "num": "2.6", "title": "הכנת סרטים של כל הסימולציות", "chapter": null, "start": 14, "level": 2, "end": 14}
 {"id": "e31f40aa4730", "num": "1", "title": "מודל ההצדק הכמותי", "chapter": null, "start": 2, "level": 1, "end": 6}
 {"id": "e31f40aa4730", "num": "0.5", "title": "כל אחת מיתר התאונות - משקל", "chapter": null, "start": 4, "level": 2, "end": 6}
+{"id": "e4bb994bf809", "num": "15", "title": "תכנון אקוסטי למסילות", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 1, "level": 0, "end": 14}
+{"id": "e4bb994bf809", "num": "15.1.1.2", "title": "ניתוח חלופות", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 3, "level": 4, "end": 3}
+{"id": "e4bb994bf809", "num": "15.1.2", "title": "שלב תכנון מוקדם", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 4, "level": 3, "end": 6}
+{"id": "e4bb994bf809", "num": "15.1.2.1", "title": "פעולות מקדמות", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 4, "level": 4, "end": 4}
+{"id": "e4bb994bf809", "num": "15.1.2.2", "title": "תכנון אקוסטי לחלופה נבחרת", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 4, "level": 4, "end": 6}
+{"id": "e4bb994bf809", "num": "2", "title": "ותיקון התכנון בהתאם", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 7, "level": 1, "end": 14}
+{"id": "e4bb994bf809", "num": "15.1.1", "title": "שלב תכנון מפורט", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 8, "level": 3, "end": 12}
+{"id": "e4bb994bf809", "num": "15.1.1.1", "title": "פעולות מקדימות", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 8, "level": 4, "end": 8}
+{"id": "e4bb994bf809", "num": "15.1.1.2", "title": "פעולות תכנון", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 8, "level": 4, "end": 12}
+{"id": "e4bb994bf809", "num": "15.1", "title": "מיגון אקוסטי דירתי (תכנון מפורט)", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 13, "level": 2, "end": 14}
+{"id": "e4bb994bf809", "num": "15.1.1", "title": "פעולות מקדימות", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 13, "level": 3, "end": 13}
+{"id": "e4bb994bf809", "num": "15.1.2", "title": "פעולות תכנון", "chapter": "פרק 15 — תכנון אקוסטי למסילות", "start": 13, "level": 3, "end": 14}
 {"id": "e56e83aab5b3", "num": "2.01", "title": "גרסה", "chapter": null, "start": 1, "level": 2, "end": 2}
 {"id": "e56e83aab5b3", "num": "2", "title": "ותיאום תחבורתי", "chapter": null, "start": 3, "level": 1, "end": 23}
 {"id": "e56e83aab5b3", "num": "3", "title": "ספירה oy זרועות משנה", "chapter": null, "start": 24, "level": 1, "end": 32}
@@ -6898,6 +7230,7 @@
 {"id": "e651a906e699", "num": "5.2", "title": "המשך > תוכנית מתאר מקומית (תב\"ע)", "chapter": "פרק 5", "start": 56, "level": 2, "end": 62}
 {"id": "e651a906e699", "num": "6", "title": "", "chapter": "פרק 6", "start": 63, "level": 0, "end": 67}
 {"id": "e651a906e699", "num": "6.1", "title": "מסמך הוראות לרישום שטחים למסופים", "chapter": "פרק 6", "start": 64, "level": 2, "end": 67}
+{"id": "e69d45a8fffb", "num": "13", "title": "תכנון סביבתי", "chapter": "פרק 13 — תכנון סביבתי", "start": 1, "level": 0, "end": 13}
 {"id": "e7566cd009e8", "num": "4", "title": "", "chapter": "פרק 4", "start": 6, "level": 0, "end": 6}
 {"id": "e7566cd009e8", "num": "5", "title": "", "chapter": "פרק 5", "start": 6, "level": 0, "end": 6}
 {"id": "e7566cd009e8", "num": "5.1.3", "title": "דרישות מינימו \b", "chapter": "פרק 5", "start": 6, "level": 3, "end": 6}
@@ -7225,6 +7558,7 @@
 {"id": "e935584cad44", "num": "3.10.1", "title": "רקע ומטרות", "chapter": "פרק 3 — החתך לרוחב הדרך", "start": 54, "level": 3, "end": 56}
 {"id": "e935584cad44", "num": "3.10.2", "title": "סוגי דרכים ליישום מפרצי חירום", "chapter": "פרק 3 — החתך לרוחב הדרך", "start": 57, "level": 3, "end": 57}
 {"id": "e935584cad44", "num": "3.10.3", "title": "מאפיינים גיאומטריים ותפעוליים של מפרצי חירום", "chapter": "פרק 3 — החתך לרוחב הדרך", "start": 57, "level": 3, "end": 64}
+{"id": "ea2ef6544457", "num": "3", "title": "תכנון גיאומטרי", "chapter": "פרק 3 — תכנון גיאומטרי", "start": 1, "level": 0, "end": 75}
 {"id": "ea3620911a55", "num": "5", "title": "מטרת התוכנית", "chapter": null, "start": 3, "level": 1, "end": 5}
 {"id": "ea3620911a55", "num": "12.5.99", "title": "וב- 9", "chapter": null, "start": 5, "level": 3, "end": 5}
 {"id": "ea3620911a55", "num": "6", "title": "תיקון התשריט", "chapter": null, "start": 6, "level": 1, "end": 6}
@@ -7436,6 +7770,7 @@
 {"id": "eddd9a68c7e3", "num": "6.3.7", "title": "נתוני איי תנועה ואיים משולשים", "chapter": "פרק 6 — / מקומות חצ", "start": 134, "level": 3, "end": 134}
 {"id": "eddd9a68c7e3", "num": "6.4", "title": "חציית הולכי-רגל בדרכים בין עירוניות", "chapter": "פרק 6 — / מקומות חצ", "start": 135, "level": 2, "end": 143}
 {"id": "eddd9a68c7e3", "num": "7", "title": "נכון                                            לא נכון", "chapter": "פרק 6 — / מקומות חצ", "start": 144, "level": 1, "end": 159}
+{"id": "ef089349c386", "num": "10", "title": "תכנון נופי", "chapter": "פרק 10 — תכנון נופי", "start": 1, "level": 0, "end": 33}
 {"id": "ef584f4d831c", "num": "8.1", "title": "רקע", "chapter": null, "start": 2, "level": 2, "end": 2}
 {"id": "ef584f4d831c", "num": "8", "title": "היבטים סביבתיים", "chapter": "פרק 8 — היבטים סביבתיים", "start": 2, "level": 0, "end": 22}
 {"id": "ef584f4d831c", "num": "1", "title": "רקע", "chapter": "פרק 8 — היבטים סביבתיים", "start": 2, "level": 1, "end": 5}
@@ -7513,6 +7848,7 @@
 {"id": "f00ad495d89d", "num": "33", "title": "מפרט לחומר הגוונה אדום בנתיבי תחבורה ציבורית", "chapter": null, "start": 38, "level": 1, "end": 38}
 {"id": "f00ad495d89d", "num": "34", "title": "מפרט לחומר הגוונה אדום בנתיבי תחבורה ציבורית", "chapter": null, "start": 39, "level": 1, "end": 44}
 {"id": "f02930214c85", "num": "3", "title": "48 מו", "chapter": null, "start": 1, "level": 1, "end": 1}
+{"id": "f16abfdec0dd", "num": "37", "title": "הליך הכרזות והפקעות", "chapter": "פרק 37 — הליך הכרזות והפקעות", "start": 1, "level": 0, "end": 2}
 {"id": "f19e958e14da", "num": "1", "title": "בללי", "chapter": null, "start": 1, "level": 1, "end": 1}
 {"id": "f19e958e14da", "num": "2", "title": "מטרה", "chapter": null, "start": 1, "level": 1, "end": 10}
 {"id": "f19e958e14da", "num": "3", "title": "עקביות התכנון", "chapter": null, "start": 11, "level": 1, "end": 23}
@@ -7654,6 +7990,14 @@
 {"id": "f8f7b780c0fb", "num": "10.0", "title": "מימדים קרים 5 רצוי 15.0", "chapter": null, "start": 8, "level": 2, "end": 8}
 {"id": "f8f7b780c0fb", "num": "26.1", "title": "שטח למקום חניה (מ\"ר) 31.3", "chapter": null, "start": 9, "level": 2, "end": 10}
 {"id": "f8f7b780c0fb", "num": "13.0", "title": "מינימום", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "f93f222e66b4", "num": "14", "title": "תכנון אקוסטי לכבישים", "chapter": "פרק 14 — תכנון אקוסטי לכבישים", "start": 1, "level": 0, "end": 1}
+{"id": "f93f222e66b4", "num": "14", "title": "תכנון אקוסטיקה ורעידות", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 2, "level": 0, "end": 22}
+{"id": "f93f222e66b4", "num": "14.1", "title": "שלב תכנון ראשוני", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 2, "level": 2, "end": 2}
+{"id": "f93f222e66b4", "num": "11", "title": "פעולות מקדימות", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 2, "level": 1, "end": 10}
+{"id": "f93f222e66b4", "num": "14.2", "title": "שלב תכנון מוקדם", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 3, "level": 2, "end": 10}
+{"id": "f93f222e66b4", "num": "14.2.3", "title": "תכנון מוקדם סטטוטורי", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 7, "level": 3, "end": 10}
+{"id": "f93f222e66b4", "num": "12", "title": "האקוסטיות בתכנית", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 11, "level": 1, "end": 22}
+{"id": "f93f222e66b4", "num": "14.3", "title": "שלב תכנון מפורט- מכרז כמויות", "chapter": "פרק 14 — תכנון אקוסטיקה ורעידות", "start": 12, "level": 2, "end": 22}
 {"id": "f94897bb299b", "num": "8", "title": "© יוסף בוולון", "chapter": null, "start": 3, "level": 1, "end": 5}
 {"id": "f9c78a7a8f3c", "num": "22.6", "title": "מספר מצטבר 8 16", "chapter": null, "start": 4, "level": 2, "end": 4}
 {"id": "f9c78a7a8f3c", "num": "5", "title": "= בישראל מעט אזורים שבהם קיימת היום נגישות", "chapter": null, "start": 5, "level": 1, "end": 17}
