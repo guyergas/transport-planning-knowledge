@@ -1,0 +1,2 @@
+# URLs of .dwg or .zip to convert (one per line)
+https://www.gov.il/BlobFolder/policy/cad/he/CAD.zip

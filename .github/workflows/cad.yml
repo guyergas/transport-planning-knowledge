@@ -1,0 +1,75 @@
+name: cad
+# CAD drawings (DWG) -> SVG + PNG previews, so sessions can see official symbols (legends, blocks).
+# Inputs: cad/in/*.dwg and cad/sources.txt (URLs of .dwg or .zip; zips are unpacked, every .dwg inside is converted).
+on:
+  push:
+    branches: [main]
+    paths: ['cad/in/**', 'cad/sources.txt', '.github/workflows/cad.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cad
+  cancel-in-progress: false
+jobs:
+  cad:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Tools (LibreDWG + rsvg)
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q librsvg2-bin unzip
+          sudo apt-get install -y -q libredwg-tools || sudo apt-get install -y -q libredwg-utils || {
+            sudo apt-get install -y -q build-essential
+            curl -sSL -o /tmp/lr.tar.xz https://github.com/LibreDWG/libredwg/releases/download/0.13.3/libredwg-0.13.3.tar.xz
+            tar -xf /tmp/lr.tar.xz -C /tmp && cd /tmp/libredwg-0.13.3 && ./configure -q --disable-python --disable-bindings >/dev/null && make -j4 -s >/dev/null && sudo make install -s >/dev/null && sudo ldconfig; }
+          which dwg2SVG dwgread
+      - name: Collect inputs
+        run: |
+          mkdir -p /tmp/cad && cp cad/in/*.dwg /tmp/cad/ 2>/dev/null || true
+          if [ -f cad/sources.txt ]; then
+            grep -v '^#' cad/sources.txt | grep -v '^\s*$' | while read -r url rest; do
+              f="/tmp/dl/$(basename "${url%%\?*}")"; mkdir -p /tmp/dl
+              curl -sSL -A 'Mozilla/5.0' -m 600 -o "$f" "$url" || { echo "FAIL $url"; continue; }
+              case "$f" in
+                *.zip|*.ZIP) d="/tmp/dl/$(basename "$f" .zip)"; mkdir -p "$d"; unzip -q -o -O cp862 "$f" -d "$d" 2>/dev/null || unzip -q -o "$f" -d "$d";
+                             find "$d" -iname '*.dwg' -exec cp {} /tmp/cad/ \; ;;
+                *) cp "$f" /tmp/cad/ ;;
+              esac
+            done
+          fi
+          ls -la /tmp/cad
+      - name: Convert DWG -> SVG + PNG
+        run: |
+          mkdir -p cad/out
+          : > cad/out/index.tsv
+          for f in /tmp/cad/*.dwg /tmp/cad/*.DWG; do
+            [ -f "$f" ] || continue
+            n=$(basename "${f%.*}" | tr ' /' '__')
+            if timeout 300 dwg2SVG "$f" > "cad/out/$n.svg" 2> "cad/out/$n.log" && [ -s "cad/out/$n.svg" ]; then
+              rsvg-convert -w 2400 -b white "cad/out/$n.svg" -o "cad/out/$n.png" 2>> "cad/out/$n.log" || true
+              timeout 300 dwgread -O JSON -o "/tmp/$n.json" "$f" 2>/dev/null && python3 - "$n" "/tmp/$n.json" >> cad/out/index.tsv <<'PY' || printf '%s\tok\t\n' "$n" >> cad/out/index.tsv
+          import json, sys
+          n, p = sys.argv[1], sys.argv[2]
+          d = json.load(open(p, errors='replace'))
+          blocks = sorted({o.get('name', '') for o in d.get('OBJECTS', []) if o.get('object') == 'BLOCK_HEADER' and o.get('name') and not o['name'].startswith('*')})
+          texts = [o.get('text_value', '') for o in d.get('OBJECTS', []) if o.get('entity') in ('TEXT', 'MTEXT') and o.get('text_value')]
+          print(f"{n}\tok\tblocks={len(blocks)}: {', '.join(blocks)[:1500]}\ttexts={len(texts)}: {' | '.join(texts)[:1500]}")
+          PY
+            else
+              printf '%s\tfailed\t%s\n' "$n" "$(tail -c 200 "cad/out/$n.log" | tr '\n\t' '  ')" >> cad/out/index.tsv
+            fi
+          done
+          cat cad/out/index.tsv | cut -c1-300
+      - name: Commit
+        run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add cad/out
+          git diff --cached --quiet && exit 0
+          git commit -qm "cad: DWG previews $(date -u +%F_%H%M)"
+          git pull -q --rebase && git push -q

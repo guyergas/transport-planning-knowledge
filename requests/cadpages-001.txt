@@ -1,0 +1,3 @@
+# render=1 pages listing the 2024 CAD blocks and sign production files
+https://www.gov.il/he/pages/cad render=1
+https://www.gov.il/he/pages/production_files render=1

@@ -88,6 +88,11 @@ Big data files (CSV/ZIP/PBF/XLSX) that projects clip locally — no OCR, no inde
 - Query services stay in the project task (area query, no national file): Open Bus Stride API, iplan ArcGIS, GovMap, street-imagery APIs (KartaView/Mapillary), Tiltan boardings, Civil Administration plans (J&S), orthophoto. Decided by Guy 18.11.2026: these are pulled per project, not stored here. Split of responsibility: this repo only fetches and refreshes national files; component A (the project fetch task) does everything else — clipping national files to the study area, area-query services, processing, saving to the project folder, report.
 - Current: `tripscelular_1819` (cellular OD 2018–19 v1.3), `gtfs`, `cbs_accidents_puf`, `cbs_localities`, `osm_israel`, bicycle: `bike_infra_plan`, `bike_infra_exist`, `bike_ofneidan`, `bike_metrofan`, `bike_net_tlv`. Data dictionaries/reports (PDF) go through the normal document pipeline (requests/).
 
+## CAD previews (DWG → SVG/PNG)
+Workflow `cad`: `cad/in/*.dwg` + `cad/sources.txt` (URLs of .dwg/.zip) → LibreDWG `dwg2SVG` → `cad/out/<name>.svg|png` +
+`cad/out/index.tsv` (block names + texts per drawing). Used to see official MOT symbols (legends, blocks) for the report schematics.
+Source: MOT CAD spec package (draft 2021-08-19, record שורה 169); 2024 blocks/production files from gov.il/he/pages/cad and /production_files.
+
 ## Maintain the repo (needs push: add_repo owner=guyergas repo=transport-planning-knowledge access=push)
 Every push below triggers workflow `fetch`; it ends with the `index` job (dedupe, sheet join, sections, search, Issue).
 Poll `https://api.github.com/repos/guyergas/transport-planning-knowledge/actions/runs?per_page=1`, then `git pull`.
