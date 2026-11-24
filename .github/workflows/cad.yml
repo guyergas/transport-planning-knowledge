@@ -29,6 +29,7 @@ jobs:
             tar -xf /tmp/lr.tar.xz -C /tmp && cd /tmp/libredwg-0.13.3 && ./configure -q --disable-python --disable-bindings >/dev/null && make -j4 -s >/dev/null && sudo make install -s >/dev/null && sudo ldconfig; }
           which dwg2SVG dwgread
       - name: Collect inputs
+        shell: bash {0}
         run: |
           mkdir -p /tmp/cad && cp cad/in/*.dwg /tmp/cad/ 2>/dev/null || true
           if [ -f cad/sources.txt ]; then
@@ -36,14 +37,15 @@ jobs:
               f="/tmp/dl/$(basename "${url%%\?*}")"; mkdir -p /tmp/dl
               curl -sSL -A 'Mozilla/5.0' -m 600 -o "$f" "$url" || { echo "FAIL $url"; continue; }
               case "$f" in
-                *.zip|*.ZIP) d="/tmp/dl/$(basename "$f" .zip)"; mkdir -p "$d"; unzip -q -o -O cp862 "$f" -d "$d" 2>/dev/null || unzip -q -o "$f" -d "$d";
-                             find "$d" -iname '*.dwg' -exec cp {} /tmp/cad/ \; ;;
+                *.zip|*.ZIP) d="/tmp/dl/$(basename "$f" .zip)"; mkdir -p "$d"; unzip -q -o -O cp862 "$f" -d "$d" 2>/dev/null || unzip -q -o "$f" -d "$d" || echo "UNZIP FAIL $url ($(file -b "$f" | cut -c1-60))";
+                             find "$d" -iname '*.dwg' -exec cp {} /tmp/cad/ \; || true ;;
                 *) cp "$f" /tmp/cad/ ;;
               esac
             done
           fi
           ls -la /tmp/cad
       - name: Convert DWG -> SVG + PNG
+        shell: bash {0}
         run: |
           mkdir -p cad/out
           : > cad/out/index.tsv
