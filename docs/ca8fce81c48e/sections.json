@@ -1,0 +1,197 @@
+{
+ "front": {
+  "dates": [
+   "אפריל 2021",
+   "2003",
+   "2017"
+  ],
+  "publisher": [
+   "משרד התחבורה",
+   "הרשות הארצית",
+   "משרד התחבורה לפתח גם שלטים משולבים בהזנה סולארית).",
+   "משרד התחבורה מבקש לקדם התקנת שילוט משולב במסגרת מדיניות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "3.0",
+   "title": "גרסה",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 1
+  },
+  {
+   "num": "1",
+   "title": "רקע כללי",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 3
+  },
+  {
+   "num": "2",
+   "title": "הגדרות",
+   "chapter": null,
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "3.2",
+   "title": "אופן הצבת השלטים",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "4.1",
+   "title": "מימדים ומידות",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "3",
+   "title": "סוגי שלטים ואופן הצבתם",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 5
+  },
+  {
+   "num": "4",
+   "title": "דרישות חומרה",
+   "chapter": null,
+   "start": 5,
+   "level": 1,
+   "end": 14
+  },
+  {
+   "num": "4.2",
+   "title": "דרישות פיסיות מהשלט ומרכיביו",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "4.2.1",
+   "title": "דרישות מרכיב התצוגה (המסך)",
+   "chapter": null,
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "4.2.2",
+   "title": "דרישות סביבה",
+   "chapter": null,
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "4.2.3",
+   "title": "דרישות הגנה מפני ונדליזם",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "4.2.4",
+   "title": "חומרה נדרשת לטעינת כרטיסי רב-קו",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "4.2.5",
+   "title": "אמצעי נגישות קולי",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "4.2.6",
+   "title": "מארז",
+   "chapter": null,
+   "start": 8,
+   "level": 3,
+   "end": 8
+  },
+  {
+   "num": "4.3",
+   "title": "רכיב BLE",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "4.4",
+   "title": "מצלמת אבטחה",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "5.1.8",
+   "title": "תאריך ושעה נוכחית בתצורת .HH:MM",
+   "chapter": null,
+   "start": 10,
+   "level": 3,
+   "end": 10
+  },
+  {
+   "num": "5.3",
+   "title": "דרישות טכניות לגבי אופן התצוגה",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "8.1",
+   "title": "שרת ספק שלטים משולבים",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "8.2",
+   "title": "תיאור הממשקים",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "8.2.7",
+   "title": "ככל שחלק מהשלט מופעל ע\"י :C2S",
+   "chapter": null,
+   "start": 13,
+   "level": 3,
+   "end": 13
+  },
+  {
+   "num": "8.3",
+   "title": "פרוטוקול הודעות מיוחדות",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 14
+  }
+ ],
+ "coverage": "sections"
+}

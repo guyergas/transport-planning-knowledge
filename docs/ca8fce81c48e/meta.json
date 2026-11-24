@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/generalpage/integrated_signage_guidelines/he/shilut_meshulav_3_0.pdf",
+ "checked": "2026-11-24T02:05:58Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/generalpage/integrated_signage_guidelines/he/shilut_meshulav_3_0.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 1208084,
+ "secs": 5.370941,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "ca8fce81c48e",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 14,
+ "pdf_meta": {
+  "Title": "הנחיות פונקציונליות לשילוט משולב - גירסה 3.0",
+  "Producer": "Microsoft® Word 2013",
+  "Creator": "Microsoft® Word 2013",
+  "CreationDate": "Sun Apr 18 12:42:10 2021 UTC",
+  "ModDate": "Sun Apr 18 12:42:10 2021 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "45125f3bb3e16173b500ab89ac579bed96b13d10ea96da1cdd3366d1b76c264d",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/ca8fce81c48e.pdf",
+ "image_pages": 14,
+ "table_pages": 1,
+ "figure_ocr_pages": 14,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 14,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

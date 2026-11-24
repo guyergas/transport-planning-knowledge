@@ -1,0 +1,64 @@
+{
+ "url": "https://www.gov.il/he/departments/general/train_stations_spatial_planning_august_2018",
+ "checked": "2026-11-24T02:12:36Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/train_stations_spatial_planning_august_2018",
+ "content_type": "text/html",
+ "redirects": 1,
+ "bytes": 5186,
+ "secs": 0.064257,
+ "body_head": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]> <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]> <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]--> <!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]--> <head> <title>Attention Required! | Cloudflare</title> <meta charset=\"UTF-8\" /> <meta http-",
+ "server": "cloudflare",
+ "tries": [
+  403,
+  403,
+  403
+ ],
+ "id": "4ec24bc92dc8",
+ "kind": "html",
+ "result": "redirect",
+ "via": "browser",
+ "first_try": {
+  "status": 403,
+  "result": "error 403",
+  "server": "cloudflare"
+ },
+ "title": "המדריך לתכנון מרחבי תחנות רכבת הרשות הארצית לתחבורה ציבורית",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/TRAFFIC_PLANNING_tihnun_tahanot_rakevet.pdf",
+   "text": "המדריך לתכנון מרחבי תחנות רכבת - גרסת אוגוסט 2018"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/Split and Forecast Goals Document - Eastern Railway - January 2019.pdf",
+   "text": "מסמך יעדי פיצול ותחזיות - המסילה המזרחית - ינואר 2019"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/Classification_of_Stations_ Designed_List.xlsx",
+   "text": "סווג תחנות -רשימה מעוצבת"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/Train_Stations_Spatial_Planning_Literature_Survey.pdf",
+   "text": "הנחיות לתכנון נגישות לתחנות הרכבת דו\"ח מסכם - סקר ספרותי"
+  }
+ ],
+ "all_links": 45,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/TRAFFIC_PLANNING_tihnun_tahanot_rakevet.pdf",
+   "text": "המדריך לתכנון מרחבי תחנות רכבת - גרסת אוגוסט 2018"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/Split and Forecast Goals Document - Eastern Railway - January 2019.pdf",
+   "text": "מסמך יעדי פיצול ותחזיות - המסילה המזרחית - ינואר 2019"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/Classification_of_Stations_ Designed_List.xlsx",
+   "text": "סווג תחנות -רשימה מעוצבת"
+  },
+  {
+   "url": "https://www.gov.il/BlobFolder/generalpage/train_stations_spatial_planning_august_2018/he/Train_Stations_Spatial_Planning_Literature_Survey.pdf",
+   "text": "הנחיות לתכנון נגישות לתחנות הרכבת דו\"ח מסכם - סקר ספרותי"
+  }
+ ]
+}
