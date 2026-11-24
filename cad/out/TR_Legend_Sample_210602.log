@@ -1,5 +1,277 @@
-HATCH ignored
-HATCH ignored
-HATCH ignored
-HATCH ignored
-HATCH ignored
+Warning: checksum: 0x24050f2a (calculated) CRC mismatch 0x18ad4-0x18b6f
+
+Warning: Invalid sections: 0 != numgaps: 0 + numsections: 21
+Warning: Unstable Class object 505 MATERIAL (0x481) 10/0
+Warning: Unstable Class object 505 MATERIAL (0x481) 51/0
+Warning: Unstable Class object 505 MATERIAL (0x481) 54/0
+Warning: Unstable Class object 504 TABLESTYLE (0xfff) 65/0
+Warning: TODO TABLESTYLE r2010+ missing fields
+Warning: Object handle not found 120/0x78 in 116 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 78
+Warning: Object handle not found 122/0x7A in 116 objects of max 0x5B1 handles
+Warning: Object handle not found 126/0x7E in 122 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 7E
+Warning: Object handle not found 128/0x80 in 122 objects of max 0x5B1 handles
+Warning: Object handle not found 132/0x84 in 128 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 84
+Warning: Object handle not found 133/0x85 in 128 objects of max 0x5B1 handles
+Warning: Object handle not found 137/0x89 in 133 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 89
+Warning: Object handle not found 139/0x8B in 133 objects of max 0x5B1 handles
+Warning: Object handle not found 143/0x8F in 139 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 8F
+Warning: Object handle not found 145/0x91 in 139 objects of max 0x5B1 handles
+Warning: Object handle not found 149/0x95 in 145 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 95
+Warning: Object handle not found 151/0x97 in 145 objects of max 0x5B1 handles
+Warning: Object handle not found 155/0x9B in 151 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 9B
+Warning: Object handle not found 157/0x9D in 151 objects of max 0x5B1 handles
+Warning: Object handle not found 161/0xA1 in 157 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer A1
+Warning: Object handle not found 163/0xA3 in 157 objects of max 0x5B1 handles
+Warning: Object handle not found 189/0xBD in 185 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer BD
+Warning: Object handle not found 191/0xBF in 185 objects of max 0x5B1 handles
+Warning: Object handle not found 206/0xCE in 202 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer CE
+Warning: Object handle not found 207/0xCF in 202 objects of max 0x5B1 handles
+Warning: Object handle not found 215/0xD7 in 211 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer D7
+Warning: Object handle not found 216/0xD8 in 211 objects of max 0x5B1 handles
+Warning: Object handle not found 220/0xDC in 216 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer DC
+Warning: Object handle not found 221/0xDD in 216 objects of max 0x5B1 handles
+Warning: Object handle not found 225/0xE1 in 221 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer E1
+Warning: Object handle not found 227/0xE3 in 221 objects of max 0x5B1 handles
+Warning: Object handle not found 231/0xE7 in 227 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer E7
+Warning: Object handle not found 232/0xE8 in 227 objects of max 0x5B1 handles
+Warning: Object handle not found 236/0xEC in 232 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer EC
+Warning: Object handle not found 237/0xED in 232 objects of max 0x5B1 handles
+Warning: Object handle not found 241/0xF1 in 237 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer F1
+Warning: Object handle not found 242/0xF2 in 237 objects of max 0x5B1 handles
+Warning: Object handle not found 250/0xFA in 246 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer FA
+Warning: Object handle not found 251/0xFB in 246 objects of max 0x5B1 handles
+Warning: Object handle not found 263/0x107 in 259 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 107
+Warning: Object handle not found 264/0x108 in 259 objects of max 0x5B1 handles
+Warning: Object handle not found 272/0x110 in 268 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 110
+Warning: Object handle not found 273/0x111 in 268 objects of max 0x5B1 handles
+Warning: Object handle not found 289/0x121 in 285 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 121
+Warning: Object handle not found 290/0x122 in 285 objects of max 0x5B1 handles
+Warning: Object handle not found 314/0x13A in 310 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 13A
+Warning: Object handle not found 315/0x13B in 310 objects of max 0x5B1 handles
+Warning: Object handle not found 319/0x13F in 315 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 13F
+Warning: Object handle not found 320/0x140 in 315 objects of max 0x5B1 handles
+Warning: Object handle not found 339/0x153 in 335 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 153
+Warning: Object handle not found 340/0x154 in 335 objects of max 0x5B1 handles
+Warning: Object handle not found 373/0x175 in 369 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 175
+Warning: Object handle not found 374/0x176 in 369 objects of max 0x5B1 handles
+Warning: Object handle not found 378/0x17A in 374 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 17A
+Warning: Object handle not found 379/0x17B in 374 objects of max 0x5B1 handles
+Warning: Object handle not found 389/0x185 in 385 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 185
+Warning: Object handle not found 391/0x187 in 385 objects of max 0x5B1 handles
+Warning: Object handle not found 395/0x18B in 391 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 18B
+Warning: Object handle not found 396/0x18C in 391 objects of max 0x5B1 handles
+Warning: Object handle not found 406/0x196 in 402 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 196
+Warning: Object handle not found 407/0x197 in 402 objects of max 0x5B1 handles
+Warning: Object handle not found 415/0x19F in 411 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 19F
+Warning: Object handle not found 416/0x1A0 in 411 objects of max 0x5B1 handles
+Warning: Object handle not found 424/0x1A8 in 420 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 1A8
+Warning: Object handle not found 425/0x1A9 in 420 objects of max 0x5B1 handles
+Warning: Object handle not found 433/0x1B1 in 429 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 1B1
+Warning: Object handle not found 434/0x1B2 in 429 objects of max 0x5B1 handles
+Warning: Object handle not found 506/0x1FA in 502 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 1FA
+Warning: Object handle not found 507/0x1FB in 502 objects of max 0x5B1 handles
+Warning: Object handle not found 530/0x212 in 526 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 212
+Warning: Object handle not found 531/0x213 in 526 objects of max 0x5B1 handles
+Warning: Object handle not found 535/0x217 in 531 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 217
+Warning: Object handle not found 536/0x218 in 531 objects of max 0x5B1 handles
+Warning: Object handle not found 574/0x23E in 570 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 23E
+Warning: Object handle not found 575/0x23F in 570 objects of max 0x5B1 handles
+Warning: Object handle not found 595/0x253 in 591 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 253
+Warning: Object handle not found 596/0x254 in 591 objects of max 0x5B1 handles
+Warning: Object handle not found 600/0x258 in 596 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 258
+Warning: Object handle not found 601/0x259 in 596 objects of max 0x5B1 handles
+Warning: Object handle not found 605/0x25D in 601 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 25D
+Warning: Object handle not found 606/0x25E in 601 objects of max 0x5B1 handles
+Warning: Object handle not found 641/0x281 in 637 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 281
+Warning: Object handle not found 642/0x282 in 637 objects of max 0x5B1 handles
+Warning: Object handle not found 646/0x286 in 642 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 286
+Warning: Object handle not found 647/0x287 in 642 objects of max 0x5B1 handles
+Warning: Object handle not found 668/0x29C in 664 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 29C
+Warning: Object handle not found 669/0x29D in 664 objects of max 0x5B1 handles
+Warning: Object handle not found 673/0x2A1 in 669 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2A1
+Warning: Object handle not found 674/0x2A2 in 669 objects of max 0x5B1 handles
+Warning: Object handle not found 678/0x2A6 in 674 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2A6
+Warning: Object handle not found 679/0x2A7 in 674 objects of max 0x5B1 handles
+Warning: Object handle not found 683/0x2AB in 679 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2AB
+Warning: Object handle not found 684/0x2AC in 679 objects of max 0x5B1 handles
+Warning: Object handle not found 688/0x2B0 in 684 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2B0
+Warning: Object handle not found 689/0x2B1 in 684 objects of max 0x5B1 handles
+Warning: Object handle not found 693/0x2B5 in 689 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2B5
+Warning: Object handle not found 694/0x2B6 in 689 objects of max 0x5B1 handles
+Warning: Object handle not found 702/0x2BE in 698 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2BE
+Warning: Object handle not found 703/0x2BF in 698 objects of max 0x5B1 handles
+Warning: Object handle not found 723/0x2D3 in 719 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2D3
+Warning: Object handle not found 724/0x2D4 in 719 objects of max 0x5B1 handles
+Warning: Object handle not found 743/0x2E7 in 739 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2E7
+Warning: Object handle not found 744/0x2E8 in 739 objects of max 0x5B1 handles
+Warning: Object handle not found 748/0x2EC in 744 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2EC
+Warning: Object handle not found 749/0x2ED in 744 objects of max 0x5B1 handles
+Warning: Object handle not found 753/0x2F1 in 749 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2F1
+Warning: Object handle not found 754/0x2F2 in 749 objects of max 0x5B1 handles
+Warning: Object handle not found 758/0x2F6 in 754 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2F6
+Warning: Object handle not found 759/0x2F7 in 754 objects of max 0x5B1 handles
+Warning: Object handle not found 763/0x2FB in 759 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 2FB
+Warning: Object handle not found 764/0x2FC in 759 objects of max 0x5B1 handles
+Warning: Object handle not found 781/0x30D in 777 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 30D
+Warning: Object handle not found 782/0x30E in 777 objects of max 0x5B1 handles
+Warning: Object handle not found 791/0x317 in 787 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 317
+Warning: Object handle not found 792/0x318 in 787 objects of max 0x5B1 handles
+Warning: Object handle not found 800/0x320 in 796 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 320
+Warning: Object handle not found 801/0x321 in 796 objects of max 0x5B1 handles
+Warning: Object handle not found 809/0x329 in 805 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 329
+Warning: Object handle not found 810/0x32A in 805 objects of max 0x5B1 handles
+Warning: Object handle not found 818/0x332 in 814 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 332
+Warning: Object handle not found 819/0x333 in 814 objects of max 0x5B1 handles
+Warning: Object handle not found 831/0x33F in 827 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 33F
+Warning: Object handle not found 832/0x340 in 827 objects of max 0x5B1 handles
+Warning: Object handle not found 844/0x34C in 840 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 34C
+Warning: Object handle not found 845/0x34D in 840 objects of max 0x5B1 handles
+Warning: Object handle not found 853/0x355 in 849 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 355
+Warning: Object handle not found 854/0x356 in 849 objects of max 0x5B1 handles
+Warning: Object handle not found 870/0x366 in 866 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 366
+Warning: Object handle not found 871/0x367 in 866 objects of max 0x5B1 handles
+Warning: Object handle not found 895/0x37F in 891 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 37F
+Warning: Object handle not found 896/0x380 in 891 objects of max 0x5B1 handles
+Warning: Object handle not found 919/0x397 in 915 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 397
+Warning: Object handle not found 920/0x398 in 915 objects of max 0x5B1 handles
+Warning: Object handle not found 953/0x3B9 in 949 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3B9
+Warning: Object handle not found 954/0x3BA in 949 objects of max 0x5B1 handles
+Warning: Object handle not found 958/0x3BE in 954 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3BE
+Warning: Object handle not found 959/0x3BF in 954 objects of max 0x5B1 handles
+Warning: Object handle not found 963/0x3C3 in 959 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3C3
+Warning: Object handle not found 964/0x3C4 in 959 objects of max 0x5B1 handles
+Warning: Object handle not found 977/0x3D1 in 973 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3D1
+Warning: Object handle not found 978/0x3D2 in 973 objects of max 0x5B1 handles
+Warning: Object handle not found 986/0x3DA in 982 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3DA
+Warning: Object handle not found 987/0x3DB in 982 objects of max 0x5B1 handles
+Warning: Object handle not found 995/0x3E3 in 991 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3E3
+Warning: Object handle not found 996/0x3E4 in 991 objects of max 0x5B1 handles
+Warning: Object handle not found 1016/0x3F8 in 1012 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 3F8
+Warning: Object handle not found 1017/0x3F9 in 1012 objects of max 0x5B1 handles
+Warning: Object handle not found 1037/0x40D in 1033 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 40D
+Warning: Object handle not found 1038/0x40E in 1033 objects of max 0x5B1 handles
+Warning: Object handle not found 1054/0x41E in 1050 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 41E
+Warning: Object handle not found 1055/0x41F in 1050 objects of max 0x5B1 handles
+Warning: Object handle not found 1079/0x437 in 1075 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 437
+Warning: Object handle not found 1080/0x438 in 1075 objects of max 0x5B1 handles
+Warning: Object handle not found 1103/0x44F in 1099 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 44F
+Warning: Object handle not found 1104/0x450 in 1099 objects of max 0x5B1 handles
+Warning: Object handle not found 1108/0x454 in 1104 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 454
+Warning: Object handle not found 1109/0x455 in 1104 objects of max 0x5B1 handles
+Warning: Object handle not found 1147/0x47B in 1143 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 47B
+Warning: Object handle not found 1148/0x47C in 1143 objects of max 0x5B1 handles
+Warning: Object handle not found 1152/0x480 in 1148 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 480
+Warning: Object handle not found 1153/0x481 in 1148 objects of max 0x5B1 handles
+Warning: Object handle not found 1157/0x485 in 1153 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 485
+Warning: Object handle not found 1158/0x486 in 1153 objects of max 0x5B1 handles
+Warning: Object handle not found 1162/0x48A in 1158 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 48A
+Warning: Object handle not found 1163/0x48B in 1158 objects of max 0x5B1 handles
+Warning: Object handle not found 1167/0x48F in 1163 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 48F
+Warning: Object handle not found 1168/0x490 in 1163 objects of max 0x5B1 handles
+Warning: Object handle not found 1185/0x4A1 in 1181 objects of max 0x5B1 handles
+Warning: Wrong POLYLINE.layer 4A1
+Warning: Object handle not found 1186/0x4A2 in 1181 objects of max 0x5B1 handles
+Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 1222/0
+ERROR: Some section size or address out of bounds
+Warning: Object handle not found 1457/0x5B1
+Warning: Object handle not found 1258/0x4EA in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1263/0x4EF in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1284/0x504 in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1295/0x50F in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1298/0x512 in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1302/0x516 in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1309/0x51D in 1308 objects of max 0x5B1 handles
+Warning: Object handle not found 1386/0x56A in 1308 objects of max 0x5B1 handles
+Warning: Unstable Class object 505 MATERIAL (0x481) 10/C
+Warning: Unstable Class object 505 MATERIAL (0x481) 51/37
+Warning: Unstable Class object 505 MATERIAL (0x481) 54/3A
+Warning: Unstable Class object 504 TABLESTYLE (0xfff) 65/45
+Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 1222/4D4
+Reading DWG file /tmp/cad/TR_Legend_Sample_210602.dwg
+Writing DXF file /tmp/TR_Legend_Sample_210602.dxf
+Traceback (most recent call last):
+  File "/home/runner/work/transport-planning-knowledge/transport-planning-knowledge/tools/cad_render.py", line 12, in <module>
+    doc, auditor = ezdxf.recover.readfile(src)
+                   ^^^^^^^^^^^^^
+AttributeError: module 'ezdxf' has no attribute 'recover'

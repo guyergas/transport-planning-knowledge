@@ -1,57 +1,46 @@
-HATCH ignored
-ATTDEF ignored
-ATTDEF ignored
-HATCH ignored
-ATTDEF ignored
-HATCH ignored
-HATCH ignored
-HATCH ignored
-HATCH ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
-ATTDEF ignored
+Warning: checksum: 0xb09612a1 (calculated) CRC mismatch 0x29ed4-0x29f90
+
+Warning: Invalid sections: 0 != numgaps: 0 + numsections: 25
+Warning: Unstable Class object 506 MATERIAL (0x481) 9/0
+ERROR: Invalid xdata type -21581 [RS]
+ERROR: Invalid xdata type -29562 [RS]
+Warning: Unstable Class object 506 MATERIAL (0x481) 52/0
+Warning: Unstable Class object 506 MATERIAL (0x481) 53/0
+Warning: Unstable Class object 504 TABLESTYLE (0xfff) 60/0
+Warning: TODO TABLESTYLE r2010+ missing fields
+Warning: Unstable Class object 804 MLEADERSTYLE (0xfff) 1338/0
+Warning: Ignore invalid handleoff (@3917)
+Warning: Unknown Class object 508 DMMAPMANAGER (0x400is_zombie)
+Warning: Unknown Class object 509 DMSTYLELIBRARY (0x400is_zombie)
+Warning: Unknown Class object 510 DMSTYLECATEGORY (0x400is_zombie)
+Warning: Unhandled Class object 511 DATATABLE (0x0) 1427/0
+Warning: Unknown Class object 512 DMMAP (0x400is_zombie)
+Warning: Unknown Class object 513 DMBASEELEMENT (0x400is_zombie)
+Warning: Unknown Class object 514 DMDEFAULTSTYLE (0x400is_zombie)
+Warning: Unknown Class object 515 DMSTYLEREFERENCE (0x400is_zombie)
+Warning: Unknown Class object 516 DMSURROGATESTYLESETS (0x481is_zombie)
+Warning: Unknown Class object 517 DMSTYLIZEDENTITIESTABLE (0x400is_zombie)
+ERROR: Some section size or address out of bounds
+Warning: Object handle not found 10590/0x295E
+Warning: Unstable Class object 506 MATERIAL (0x481) 9/B
+Warning: Unstable Class object 506 MATERIAL (0x481) 52/3C
+Warning: Unstable Class object 506 MATERIAL (0x481) 53/3D
+Warning: Unstable Class object 504 TABLESTYLE (0xfff) 60/44
+Warning: Unstable Class object 804 MLEADERSTYLE (0xfff) 1338/22C9
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Warning: Unknown object, skipping eed/reactors/xdic
+Reading DWG file /tmp/cad/HW_Block_210720.dwg
+Writing DXF file /tmp/HW_Block_210720.dxf
+Traceback (most recent call last):
+  File "/home/runner/work/transport-planning-knowledge/transport-planning-knowledge/tools/cad_render.py", line 12, in <module>
+    doc, auditor = ezdxf.recover.readfile(src)
+                   ^^^^^^^^^^^^^
+AttributeError: module 'ezdxf' has no attribute 'recover'

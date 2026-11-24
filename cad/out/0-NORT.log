@@ -1,0 +1,9 @@
+Warning: Object handle not found 36/0x24 in 19 objects of max 0x4F handles
+Warning: Object handle not found 79/0x4F
+Reading DWG file /tmp/cad/0-NORT.dwg
+Writing DXF file /tmp/0-NORT.dxf
+Traceback (most recent call last):
+  File "/home/runner/work/transport-planning-knowledge/transport-planning-knowledge/tools/cad_render.py", line 12, in <module>
+    doc, auditor = ezdxf.recover.readfile(src)
+                   ^^^^^^^^^^^^^
+AttributeError: module 'ezdxf' has no attribute 'recover'
