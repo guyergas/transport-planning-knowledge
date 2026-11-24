@@ -1,0 +1,26 @@
+{
+ "url": "https://www.gov.il/he/pages/cad",
+ "checked": "2026-11-24T02:51:33Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/cad",
+ "content_type": "text/html",
+ "redirects": 0,
+ "via": "browser (render)",
+ "id": "c75cd5a79916",
+ "kind": "html",
+ "result": "ok",
+ "title": "מפרט תיב\"מ (CAD) להכנת תוכניות תחבורתיות משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/cad/he/CAD.zip",
+   "text": "zip מפרט cad"
+  }
+ ],
+ "all_links": 44,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/cad/he/CAD.zip",
+   "text": "zip מפרט cad"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "url": "https://www.gov.il/he/pages/production_files",
+ "checked": "2026-11-24T02:52:15Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/he/pages/production_files",
+ "content_type": "text/html",
+ "redirects": 0,
+ "via": "browser (render)",
+ "id": "a91800ff7b36",
+ "kind": "html",
+ "result": "ok",
+ "title": "קבצי ייצור לתמרורים משרד התחבורה והבטיחות בדרכים",
+ "file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/production_files/he/DWG_SCV_010726.zip",
+   "text": "zip קבצי ייצור לתמרורים מהדורה אפריל 2026"
+  }
+ ],
+ "all_links": 44,
+ "unknown_file_links": [
+  {
+   "url": "https://www.gov.il/BlobFolder/policy/production_files/he/DWG_SCV_010726.zip",
+   "text": "zip קבצי ייצור לתמרורים מהדורה אפריל 2026"
+  }
+ ]
+}
