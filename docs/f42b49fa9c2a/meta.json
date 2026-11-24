@@ -1,0 +1,47 @@
+{
+ "url": "https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/TRAFFIC_PLANNING_traffic-sign020920.pdf",
+ "checked": "2026-11-24T02:22:12Z",
+ "status": 200,
+ "final_url": "http://web.archive.org/web/20221108124736id_/https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/TRAFFIC_PLANNING_traffic-sign020920.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 3953334,
+ "secs": 0.22601,
+ "body_head": "<!DOCTYPE html> <html dir=\"rtl\" lang=\"he-IL\" class=\"no-js\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width\" /> <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no\" /> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin> <link href=\"https://fonts.googleapis.com/",
+ "server": "cloudflare",
+ "tries": [
+  0,
+  404
+ ],
+ "id": "f42b49fa9c2a",
+ "kind": "pdf",
+ "result": "ok (archive copy 20221108)",
+ "archive_snapshot": "20221108124736",
+ "archive_url": "http://web.archive.org/web/20221108124736/https://www.gov.il/BlobFolder/policy/tamrurim_7924_01_18/he/TRAFFIC_PLANNING_traffic-sign020920.pdf",
+ "via": "wayback",
+ "first_try": {
+  "status": 404,
+  "result": "error 404",
+  "server": "cloudflare"
+ },
+ "pages": 93,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2016",
+  "Creator": "Microsoft® Word 2016",
+  "CreationDate": "Thu Sep  3 15:45:17 2020 UTC",
+  "ModDate": "Thu Sep  3 15:45:17 2020 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "757ca16b1bfc43a74bcf22f70236796666faa745aada56c75052fe753e178c44",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/f42b49fa9c2a.pdf",
+ "image_pages": 38,
+ "table_pages": 3,
+ "figure_ocr_pages": 38,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 93,
+ "ocr_pages": 0,
+ "layer": "ok"
+}
