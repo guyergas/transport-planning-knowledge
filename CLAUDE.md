@@ -106,7 +106,7 @@ Results: `results/<name>[.<shard>].jsonl` (status; result ok / redirect / error 
 A request name is processed once; to re-run, use a new name. Never edit derived files (index.jsonl, sections, search.json).
 
 ## Pipeline (tools/fetch.py)
-Excel workbooks (.xlsx) → one page per sheet, rows as `a | b | c` (openpyxl), original in Releases as `<id>.xlsx`.
+Excel workbooks (.xlsx) → one page per sheet, rows as `a | b | c` (openpyxl), original in Releases as `<id>.xlsx`; cell hyperlinks → `file_links` (same discovery as HTML pages).
 A cut-off transfer (curl error with HTTP 200) counts as transient and is retried; a PDF with 0 pages never replaces the stored copy (`error (unreadable pdf)`).
 curl (browser UA) → on 403/challenge: headless Chromium (Playwright) → PDF: pdffonts + per-page text-layer check
 (reversed / junk / dropped final letters / empty → OCR) → tesseract tessdata_best heb+eng psm4 150dpi + refine.py → heb_ocr_fix.py (hunspell he_IL).

@@ -299,6 +299,13 @@ def process_xlsx(rec, path, did):
             if cells:
                 lines.append(' | '.join(cells))
         pages.append(f'=== PAGE {i} === [text-layer; sheet={ws.title}]\n' + '\n'.join(lines) + '\n')
+    try:  # hyperlinks in cells (read_only mode hides them) -> file_links, like on HTML pages
+        full = openpyxl.load_workbook(open(path, 'rb'))
+        rec['file_links'] = [{'text': str(c.value or '').strip()[:120], 'url': c.hyperlink.target}
+                             for ws in full.worksheets for row in ws.iter_rows() for c in row
+                             if c.hyperlink and c.hyperlink.target and c.hyperlink.target.startswith('http')]
+    except Exception as e:
+        rec['links_error'] = repr(e)[:120]
     rec.update(pages=len(pages), sheets=[ws.title for ws in wb.worksheets], text_pages=len(pages), ocr_pages=0, layer='ok',
                sha256=hashlib.sha256(open(path, 'rb').read()).hexdigest())
     upload_asset(rec, path, did, 'xlsx')
