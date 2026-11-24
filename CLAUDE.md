@@ -74,6 +74,7 @@ All derived data (index.jsonl, docs/*/sections.json, sections.jsonl, search.db +
 `python3 tools/sections.py --cite docs/<id> <pdf_page> "<quoted words>"` →
 document · front (edition/date/publisher candidates) · chapter · section (map + nearest heading above the quote) · printed page · PDF page · link `URL#page=N` · asset · sha256.
 - `docs/<id>/sections.json`: section map (heuristic; `coverage: page-only` when no reliable numbering). `sections.jsonl`: all docs.
+- Link: fetched documents → official `url#page=N`; manual uploads (`source: manual upload`, e.g. Drive files) → the repo copy (Release asset) `#page=N`, original kept as `source`.
 - Edition/date from text are candidates: confirm on the cover page image before stating them. Read the heading on the page itself when map and nearest heading disagree.
 
 ## National datasets (not documents)

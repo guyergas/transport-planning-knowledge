@@ -135,7 +135,7 @@ def cite(doc_dir, page, needle=None):
     return {'doc': meta.get('title') or (meta.get('pdf_meta') or {}).get('Title'), 'url': meta['url'],
             'front': s['front'], 'chapter': sec and sec['chapter'], 'section': sec and f"{sec['num']} {sec['title']}",
             'nearest_heading': near, 'pdf_page': page, 'printed_page': s['pages'].get(str(page)) or s['pages'].get(page),
-            'link': f"{meta['url'].split('#')[0]}#page={page}", 'asset': meta.get('asset'), 'sha256': meta.get('sha256')}
+            'link': f"{(meta.get('asset') if meta.get('source') == 'manual upload' and meta.get('asset') else meta['url']).split('#')[0]}#page={page}", 'source': meta['url'], 'asset': meta.get('asset'), 'sha256': meta.get('sha256')}
 
 
 if __name__ == '__main__':

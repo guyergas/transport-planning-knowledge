@@ -38,6 +38,15 @@ def expand(t):
     return ' '.join(out)
 
 
+def link_base(url, asset, did):
+    """Manual uploads (Drive, attachments) link to the repo copy in Releases; fetched documents link to the official URL."""
+    m = os.path.join(ROOT, 'docs', did, 'meta.json') if 'ROOT' in globals() else None
+    manual = False
+    if m and os.path.exists(m):
+        manual = json.load(open(m)).get('source') == 'manual upload'
+    return (asset if manual and asset else (url or '')).split('#')[0]
+
+
 def build(db):
     if os.path.exists(db):
         os.remove(db)
@@ -93,13 +102,13 @@ def query(db, q, n=20, doc=None):
     if not groups:
         return []
     con = sqlite3.connect(db)
-    sql = 'SELECT fts.id, fts.page, fts.method, bm25(fts) s, d.title, d.url FROM fts JOIN docs d ON d.id = fts.id WHERE fts MATCH ?'
+    sql = 'SELECT fts.id, fts.page, fts.method, bm25(fts) s, d.title, d.url, d.asset FROM fts JOIN docs d ON d.id = fts.id WHERE fts MATCH ?'
     args = [' AND '.join(groups)]
     if doc:
         sql += ' AND fts.id = ?'; args.append(doc)
     rows = con.execute(sql + ' ORDER BY s LIMIT ?', args + [n]).fetchall()
     out = []
-    for did, page, method, score, title, url in rows:
+    for did, page, method, score, title, url, asset in rows:
         body = con.execute('SELECT body FROM text WHERE id=? AND page=?', (did, page)).fetchone()[0]
         nb = norm(body)
         key = next((v for w in norm(q).split() for v in [w] + expand(w).split()[1:] if v in nb), None)
@@ -107,7 +116,7 @@ def query(db, q, n=20, doc=None):
         snip = re.sub(r'\s+', ' ', body[max(0, i - 120): i + 200])
         cut = min([x for x in (nb.find('--- figure-ocr'), nb.find('--- table-ocr')) if x >= 0] or [len(nb)])
         where = 'figure/table: read the page image' if i >= cut else ('table page: verify values on the image' if 'table' in method else 'text')
-        out.append({'id': did, 'page': page, 'method': method, 'title': title, 'link': f"{(url or '').split('#')[0]}#page={page}", 'snippet': snip, 'where': where})
+        out.append({'id': did, 'page': page, 'method': method, 'title': title, 'link': f"{link_base(url, asset, did)}#page={page}", 'source': url, 'snippet': snip, 'where': where})
     return out
 
 
