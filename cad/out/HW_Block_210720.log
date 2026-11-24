@@ -39,8 +39,4 @@ Warning: Unknown object, skipping eed/reactors/xdic
 Warning: Unknown object, skipping eed/reactors/xdic
 Reading DWG file /tmp/cad/HW_Block_210720.dwg
 Writing DXF file /tmp/HW_Block_210720.dxf
-Traceback (most recent call last):
-  File "/home/runner/work/transport-planning-knowledge/transport-planning-knowledge/tools/cad_render.py", line 12, in <module>
-    doc, auditor = ezdxf.recover.readfile(src)
-                   ^^^^^^^^^^^^^
-AttributeError: module 'ezdxf' has no attribute 'recover'
+cad/out/HW_Block_210720 44 items

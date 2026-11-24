@@ -270,8 +270,4 @@ Warning: Unstable Class object 504 TABLESTYLE (0xfff) 65/45
 Warning: Unstable Class object 508 MLEADERSTYLE (0xfff) 1222/4D4
 Reading DWG file /tmp/cad/TR_Legend_Sample_210602.dwg
 Writing DXF file /tmp/TR_Legend_Sample_210602.dxf
-Traceback (most recent call last):
-  File "/home/runner/work/transport-planning-knowledge/transport-planning-knowledge/tools/cad_render.py", line 12, in <module>
-    doc, auditor = ezdxf.recover.readfile(src)
-                   ^^^^^^^^^^^^^
-AttributeError: module 'ezdxf' has no attribute 'recover'
+cad/out/TR_Legend_Sample_210602 329 items
