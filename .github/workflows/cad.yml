@@ -23,7 +23,8 @@ jobs:
         run: |
           sudo apt-get update -q
           sudo apt-get install -y -q librsvg2-bin unzip
-          pip install -q ezdxf matplotlib || pip install -q --break-system-packages ezdxf matplotlib
+          pip install -q ezdxf matplotlib playwright || pip install -q --break-system-packages ezdxf matplotlib playwright
+          python3 -m playwright install --with-deps chromium >/dev/null
           sudo apt-get install -y -q libredwg-tools || sudo apt-get install -y -q libredwg-utils || {
             sudo apt-get install -y -q build-essential
             curl -sSL --retry 4 --retry-delay 10 -o /tmp/lr.tar.xz https://github.com/LibreDWG/libredwg/releases/download/0.13.3/libredwg-0.13.3.tar.xz
@@ -38,7 +39,11 @@ jobs:
             grep -v '^#' cad/sources.txt | grep -v '^\s*$' | while read -r url rest; do
               match=$(echo "$rest" | sed -n 's/.*match=\([^ ]*\).*/\1/p'); [ -n "$match" ] || match='.'
               f="/tmp/dl/$(basename "${url%%\?*}")"; mkdir -p /tmp/dl
-              curl -sSL -A 'Mozilla/5.0' -m 900 -o "$f" "$url" || { echo "FAIL $url"; printf '%s\tdownload failed\n' "$url" >> cad/out/sources.tsv; continue; }
+              curl -sSL -A 'Mozilla/5.0' -m 900 -o "$f" "$url" || true
+              if ! file -b "$f" | grep -qiE 'zip|dwg|data'; then  # Cloudflare page instead of the file -> headless Chromium
+                timeout 600 python3 tools/browser_fetch.py "$url" "$f" || true
+              fi
+              [ -s "$f" ] || { echo "FAIL $url"; printf '%s\tdownload failed\n' "$url" >> cad/out/sources.tsv; continue; }
               printf '%s\t%s bytes\t%s\n' "$url" "$(stat -c%s "$f")" "$(file -b "$f" | cut -c1-60)" >> cad/out/sources.tsv
               case "$f" in *.zip|*.ZIP) unzip -Z1 -O cp862 "$f" 2>/dev/null | sed 's/^/  /' >> cad/out/sources.tsv || unzip -Z1 "$f" | sed 's/^/  /' >> cad/out/sources.tsv ;; esac
               case "$f" in
