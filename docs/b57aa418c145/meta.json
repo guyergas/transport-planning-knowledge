@@ -1,0 +1,37 @@
+{
+ "url": "https://www.gov.il/BlobFolder/guide/program_for_train_station_for_passengers/he/12.13_%D7%A4%D7%A8%D7%A7%202%20-%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%207.pdf",
+ "checked": "2026-11-24T01:57:14Z",
+ "status": 200,
+ "final_url": "https://www.gov.il/BlobFolder/guide/program_for_train_station_for_passengers/he/12.13_%D7%A4%D7%A8%D7%A7%202%20-%20%D7%AA%D7%A0%D7%95%D7%A2%D7%94_%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94%207.pdf",
+ "content_type": "application/pdf",
+ "redirects": 0,
+ "bytes": 901607,
+ "secs": 3.780787,
+ "server": "cloudflare",
+ "tries": [
+  200
+ ],
+ "id": "b57aa418c145",
+ "kind": "pdf",
+ "result": "ok",
+ "pages": 29,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Mon Dec  9 14:51:53 2013 UTC",
+  "ModDate": "Mon Dec  9 14:51:53 2013 UTC"
+ },
+ "fonts_uni_no": 15,
+ "sha256": "4868bcef633adb814fe8855ac747b9404ef5144c4a4d0322b0da1b0b2567ee47",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-www-gov-il/b57aa418c145.pdf",
+ "image_pages": 4,
+ "table_pages": 3,
+ "figure_ocr_pages": 4,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 29,
+ "ocr_pages": 0,
+ "layer": "ok"
+}
