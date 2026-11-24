@@ -1,5 +1,4 @@
 # URLs of .dwg or .zip to convert (one per line). Optional: match=REGEX on the path inside a zip (only matching DWGs are rendered).
-# MOT CAD spec package (gov.il/he/pages/cad)
-https://www.gov.il/BlobFolder/policy/cad/he/CAD.zip match=Legend|NORT|TR
-# Sign production files, April 2026 (gov.il/he/pages/production_files): give way, stop, signals, lane arrows
-https://www.gov.il/BlobFolder/policy/production_files/he/DWG_SCV_010726.zip match=(^|/|[^0-9])(301|302|303|701|702|703|704|705|706|707|708|709|710|711|712|713)[^0-9]
+# gov.il blocks these zips from GitHub (403 even with Chromium, 24.11.2026). The 2021 CAD package DWGs are in cad/in/.
+# Waiting for Guy: sign production files, April 2026 (gov.il/he/pages/production_files, DWG_SCV_010726.zip) -> upload, then add its URL here, e.g.
+# <asset-url> match=(^|/|[^0-9])(301|302|303|70[0-9]|71[0-3])[^0-9]
