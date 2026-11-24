@@ -1,6 +1,7 @@
 """DXF -> PNG (ezdxf drawing add-on + matplotlib) and a text dump of the drawing.
 Usage: python3 tools/cad_render.py in.dxf out_prefix"""
 import sys, ezdxf
+from ezdxf import recover
 from ezdxf.addons.drawing import RenderContext, Frontend
 from ezdxf.addons.drawing.matplotlib import MatplotlibBackend
 from ezdxf.addons.drawing.config import Configuration, BackgroundPolicy, ColorPolicy
@@ -9,7 +10,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 src, out = sys.argv[1], sys.argv[2]
-doc, auditor = ezdxf.recover.readfile(src)
+doc, auditor = recover.readfile(src)
 msp = doc.modelspace()
 fig = plt.figure(figsize=(24, 24))
 ax = fig.add_axes([0, 0, 1, 1])
