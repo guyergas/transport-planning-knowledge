@@ -1,0 +1,50 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "מנהל            .1",
+   "נתיבי ישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "38",
+   "title": "הדמיות",
+   "chapter": "פרק 38 — הדמיות",
+   "start": 1,
+   "level": 0,
+   "end": 3
+  },
+  {
+   "num": "38.1",
+   "title": "פעולות מקדימות",
+   "chapter": "פרק 38 — הדמיות",
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "38.2",
+   "title": "פיתוח הדמיה",
+   "chapter": "פרק 38 — הדמיות",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "38.3",
+   "title": "סרט תדמית לפרויקט",
+   "chapter": "פרק 38 — הדמיות",
+   "start": 3,
+   "level": 2,
+   "end": 3
+  }
+ ],
+ "coverage": "sections"
+}

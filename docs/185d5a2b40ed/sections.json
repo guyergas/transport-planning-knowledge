@@ -1,0 +1,68 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2023",
+   "2023"
+  ],
+  "publisher": [
+   "נתיבי\nיושראל",
+   "מנהל",
+   "מנהל הפרויקט או המתכנן",
+   "משרד התחבורה."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "28.1",
+   "title": "מגדיר משימות",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "28.1.1",
+   "title": "תכנון ראשוני תאורה ואספקת אנרגיה למערכות",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "28.1.2",
+   "title": "תכנון מוקדם תאורה ואספקת אנרגיה למערכות",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 3
+  },
+  {
+   "num": "10.5",
+   "title": "• אומדן תאורה לשלב סופי",
+   "chapter": null,
+   "start": 4,
+   "level": 2,
+   "end": 15
+  },
+  {
+   "num": "28.1.4",
+   "title": "תכנון מוקדם – העתקת מערכות חשמל (חח\"י)",
+   "chapter": null,
+   "start": 6,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "28.1.5",
+   "title": "תכנון מפורט להעתקת מערכות חשמל (חח\"י)",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 15
+  }
+ ],
+ "coverage": "sections"
+}

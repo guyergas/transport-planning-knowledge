@@ -1,0 +1,68 @@
+{
+ "front": {
+  "dates": [
+   "מרץ 2026",
+   "2026"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל",
+   "מנהל הפרויקט/מתבנן     שלבים עתידיים בבניית מבני",
+   "אגף הנדסה לאחר אישור"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "25.1.6.1",
+   "title": "אבני דרך לביצוע",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 23
+  },
+  {
+   "num": "25.2.2",
+   "title": "שלב תכנון מוקדם",
+   "chapter": null,
+   "start": 24,
+   "level": 3,
+   "end": 54
+  },
+  {
+   "num": "25.2.2.1",
+   "title": "פעולות מקדימות ואיסוף מידע על חלופת התוואי הנבחרת",
+   "chapter": null,
+   "start": 24,
+   "level": 4,
+   "end": 24
+  },
+  {
+   "num": "25.2.2.2",
+   "title": "ליווי ההליך הסטטוטורי",
+   "chapter": null,
+   "start": 25,
+   "level": 4,
+   "end": 25
+  },
+  {
+   "num": "25.2.2.3",
+   "title": "בחינת חלופות מבניות",
+   "chapter": null,
+   "start": 26,
+   "level": 4,
+   "end": 29
+  },
+  {
+   "num": "25.2.4.1",
+   "title": "שלב תכנון מפורט",
+   "chapter": null,
+   "start": 30,
+   "level": 4,
+   "end": 54
+  }
+ ],
+ "coverage": "sections"
+}

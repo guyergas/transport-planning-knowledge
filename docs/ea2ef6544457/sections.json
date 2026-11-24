@@ -1,0 +1,29 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2024"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל הפרויקט.",
+   "מנהל הפרויקט/       .1",
+   "אגף הנדסה בהובלת מנה\"פ"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "204"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "3",
+   "title": "תכנון גיאומטרי",
+   "chapter": "פרק 3 — תכנון גיאומטרי",
+   "start": 1,
+   "level": 0,
+   "end": 75
+  }
+ ],
+ "coverage": "page-only"
+}

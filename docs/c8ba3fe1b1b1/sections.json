@@ -1,0 +1,67 @@
+{
+ "front": {
+  "dates": [
+   "2022"
+  ],
+  "publisher": [
+   "מנהל",
+   "מנהל הפרויקט או המתכנן",
+   "משרד התחבורה/תקן",
+   "אגף בקרת התנועה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "39.1",
+   "title": "מגדיר משימות",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "39.1.1",
+   "title": "תכנון ראשוני עמדות טעינה ואספקת אנרגיה למערכות",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "39.1.2",
+   "title": "תכנון מוקדם עמדות טעינה ואספקת אנרגיה למערכות",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "28.1.5",
+   "title": "תוך סימון והבחנה בין תשתיות המיועדת",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "39.1.5",
+   "title": "פיקוח עליון",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 7
+  },
+  {
+   "num": "39.2",
+   "title": "תכולת תיק תכנון מפורט",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 14
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,36 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "אגף הנדסה",
+   "רשות שמורות הטבע והגנים הלאומיים",
+   "משרד להגנת הסביבה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "33",
+   "title": "מתאם מנהרות תשתית",
+   "chapter": "פרק 33 — מתאם מנהרות תשתית",
+   "start": 1,
+   "level": 0,
+   "end": 26
+  },
+  {
+   "num": "12",
+   "title": "וחיווט לעבודות תשתית שמבוצעות ע\"י",
+   "chapter": "פרק 33 — מתאם מנהרות תשתית",
+   "start": 17,
+   "level": 1,
+   "end": 26
+  }
+ ],
+ "coverage": "page-only"
+}

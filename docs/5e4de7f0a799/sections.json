@@ -1,0 +1,29 @@
+{
+ "front": {
+  "dates": [
+   "דצמבר 2024"
+  ],
+  "publisher": [
+   "מנהל הפרויקט\", המתכנן המוביל\" בפרויקט הוא",
+   "אגף הנדסה בתכנון.",
+   "נתיבי ישראל)",
+   "אגף מערכות מידע של נת\"י     .2"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "1": "204"
+ },
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "מתכנן מוביל",
+   "chapter": "פרק 1 — מתכנן מוביל",
+   "start": 1,
+   "level": 0,
+   "end": 31
+  }
+ ],
+ "coverage": "page-only"
+}

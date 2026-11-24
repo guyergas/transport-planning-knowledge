@@ -1,0 +1,33 @@
+{
+ "url": "https://drive.google.com/file/d/1jj2DSfJacqSD9_zEW1xn6cMlsyhHxrjd/view",
+ "id": "a13c4f70dcab",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/1jj2DSfJacqSD9_zEW1xn6cMlsyhHxrjd/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:55:06Z",
+ "pages": 8,
+ "pdf_meta": {
+  "Title": "מגדיר משימות לתכנון וייעוץ בנושא אקולוגיה",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Wed Mar  6 14:19:17 2019 UTC",
+  "ModDate": "Wed Mar  6 14:19:55 2019 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "9d89a10f15cc2a22e4140caa3a25ce31a018ee492ef79ff740c217ab0026eb22",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/a13c4f70dcab.pdf",
+ "fix_log": [
+  "words=692 unknown=35 fixed=1"
+ ],
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 83,
+ "lowconf_pages": [],
+ "text_pages": 8,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

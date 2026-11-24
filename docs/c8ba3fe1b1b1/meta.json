@@ -1,0 +1,30 @@
+{
+ "url": "https://drive.google.com/file/d/1rvXqdnOjHxz8ErUm0p7LKiJ3CsJKp2lB/view",
+ "id": "c8ba3fe1b1b1",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/1rvXqdnOjHxz8ErUm0p7LKiJ3CsJKp2lB/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:54:47Z",
+ "pages": 14,
+ "pdf_meta": {
+  "Title": "מגדיר משימות תכנון",
+  "Producer": "Microsoft® Word עבור Microsoft 365",
+  "Creator": "Microsoft® Word עבור Microsoft 365",
+  "CreationDate": "Tue Mar 21 12:00:47 2023 UTC",
+  "ModDate": "Tue Mar 21 12:00:47 2023 UTC"
+ },
+ "fonts_uni_no": 10,
+ "sha256": "c2e3180e1424f14a96399bd64e5d8224a339051464a4c88153b43d14b7cbdc47",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/c8ba3fe1b1b1.pdf",
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 14,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://drive.google.com/file/d/12jGNGeO2Yd8P40F_h0MGQ6wSC_oVkpev/view",
+ "id": "f93f222e66b4",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/12jGNGeO2Yd8P40F_h0MGQ6wSC_oVkpev/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:51:23Z",
+ "pages": 22,
+ "pdf_meta": {
+  "Title": "Microsoft Word - äèç 14 - êÛàÕß ÐçÕáØÙ  09.2025",
+  "Producer": "Microsoft: Print To PDF",
+  "Creator": "",
+  "CreationDate": "Sun Sep  7 13:55:35 2025 UTC",
+  "ModDate": "Sun Sep  7 13:55:35 2025 UTC"
+ },
+ "fonts_uni_no": 0,
+ "sha256": "705e4492a44b091abe10b524edde81920edd3388834c3f00b72227bb5e0e406e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/f93f222e66b4.pdf",
+ "fix_log": [
+  "words=1443 unknown=128 fixed=20"
+ ],
+ "image_pages": 22,
+ "table_pages": 0,
+ "figure_ocr_pages": 3,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 85,
+ "lowconf_pages": [],
+ "text_pages": 22,
+ "ocr_pages": 19,
+ "layer": "mixed"
+}

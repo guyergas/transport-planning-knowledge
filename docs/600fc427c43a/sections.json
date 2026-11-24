@@ -1,0 +1,44 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל    .1",
+   "מנהל הפרויקט תנוחה ע\"ר תכנית הכביש         .4",
+   "נתיבי ישראל,"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "32",
+   "title": "תכנון מים וביוב",
+   "chapter": "פרק 32 — תכנון מים וביוב",
+   "start": 1,
+   "level": 0,
+   "end": 11
+  },
+  {
+   "num": "22",
+   "title": "חתכים לאורך",
+   "chapter": "פרק 32 — תכנון מים וביוב",
+   "start": 4,
+   "level": 1,
+   "end": 4
+  },
+  {
+   "num": "23",
+   "title": "פרטים סטנדרטים",
+   "chapter": "פרק 32 — תכנון מים וביוב",
+   "start": 4,
+   "level": 1,
+   "end": 11
+  }
+ ],
+ "coverage": "sections"
+}

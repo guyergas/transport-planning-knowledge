@@ -1,0 +1,60 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "רשות במהלך תכנון",
+   "אגף הנדסה ואגף ניהול ובקרת תנועה של",
+   "נתיבי ישראל.",
+   "מנהל הפרויקט מוטלת החובה לתאם את מערכות בקרת התנועה עם"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "31.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "31.2",
+   "title": "מגדיר משימות",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "31.2.1",
+   "title": "שלב תכנון מוקדם",
+   "chapter": null,
+   "start": 3,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "31.2.2",
+   "title": "שלב תכנון מפורט",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 6
+  },
+  {
+   "num": "31.2.3",
+   "title": "שלב תכנון מפורט למכרז \"תכנון ביצוע\"",
+   "chapter": null,
+   "start": 7,
+   "level": 3,
+   "end": 10
+  }
+ ],
+ "coverage": "sections"
+}

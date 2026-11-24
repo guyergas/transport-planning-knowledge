@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל       .1",
+   "הרשות         ",
+   "משרד להגנת הסביבה         "
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "27",
+   "title": "אדריכלות גשרים ומבנים",
+   "chapter": "פרק 27 — אדריכלות גשרים ומבנים",
+   "start": 1,
+   "level": 0,
+   "end": 20
+  }
+ ],
+ "coverage": "page-only"
+}

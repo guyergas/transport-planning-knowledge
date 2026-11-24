@@ -1,0 +1,33 @@
+{
+ "url": "https://drive.google.com/file/d/1aEio_W-QcCoQFRb_hYij7W9IPt-7HsL0/view",
+ "id": "b22080ce1c06",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/1aEio_W-QcCoQFRb_hYij7W9IPt-7HsL0/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:56:33Z",
+ "pages": 3,
+ "pdf_meta": {
+  "Title": "מגדיר משימות תכנון",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Mon Feb 12 15:31:20 2018 UTC",
+  "ModDate": "Mon Feb 12 15:31:20 2018 UTC"
+ },
+ "fonts_uni_no": 5,
+ "sha256": "c92709de5c2a6ca3f335a81cea4ce2a3e65b7b65b4f9bfc4ca2e3318ac46bdbd",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/b22080ce1c06.pdf",
+ "fix_log": [
+  "words=129 unknown=9 fixed=1"
+ ],
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 85,
+ "lowconf_pages": [],
+ "text_pages": 3,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

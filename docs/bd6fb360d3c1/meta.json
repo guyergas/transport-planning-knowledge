@@ -1,0 +1,30 @@
+{
+ "url": "https://drive.google.com/file/d/194EvWx7qqoTB_Z3andzWhhosRn8yFKb0/view",
+ "id": "bd6fb360d3c1",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/194EvWx7qqoTB_Z3andzWhhosRn8yFKb0/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:54:38Z",
+ "pages": 26,
+ "pdf_meta": {
+  "Title": "ספר תעריפים - מנהל מודל BIM",
+  "Producer": "Microsoft® Word עבור Microsoft 365",
+  "Creator": "Microsoft® Word עבור Microsoft 365",
+  "CreationDate": "Sun May 26 09:07:56 2024 UTC",
+  "ModDate": "Sun May 26 09:07:56 2024 UTC"
+ },
+ "fonts_uni_no": 14,
+ "sha256": "81f3802e70f97f0ffa899bcc5ab0af1429cad5a5bb470cdf61508d9633d48dd1",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/bd6fb360d3c1.pdf",
+ "image_pages": 1,
+ "table_pages": 1,
+ "figure_ocr_pages": 1,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": null,
+ "lowconf_pages": [],
+ "text_pages": 26,
+ "ocr_pages": 0,
+ "layer": "ok"
+}

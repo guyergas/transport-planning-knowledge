@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "מנהל\n    בתי חולים ובתי אבות",
+   "משרד            התוואי המתוכנן",
+   "מנהל הפרויקט",
+   "משרד להגנת הסביבה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "17",
+   "title": "זיהום אויר",
+   "chapter": "פרק 17 — זיהום אויר",
+   "start": 1,
+   "level": 0,
+   "end": 8
+  }
+ ],
+ "coverage": "page-only"
+}

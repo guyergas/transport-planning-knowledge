@@ -1,0 +1,146 @@
+{
+ "front": {
+  "publisher": [
+   "מנהל מודול BIM",
+   "נתיבי ישראל כאשר כל בעלי     קבלת ענן הפרויקט והקמת מערך",
+   "נתיבי ישראל                                        ניהול",
+   "נתיבי של נתיבי ישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [
+  16
+ ],
+ "sections": [
+  {
+   "num": "1.1",
+   "title": "התנעה תכנון ראשוני",
+   "chapter": null,
+   "start": 1,
+   "level": 2,
+   "end": 1
+  },
+  {
+   "num": "1.2",
+   "title": "הקמה -תכנון ראשוני",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "1.3",
+   "title": "שוטף -תכנון ראשוני",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 4
+  },
+  {
+   "num": "2.2",
+   "title": "הקמה תכנון סטטוטורי (אם הופעל מקדם תכנון סטטוטורי)",
+   "chapter": null,
+   "start": 5,
+   "level": 2,
+   "end": 5
+  },
+  {
+   "num": "2.3",
+   "title": "שוטף  -תכנון סטטוטורי (אם הופעל מקדם תכנון סטטוטורי)",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "3.1",
+   "title": "התנעה תכנון מוקדם",
+   "chapter": null,
+   "start": 8,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "3.2",
+   "title": "הקמת תכנון מוקדם",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "3.3",
+   "title": "שוטף תכנון מוקדם",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 10
+  },
+  {
+   "num": "4.1",
+   "title": "התנעת שלב תכנון מפורט או מפורט לDB",
+   "chapter": null,
+   "start": 11,
+   "level": 2,
+   "end": 11
+  },
+  {
+   "num": "4.2",
+   "title": "הקמת שלב הקמת תכנון מפורט או מפורט לDB",
+   "chapter": null,
+   "start": 12,
+   "level": 2,
+   "end": 12
+  },
+  {
+   "num": "4.3",
+   "title": "שוטף תכנון מפורט או מפורט לDB",
+   "chapter": null,
+   "start": 13,
+   "level": 2,
+   "end": 16
+  },
+  {
+   "num": "5",
+   "title": "כללי",
+   "chapter": "פרק 5 — כללי",
+   "start": 17,
+   "level": 0,
+   "end": 17
+  },
+  {
+   "num": "5",
+   "title": "מבנה וחלוקת אחריות",
+   "chapter": "פרק 5 — מבנה וחלוקת אחריות",
+   "start": 18,
+   "level": 0,
+   "end": 18
+  },
+  {
+   "num": "5",
+   "title": "מטרות ה BIM-בפרויקט",
+   "chapter": "פרק 5 — מטרות ה BIM-בפרויקט",
+   "start": 19,
+   "level": 0,
+   "end": 19
+  },
+  {
+   "num": "5",
+   "title": "ניהול המידע",
+   "chapter": "פרק 5 — ניהול המידע",
+   "start": 20,
+   "level": 0,
+   "end": 26
+  },
+  {
+   "num": "00",
+   "title": "suronesk consTRucTION וסוס",
+   "chapter": "פרק 5 — ניהול המידע",
+   "start": 20,
+   "level": 1,
+   "end": 26
+  }
+ ],
+ "coverage": "sections"
+}

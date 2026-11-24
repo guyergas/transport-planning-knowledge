@@ -1,0 +1,36 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל הפרויקט, התאום              .1",
+   "נתיבי ישראל",
+   "אגף הנדסה."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "21",
+   "title": "גיאולוגיה הנדסית",
+   "chapter": "פרק 21 — גיאולוגיה הנדסית",
+   "start": 1,
+   "level": 0,
+   "end": 4
+  },
+  {
+   "num": "סי",
+   "title": "יסמולוגיה בחינה של גורמי הסיכון על פי",
+   "chapter": "פרק סי — יסמולוגיה בחינה של גורמי הסיכון על פי",
+   "start": 5,
+   "level": 0,
+   "end": 12
+  }
+ ],
+ "coverage": "page-only"
+}

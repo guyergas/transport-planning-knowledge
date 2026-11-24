@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל הפרויקט/מתכנן        .1",
+   "אגף הנדסה",
+   "אגף אחזקה"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "11",
+   "title": "תכנון השקיה",
+   "chapter": "פרק 11 — תכנון השקיה",
+   "start": 1,
+   "level": 0,
+   "end": 11
+  }
+ ],
+ "coverage": "page-only"
+}

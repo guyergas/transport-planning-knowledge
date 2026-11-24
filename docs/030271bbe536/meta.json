@@ -1,0 +1,33 @@
+{
+ "url": "https://drive.google.com/file/d/10Rliu9BotUsyecK_7yYT11JIoWdgcVBX/view",
+ "id": "030271bbe536",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/10Rliu9BotUsyecK_7yYT11JIoWdgcVBX/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:56:15Z",
+ "pages": 9,
+ "pdf_meta": {
+  "Title": "מגדיר משימות לתכנון וייעוץ בנושא זיהום קרקע ומים",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Mon Feb 12 16:54:08 2018 UTC",
+  "ModDate": "Mon Feb 12 16:54:08 2018 UTC"
+ },
+ "fonts_uni_no": 8,
+ "sha256": "6684944f1b2c9067dd52b9270987a8ebfdbb8c5d6194c0e98fba255fda448d73",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/030271bbe536.pdf",
+ "fix_log": [
+  "words=600 unknown=39 fixed=2"
+ ],
+ "image_pages": 0,
+ "table_pages": 1,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 84,
+ "lowconf_pages": [],
+ "text_pages": 9,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

@@ -1,0 +1,44 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "אגף אחזקה .",
+   "אגף",
+   "רשות ניקוז, רת\"ג וכד'."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "26",
+   "title": "שיקום גשרים ומבנים",
+   "chapter": "פרק 26 — שיקום גשרים ומבנים",
+   "start": 1,
+   "level": 0,
+   "end": 21
+  },
+  {
+   "num": "26.1.2",
+   "title": "תכנון מפורט (גמר בשיפוט .)3",
+   "chapter": "פרק 26 — שיקום גשרים ומבנים",
+   "start": 2,
+   "level": 3,
+   "end": 5
+  },
+  {
+   "num": "2",
+   "title": "הכולל בחירה של חלופת",
+   "chapter": "פרק 26 — שיקום גשרים ומבנים",
+   "start": 6,
+   "level": 1,
+   "end": 21
+  }
+ ],
+ "coverage": "sections"
+}

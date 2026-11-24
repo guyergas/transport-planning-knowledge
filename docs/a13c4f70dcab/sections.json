@@ -1,0 +1,36 @@
+{
+ "front": {
+  "dates": [
+   "2019",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nINL\"‏",
+   "מנהל פרויקט/     .1",
+   "אגף הנדסה",
+   "משרד להגנת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "1",
+   "title": "פרק  : 39 תכנון ויעוץ בנושא אקולוגיה",
+   "chapter": null,
+   "start": 2,
+   "level": 1,
+   "end": 8
+  },
+  {
+   "num": "1.1",
+   "title": "השוואת חלופות",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 8
+  }
+ ],
+ "coverage": "page-only"
+}

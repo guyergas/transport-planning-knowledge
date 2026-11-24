@@ -1,0 +1,33 @@
+{
+ "url": "https://drive.google.com/file/d/1bI7WxRG7-HrPlXAXZIncsJrKXfz74_L6/view",
+ "id": "63c7e1617d2e",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/1bI7WxRG7-HrPlXAXZIncsJrKXfz74_L6/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:55:31Z",
+ "pages": 8,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Mon Feb 12 20:23:58 2018 UTC",
+  "ModDate": "Mon Feb 12 20:23:58 2018 UTC"
+ },
+ "fonts_uni_no": 7,
+ "sha256": "32e719d64c1b27d1491a50607657effe7de485b276b1b21b9cc48f5b821a0142",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/63c7e1617d2e.pdf",
+ "fix_log": [
+  "words=601 unknown=27 fixed=1"
+ ],
+ "image_pages": 0,
+ "table_pages": 0,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 83,
+ "lowconf_pages": [],
+ "text_pages": 8,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

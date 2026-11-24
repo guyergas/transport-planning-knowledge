@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "מנהל           .1",
+   "רשות הטבע והגנים",
+   "משרד להגנת הסביבה",
+   "הרשות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "10",
+   "title": "תכנון נופי",
+   "chapter": "פרק 10 — תכנון נופי",
+   "start": 1,
+   "level": 0,
+   "end": 33
+  }
+ ],
+ "coverage": "page-only"
+}

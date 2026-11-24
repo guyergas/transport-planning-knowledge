@@ -1,0 +1,27 @@
+{
+ "front": {
+  "dates": [
+   "2019"
+  ],
+  "publisher": [
+   "נתיבי\nINL\"‏",
+   "מנהל הפרויקט, מהמתכנן המוביל,        א.    .1",
+   "רשות הטבע והגנים, המשרד להגנת הסביבה, מכון דש\"א,",
+   "רשות העתיקות, משרד הבריאות וכו'."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "13",
+   "title": "תכנון סביבתי",
+   "chapter": "פרק 13 — תכנון סביבתי",
+   "start": 1,
+   "level": 0,
+   "end": 13
+  }
+ ],
+ "coverage": "page-only"
+}

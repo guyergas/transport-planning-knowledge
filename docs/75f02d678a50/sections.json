@@ -1,0 +1,1435 @@
+{
+ "front": {
+  "dates": [
+   "ינואר 2016"
+  ],
+  "publisher": [
+   "נתיבי ישראל",
+   "מנהל הבטחת איכות להפעיל מודד הבטחת איכות 58 ...........",
+   "מנהל הבטחת איכות 58 ......................... .........",
+   "משרד מקדימה 95 ................................... ...."
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {
+  "76": "2",
+  "85": "5"
+ },
+ "toc_pages": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "sections": [
+  {
+   "num": "1",
+   "title": "פתח דבר – מטרת המגדיר בשלבי התכנון השונים",
+   "chapter": null,
+   "start": 6,
+   "level": 1,
+   "end": 9
+  },
+  {
+   "num": "1.1",
+   "title": "מבוא",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.2",
+   "title": "סדר הפעולות",
+   "chapter": null,
+   "start": 6,
+   "level": 2,
+   "end": 6
+  },
+  {
+   "num": "1.3",
+   "title": "הגדרת המושג קנ\"מ ברירת המחדל ודיוקים",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "1.4",
+   "title": "בקרת\\הבטחת איכות במדידות לצרכי תכנון",
+   "chapter": null,
+   "start": 7,
+   "level": 2,
+   "end": 8
+  },
+  {
+   "num": "1.6",
+   "title": "רשימת מושגים וקיצורי דרך",
+   "chapter": null,
+   "start": 9,
+   "level": 2,
+   "end": 9
+  },
+  {
+   "num": "2",
+   "title": "פרק תכנון",
+   "chapter": null,
+   "start": 10,
+   "level": 1,
+   "end": 52
+  },
+  {
+   "num": "2.1",
+   "title": "מדידות לתכנון ראשוני",
+   "chapter": null,
+   "start": 10,
+   "level": 2,
+   "end": 25
+  },
+  {
+   "num": "2.1.1",
+   "title": "תוצרי המדידה הנדרשים בתכנון ראשוני",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 11
+  },
+  {
+   "num": "2.1.2",
+   "title": "מיפוי פוטוגרמטרי",
+   "chapter": null,
+   "start": 11,
+   "level": 3,
+   "end": 12
+  },
+  {
+   "num": "2.1.2.1",
+   "title": "הנחייה כללית למיפוי פוטוגרמטרי",
+   "chapter": null,
+   "start": 11,
+   "level": 4,
+   "end": 11
+  },
+  {
+   "num": "2.1.2.2",
+   "title": "הגדרת תחום המיפוי הפוטוגרמטרי",
+   "chapter": null,
+   "start": 11,
+   "level": 4,
+   "end": 11
+  },
+  {
+   "num": "2.1.2.3",
+   "title": "טיסת צילום למיפוי פוטוגרמטרי",
+   "chapter": null,
+   "start": 11,
+   "level": 4,
+   "end": 11
+  },
+  {
+   "num": "2.1.2.4",
+   "title": "קנה המידה שהמפה/תצלום/גובה טיסה/צפיפות  DEMיהיה בהתאם לטבלה הבאה",
+   "chapter": null,
+   "start": 11,
+   "level": 4,
+   "end": 11
+  },
+  {
+   "num": "2.1.2.5",
+   "title": "נקודות בקרה לעיגון הצילומים במיפוי פוטוגרמטרי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "2.1.2.6",
+   "title": "עדכון מיפוי פוטוגרמטרי",
+   "chapter": null,
+   "start": 12,
+   "level": 4,
+   "end": 12
+  },
+  {
+   "num": "2.1.3",
+   "title": "תוצרי המדידה והמיפוי הפוטוגרמטרי",
+   "chapter": null,
+   "start": 13,
+   "level": 3,
+   "end": 15
+  },
+  {
+   "num": "2.1.3.11",
+   "title": "תצורת עריכה והגשת המיפוי הפוטוגרמטרי",
+   "chapter": null,
+   "start": 14,
+   "level": 4,
+   "end": 14
+  },
+  {
+   "num": "2.1.3.12",
+   "title": "מסירת תוצרי המיפוי הפוטוגרמטרי למזמין",
+   "chapter": null,
+   "start": 15,
+   "level": 4,
+   "end": 15
+  },
+  {
+   "num": "2.1.4",
+   "title": "בקרת איכות עצמית של המיפוי הפוטוגרמטרי",
+   "chapter": null,
+   "start": 16,
+   "level": 3,
+   "end": 17
+  },
+  {
+   "num": "2.1.5",
+   "title": "מיפוי אורתופוטו",
+   "chapter": null,
+   "start": 18,
+   "level": 3,
+   "end": 18
+  },
+  {
+   "num": "2.1.6",
+   "title": "רקע גושים וחלקות",
+   "chapter": null,
+   "start": 19,
+   "level": 3,
+   "end": 19
+  },
+  {
+   "num": "2.1.6.3",
+   "title": "הסבה ל:DWG",
+   "chapter": null,
+   "start": 19,
+   "level": 4,
+   "end": 19
+  },
+  {
+   "num": "2.1.7",
+   "title": "קומפילציה סטטוטורית",
+   "chapter": null,
+   "start": 20,
+   "level": 3,
+   "end": 20
+  },
+  {
+   "num": "2.1.7.4",
+   "title": "הסבת החומר לפורמט וקטורי",
+   "chapter": null,
+   "start": 21,
+   "level": 4,
+   "end": 21
+  },
+  {
+   "num": "2.1.8",
+   "title": "תוצרי הקומפילציה הסטטוטורית",
+   "chapter": null,
+   "start": 21,
+   "level": 3,
+   "end": 21
+  },
+  {
+   "num": "2.1.8.2",
+   "title": "עריכת הקומפילציה הסטטוטורית",
+   "chapter": null,
+   "start": 22,
+   "level": 4,
+   "end": 22
+  },
+  {
+   "num": "2.1.9",
+   "title": "מיפוי מבסיס הנתונים הטופוגרפי הלאומי (בנט\"ל)",
+   "chapter": null,
+   "start": 22,
+   "level": 3,
+   "end": 25
+  },
+  {
+   "num": "2.2",
+   "title": "מדידות לתכנון מוקדם",
+   "chapter": null,
+   "start": 26,
+   "level": 2,
+   "end": 32
+  },
+  {
+   "num": "2.2.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 26,
+   "level": 3,
+   "end": 26
+  },
+  {
+   "num": "2.2.2",
+   "title": "תוצרי מדידה נדרשים לתכנון מוקדם",
+   "chapter": null,
+   "start": 26,
+   "level": 3,
+   "end": 31
+  },
+  {
+   "num": "2.2.2.1",
+   "title": "מיפוי פוטוגרמטרי",
+   "chapter": null,
+   "start": 26,
+   "level": 4,
+   "end": 26
+  },
+  {
+   "num": "2.2.2.2",
+   "title": "רקע גושים וחלקות דיגיטלי ועדכניות החומר",
+   "chapter": null,
+   "start": 26,
+   "level": 4,
+   "end": 26
+  },
+  {
+   "num": "2.2.2.4",
+   "title": "מדידת עצים (תיקון  89 לחוק התכנון והבנייה)",
+   "chapter": null,
+   "start": 27,
+   "level": 4,
+   "end": 27
+  },
+  {
+   "num": "2.2.2.5",
+   "title": "מדידות מוקדמות לקירות אקוסטיים",
+   "chapter": null,
+   "start": 28,
+   "level": 4,
+   "end": 28
+  },
+  {
+   "num": "2.2.2.7",
+   "title": "הטמעת קו כחול אנליטי לתוך הרקע הדיגיטלי",
+   "chapter": null,
+   "start": 29,
+   "level": 4,
+   "end": 29
+  },
+  {
+   "num": "2.2.2.8",
+   "title": "תכנית הכרזה",
+   "chapter": null,
+   "start": 29,
+   "level": 4,
+   "end": 29
+  },
+  {
+   "num": "2.2.2.9",
+   "title": "מדידות לצורכי הפקעה",
+   "chapter": null,
+   "start": 29,
+   "level": 4,
+   "end": 29
+  },
+  {
+   "num": "2.2.2.10",
+   "title": "מדידת קווי חשמל מתח עליון ומתח גובה",
+   "chapter": null,
+   "start": 29,
+   "level": 4,
+   "end": 29
+  },
+  {
+   "num": "2.2.2.11",
+   "title": "מדידות לתכנון מוקדם ללא מדידות לתכנון ראשוני",
+   "chapter": null,
+   "start": 29,
+   "level": 4,
+   "end": 31
+  },
+  {
+   "num": "2.2.4",
+   "title": "הצהרת מודד בהעברת מסמכים סטטוטוריים למוסד תכנון",
+   "chapter": null,
+   "start": 32,
+   "level": 3,
+   "end": 32
+  },
+  {
+   "num": "2.3",
+   "title": "מדידות לתכנון מפורט",
+   "chapter": null,
+   "start": 33,
+   "level": 2,
+   "end": 52
+  },
+  {
+   "num": "2.3.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 33,
+   "level": 3,
+   "end": 33
+  },
+  {
+   "num": "2.3.3",
+   "title": "חזות המוצר",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "2.3.4",
+   "title": "מסירת צלעונים וטופוגרפיה לקבלן הביצוע",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "2.3.5",
+   "title": "בצוע בקרה עצמית\\הבטחת איכות",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "2.3.6",
+   "title": "מכשירי המדידה וציוד נילווה",
+   "chapter": null,
+   "start": 34,
+   "level": 3,
+   "end": 34
+  },
+  {
+   "num": "2.3.6.1",
+   "title": "מאזנת מילימטרית",
+   "chapter": null,
+   "start": 34,
+   "level": 4,
+   "end": 34
+  },
+  {
+   "num": "2.3.6.2",
+   "title": "תחנת עבודה – (מד מרחק אלקטרוני/דיסטומט)",
+   "chapter": null,
+   "start": 34,
+   "level": 4,
+   "end": 34
+  },
+  {
+   "num": "2.3.7",
+   "title": "רשתות בקרה",
+   "chapter": null,
+   "start": 35,
+   "level": 3,
+   "end": 38
+  },
+  {
+   "num": "2.3.7.1",
+   "title": "רשת בקרה אופקית (בפרויקטים באורכים משתנים)",
+   "chapter": null,
+   "start": 35,
+   "level": 4,
+   "end": 35
+  },
+  {
+   "num": "2.3.7.2",
+   "title": "רשת בקרה אנכית",
+   "chapter": null,
+   "start": 36,
+   "level": 4,
+   "end": 37
+  },
+  {
+   "num": "2.3.7.3",
+   "title": "נקודות הבקרה",
+   "chapter": null,
+   "start": 38,
+   "level": 4,
+   "end": 38
+  },
+  {
+   "num": "2.3.8",
+   "title": "מדידה קרקעית טופוגרפית כללית",
+   "chapter": null,
+   "start": 39,
+   "level": 3,
+   "end": 39
+  },
+  {
+   "num": "2.3.9",
+   "title": "מדידה קרקעית לכבישים ודרכים",
+   "chapter": null,
+   "start": 40,
+   "level": 3,
+   "end": 42
+  },
+  {
+   "num": "2.3.10",
+   "title": "תיאור שימושי קרקע",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 43
+  },
+  {
+   "num": "2.3.11",
+   "title": "איתור תשתיות  -מדידה מפורטת לתשתיות",
+   "chapter": null,
+   "start": 43,
+   "level": 3,
+   "end": 44
+  },
+  {
+   "num": "2.3.12",
+   "title": "עריכת מיפוי משלים פוטוגרמטרי כרקע למפת המדידה הקרקעית",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "2.3.13",
+   "title": "תאום מדידה עם פרויקטים שכנים",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "2.3.14",
+   "title": "מדידות ארכיאולוגיות",
+   "chapter": null,
+   "start": 45,
+   "level": 3,
+   "end": 45
+  },
+  {
+   "num": "2.3.15",
+   "title": "קידוחי קרקע",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 46
+  },
+  {
+   "num": "2.3.16",
+   "title": "מדידות למיגון אקוסטי דירתי",
+   "chapter": null,
+   "start": 46,
+   "level": 3,
+   "end": 46
+  },
+  {
+   "num": "2.3.17",
+   "title": "תצורת עריכה והגשת המיפוי הקרקעי",
+   "chapter": null,
+   "start": 47,
+   "level": 3,
+   "end": 47
+  },
+  {
+   "num": "2.3.18",
+   "title": "עריכה קובץ עזר ליצירת קבצי REG + DIS",
+   "chapter": null,
+   "start": 48,
+   "level": 3,
+   "end": 48
+  },
+  {
+   "num": "2.3.19.1",
+   "title": "טבלת מכשירי מדידה ותעודות כיול",
+   "chapter": null,
+   "start": 49,
+   "level": 4,
+   "end": 49
+  },
+  {
+   "num": "2.3.5",
+   "title": "מכשירי מדידה",
+   "chapter": null,
+   "start": 49,
+   "level": 3,
+   "end": 49
+  },
+  {
+   "num": "2.3.20",
+   "title": "טבלת רשימת ביקורת למדידת צלעונים\\טופוגרפיה\\כבישים\\תשתיות\\הסדרי תנועה",
+   "chapter": null,
+   "start": 50,
+   "level": 3,
+   "end": 50
+  },
+  {
+   "num": "2.3.6",
+   "title": "רשת בקרה לפרויקט",
+   "chapter": null,
+   "start": 50,
+   "level": 3,
+   "end": 50
+  },
+  {
+   "num": "2.3.7",
+   "title": "מדידה טופוגרפית קרקעית",
+   "chapter": null,
+   "start": 50,
+   "level": 3,
+   "end": 50
+  },
+  {
+   "num": "2.3.12",
+   "title": "נכונות מיפוי הסדרי תנועה תמרור",
+   "chapter": null,
+   "start": 51,
+   "level": 3,
+   "end": 51
+  },
+  {
+   "num": "2.3.13",
+   "title": "עריכת מיפוי משלים",
+   "chapter": null,
+   "start": 51,
+   "level": 3,
+   "end": 51
+  },
+  {
+   "num": "2.3.14",
+   "title": "תיאום מדידה עם פרויקטים שכנים",
+   "chapter": null,
+   "start": 52,
+   "level": 3,
+   "end": 52
+  },
+  {
+   "num": "2.3.15",
+   "title": "מדידות ארכיאולוגיות",
+   "chapter": null,
+   "start": 52,
+   "level": 3,
+   "end": 52
+  },
+  {
+   "num": "2.3.17",
+   "title": "מדידות למיגון אקוסטי דירתי",
+   "chapter": null,
+   "start": 52,
+   "level": 3,
+   "end": 52
+  },
+  {
+   "num": "3",
+   "title": "פרק ביצוע עבודות סלילה תשתית ובטונים",
+   "chapter": null,
+   "start": 53,
+   "level": 1,
+   "end": 86
+  },
+  {
+   "num": "3.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 53,
+   "level": 2,
+   "end": 53
+  },
+  {
+   "num": "3.2",
+   "title": "מדידות לביצוע בקרת איכות והבטחת איכות",
+   "chapter": null,
+   "start": 54,
+   "level": 2,
+   "end": 54
+  },
+  {
+   "num": "3.3",
+   "title": "תהליך הביקורת ותזמונו במהלך הביצוע",
+   "chapter": null,
+   "start": 55,
+   "level": 2,
+   "end": 62
+  },
+  {
+   "num": "3.3.1",
+   "title": "תהליך ביקורת לפני תחילת העבודה",
+   "chapter": null,
+   "start": 56,
+   "level": 3,
+   "end": 56
+  },
+  {
+   "num": "3.3.1.1",
+   "title": "רשת בקרה",
+   "chapter": null,
+   "start": 56,
+   "level": 4,
+   "end": 56
+  },
+  {
+   "num": "3.3.1.2",
+   "title": "רשת איזון מילימטרית",
+   "chapter": null,
+   "start": 56,
+   "level": 4,
+   "end": 56
+  },
+  {
+   "num": "3.3.1.3",
+   "title": "מפה טופוגרפית ממדידה קרקעית",
+   "chapter": null,
+   "start": 56,
+   "level": 4,
+   "end": 56
+  },
+  {
+   "num": "3.3.1.4",
+   "title": "קבצי DIS+REG",
+   "chapter": null,
+   "start": 56,
+   "level": 4,
+   "end": 56
+  },
+  {
+   "num": "3.3.2",
+   "title": "עבודות מקדימות של מודד הקבלן",
+   "chapter": null,
+   "start": 56,
+   "level": 3,
+   "end": 56
+  },
+  {
+   "num": "3.3.3",
+   "title": "תהליך ביקורת במהלך העבודה",
+   "chapter": null,
+   "start": 57,
+   "level": 3,
+   "end": 57
+  },
+  {
+   "num": "3.3.4",
+   "title": "תהליך ביקורת עם תם העבודה",
+   "chapter": null,
+   "start": 57,
+   "level": 3,
+   "end": 57
+  },
+  {
+   "num": "3.4.2",
+   "title": "נוהל הביקורת",
+   "chapter": null,
+   "start": 58,
+   "level": 3,
+   "end": 58
+  },
+  {
+   "num": "3.4.4",
+   "title": "אופן הגשת המדידות – תוצרי המדידה",
+   "chapter": null,
+   "start": 59,
+   "level": 3,
+   "end": 59
+  },
+  {
+   "num": "3.4.5",
+   "title": "שימוש בGPS",
+   "chapter": null,
+   "start": 59,
+   "level": 3,
+   "end": 59
+  },
+  {
+   "num": "3.4.6",
+   "title": "טבלאות מנחות במדידת תשתיות",
+   "chapter": null,
+   "start": 60,
+   "level": 3,
+   "end": 61
+  },
+  {
+   "num": "3.4.7",
+   "title": "רשימת ביקורת לבקרת/הבטחת איכות  QC/QAבמדידות ביצוע",
+   "chapter": null,
+   "start": 62,
+   "level": 3,
+   "end": 62
+  },
+  {
+   "num": "2.5.2",
+   "title": "מכשירי מדידה",
+   "chapter": null,
+   "start": 62,
+   "level": 3,
+   "end": 62
+  },
+  {
+   "num": "3.4.8",
+   "title": "טבלת רשתות בקרה וחומר מדידה של מצב קיים",
+   "chapter": null,
+   "start": 63,
+   "level": 3,
+   "end": 63
+  },
+  {
+   "num": "3.4",
+   "title": "אספקת חומר ביסוס על ידי המזמין",
+   "chapter": null,
+   "start": 63,
+   "level": 2,
+   "end": 63
+  },
+  {
+   "num": "3.8",
+   "title": "רשת מיקרו טריאנגולציה לגשרים ומתקנים",
+   "chapter": null,
+   "start": 63,
+   "level": 2,
+   "end": 67
+  },
+  {
+   "num": "3.3.4",
+   "title": "מדידה טופוגרפית קרקעית",
+   "chapter": null,
+   "start": 63,
+   "level": 3,
+   "end": 63
+  },
+  {
+   "num": "3.4.9",
+   "title": "טבלת רשימת ביקורת במהלך הביצוע",
+   "chapter": null,
+   "start": 64,
+   "level": 3,
+   "end": 64
+  },
+  {
+   "num": "3.3.7",
+   "title": "עבודות שדה מקדימות",
+   "chapter": null,
+   "start": 64,
+   "level": 3,
+   "end": 64
+  },
+  {
+   "num": "3.3.7.4",
+   "title": "תיאום מדידה עם פרויקטים שכנים",
+   "chapter": null,
+   "start": 64,
+   "level": 4,
+   "end": 64
+  },
+  {
+   "num": "3.3.8",
+   "title": "ביקורת ע\"ע סלילה במהלך העבודה",
+   "chapter": null,
+   "start": 64,
+   "level": 3,
+   "end": 66
+  },
+  {
+   "num": "3.4.4",
+   "title": "מדידה מפורטת \"לאחר ביצוע\"",
+   "chapter": null,
+   "start": 67,
+   "level": 3,
+   "end": 67
+  },
+  {
+   "num": "3.11",
+   "title": "מדידת ביצוע גשרים",
+   "chapter": null,
+   "start": 68,
+   "level": 2,
+   "end": 86
+  },
+  {
+   "num": "3.5.1",
+   "title": "חתך לדוגמא עם מילוי וחפירה",
+   "chapter": null,
+   "start": 70,
+   "level": 3,
+   "end": 70
+  },
+  {
+   "num": "3.5.2",
+   "title": "חתך לדוגמא עם מילוי בלבד",
+   "chapter": null,
+   "start": 71,
+   "level": 3,
+   "end": 72
+  },
+  {
+   "num": "3.5.4",
+   "title": "טבלת דוגמא לבדיקת מצעים/אגו\"ם",
+   "chapter": null,
+   "start": 73,
+   "level": 3,
+   "end": 73
+  },
+  {
+   "num": "3.5.5",
+   "title": "טבלת דוגמא לבדיקת אספלטיים",
+   "chapter": null,
+   "start": 74,
+   "level": 3,
+   "end": 74
+  },
+  {
+   "num": "3.5.6",
+   "title": "סכמה וטבלת עזר לבדיקת כלונסאות",
+   "chapter": null,
+   "start": 75,
+   "level": 3,
+   "end": 75
+  },
+  {
+   "num": "3.5.7",
+   "title": "טבלת דוגמא לבדיקת כלונסאות",
+   "chapter": null,
+   "start": 75,
+   "level": 3,
+   "end": 76
+  },
+  {
+   "num": "3.5.8",
+   "title": "סכמה וטבלת עזר לבדיקת קירות/קירות תמך",
+   "chapter": null,
+   "start": 77,
+   "level": 3,
+   "end": 77
+  },
+  {
+   "num": "3.5.9",
+   "title": "טבלת דוגמא לבדיקת קירות/קירות תמך",
+   "chapter": null,
+   "start": 78,
+   "level": 3,
+   "end": 78
+  },
+  {
+   "num": "3.5.10",
+   "title": "סכמה וטבלת עזר לבדיקת תשתית רטובה",
+   "chapter": null,
+   "start": 79,
+   "level": 3,
+   "end": 79
+  },
+  {
+   "num": "3.5.11",
+   "title": "טבלת דוגמא לבדיקת תשתית רטובה גרביטציונית",
+   "chapter": null,
+   "start": 80,
+   "level": 3,
+   "end": 80
+  },
+  {
+   "num": "3.5.12",
+   "title": "סכמה וטבלת עזר לבדיקת תשתית יבשה",
+   "chapter": null,
+   "start": 81,
+   "level": 3,
+   "end": 81
+  },
+  {
+   "num": "3.5.13",
+   "title": "טבלת דוגמא לבדיקת תשתית יבשה",
+   "chapter": null,
+   "start": 82,
+   "level": 3,
+   "end": 82
+  },
+  {
+   "num": "3.5.14",
+   "title": "טבלת דוגמא לבדיקת תשתית רטובה לא גרביטציונית",
+   "chapter": null,
+   "start": 83,
+   "level": 3,
+   "end": 83
+  },
+  {
+   "num": "3.6.1",
+   "title": "סוגי הבדיקות ונוהל עבודה",
+   "chapter": null,
+   "start": 84,
+   "level": 3,
+   "end": 84
+  },
+  {
+   "num": "3.6.1.1",
+   "title": "בדיקת יסוד\\ ראש כלונס לגשר",
+   "chapter": null,
+   "start": 84,
+   "level": 4,
+   "end": 84
+  },
+  {
+   "num": "3.6.2",
+   "title": "סכמה וטבלת עזר לבדיקת יסוד\\ ראש כלונס לגשר",
+   "chapter": null,
+   "start": 85,
+   "level": 3,
+   "end": 85
+  },
+  {
+   "num": "3.6.3",
+   "title": "בדיקת ניצב הגשר",
+   "chapter": null,
+   "start": 86,
+   "level": 3,
+   "end": 86
+  },
+  {
+   "num": "3.6.4",
+   "title": "בדיקת קורת רוחב לגשר",
+   "chapter": null,
+   "start": 87,
+   "level": 3,
+   "end": 87
+  },
+  {
+   "num": "4",
+   "title": "בדיקת קורת רוחב לגשר",
+   "chapter": null,
+   "start": 87,
+   "level": 1,
+   "end": 87
+  },
+  {
+   "num": "3.6.5",
+   "title": "בדיקת תושבות בטון וסמכים בגשר",
+   "chapter": null,
+   "start": 88,
+   "level": 3,
+   "end": 88
+  },
+  {
+   "num": "5",
+   "title": "בדיקת תושבות NVI וסמכים בגשב",
+   "chapter": null,
+   "start": 88,
+   "level": 1,
+   "end": 114
+  },
+  {
+   "num": "3.6.6",
+   "title": "בדיקת קורות אורך לגשר",
+   "chapter": null,
+   "start": 89,
+   "level": 3,
+   "end": 89
+  },
+  {
+   "num": "3.6.6.1",
+   "title": "בדיקת קרומי הגשר (תשתית הבטון מתחת לאספלט)",
+   "chapter": null,
+   "start": 89,
+   "level": 4,
+   "end": 89
+  },
+  {
+   "num": "3.7",
+   "title": "רשת מיקרו טריאנגולציה  -רשת בקרה לגשרים ומתקנים הנדסיים",
+   "chapter": null,
+   "start": 90,
+   "level": 2,
+   "end": 90
+  },
+  {
+   "num": "3.7.1",
+   "title": "הקמת רשת מיקרו טריאנגולציה",
+   "chapter": null,
+   "start": 90,
+   "level": 3,
+   "end": 90
+  },
+  {
+   "num": "3.7.2",
+   "title": "הצבת נקודות הבקרה",
+   "chapter": null,
+   "start": 90,
+   "level": 3,
+   "end": 90
+  },
+  {
+   "num": "3.7.3",
+   "title": "שיטת המדידה",
+   "chapter": null,
+   "start": 90,
+   "level": 3,
+   "end": 90
+  },
+  {
+   "num": "3.7.4",
+   "title": "קשירה לרשת ארצית",
+   "chapter": null,
+   "start": 90,
+   "level": 3,
+   "end": 90
+  },
+  {
+   "num": "3.7.5",
+   "title": "מסירת חומר למנהל הבטחת איכות",
+   "chapter": null,
+   "start": 90,
+   "level": 3,
+   "end": 90
+  },
+  {
+   "num": "4.1",
+   "title": "כללי",
+   "chapter": null,
+   "start": 91,
+   "level": 2,
+   "end": 93
+  },
+  {
+   "num": "4.2.1",
+   "title": "כפיפות חוקית",
+   "chapter": null,
+   "start": 91,
+   "level": 3,
+   "end": 91
+  },
+  {
+   "num": "4.2.2",
+   "title": "כפיפות ארגונית",
+   "chapter": null,
+   "start": 91,
+   "level": 3,
+   "end": 91
+  },
+  {
+   "num": "4.2.3",
+   "title": "כפיפות מקצועית",
+   "chapter": null,
+   "start": 92,
+   "level": 3,
+   "end": 92
+  },
+  {
+   "num": "4.2.4",
+   "title": "תרשים זרימה לעבודת המודד בתהליך ההפקעות",
+   "chapter": null,
+   "start": 93,
+   "level": 3,
+   "end": 93
+  },
+  {
+   "num": "4.3",
+   "title": "מימוש תהליך ההפקעות הלכה למעשה בשטח",
+   "chapter": null,
+   "start": 94,
+   "level": 2,
+   "end": 94
+  },
+  {
+   "num": "4.3.1",
+   "title": "סוגי חומר הביסוס המסופק על ידי המזמין",
+   "chapter": null,
+   "start": 94,
+   "level": 3,
+   "end": 94
+  },
+  {
+   "num": "4.4",
+   "title": "תכניות ושירותים מודד הפקעות",
+   "chapter": null,
+   "start": 95,
+   "level": 2,
+   "end": 99
+  },
+  {
+   "num": "4.4.1",
+   "title": "עבודת משרד מקדימה",
+   "chapter": null,
+   "start": 95,
+   "level": 3,
+   "end": 95
+  },
+  {
+   "num": "4.4.2",
+   "title": "עבודות שדה מקדימות והכנות בשטח",
+   "chapter": null,
+   "start": 95,
+   "level": 3,
+   "end": 96
+  },
+  {
+   "num": "4.4.2.1",
+   "title": "הקמת רשת בקרה אופקית",
+   "chapter": null,
+   "start": 95,
+   "level": 4,
+   "end": 95
+  },
+  {
+   "num": "4.4.2.2",
+   "title": "מדידה באמצעות מערכת לוויינית GPS_RTK",
+   "chapter": null,
+   "start": 95,
+   "level": 4,
+   "end": 95
+  },
+  {
+   "num": "4.4.3.1",
+   "title": "מדידה קרקעית למצב הקיים",
+   "chapter": null,
+   "start": 96,
+   "level": 4,
+   "end": 96
+  },
+  {
+   "num": "4.4.3.2",
+   "title": "לצורך הכנת רקע מצב קיים ימדדו הפרטים הבאים",
+   "chapter": null,
+   "start": 97,
+   "level": 4,
+   "end": 97
+  },
+  {
+   "num": "4.4.4",
+   "title": "הכנת תכנית הפקעות לצורך הכנת אומדן",
+   "chapter": null,
+   "start": 97,
+   "level": 3,
+   "end": 98
+  },
+  {
+   "num": "4.4.5",
+   "title": "הכנת תשריט הפקעות פרטני",
+   "chapter": null,
+   "start": 99,
+   "level": 3,
+   "end": 99
+  },
+  {
+   "num": "4.4.6",
+   "title": "הכנת תשריט הפקעה תלת מימדי",
+   "chapter": null,
+   "start": 100,
+   "level": 3,
+   "end": 100
+  },
+  {
+   "num": "4.4.7",
+   "title": "סעיפים אופציונליים",
+   "chapter": null,
+   "start": 100,
+   "level": 3,
+   "end": 100
+  },
+  {
+   "num": "4.5",
+   "title": "מפת רמזור  -תרשים מעקב הפקעות כללי",
+   "chapter": null,
+   "start": 100,
+   "level": 2,
+   "end": 100
+  },
+  {
+   "num": "4.6",
+   "title": "עבודות סימון ותפיסת השטח",
+   "chapter": null,
+   "start": 100,
+   "level": 2,
+   "end": 101
+  },
+  {
+   "num": "4.6.1",
+   "title": "סימון ראשוני לגבולות הפקעה",
+   "chapter": null,
+   "start": 100,
+   "level": 3,
+   "end": 100
+  },
+  {
+   "num": "4.6.2",
+   "title": "סימון גבולות לקראת התפיסה",
+   "chapter": null,
+   "start": 101,
+   "level": 3,
+   "end": 101
+  },
+  {
+   "num": "4.6.2.1",
+   "title": "תכנית סימון התוואי ודיוק הסימונים",
+   "chapter": null,
+   "start": 101,
+   "level": 4,
+   "end": 101
+  },
+  {
+   "num": "4.6.2.2",
+   "title": "עבודות סימון הגידור והכנת תכניות תיעוד",
+   "chapter": null,
+   "start": 101,
+   "level": 4,
+   "end": 101
+  },
+  {
+   "num": "4.7",
+   "title": "הבטחת איכות מדידות לצרכי הפקעה – רשימת ביקורת",
+   "chapter": null,
+   "start": 102,
+   "level": 2,
+   "end": 102
+  },
+  {
+   "num": "4.4.2.1",
+   "title": "דיסטומט",
+   "chapter": null,
+   "start": 102,
+   "level": 4,
+   "end": 102
+  },
+  {
+   "num": "4.4.2.2",
+   "title": "GPSמכשיר לווייני",
+   "chapter": null,
+   "start": 102,
+   "level": 4,
+   "end": 102
+  },
+  {
+   "num": "4.4.2.1",
+   "title": "רשת בקרה אופקית (ראה גם )1.3.3.1",
+   "chapter": null,
+   "start": 102,
+   "level": 4,
+   "end": 102
+  },
+  {
+   "num": "4.4.3",
+   "title": "מדידה קרקעית והכנת מחסן נתונים",
+   "chapter": null,
+   "start": 102,
+   "level": 3,
+   "end": 102
+  },
+  {
+   "num": "4.4.3.1",
+   "title": "מדידת שטח הכביש הקיים נעשתה בהתאם",
+   "chapter": null,
+   "start": 102,
+   "level": 4,
+   "end": 102
+  },
+  {
+   "num": "4.3.1.2",
+   "title": "רקע גושים וחלקות ע\"פ ההנחיות",
+   "chapter": null,
+   "start": 103,
+   "level": 4,
+   "end": 103
+  },
+  {
+   "num": "7.5.1",
+   "title": "כל המחוברים מופיעים בתוכנית ובטבלת ההפקעות",
+   "chapter": null,
+   "start": 103,
+   "level": 3,
+   "end": 103
+  },
+  {
+   "num": "7.5",
+   "title": "קווי הכרזות (לפי דרישת מנהל הפרוייקט)",
+   "chapter": null,
+   "start": 103,
+   "level": 2,
+   "end": 103
+  },
+  {
+   "num": "7.5.2",
+   "title": "הפקעות עבר (לפי דרישת מנהל הפרוייקט)",
+   "chapter": null,
+   "start": 103,
+   "level": 3,
+   "end": 103
+  },
+  {
+   "num": "7.8.2",
+   "title": "מאפייני הקווים הם כפי שמופיעים בטבלה",
+   "chapter": null,
+   "start": 103,
+   "level": 3,
+   "end": 103
+  },
+  {
+   "num": "7.5.1",
+   "title": "הכנת טבלת הפקעות לפי דוגמא הפק.4",
+   "chapter": null,
+   "start": 104,
+   "level": 3,
+   "end": 104
+  },
+  {
+   "num": "7.5",
+   "title": "תחומי שיפוט וגבולות יישובים",
+   "chapter": null,
+   "start": 104,
+   "level": 2,
+   "end": 114
+  },
+  {
+   "num": "7.8.2",
+   "title": "דוגמא הפק.4",
+   "chapter": null,
+   "start": 104,
+   "level": 3,
+   "end": 104
+  },
+  {
+   "num": "4.6.1",
+   "title": "תכנית סימון ראשונית לפי דוגמא הפק .8-לאחר",
+   "chapter": null,
+   "start": 105,
+   "level": 3,
+   "end": 105
+  },
+  {
+   "num": "4.6.2.3",
+   "title": "סימון גדר ותכניות עדות",
+   "chapter": null,
+   "start": 105,
+   "level": 4,
+   "end": 105
+  },
+  {
+   "num": "4.8.2",
+   "title": "מאפייני הקווים והשכבות הם כפי שמופיעים בנספח",
+   "chapter": null,
+   "start": 105,
+   "level": 3,
+   "end": 109
+  },
+  {
+   "num": "5.05.15",
+   "title": "של המנהל מתאריד",
+   "chapter": null,
+   "start": 110,
+   "level": 3,
+   "end": 114
+  },
+  {
+   "num": "תכ",
+   "title": "נון ילף הלול",
+   "chapter": "פרק תכ — נון ילף הלול",
+   "start": 115,
+   "level": 0,
+   "end": 115
+  },
+  {
+   "num": "הפ",
+   "title": "קעות",
+   "chapter": "פרק הפ — קעות",
+   "start": 115,
+   "level": 0,
+   "end": 115
+  },
+  {
+   "num": "בי",
+   "title": "צוע",
+   "chapter": "פרק בי — צוע",
+   "start": 115,
+   "level": 0,
+   "end": 115
+  }
+ ],
+ "coverage": "sections"
+}

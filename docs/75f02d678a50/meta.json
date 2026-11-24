@@ -1,0 +1,35 @@
+{
+ "url": "https://drive.google.com/file/d/1JdCa-6EpfUd7CJKh-UrECtBHE0sD8ZEX/view",
+ "id": "75f02d678a50",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/1JdCa-6EpfUd7CJKh-UrECtBHE0sD8ZEX/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:56:38Z",
+ "pages": 115,
+ "pdf_meta": {
+  "Title": "מגדיר משימות למודדים",
+  "Producer": "Microsoft® Word 2010",
+  "Creator": "Microsoft® Word 2010",
+  "CreationDate": "Mon Feb 29 12:31:47 2016 UTC",
+  "ModDate": "Mon Feb 29 12:38:43 2016 UTC"
+ },
+ "fonts_uni_no": 16,
+ "sha256": "78290ac4327054c22e1c8bfcd5fe8cd9397c2c695aa26755b30063e860b3c4b6",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/75f02d678a50.pdf",
+ "fix_log": [
+  "words=4413 unknown=248 fixed=11"
+ ],
+ "image_pages": 20,
+ "table_pages": 6,
+ "figure_ocr_pages": 19,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 73,
+ "lowconf_pages": [
+  115
+ ],
+ "text_pages": 115,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

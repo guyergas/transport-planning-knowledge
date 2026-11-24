@@ -1,0 +1,53 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018",
+   "2017"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "אגף התכנון רכבת ישראל",
+   "אגף הפעלה, רכבת ישראל",
+   "אגף איתות ותקשורת, מינהלת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "23.1.1",
+   "title": "שלב תכנון מוקדם",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 2
+  },
+  {
+   "num": "23.1.2",
+   "title": "שלב תכנון מפורט",
+   "chapter": null,
+   "start": 2,
+   "level": 3,
+   "end": 5
+  },
+  {
+   "num": "23.1.2.1",
+   "title": "איסוף חומר תכנוני",
+   "chapter": null,
+   "start": 2,
+   "level": 4,
+   "end": 2
+  },
+  {
+   "num": "23.1.2.2",
+   "title": "תכנון מבנה עליון",
+   "chapter": null,
+   "start": 3,
+   "level": 4,
+   "end": 5
+  }
+ ],
+ "coverage": "sections"
+}

@@ -1,0 +1,33 @@
+{
+ "url": "https://drive.google.com/file/d/1kM8u-YwxvozFQ2sfbLng8x0PkYgf48qm/view",
+ "id": "ea2ef6544457",
+ "source": "manual upload",
+ "note": "https://drive.google.com/file/d/1kM8u-YwxvozFQ2sfbLng8x0PkYgf48qm/view",
+ "status": 200,
+ "kind": "pdf",
+ "result": "ok",
+ "checked": "2026-11-24T00:55:03Z",
+ "pages": 75,
+ "pdf_meta": {
+  "Title": "",
+  "Producer": "Microsoft® Word עבור Microsoft 365",
+  "Creator": "Microsoft® Word עבור Microsoft 365",
+  "CreationDate": "Mon Dec 30 08:30:56 2024 UTC",
+  "ModDate": "Mon Dec 30 08:30:56 2024 UTC"
+ },
+ "fonts_uni_no": 10,
+ "sha256": "55d253b4ef8dcd4ae35d2e83f04df75bc3a70c36c69c1d94e3a78c793e61e66e",
+ "asset": "https://github.com/guyergas/transport-planning-knowledge/releases/download/src-drive-google-com/ea2ef6544457.pdf",
+ "fix_log": [
+  "words=1908 unknown=64 fixed=1"
+ ],
+ "image_pages": 0,
+ "table_pages": 5,
+ "figure_ocr_pages": 0,
+ "table_ocr_pages": 0,
+ "ocr_conf_mean": 81,
+ "lowconf_pages": [],
+ "text_pages": 75,
+ "ocr_pages": 1,
+ "layer": "mixed"
+}

@@ -1,0 +1,28 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל הפרויקט       .1",
+   "מנהל התחום",
+   "נתיבי ישראל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "5",
+   "title": "תכנון הסדרי תנועה בזמן ביצוע",
+   "chapter": "פרק 5 — תכנון הסדרי תנועה בזמן ביצוע",
+   "start": 1,
+   "level": 0,
+   "end": 8
+  }
+ ],
+ "coverage": "page-only"
+}

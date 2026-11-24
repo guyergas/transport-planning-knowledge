@@ -1,0 +1,44 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי               כגון תקנים והנחיות חברת",
+   "נתיבי ישראל ו/או רכבת",
+   "רשות הכיבוי המקומית",
+   "רשות\n    (לאחר הקמת מנהלת ייעודית"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "2.1.4",
+   "title": "תוצאות סימולציית CFD",
+   "chapter": null,
+   "start": 14,
+   "level": 3,
+   "end": 14
+  },
+  {
+   "num": "2.2.2.8",
+   "title": "כל האמור מתבצע על בסיס סימולציית CFD",
+   "chapter": null,
+   "start": 14,
+   "level": 4,
+   "end": 14
+  },
+  {
+   "num": "2.6",
+   "title": "הכנת סרטים של כל הסימולציות",
+   "chapter": null,
+   "start": 14,
+   "level": 2,
+   "end": 14
+  }
+ ],
+ "coverage": "sections"
+}

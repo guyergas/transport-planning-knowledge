@@ -1,0 +1,36 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "מנהל        .1",
+   "מינהל",
+   "משרד הפנים בנושא עצים"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "12",
+   "title": "אגרונום",
+   "chapter": "פרק 12 — אגרונום",
+   "start": 1,
+   "level": 0,
+   "end": 11
+  },
+  {
+   "num": "10",
+   "title": "הנחיות לתחזוקה שוטפת של",
+   "chapter": "פרק 12 — אגרונום",
+   "start": 8,
+   "level": 1,
+   "end": 11
+  }
+ ],
+ "coverage": "page-only"
+}

@@ -1,0 +1,30 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2001",
+   "2018",
+   "2002",
+   "1965"
+  ],
+  "publisher": [
+   "נתיבי\nישראל",
+   "המועצה הארצית, הנציבות, ארגונים הפועלים לקידום זכויותיהם",
+   "רשות במקום ציבורי חדש, כדי לאפשר לאדם עם מוגבלות נגישות"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "20",
+   "title": "נגישות",
+   "chapter": "פרק 20 — נגישות",
+   "start": 1,
+   "level": 0,
+   "end": 22
+  }
+ ],
+ "coverage": "page-only"
+}

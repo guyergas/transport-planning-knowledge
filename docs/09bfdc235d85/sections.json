@@ -1,0 +1,27 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "רשות בתוכניות.",
+   "רשות -באחריות כל        מתכנן גיאומטריה -הכנת תכנית מיק",
+   "מנהל פרויקט – מכין כ\"כ לחברת"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "0",
+   "title": "תחומי אחריות והדדיות",
+   "chapter": "פרק 0 — תחומי אחריות והדדיות",
+   "start": 1,
+   "level": 0,
+   "end": 8
+  }
+ ],
+ "coverage": "page-only"
+}

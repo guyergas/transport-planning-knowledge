@@ -1,0 +1,36 @@
+{
+ "front": {
+  "dates": [
+   "פברואר 2018",
+   "2018"
+  ],
+  "publisher": [
+   "נתיבי\nINL\"‏",
+   "נתיבי ישראל.",
+   "מנהל\n   אזורים הידועים או",
+   "משרד להגנת       .3"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "18",
+   "title": "זיהום קרקע ומים",
+   "chapter": "פרק 18 — זיהום קרקע ומים",
+   "start": 1,
+   "level": 0,
+   "end": 9
+  },
+  {
+   "num": "2",
+   "title": "ניתוח רמת מורכבות",
+   "chapter": "פרק 18 — זיהום קרקע ומים",
+   "start": 3,
+   "level": 1,
+   "end": 9
+  }
+ ],
+ "coverage": "page-only"
+}

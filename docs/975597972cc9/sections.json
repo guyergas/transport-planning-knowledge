@@ -1,0 +1,57 @@
+{
+ "front": {
+  "dates": [
+   "2023"
+  ],
+  "publisher": [
+   "נתיבי\nיושראל",
+   "מנהל"
+  ],
+  "verify": "candidates from text; confirm on cover page image"
+ },
+ "pages": {},
+ "toc_pages": [],
+ "sections": [
+  {
+   "num": "40.1",
+   "title": "מגדיר משימות",
+   "chapter": null,
+   "start": 2,
+   "level": 2,
+   "end": 2
+  },
+  {
+   "num": "6.3",
+   "title": "אומדן לתשתיות התקשורת",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 3
+  },
+  {
+   "num": "6.4",
+   "title": "הדוח יכלול את הפרמטרים",
+   "chapter": null,
+   "start": 3,
+   "level": 2,
+   "end": 7
+  },
+  {
+   "num": "40.1.3",
+   "title": "בקרת תכנון קבלן במסגרת מכרז תכנון ביצוע ופיקוח-על",
+   "chapter": null,
+   "start": 4,
+   "level": 3,
+   "end": 4
+  },
+  {
+   "num": "40.1.4",
+   "title": "פיקוח עליון",
+   "chapter": null,
+   "start": 5,
+   "level": 3,
+   "end": 7
+  }
+ ],
+ "coverage": "sections"
+}
