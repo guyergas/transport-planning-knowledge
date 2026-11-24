@@ -34,12 +34,16 @@ jobs:
         run: |
           mkdir -p /tmp/cad && cp cad/in/*.dwg /tmp/cad/ 2>/dev/null || true
           if [ -f cad/sources.txt ]; then
+            : > cad/out/sources.tsv 2>/dev/null || { mkdir -p cad/out; : > cad/out/sources.tsv; }
             grep -v '^#' cad/sources.txt | grep -v '^\s*$' | while read -r url rest; do
+              match=$(echo "$rest" | sed -n 's/.*match=\([^ ]*\).*/\1/p'); [ -n "$match" ] || match='.'
               f="/tmp/dl/$(basename "${url%%\?*}")"; mkdir -p /tmp/dl
-              curl -sSL -A 'Mozilla/5.0' -m 600 -o "$f" "$url" || { echo "FAIL $url"; continue; }
+              curl -sSL -A 'Mozilla/5.0' -m 900 -o "$f" "$url" || { echo "FAIL $url"; printf '%s\tdownload failed\n' "$url" >> cad/out/sources.tsv; continue; }
+              printf '%s\t%s bytes\t%s\n' "$url" "$(stat -c%s "$f")" "$(file -b "$f" | cut -c1-60)" >> cad/out/sources.tsv
+              case "$f" in *.zip|*.ZIP) unzip -Z1 -O cp862 "$f" 2>/dev/null | sed 's/^/  /' >> cad/out/sources.tsv || unzip -Z1 "$f" | sed 's/^/  /' >> cad/out/sources.tsv ;; esac
               case "$f" in
                 *.zip|*.ZIP) d="/tmp/dl/$(basename "$f" .zip)"; mkdir -p "$d"; unzip -q -o -O cp862 "$f" -d "$d" 2>/dev/null || unzip -q -o "$f" -d "$d" || echo "UNZIP FAIL $url ($(file -b "$f" | cut -c1-60))";
-                             find "$d" -iname '*.dwg' -exec cp {} /tmp/cad/ \; || true ;;
+                             find "$d" -iname '*.dwg' | grep -E "$match" | while read -r g; do cp "$g" /tmp/cad/; done || true ;;
                 *) cp "$f" /tmp/cad/ ;;
               esac
             done
@@ -72,7 +76,7 @@ jobs:
         run: |
           git config user.name "fetch-bot"
           git config user.email "fetch-bot@users.noreply.github.com"
-          git add cad/out
+          git add cad/out cad/out/sources.tsv
           git diff --cached --quiet && exit 0
           git commit -qm "cad: DWG previews $(date -u +%F_%H%M)"
           git pull -q --rebase && git push -q
