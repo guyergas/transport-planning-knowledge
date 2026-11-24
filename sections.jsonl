@@ -6079,6 +6079,11 @@
 {"id": "b38c6f154732", "num": "5.6.3", "title": "חדרי שירותים ציבוריים נגישים", "chapter": "פרק ב", "start": 60, "level": 3, "end": 61}
 {"id": "b38c6f154732", "num": "5.8.4", "title": "חברת ניהול", "chapter": "פרק ב", "start": 62, "level": 3, "end": 62}
 {"id": "b38c6f154732", "num": "5.8.3", "title": "יעדים ברורים לפרסום ולמסחר", "chapter": "פרק ב", "start": 62, "level": 3, "end": 68}
+{"id": "b57aa418c145", "num": "0", "title": "פרק  - 2 תנועה", "chapter": null, "start": 1, "level": 1, "end": 1}
+{"id": "b57aa418c145", "num": "2", "title": "תנועה", "chapter": "פרק 2 — תנועה", "start": 1, "level": 0, "end": 29}
+{"id": "b57aa418c145", "num": "1", "title": "פרק  - 2 תנועה", "chapter": "פרק 2 — תנועה", "start": 2, "level": 1, "end": 29}
+{"id": "b57aa418c145", "num": "2.2.2.1", "title": "תקן מעודכן", "chapter": "פרק 2 — תנועה", "start": 12, "level": 4, "end": 26}
+{"id": "b57aa418c145", "num": "2.2", "title": "תחנת תעופה  -כמות עמדות \"הבא וסע\"", "chapter": "פרק 2 — תנועה", "start": 27, "level": 2, "end": 29}
 {"id": "b6aabada4f07", "num": "1", "title": "מבוא", "chapter": null, "start": 5, "level": 1, "end": 5}
 {"id": "b6aabada4f07", "num": "1.1", "title": "כללי", "chapter": null, "start": 5, "level": 2, "end": 5}
 {"id": "b6aabada4f07", "num": "2", "title": "מפרט לחומר הגוונה ירוק בשבילי ובנתיבי אופניים", "chapter": null, "start": 6, "level": 1, "end": 6}
@@ -6368,6 +6373,28 @@
 {"id": "c94205ba36db", "num": "0.75", "title": "(מקדם מעבר לשכר נטו", "chapter": "פרק עמ — וד", "start": 199, "level": 2, "end": 199}
 {"id": "c94205ba36db", "num": "1.25", "title": "מקדם שעה ערך שלא בעינייני עבודה", "chapter": "פרק עמ — וד", "start": 199, "level": 2, "end": 204}
 {"id": "c94205ba36db", "num": "0.25", "title": "יפו 0.25 2.1", "chapter": "פרק עמ — וד", "start": 205, "level": 2, "end": 225}
+{"id": "ca8fce81c48e", "num": "3.0", "title": "גרסה", "chapter": null, "start": 1, "level": 2, "end": 1}
+{"id": "ca8fce81c48e", "num": "1", "title": "רקע כללי", "chapter": null, "start": 2, "level": 1, "end": 3}
+{"id": "ca8fce81c48e", "num": "2", "title": "הגדרות", "chapter": null, "start": 4, "level": 1, "end": 4}
+{"id": "ca8fce81c48e", "num": "3.2", "title": "אופן הצבת השלטים", "chapter": null, "start": 5, "level": 2, "end": 5}
+{"id": "ca8fce81c48e", "num": "4.1", "title": "מימדים ומידות", "chapter": null, "start": 5, "level": 2, "end": 5}
+{"id": "ca8fce81c48e", "num": "3", "title": "סוגי שלטים ואופן הצבתם", "chapter": null, "start": 5, "level": 1, "end": 5}
+{"id": "ca8fce81c48e", "num": "4", "title": "דרישות חומרה", "chapter": null, "start": 5, "level": 1, "end": 14}
+{"id": "ca8fce81c48e", "num": "4.2", "title": "דרישות פיסיות מהשלט ומרכיביו", "chapter": null, "start": 6, "level": 2, "end": 7}
+{"id": "ca8fce81c48e", "num": "4.2.1", "title": "דרישות מרכיב התצוגה (המסך)", "chapter": null, "start": 6, "level": 3, "end": 6}
+{"id": "ca8fce81c48e", "num": "4.2.2", "title": "דרישות סביבה", "chapter": null, "start": 6, "level": 3, "end": 6}
+{"id": "ca8fce81c48e", "num": "4.2.3", "title": "דרישות הגנה מפני ונדליזם", "chapter": null, "start": 7, "level": 3, "end": 7}
+{"id": "ca8fce81c48e", "num": "4.2.4", "title": "חומרה נדרשת לטעינת כרטיסי רב-קו", "chapter": null, "start": 7, "level": 3, "end": 7}
+{"id": "ca8fce81c48e", "num": "4.2.5", "title": "אמצעי נגישות קולי", "chapter": null, "start": 7, "level": 3, "end": 7}
+{"id": "ca8fce81c48e", "num": "4.2.6", "title": "מארז", "chapter": null, "start": 8, "level": 3, "end": 8}
+{"id": "ca8fce81c48e", "num": "4.3", "title": "רכיב BLE", "chapter": null, "start": 8, "level": 2, "end": 8}
+{"id": "ca8fce81c48e", "num": "4.4", "title": "מצלמת אבטחה", "chapter": null, "start": 8, "level": 2, "end": 10}
+{"id": "ca8fce81c48e", "num": "5.1.8", "title": "תאריך ושעה נוכחית בתצורת .HH:MM", "chapter": null, "start": 10, "level": 3, "end": 10}
+{"id": "ca8fce81c48e", "num": "5.3", "title": "דרישות טכניות לגבי אופן התצוגה", "chapter": null, "start": 11, "level": 2, "end": 11}
+{"id": "ca8fce81c48e", "num": "8.1", "title": "שרת ספק שלטים משולבים", "chapter": null, "start": 12, "level": 2, "end": 12}
+{"id": "ca8fce81c48e", "num": "8.2", "title": "תיאור הממשקים", "chapter": null, "start": 12, "level": 2, "end": 12}
+{"id": "ca8fce81c48e", "num": "8.2.7", "title": "ככל שחלק מהשלט מופעל ע\"י :C2S", "chapter": null, "start": 13, "level": 3, "end": 13}
+{"id": "ca8fce81c48e", "num": "8.3", "title": "פרוטוקול הודעות מיוחדות", "chapter": null, "start": 13, "level": 2, "end": 14}
 {"id": "cbabff52cd2a", "num": "8", "title": "תכנון ניקוז", "chapter": "פרק 8 — תכנון ניקוז", "start": 1, "level": 0, "end": 34}
 {"id": "cbabff52cd2a", "num": "8.1.4", "title": "תכנון מפורט למכרז \"תכנון בצוע\"", "chapter": "פרק 8 — תכנון ניקוז", "start": 19, "level": 3, "end": 32}
 {"id": "cbabff52cd2a", "num": "8.1.4.1", "title": "איסוף מידע", "chapter": "פרק 8 — תכנון ניקוז", "start": 19, "level": 4, "end": 32}
